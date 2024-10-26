@@ -1,0 +1,121 @@
+---
+title: Rechtliche Informationen
+description: Gesetzlich vorgeschriebene Informationen über PauseAI.
+---
+
+Diese Website wird von PauseAI Global betrieben.
+Weitere Informationen über die internen Abläufe von PauseAI finden Sie auf der [Organisationsseite](/organization).
+
+## PauseAI Global (Stichting PauseAI)
+
+Im Folgenden finden Sie Informationen über die niederländische juristische Person hinter PauseAI:
+
+- Name: "Stichting PauseAI"
+- KVK-Nummer: 92951031
+- RSIN: 866227696
+- Steuer-/Umsatzsteuernummer: NL866227696B01
+- Bankkonto: NL31BUNQ2109903155 ([spenden](/donate))
+- Ziel: "Milderung der katastrophalsten Risiken von KI."
+- Gründungsdatum: 13.02.2024
+- ANBI-Status: Ja, seit 13.02.2024
+- Kontakt: [Joep Meindertsma](mailto:joep@pauseai.info)
+- Adresse: Skopjestraat 26, 3541ES Utrecht, Niederlande
+
+### ANBI-Status
+
+Der ANBI-Status ist ein niederländischer Steuerstatus für gemeinnützige Organisationen.
+Er ermöglicht steuerfreie und steuerabzugsfähige Spenden sowie weitere Vorteile für die Organisation und ihre Spender.
+Stichting PauseAI ist seit 13.02.2024 ein registrierter ANBI. Überprüfen Sie den Status [hier](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (Seite auf Niederländisch).
+
+Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/conditions_pbos/which_conditions_must_be_met_by_pbo) erfüllen:
+
+- Sie muss dem öffentlichen Interesse dienen.
+- Es darf kein Gewinnmotiv geben, das Geld muss für das Ziel der Organisation verwendet werden.
+- Es gibt verschiedene Veröffentlichungspflichten (wie diese Seite).
+
+### Politikplan 2024-2025 ("Beleidsplan")
+
+Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies durch folgende Maßnahmen erreichen:
+
+- Aufbau einer Gemeinschaft von Freiwilligen, die sich für KI-Sicherheit einsetzen.
+- Information der Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen.
+- Förderung des Gemeinschaftswachstums durch Organisation von sozialen Veranstaltungen.
+- Verteilung von [Spenden](/donate) an Projekte, die mit unseren Zielen übereinstimmen.
+- Organisation von [Protesten](/protests) und anderen Formen des Aktivismus, um das Bewusstsein für die Risiken von KI zu schärfen.
+- Schulung von [Freiwilligen](/join), um sie zu effektiveren Befürwortern zu machen.
+- Recherche von politischen Maßnahmen und Aktualisierung [unseres Vorschlags](/proposal) entsprechend.
+
+#### Finanzielle Rechenschaftspflicht ("Financieele paragraaf")
+
+Wir sammeln Gelder, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
+Die Gelder werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Anstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
+Wir planen auch, Zuschüsse ("PauseAI MicroGrants") an Freiwillige zu vergeben, die Veranstaltungen organisieren, Inhalte erstellen oder auf andere Weise zu unserer Mission beitragen möchten.
+Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt am Gründungsdatum (13.02.2024) und endet am 31.12.2025, nach dem wir einen Jahresbericht veröffentlichen werden.
+Eingegangene Gelder werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
+Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die überschüssigen Gelder für zukünftige Aktivitäten sparen.
+
+### Bericht über Aktivitäten
+
+Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) finden Sie auf den jeweiligen Seiten.
+Soziale Medien-Beiträge finden Sie hauptsächlich auf [X](https://x.com/PauseAI).
+Unser [Discord-Server](https://discord.gg/T3YrWUJsJ5) ist bei weitem unsere aktivste Gemeinschaft, mit durchschnittlich 100 Nachrichten pro Tag.
+
+### Vorstand
+
+- Joep Meindertsma (Vorsitzender)
+- Michiel van den Ingh (Schatzmeister)
+- Otto Barten (Sekretär)
+
+### Vergütungspolitik
+
+Die Vorstandsmitglieder erhalten keine Vergütung für ihre Arbeit.
+Sie haben Anspruch auf Erstattung der Kosten, die ihnen bei der Ausübung ihrer Pflichten entstehen.
+
+### Finanzielle Rechenschaftspflicht
+
+Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31.12.2025 veröffentlicht.
+
+## PauseAI US
+
+- Name: PauseAI US
+- Nonprofit Corporation - CA - Public Benefit
+- Entity Number 501(c)(3): 6071248
+- Entity Number 501(c)(4): 99-3051616
+- Registrierungsdatum: 01/24/2024
+- Gegründet in: Kalifornien
+- Status: Aktiv
+- Kontakt: [Holly Elmore](mailto:holly@pauseai.info)
+
+## PauseAI UK
+
+- Name: PauseAI UK Ltd
+- Gründungsdatum: 28. Dezember 2023
+- Firmennummer: 15373608
+- Direktor: [William Baird](mailto:william@pauseai.info)
+
+## PauseIA (Frankreich)
+
+- Name: PauseIA
+- Wird bald gegründet
+- Direktor: [Maxime Fournes](mailto:maxime@pauseai.info)
+
+## Beziehung zwischen den Einheiten
+
+PauseAI Global ist verantwortlich für:
+
+- Förderung des Wachstums der Bewegung.
+- Unterstützung lokaler PauseAI-Einheiten.
+- Diese Website und die Verwaltung der Online-Discord-Gemeinschaft.
+- Freiwilligenmanagement und -wachstum.
+- Globale soziale Medien.
+- Organisation digitaler Veranstaltungen.
+- Die globale Strategie und Theorie des Wandels.
+- Die globalen Finanzen und Spendenaktionen.
+- [Microgrants](/microgrants).
+
+Die nationalen/lokalen Einheiten sind verantwortlich für:
+
+- Physische Veranstaltungen und Proteste.
+- Erhaltung lokaler [Medienberichterstattung](/).
+- Lokale soziale Medien-Kanäle (z.B. [PauseAI UK](https://twitter.com/PauseAI_UK) und [PauseAI US](https://twitter.com/PauseAIus) Twitter)
+- Nationale politische Arbeit und Feedback.

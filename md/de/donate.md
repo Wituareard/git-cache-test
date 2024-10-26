@@ -1,0 +1,43 @@
+---
+title: Spende an PauseAI
+description: Mit Ihrer finanziellen Unterstützung können wir einen größeren Einfluss ausüben.
+---
+
+Wir haben PauseAI als Gruppe von Freiwilligen gegründet, die in ihrer Freizeit daran arbeiten.
+Seit Februar 2024 ist PauseAI eine [registrierte gemeinnützige Stiftung](/legal).
+Wir verfügen noch nicht über ausreichende Mittel, um Mitarbeiter für eine Vollzeitbeschäftigung bei PauseAI einzustellen, daher arbeiten wir weiterhin auf ehrenamtlicher Basis.
+Mit Ihrer finanziellen Unterstützung können wir professionalisieren und einen größeren Einfluss ausüben.
+
+<div style="display: flex; justify-content: center;" ><a href="https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE"><img src="/PayPal.svg" alt="Jetzt spenden" width="256" /></a></div>
+
+## Wie wir Ihre Spenden verwenden
+
+- **Mitarbeiter**: Aufbau einer stärkeren Gemeinschaft, Projektarbeit, Organisation von Protesten, Verbesserung der Website usw.
+- **Veranstaltungen**: Anmietung von Räumlichkeiten, Catering, Reisekosten.
+- **Software**: E-Mail, Website usw.
+- **Kampagnen**: Online-Werbung, Materialien
+- **Rechtliche und finanzielle Angelegenheiten**: Gründung der Stiftung (Notarkosten), Buchhaltung.
+- **Gemeinschaftsprojekte**: Unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
+
+## Was haben wir bereits erreicht
+
+- 1000+ Menschen, die sich [PauseAI angeschlossen](/join) haben, von denen viele aktiv an verschiedenen Projekten arbeiten
+- 100+ Projekte auf unserem Discord-Server (Websites, Workshops, Videos, Antworten auf Regierungskonsultationen usw.)
+- 15+ [Proteste](/protests) in 7 Ländern organisiert.
+- 30+ [Medienauftritte](/press) in großen Nachrichtensendern, Podcasts, Dokumentationen, TV und mehr.
+- Viele Treffen mit Politikern und anderen Interessengruppen.
+
+## Wer finanziert PauseAI
+
+Siehe unsere [Finanzierungsseite](/funding) für weitere Details.
+
+## Was wir planen
+
+Siehe unsere [Roadmap](/roadmap) für weitere Details.
+
+## Wie Sie an PauseAI spenden können
+
+- Durch Banküberweisung. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). Dies ist wahrscheinlich die günstigste Möglichkeit, Geld an uns zu überweisen.
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Unterstützt wiederkehrende Spenden. [Transaktionsgebühren](https://www.paypal.com/webapps/mpp/merchant-fees) gelten.
+- Durch unseren [Merchandise-Shop](https://pauseai-shop.fourthwall.com/). Alle US-basierten Kreditkarten-Transaktionen haben eine zusätzliche Zahlungsverarbeitungsgebühr von 2,9% + 0,30 $. Nicht-US-Kreditkarten haben eine Zahlungsverarbeitungsgebühr von 3,9% + 0,30 $.
+- Durch [diesen Link](https://bunq.me/pauseai) (Wählen Sie Sofort - die meisten Banken und PayPal werden unterstützt)
