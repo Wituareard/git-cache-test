@@ -1,7 +1,9 @@
 
 
-Titel: Zeitleisten bis zur Entwicklung von AGI
-Beschreibung: Wie lange wird es dauern, bis AGI oder superintelligente KI entwickelt wird?
+---
+title: Zeitleisten bis zur Entwicklung von AGI
+description: Wie lange wird es dauern, bis AGI oder superintelligente KI entwickelt wird?
+---
 
 Wie lange wird es dauern, bis AGI oder superintelligente KI entwickelt wird?
 
@@ -22,6 +24,6 @@ Frühere Expertenprognosen für KI erwiesen sich als zu optimistisch.
 
 In gewisser Weise sind KI-Modelle bereits übermenschlich, sodass wir möglicherweise sehr nahe an Modellen mit [gefährlichen Fähigkeiten](/dangerous-capabilities) sind.
 Aktuelle [State-of-the-Art](/sota)-KI-Modelle haben einen IQ von >130, sprechen 20 Sprachen, schreiben Code in den meisten Programmiersprachen und können Quantenmechanik in deutscher Dichtung des 18. Jahrhunderts erklären.
-Innovationen sind schwer vorherzusagen, und wichtige Innovationen können jederzeit auftreten.
+Innovationen sind schwer vorherzusagen, und wichtige Innovationen können jederzeit eintreten.
 
-**Da wir das Risiko des menschlichen Aussterbens eingehen, sollten wir auf der Seite der Vorsicht bleiben und [so handeln, als ob AGI in den nächsten Monaten entwickelt werden könnte](/urgency).**
+**Da wir das Risiko des Aussterbens der Menschheit eingehen, sollten wir auf der Seite der Vorsicht bleiben und [so handeln, als ob AGI in den nächsten Monaten entwickelt werden könnte](/urgency).**
