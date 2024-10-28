@@ -14,8 +14,8 @@ description: Was bedeutet es, eine Ländergruppe im PauseAI-Netzwerk zu sein?
 
 ## Beziehung zu PauseAI Global
 
-- Ländergruppen werden erwartet, die PauseAI-Strategie ([Theorie des Wandels](/theory-of-change), [Kommunikationsstrategie](/communication-strategy), [Wachstumsstrategie](/growth-strategy)) zu befolgen.
-- Ländergruppen können sich für [Mikrosubventionen](/microgrants) von PauseAI Global bewerben, um alle Arten von Aktivitäten zu finanzieren.
+- Ländergruppen werden erwartet, die PauseAI-Strategie zu verfolgen ([Theorie des Wandels](/theory-of-change), [Kommunikationsstrategie](/communication-strategy), [Wachstumsstrategie](/growth-strategy)).
+- Ländergruppen können sich für [Mikrofinanzierungen](/microgrants) von PauseAI Global bewerben, um alle Arten von Aktivitäten zu finanzieren.
 - Das Oversight-Team bei PauseAI Global überwacht und coacht Ländergruppen, um sicherzustellen, dass sie erfolgreich sind und mit der globalen Strategie übereinstimmen.
 
 ## Aktuelle nationale PauseAI-Gruppen
@@ -38,17 +38,17 @@ description: Was bedeutet es, eine Ländergruppe im PauseAI-Netzwerk zu sein?
         3. Erstellen Sie Ihre eigene benutzerdefinierte Website, wie [PauseIA](https://pauseia.fr/) es getan hat.
 4. Einrichten eines internen Kommunikationskanals / Gruppenchats
     1. Zum Beispiel WhatsApp / Signal / Telegram / Discord.
-    2. Wählen Sie etwas Populäres, um die Engagement zu maximieren.
+    2. Wählen Sie etwas Beliebtes, um die Engagement zu maximieren.
 5. Einrichten von **Social-Media-Konten**. (z.B. X, Instagram, LinkedIn, TikTok)
     1. Überlegen Sie, welche Tools für Ihr Land und Ihr Zielgruppe wichtig sind.
-    2. Überlegen Sie, ein Tool wie Buffer zu verwenden, um Beiträge zu planen. Schauen Sie sich die PauseAI-X-Beiträge für Inspiration an. Sie können eine ganze Liste auf einmal planen!
+    2. Überlegen Sie, ob ein Tool wie Buffer zum Planen von Beiträgen verwendet werden soll. Schauen Sie sich die PauseAI-X-Beiträge für Inspiration an. Sie können eine ganze Liste auf einmal planen!
 6. **Rekrutierung**. Holen Sie sich Leute, um Ihrer Gruppe beizutreten.
     1. Finden Sie Leute in relevanten Gruppen (EA, AI-Sicherheit)
     2. Nutzen Sie Netzwerkevents
     3. Launch-Event
         1. Maxime hat dies für PauseIA FR getan
         2. Mieten Sie einen schönen Ort ein paar Monate im Voraus
-        3. Laden Sie gute Sprecher, Journalisten, relevante Personen, potenzielle Freiwillige ein
+        3. Laden Sie gute Sprecher, Journalisten, relevante Personen und potenzielle Freiwillige ein
         4. Lassen Sie sich die Kosten von PauseAI erstatten
         5. So können Sie schnell bekannt werden!
     4. [Lokale Organisationsanleitung](/local-organizing) hat einige Ratschläge zur Rekrutierung, die auch auf nationaler Ebene übertragbar sein können.
