@@ -1,6 +1,8 @@
+
+
 ---
 title: PauseAI-Protest bei Google DeepMind - 19. bis 22. Mai
-description: Wir organisieren einen Protest bei Google DeepMind, um ein Gipfeltreffen zur Aussetzung der KI-Entwicklung zu fordern.
+description: Wir organisieren einen Protest bei Google DeepMind, um ein Gipfeltreffen zur Pause der KI-Entwicklung zu fordern.
 ---
 
 <script>
@@ -60,7 +62,7 @@ Presse/Medien/Öffentlichkeit:
 - Bitte teilen Sie so weit wie möglich auf sozialen Medien, durch Mundpropaganda usw.!
 - Facebook-Event [hier](https://fb.me/e/Tc3BBimH)
 
-## Botschaften & Narrative
+## Botschaft & Erzählung
 
 Das Problem:
 
@@ -85,7 +87,7 @@ Das Problem:
 
 Die Lösung:
 
-- Pausieren Sie KI
+- Pause KI
 - #pauseAI
 - #justlookup
 - Bauen Sie keine AGI
@@ -101,27 +103,27 @@ Das Endergebnis:
 - KI-Sommer
 - Wir brauchen keine AGI für eine großartige Zukunft
 
-Weitere Botschaften und Narrative:
+Weitere Botschaften und Erzählungsideen:
 
 - PauseAI-Website [hier](https://pauseai.info/risks)
-- Campaign for AI Safety (CFAIS)-Ideen für die Testung von Botschaften [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
-- CFAIS-Ergebnisse der narrativen Testung [hier](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
+- Campaign for AI Safety (CFAIS)-Ideen für die Botschaftentestung [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
+- CFAIS-Erzählungstestergebnisse [hier](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
 
 ## Ausrüstung
 
 Banner
 
-- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) drucken
+- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) darauf drucken
 
 Plakate
 
-- Aufgrund von Zeitmangel und Unsicherheit über optimale Plakat-Botschaften plant Alistair derzeit nicht, Plakate in großen Mengen zu drucken
+- Aufgrund von Zeitmangel und Unsicherheit darüber, was optimale Plakatbotschaften sein werden, plant Alistair derzeit nicht, Plakate (in großen Mengen zumindest) zu drucken
 - Jeder ist ermutigt, eigene Plakate zu erstellen und mitzubringen (z.B. mit Karton und einem Sharpie-Stift!)
 - Wenn Sie Plakate drucken möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
 Flyer
 
-- Aufgrund von Unsicherheit über den Inhalt von Flyern plant Alistair derzeit nicht, Flyer zu drucken
+- Aufgrund von Unsicherheit darüber, was auf Flyern stehen sollte, plant Alistair derzeit nicht, Flyer zu drucken
 - Alistair wird eine Ladung FLI-Briefe (und möglicherweise Yudkowsky-Zeit-Artikel) drucken, um sie zu verteilen
 - Wenn Sie dies tun möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
