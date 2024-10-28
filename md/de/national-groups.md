@@ -1,18 +1,20 @@
 
 
+---
 title: PauseAI-Ländergruppen
 description: Was bedeutet es, eine Ländergruppe im PauseAI-Netzwerk zu sein?
+---
 
 ## PauseAI-Ländergruppen
 
 - Verwalten, coachen und koordinieren ihre eigenen [lokale Gemeinschaften](/communities).
-- Sind verantwortlich für die nationale Strategie und Koordination.
+- Sind für die nationale Strategie und Koordination verantwortlich.
 - Haben in der Regel ihre eigene Website, Social-Media-Konten und eine juristische Person.
 - Führen Lobbyarbeit und Medienarbeit auf nationaler Ebene durch.
 
 ## Beziehung zu PauseAI Global
 
-- Ländergruppen werden erwartet, die PauseAI-Strategie zu verfolgen ([Theorie des Wandels](/theory-of-change), [Kommunikationsstrategie](/communication-strategy), [Wachstumsstrategie](/growth-strategy)).
+- Ländergruppen werden erwartet, die PauseAI-Strategie ([Theorie des Wandels](/theory-of-change), [Kommunikationsstrategie](/communication-strategy), [Wachstumsstrategie](/growth-strategy)) zu befolgen.
 - Ländergruppen können sich für [Mikrosubventionen](/microgrants) von PauseAI Global bewerben, um alle Arten von Aktivitäten zu finanzieren.
 - Das Oversight-Team bei PauseAI Global überwacht und coacht Ländergruppen, um sicherzustellen, dass sie erfolgreich sind und mit der globalen Strategie übereinstimmen.
 
@@ -46,7 +48,7 @@ description: Was bedeutet es, eine Ländergruppe im PauseAI-Netzwerk zu sein?
     3. Launch-Event
         1. Maxime hat dies für PauseIA FR getan
         2. Mieten Sie einen schönen Ort ein paar Monate im Voraus
-        3. Laden Sie gute Sprecher, Journalisten, relevante Personen und potenzielle Freiwillige ein
+        3. Laden Sie gute Sprecher, Journalisten, relevante Personen, potenzielle Freiwillige ein
         4. Lassen Sie sich die Kosten von PauseAI erstatten
         5. So können Sie schnell bekannt werden!
     4. [Lokale Organisationsanleitung](/local-organizing) hat einige Ratschläge zur Rekrutierung, die auch auf nationaler Ebene übertragbar sein können.

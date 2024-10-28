@@ -7,9 +7,9 @@ description: Wie man über das Gleichgewicht zwischen Angriff und Abwehr in der 
 
 Das Angriff-Abwehr-Gleichgewicht bezieht sich auf die relativen Stärken und Schwächen von Angriffs- und Abwehrstrategien, normalerweise im Kontext von militärischen Konflikten oder Sportwettbewerben.
 
-Da KI eine Dual-Use-Technologie ist, können wir diese Angriff-Abwehr-Gleichgewichte in verschiedenen KI-Sicherheitsproblemen beobachten:
+Da KI eine Dual-Use-Technologie ist, können wir diese Angriff-Abwehr-Gleichgewichte in verschiedenen KI-Sicherheitsproblemen sehen:
 
-- Erstellung gefälschter Medien, Erkennung gefälschter Medien
+- Erstellung von gefälschten Medien, Erkennung von gefälschten Medien
 - Cyberangriffe, Cyberabwehr
 - KI-Übernahme, KI-Abwehr gegen Übernahme
 
@@ -21,8 +21,8 @@ Moderne große Sprachmodelle können Texte in allen möglichen Stilen erstellen,
 Viele Modelle erstellen unüberzeugende Fälschungen, aber die Qualität verbessert sich rapide.
 
 State-of-the-Art-Text-, Audio- und Bildmodelle sind bereits gut genug, um die meisten Menschen zu täuschen.
-Im Jahr 2022 gewann das erste KI-generierte Bild einen Kunstwettbewerb.
-Ein paar Monate später wurde ein Fotowettbewerb mit einem KI-generierten Bild gewonnen.
+Im Jahr 2022 gewann ein von einer KI generiertes Bild einen Kunstwettbewerb.
+Ein paar Monate später wurde ein Fotowettbewerb mit einem von einer KI generierten Bild gewonnen.
 
 Wir haben auch KIs, die Deepfakes erkennen können.
 Dies führt zu einem Katz-und-Maus-Spiel zwischen den Fälschern und den Detektoren.
@@ -41,23 +41,23 @@ Und glücklicherweise sind die meisten Menschen auf der Abwehrseite.
 
 Es gibt jedoch einige Vorteile, die Angreifer gegenüber Verteidigern haben:
 
-- **Angreifer müssen nur eine Schwachstelle finden, während Verteidiger alle finden müssen.** Die Verteidiger wissen nicht, welche Schwachstelle die Angreifer finden werden, daher müssen sie sich gegen alle verteidigen.
-- **Das Bereitstellen von Patches dauert länger als ein Angriff.** Das "Fenster der Verwundbarkeit" ist die Zeit, die von der Entdeckung eines Exploits bis zur Behebung vergeht. Verteidiger müssen den Fehler beheben, die Anwendung neu kompilieren oder die aktualisierten Bibliotheken veröffentlichen, und dann müssen alle Benutzer ihre Software aktualisieren. Dies kann Monate dauern, und in der Zwischenzeit kann die Schwachstelle ausgenutzt werden.
+- **Angreifer müssen nur eine Schwachstelle finden, während Verteidiger alle finden müssen.** Die Verteidiger werden nicht wissen, welche Schwachstelle die Angreifer finden werden, also müssen sie sich gegen alle verteidigen.
+- **Das Bereitstellen von Patches dauert länger als ein Angriff.** Das "Window of Vulnerability" ist die Zeit, die von der Entdeckung eines Exploits bis zur Behebung vergeht. Verteidiger müssen den Fehler beheben, die Anwendung neu kompilieren oder die aktualisierten Bibliotheken veröffentlichen, und dann müssen alle Benutzer ihre Software aktualisieren. Dies kann Monate dauern, und in der Zwischenzeit kann die Schwachstelle ausgenutzt werden.
 
 ## Biohazards und Biodefense
 
 KI kann verwendet werden, um neue biologische Agenzien zu entwerfen oder bei der Entwicklung einer Pandemie zu helfen.
 Eine Gruppe von Studenten konnte einen Chatbot verwenden, um [alle Schritte zu erstellen, die benötigt werden, um eine neue Pandemie zu erstellen](https://arxiv.org/abs/2306.03809).
-Es könnte jedoch auch verwendet werden, um neue Impfstoffe, Medikamente oder Abwehrmittel gegen biologische Agenzien zu entwickeln.
+Es kann jedoch auch verwendet werden, um neue Impfstoffe, Medikamente oder Abwehrmittel gegen biologische Agenzien zu erstellen.
 
 - **Viren verbreiten sich schneller als Impfstoffe.** Ein Virus ist buchstäblich eine selbstreplizierende Maschine. Eine Impfung hingegen erfordert viel Aufwand, um sie herzustellen und zu verteilen.
 
 ## Unbekannte Technologie und Risiken
 
-Eine KI, die weit intelligenter ist als Menschen, könnte ihre überlegene Verständnis der Realität nutzen, um neue Technologien zu entwickeln.
+Eine KI, die weit intelligenter ist als Menschen, kann ihre überlegene Verständnis der Realität nutzen, um neue Technologien zu entwickeln.
 Vielleicht einige selbstreplizierende Nanobots, die alle Materie in Kopien von sich selbst umwandeln können, oder kleine Maschinen, die die Gehirne von Menschen beeinflussen können.
 Es ist unmöglich, genau vorherzusagen, was für eine Technologie dies sein wird (wir müssten mindestens so intelligent sein wie die KI), aber wir können immer noch über das Angriff-Abwehr-Gleichgewicht nachdenken.
-Die Schlussfolgerung ist nicht schwer: wir haben keine Ahnung, was kommt, und wir haben keine Ahnung, wie wir uns dagegen verteidigen können.
+Die Schlussfolgerung ist nicht besonders schwierig: Wir haben keine Ahnung, was kommt, und wir haben keine Ahnung, wie wir uns dagegen verteidigen können.
 Wir sind im Nachteil.
 
 ## Schlussfolgerung
@@ -66,4 +66,4 @@ Viele KI-Risiken haben ein Angriff-Abwehr-Gleichgewicht.
 Für gefälschte Medien könnten wir digitale Signaturen verwenden, um Fälschungen zu erkennen, und das Gleichgewicht zugunsten der Abwehr verschieben.
 Für Cyberangriffe, Biohazards und unbekannte Technologie scheint die Angriffsseite im Vorteil zu sein.
 
-Die wichtige politische Implikation daraus ist: [Lasst uns diese Technologie nicht entwickeln](/proposal).
+Die wichtige politische Implikation daraus ist: [Lasst uns diese Technologie nicht erst entwickeln](/proposal).
