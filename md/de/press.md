@@ -11,7 +11,7 @@ Joep Meindertsma ([joep@pauseai.info](mailto:joep@pauseai.info))
 ## Logo, Materialien
 
 Unser Logo und andere Materialien finden Sie in [diesem Google Drive-Ordner](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing).
-Wenn Sie selbst PauseAI-BezugsMaterialien erstellen möchten, können Sie unsere Markenfarbe _#FF9416_ und die Schriftarten _Saira Condensed_ (700) und _Roboto Slab_ (300, 700) verwenden.
+Wenn Sie selbst PauseAI-Materialien erstellen möchten, können Sie unsere Markenfarbe _#FF9416_ und die Schriftarten _Saira Condensed_ (700) und _Roboto Slab_ (300, 700) verwenden.
 
 ## Internationale Medienberichte
 
@@ -61,7 +61,7 @@ Wenn Sie selbst PauseAI-BezugsMaterialien erstellen möchten, können Sie unsere
 - [Groene Amsterdammer](https://www.groene.nl/artikel/losgeslagen-superintelligentie): Interview mit Joep Meindertsma
 - [Pakhuis de Zwijger](https://dezwijger.nl/programma/ai-existential-risk-and-what-to-do-about-it)
 - [AI Coalitie](https://nlaic.com/agenda/communitydag-invloed-van-ai-op-cultuur-en-media/)
-- [RUW Den Bosh](https://ruwdenbosch.nl/paranoide-over-ai/): Debattnacht
+- [RUW Den Bosh](https://ruwdenbosch.nl/paranoide-over-ai/): Debat-Abend
 - [Leidsch Dagblad](https://www.leidschdagblad.nl/cnt/dmf20231228_53324374): Interview mit Joep Meindertsma
 - [Daniel's Talkshow](https://www.youtube.com/watch?v=mGzwtSqmDsU): Diskussion mit Joep Meindertsma und Otto Barten
 - [De Dataloog](https://open.spotify.com/episode/2kB59A0bIltpSUdwaf0YM3): Interview mit Joep Meindertsma
