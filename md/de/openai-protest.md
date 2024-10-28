@@ -17,9 +17,9 @@ title: "Drei-Tage-Demonstration in San Francisco: Forderung nach Pause bei der E
 
 Wir sind eine Gruppe von Menschen, die sich um die Sicherheit von künstlicher Intelligenz (KI) sorgen. Diese Demonstration soll das Bewusstsein für die Risiken unkontrollierter KI-Entwicklung schärfen und zu einem internationalen Gipfeltreffen für politische Entscheidungsträger und die Öffentlichkeit aufrufen.
 
-> _"Unregulierte allgemein einsetzbare #KI wäre meiner Meinung nach noch dümmer als die Abschaffung aller Sicherheitsgurte, Ampeln und Geschwindigkeitsbegrenzungen."_
+> _"Unregulierte allgemein einsetzbare #KI wäre meiner Meinung nach noch unsinniger als die Abschaffung aller Sicherheitsgurte, Ampeln und Geschwindigkeitsbegrenzungen."_
 >
-> Max Tegmark, renommierter KI-Sicherheitsbefürworter
+> Max Tegmark, bekannter KI-Sicherheitsbefürworter
 
 Inspiriert von dem offenen Brief "Pause Giant AI Experiments" des Future of Life Institute, unterzeichnet von bekannten Persönlichkeiten wie Elon Musk, Steve Wozniak, Andrew Yang und Max Tegmark.
 
@@ -32,7 +32,7 @@ Dies wird die erste Demonstration in der Geschichte sein, die sich mit KI-Sicher
 OpenAI entwickelt derzeit die leistungsfähigsten KI-Modelle.
 Sie sind führend bei den Kapazitäten von GPT-4.
 Ihre Entscheidung, die GPT-APIs für Plugins zu öffnen, hat die KI-Entwicklung drastisch beschleunigt.
-Dennoch haben wir großen Respekt vor der Arbeit von OpenAI und den Menschen, die dort arbeiten.
+Dennoch haben wir großen Respekt für die Arbeit, die OpenAI geleistet hat, und die Menschen, die dort arbeiten.
 
 Wir glauben, dass OpenAI in der perfekten Position ist, Verantwortung zu übernehmen und eine Pause bei riesigen KI-Experimenten zu unterstützen.
 
