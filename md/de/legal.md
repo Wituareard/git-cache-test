@@ -6,9 +6,9 @@ description: Gesetzlich vorgeschriebene Informationen über PauseAI.
 ---
 
 Diese Website wird von PauseAI Global betrieben.
-Mehr über die internen Abläufe von PauseAI erfahren Sie auf der [Organisationsseite](/organization).
+Weitere Informationen über die internen Abläufe von PauseAI finden Sie auf der [Organisationsseite](/organization).
 
-## PauseAI Global (Stichting PauseAI)
+## PauseAI Global (Stichting PauseAI) {#pauseai-global-stichting-pauseai}
 
 Im Folgenden finden Sie Informationen über die niederländische juristische Person hinter PauseAI:
 
@@ -23,7 +23,7 @@ Im Folgenden finden Sie Informationen über die niederländische juristische Per
 - Kontakt: [Joep Meindertsma](mailto:joep@pauseai.info)
 - Adresse: Skopjestraat 26, 3541ES Utrecht, Niederlande
 
-### ANBI-Status
+### ANBI-Status {#anbi-status}
 
 Der ANBI-Status ist ein niederländischer Steuerstatus für gemeinnützige Organisationen.
 Er ermöglicht steuerfreie und steuerabzugsfähige Spenden und andere Vorteile für die Organisation und ihre Spender.
@@ -35,9 +35,9 @@ Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](
 - Es darf kein Gewinnmotiv geben, das Geld muss für das Ziel der Organisation verwendet werden.
 - Verschiedene Veröffentlichungspflichten (wie diese Seite).
 
-### Politikplan 2024-2025 ("Beleidsplan")
+### Politikplan 2024-2025 ("Beleidsplan") {#policy-plan-2024-2025-beleidsplan}
 
-Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies erreichen, indem wir folgende Maßnahmen ergreifen:
+Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies erreichen, indem wir folgende Aktionen durchführen:
 
 - Eine Gemeinschaft von Freiwilligen aufbauen, um für KI-Sicherheit zu werben.
 - Die Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen informieren.
@@ -47,7 +47,7 @@ Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten di
 - [Freiwillige](/join) darüber aufklären, wie sie effektivere Fürsprecher werden können.
 - Politische Maßnahmen erforschen und [unseren Vorschlag](/proposal) entsprechend aktualisieren.
 
-#### Finanzielle Rechenschaftspflicht ("Financieele paragraaf")
+#### Finanzielle Rechenschaftspflicht ("Financieele paragraaf") {#financial-accountability-financieele-paragraaf}
 
 Wir sammeln Gelder, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
 Die Gelder werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Anstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
@@ -56,28 +56,28 @@ Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt am Gründung
 Eingegangene Gelder werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
 Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die überschüssigen Gelder für zukünftige Aktivitäten sparen.
 
-### Bericht über Aktivitäten
+### Bericht über Aktivitäten {#report-of-activities}
 
 Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) finden Sie auf den jeweiligen Seiten.
 Soziale Medien-Beiträge finden Sie hauptsächlich auf [X](https://x.com/PauseAI).
 Unser [Discord-Server](https://discord.gg/T3YrWUJsJ5) ist bei weitem unsere aktivste Gemeinschaft, mit durchschnittlich 100 Nachrichten pro Tag.
 
-### Vorstand
+### Vorstand {#board}
 
 - Joep Meindertsma (Vorsitzender)
 - Michiel van den Ingh (Schatzmeister)
 - Otto Barten (Sekretär)
 
-### Vergütungspolitik
+### Vergütungspolitik {#remuneration-policy}
 
 Die Vorstandsmitglieder erhalten keine Vergütung für ihre Arbeit.
 Sie haben Anspruch auf Erstattung der Kosten, die ihnen bei der Ausübung ihrer Pflichten entstehen.
 
-### Finanzielle Rechenschaftspflicht
+### Finanzielle Rechenschaftspflicht {#financial-accountability}
 
 Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31.12.2025 veröffentlicht.
 
-## PauseAI US
+## PauseAI US {#pauseai-us}
 
 - Name: PauseAI US
 - Nonprofit Corporation - CA - Public Benefit
@@ -88,20 +88,20 @@ Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31.
 - Status: Aktiv
 - Kontakt: [Holly Elmore](mailto:holly@pauseai.info)
 
-## PauseAI UK
+## PauseAI UK {#pauseai-uk}
 
 - Name: PauseAI UK Ltd
 - Gründungsdatum: 28. Dezember 2023
 - Firmennummer: 15373608
 - Direktor: [William Baird](mailto:william@pauseai.info)
 
-## PauseIA (Frankreich)
+## PauseIA (Frankreich) {#pauseia-france}
 
 - Name: PauseIA
 - Wird bald gegründet
 - Direktor: [Maxime Fournes](mailto:maxime@pauseai.info)
 
-## Beziehung zwischen den Einheiten
+## Beziehung zwischen den Einheiten {#relationship-between-entities}
 
 PauseAI Global ist verantwortlich für:
 
@@ -110,14 +110,14 @@ PauseAI Global ist verantwortlich für:
 - Diese Website und die Verwaltung der Online-Discord-Gemeinschaft.
 - Die Verwaltung und das Wachstum von Freiwilligen.
 - Globale soziale Medien.
-- Die Organisation digitaler Veranstaltungen.
+- Die Organisation von digitalen Veranstaltungen.
 - Die globale Strategie und Theorie des Wandels.
-- Die globalen Finanzen und Spendenaktionen.
-- [Microgrants](/microgrants).
+- Die globalen Finanzen und die Beschaffung von Mitteln.
+- [Mikrozuschüsse](/microgrants).
 
 Die nationalen/lokalen Einheiten sind verantwortlich für:
 
 - Physische Veranstaltungen und Proteste.
 - Die Beschaffung lokaler [Medienberichterstattung](/).
 - Lokale soziale Medien-Kanäle (z.B. [PauseAI UK](https://twitter.com/PauseAI_UK) und [PauseAI US](https://twitter.com/PauseAIus) Twitter)
-- Nationale politische Arbeit und Feedback.
+- Politische Arbeit auf nationaler Ebene und Feedback.
