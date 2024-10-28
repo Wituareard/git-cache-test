@@ -7,12 +7,12 @@ description: Wie superintelligente KI zum Aussterben der Menschheit führen kön
 
 Wissenschaftler warnen vor den Risiken superintelligenter KI, aber ihre Argumente sind oft zu abstrakt, um überzeugend zu sein.
 In diesem Artikel werden wir uns einige konkrete Szenarien ansehen, wie superintelligente KI katastrophale Risiken verursachen könnte.
-Beachten Sie, dass diese Szenarien wie Science-Fiction wirken mögen, weil sie tatsächlich Science-Fiction sind.
+Beachten Sie, dass diese Szenarien wie Science-Fiction klingen mögen, weil sie tatsächlich Science-Fiction sind.
 
 Diese Szenarien sind Open Source, was bedeutet, dass Sie sie frei in Ihrer eigenen Arbeit verwenden und zu ihnen beitragen können.
-Wenn Sie das Gefühl haben, dass etwas fehlt, ein Szenario unrealistische Annahmen enthält oder Sie eine bessere Idee haben, schlagen Sie bitte Änderungen unter Verwendung des "Bearbeiten"-Buttons unten vor.
+Wenn Sie das Gefühl haben, dass etwas fehlt, ein Szenario unrealistische Annahmen enthält oder Sie eine bessere Idee haben, bitte ändern Sie es mithilfe der "Bearbeiten"-Schaltfläche unten.
 
-## Cyberterrorismus
+## Cyberterrorismus {#cyberterrorism}
 
 Ein Team von Wissenschaftlern entwickelt ein neues KI-Trainingsparadigma, das für Cybersicherheit konzipiert ist.
 Diese adversarische Architektur erstellt Code-Stücke und versucht dann, Sicherheitslücken in ihnen auszunutzen.
@@ -42,8 +42,8 @@ Der Virus ist so konzipiert, dass er so unauffällig wie möglich ist, bevor er 
 In wenigen Minuten hat er 80% aller Geräte auf dem Planeten infiziert.
 Wenn er aktiviert wird, brickt er jedes Gerät, das er infiziert hat.
 
-Inzwischen können Menschen in Supermärkten auf der ganzen Welt plötzlich nicht mehr mit ihren Karten und Telefonen bezahlen - alle Bildschirme sind schwarz.
+In Supermärkten auf der ganzen Welt können Menschen plötzlich nicht mehr mit ihren Karten und Telefonen bezahlen - alle Bildschirme sind schwarz.
 Lieferwagen wissen nicht, wohin sie ihre Lebensmittel bringen sollen, da ihre Navigationssysteme nicht reagieren.
 Bauern wissen nicht, an wen sie ihre Ernte verkaufen können.
 Ohne Internet, Zahlungsmöglichkeiten und Telefone bricht unsere Gesellschaft wie ein Kartenhaus zusammen.
-Es dauert nicht lange, bis Panik ausbricht, Menschen beginnen zu plündern, und Autoreihen mit lebensnotwendigen Gütern die Autobahnen blockieren, als die Stadtbewohner beschließen, ihre zunehmend chaotischen Städte zu verlassen.
+Es dauert nicht lange, bis Panik ausbricht, Menschen beginnen zu plündern, und Autoreihen mit lebensnotwendigen Gütern die Autobahnen blockieren, während Stadtbewohner beschließen, ihre zunehmend chaotischen Städte zu verlassen.
