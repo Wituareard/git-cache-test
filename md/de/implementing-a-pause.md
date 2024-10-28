@@ -2,7 +2,7 @@
 
 ---
 title: Eine internationale Pause umsetzen - die schwierigen Fragen angehen
-description: Wie würde eine KI-Pause aussehen? Wie kann man tatsächlich die Schaffung einer Superintelligenz verhindern?
+description: Wie würde eine KI-Pause aussehen? Wie kann man tatsächlich verhindern, dass eine Superintelligenz geschaffen wird?
 ---
 
 Wenn wir die Schaffung einer superintelligenten KI zulassen, riskieren wir jedes einzelne Leben auf der Erde.
@@ -11,9 +11,9 @@ Allerdings benötigen wir mehr als nur ein Verbot, wir müssen tatsächlich verh
 Um uns sicher zu halten, müssen wir den Bau einer Superintelligenz noch schwieriger machen, als er bereits ist.
 Und das bedeutet, dass wir einige schwierige Fragen angehen müssen.
 
-## Wie regulieren wir Hardware für KI?
+## Wie regulieren wir Hardware für KI? {#how-do-we-regulate-hardware-used-for-ai}
 
-<!-- Die größten KI-Modelle, die trainiert wurden, haben ungefähr 100 Milliarden bis 1 Billion Parameter. -->
+<!-- Die größten KI-Modelle, die trainiert wurden, haben etwa 100 Milliarden bis 1 Billion Parameter. -->
 <!-- Zum Vergleich: Das menschliche Gehirn hat etwa 100 Billionen Synapsen. -->
 
 Um ein Modell wie GPT-4 zu trainieren, benötigt man eine Vielzahl von hochspezialisierten und teuren Hardware (25.000 Nvidia A100-GPUs, Kosten von 10.000 $ pro Stück).
@@ -32,7 +32,7 @@ Das bedeutet, dass wir die Regulierung im Laufe der Zeit verschärfen müssen.
 Irgendwann sollten wir es nicht mehr zulassen, dass Hardware leistungsfähiger wird.
 Das Risiko, eine superintelligente KI zu schaffen, könnte zu hoch sein.
 
-## Wie regulieren wir Software für das Training von KI?
+## Wie regulieren wir Software für das Training von KI? {#how-do-we-regulate-software-used-for-training-ai}
 
 Die Transformer-Architektur revolutionierte das Feld der KI.
 Dieses neue parallele Design ermöglichte es, KI-Modelle auf viel höherem Niveau zu skalieren, bei viel geringeren Kosten und mit besseren Ergebnissen.
