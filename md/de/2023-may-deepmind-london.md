@@ -19,14 +19,14 @@ Bitte lesen Sie den Verhaltenskodex für PauseAI-Demonstranten [hier](https://pa
 
 Was:
 
-- Rechtmäßiger Protest vor Google DeepMind + Sensibilisierung und Rekrutierung vor EAG London
+- Legale Demonstration vor Google DeepMind + Sensibilisierung und Rekrutierung vor EAG London
 
 Wann und wo:
 
 - 1200-1400 Uhr, Fr, 19. Mai, vor Google DeepMind
 - 1200-1400 Uhr, Sa, 20. und So, 21. Mai, vor EAG London
 - 1700-2000 Uhr, Mo, 22. Mai, vor Google DeepMind
-- In Zukunft: regelmäßige (wöchentliche?) Proteste?
+- In Zukunft: regelmäßige (wöchentliche?) Demonstration?
 
 Genaue Orte:
 
@@ -39,20 +39,20 @@ Warum:
 - Um die Öffentlichkeit auf die Bedrohung durch die AGI-Entwicklung aufmerksam zu machen
 - Um sozialen Druck auf Google DeepMind und andere KI-Unternehmen aufzubauen
 - Um Momentum für eine soziale Bewegung zu schaffen, die bessere KI-Sicherheit, -Governance und -Ethik fordert
-- Insbesondere, um einen Präzedenzfall für regelmäßige (wöchentliche?) Proteste zu schaffen
+- Insbesondere, um einen Präzedenzfall für eine regelmäßige (wöchentliche?) Demonstration zu schaffen
 
 Wie:
 
-- Wir werden rechtmäßig und friedlich vor Google DeepMind mit Plakaten und einem Banner stehen, möglicherweise Flyer / Aufkleber / Anstecker an DeepMind-Mitarbeiter und Passanten verteilen
+- Wir werden friedlich und gesetzeskonform vor Google DeepMind mit Plakaten und einem Banner stehen, möglicherweise Flyer / Aufkleber / Anstecker an DeepMind-Mitarbeiter und Passanten verteilen
 - Wir werden respektvolle, kooperative Gespräche führen
 - Wir werden möglicherweise Reden halten (wahrscheinlicher) und/oder singen und/oder skandieren (weniger wahrscheinlich)
 - Wir werden möglicherweise auffällige Kostüme tragen
 - Unser Ton wird informativ, inklusiv und humorvoll sein, anstatt konfrontativ und störend
-- Wir zielen darauf ab, bis zu 30 Personen zu diesem ersten Protest zu bringen
+- Wir zielen darauf ab, bis zu 30 Personen zu dieser ersten Demonstration zu bringen
 
-Rechtlich:
+Rechtliches:
 
-- Dies ist ein völlig rechtmäßiger, legaler und nicht-verhaftbarer Protest
+- Dies ist eine völlig legale, gesetzeskonforme und nicht-verhaftbare Demonstration
 - Wir werden auf dem Gehweg (öffentlicher Raum) stehen, nicht auf Privatland
 
 Presse/Medien/Öffentlichkeit:
@@ -76,7 +76,7 @@ Das Problem:
 - Risiko, den Planeten zu zerstören, ist höher als 1% -- [KI-Forscher](https://twitter.com/liron/status/1656929936639430657?s=20)
 - Experten sind besorgt
 - Siehe PauseAI-Zitate von Experten [hier](https://pauseai.info/xrisk)
-- Stoppen Sie das Rennen nach unten
+- Pausieren Sie das Rennen nach unten
 - Was, wenn wir den Stecker nicht ziehen können?
 - Wir haben die Neandertaler ausgerottet; wird KI uns ausrotten?
 - KI, die die Menschheit auslöscht, ist "nicht undenkbar" -- Hinton
@@ -87,7 +87,7 @@ Das Problem:
 
 Die Lösung:
 
-- Pause KI
+- Pausieren Sie KI
 - #pauseAI
 - #justlookup
 - Bauen Sie keine AGI
@@ -113,11 +113,11 @@ Weitere Botschaften und Erzählungsideen:
 
 Banner
 
-- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) darauf drucken
+- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) drucken
 
 Plakate
 
-- Aufgrund von Zeitmangel und Unsicherheit darüber, was optimale Plakatbotschaften sein werden, plant Alistair derzeit nicht, Plakate (in großen Mengen zumindest) zu drucken
+- Aufgrund von Zeitmangel und Unsicherheit darüber, was optimale Plakatbotschaften sein werden, plant Alistair derzeit nicht, Plakate in großen Mengen zu drucken
 - Jeder ist ermutigt, eigene Plakate zu erstellen und mitzubringen (z.B. mit Karton und einem Sharpie-Stift!)
 - Wenn Sie Plakate drucken möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
