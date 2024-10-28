@@ -1,3 +1,5 @@
+
+
 ---
 title: PauseAI-Protest in Melbourne - 16. Juni
 description: Nehmen Sie an dem bevorstehenden friedlichen Protest von PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
@@ -20,7 +22,7 @@ Nehmen Sie an dem friedlichen Protest von #PauseAI am Melbourne Convention and E
 - Protestzeiten: 13:30 Uhr bis 15 Uhr (Ankunftszeit) und 16:30 Uhr (Abreisezeit)
 - Logistik: Bringen Sie Schilder und Flyer mit, keine Teilnahmegebühr erforderlich, Startup Victoria-Mitgliedschaftsticket ist derzeit kostenlos
 
-Nehmen Sie an unserem Protest teil, um Ihre Stimme für die Sicherheit von künstlicher Intelligenz (KI) zu erheben und einen Unterschied zu machen. Bitte treten Sie dem [Discord-Server](https://discord.gg/2XXWXvErfA) von #PauseAI bei, dem Kanal #australia und dem Slack von AGI Moratorium, [#λ-australia](https://www.campaignforaisafety.org/r/2b0991d9?m=4045bfdd-2b52-4fa2-b4c5-0d8adb4aac63), für weitere Diskussionen.
+Nehmen Sie an unserer Aktion teil, um Ihre Stimme für die Sicherheit von künstlicher Intelligenz (KI) zu erheben und einen Unterschied zu machen. Bitte treten Sie dem [Discord-Server](https://discord.gg/2XXWXvErfA) von #PauseAI bei, dem Kanal #australia und dem Slack von AGI Moratorium, [#λ-australia](https://www.campaignforaisafety.org/r/2b0991d9?m=4045bfdd-2b52-4fa2-b4c5-0d8adb4aac63), für weitere Diskussionen.
 
 ## Pressemitteilung
 
@@ -39,15 +41,15 @@ Die Demonstranten fordern die australische Regierung auf, die Führung bei der g
 Sie bitten sie auch, die Pause auf dem [KI-Sicherheitsgipfel](https://pauseai.info/summit) zu priorisieren, der von Großbritannien organisiert wird und später im Jahr 2023 stattfinden wird.
 
 Die Pause der KI-Entwicklung ist ein radikal anderer Ansatz zur Sicherheit als der, den die KI-Lab-Chefs wie Sam Altman vorschlagen.
-OpenAI glaubt, dass ["es unintuitiv riskant und schwierig wäre, die Schaffung von Superintelligenz zu stoppen"](https://openai.com/blog/governance-of-superintelligence), daher verfolgen sie die weitere Entwicklung in Richtung Superintelligenz.
+OpenAI glaubt, dass ["es unintuitiv riskant und schwierig wäre, die Schaffung von Superintelligenz zu stoppen"](https://openai.com/blog/governance-of-superintelligence), also verfolgen sie die weitere Entwicklung in Richtung Superintelligenz.
 
 > "Wir haben eine Wahl: Riskieren wir alles, um eine Superintelligenz zu bauen, über die die Öffentlichkeit nie konsultiert wurde, oder stoppen wir, solange wir noch können?" - PauseAI-Demonstranten
 
 > "KI-Unternehmen riskieren alles; wir sehen bereits den Schaden, und es wird noch schlimmer werden. Die Technologieentwicklung ist nicht unvermeidlich, und eine Pause sollte als machbare Option in Betracht gezogen werden. Wir können die Zukunft nicht einigen wenigen CEOs überlassen, die bereit sind, die Menschheit für ihre Träume zu riskieren. Wir alle verdienen ein Mitspracherecht an unserer Zukunft, und eine globale Pause gibt uns diese Chance."
 
-> "Trotz der Anerkennung der Gefahren der fortgesetzten KI-Entwicklung nutzen diese Unternehmen dies nur als Ausrede, um weiterzumachen, und scheinen freiwillig auf diese gefährliche Macht zu verzichten. In solchen Situationen ist die globale Zusammenarbeit bei der Eindämmung dieser gefährlichen Entwicklung von entscheidender Bedeutung, damit wir sicherstellen, dass die Technologieentwicklung für alle funktioniert."
+> "Trotz der Anerkennung der Gefahren der fortgesetzten KI-Entwicklung nutzen diese Unternehmen dies nur als Vorwand, um weiterzumachen, und scheinen freiwillig auf diese gefährliche Macht verzichten zu wollen. In solchen Situationen ist die globale Zusammenarbeit bei der Eindämmung dieser gefährlichen Entwicklung von entscheidender Bedeutung, damit wir sicherstellen, dass die Technologieentwicklung für alle funktioniert."
 
-> "Wir haben möglicherweise nicht den Luxus der Zeit. KI-Entwicklungen erfolgen in einem frenetischen Tempo, und wir müssen jetzt handeln, um die schlimmsten Szenarien zu verhindern. Der Gipfel im Herbst könnte sogar zu spät sein, um das Schlimmste zu verhindern. Wir brauchen Regierungen, die die KI-Entwicklung sofort pausieren."
+> "Wir haben möglicherweise nicht den Luxus der Zeit. KI-Entwicklungen erfolgen in einem frenetischen Tempo, und wir müssen jetzt handeln, um die schlimmsten Szenarien zu verhindern. Der Gipfel im Herbst könnte sogar zu spät sein, um das Schlimmste zu verhindern. Wir brauchen Regierungen, die die KI-Entwicklung jetzt pausieren"
 
 Die PauseAI-Demonstranten haben konkrete [Agenda-Vorschläge](/summit) und [Politikvorschläge](/proposal) für den Gipfel.
 
