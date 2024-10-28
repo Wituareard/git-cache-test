@@ -16,7 +16,7 @@ Für andere häufige Einwände sollten Sie [AISafety.info: Einwände und Antwort
 
 ## KI kann keine menschenähnlichen Fähigkeiten haben {#ai-cannot-have-human-like-capabilities}
 
-- Skeptiker argumentieren, dass KI die mit menschlicher Intelligenz assoziierten Eigenschaften wie Kreativität, allgemeine Argumentationsfähigkeit, Emotionen und Bewusstsein fehlen. Sie behaupten, Computer könnten nur eng begrenzte Aufgaben optimieren.
+- Skeptiker argumentieren, KI fehle es an Eigenschaften, die mit menschlicher Intelligenz assoziiert werden, wie Kreativität, allgemeine Argumentationsfähigkeit, Emotionen und Bewusstsein. Sie behaupten, Computer könnten nur eng gefasste Aufgaben optimieren.
 - KI-Systeme zeigen jedoch bereits einige menschenähnliche Fähigkeiten wie Kreativität und allgemeine Spielkompetenz. Es gibt keinen grundlegenden Grund, warum KI nicht weiterhin in allen Dimensionen der Intelligenz fortschreiten könnte. KI benötigt kein Bewusstsein oder Emotionen, um Risiken darzustellen.
 
 ## KI kann keine Ziele oder Autonomie haben {#ai-cannot-have-goals-or-autonomy}
@@ -32,13 +32,13 @@ Für andere häufige Einwände sollten Sie [AISafety.info: Einwände und Antwort
 ## KI wird mit menschlichen Werten übereinstimmen {#ai-will-be-aligned-with-human-values}
 
 - Skeptiker erwarten, dass nützliche Werte natürlich entstehen werden, wenn KI intelligenter wird. Sie vergleichen es mit freundlichen Haustieren und menschlichem moralischem Fortschritt.
-- Es gibt jedoch keine Garantie für eine solche Wertübereinstimmung ohne konzentrierte Bemühungen. Die Schaffung von KI, die mit komplexen, nuancierten menschlichen Werten übereinstimmt, stellt erhebliche technische Herausforderungen dar, die umfangreiche Forschung erfordern.
+- Es gibt jedoch keine Garantie für eine solche Wertübereinstimmung ohne konzentrierte Anstrengungen. Die Schaffung von KI, die mit komplexen, nuancierten menschlichen Werten übereinstimmt, stellt erhebliche technische Herausforderungen dar, die umfangreiche Forschung erfordern.
 
 ## Regulierung wird KI-Risiken verhindern {#regulation-will-prevent-ai-risks}
 
 - Skeptiker sagen, regulatorische Aufsicht und ethische Richtlinien würden schädliche KI-Anwendungen einschränken, so dass wir uns keine Sorgen machen müssten.
-- Regulatorische Politik bleibt jedoch oft hinter technologischen Entwicklungen zurück, insbesondere bei exponentiellen Fortschritten. Selbstregulierung in einem wettbewerbsorientierten Umfeld ist ebenfalls unzureichend. Technische KI-Sicherheitsforschung ist nach wie vor entscheidend.
+- Regulatorische Politik bleibt jedoch oft hinter technologischen Entwicklungen zurück, insbesondere bei exponentiellen Fortschritten. Selbstregulierung in einem wettbewerbsorientierten Umfeld ist ebenfalls unzureichend. Technische KI-Sicherheitsforschung ist nach wie vor von entscheidender Bedeutung.
 
 ## Schlussfolgerung {#conclusion-1}
 
-Die skeptischen Argumente weisen im Allgemeinen fehlerhafte Argumentation auf, unterschätzen das exponentielle Tempo und die Unvorhersehbarkeit des KI-Fortschritts und zeigen kein Verständnis für die Schwierigkeiten bei der Wertübereinstimmung. Angesichts der beteiligten Interessen ist ein vorsichtiger, proaktiver Ansatz zur KI-Sicherheit sinnvoll. Obwohl die Zukunftsaussichten unklar bleiben, scheint es unklug, existenzielle Risiken durch KI einfach abzutun. Eine differenziertere, technische Analyse und Debatte sind erforderlich.
+Die skeptischen Argumente weisen im Allgemeinen fehlerhafte Argumentation auf, unterschätzen das exponentielle Tempo und die Unvorhersehbarkeit des KI-Fortschritts und zeigen kein Verständnis für die Schwierigkeiten bei der Wertübereinstimmung. Angesichts der beteiligten Interessen ist ein vorsichtiger, proaktiver Ansatz zur KI-Sicherheit sinnvoll. Obwohl die Zukunftsaussichten unklar bleiben, scheint es unklug, existenzielle Risiken durch KI rundweg abzutun. Eine differenziertere, technische Analyse und Debatte sind erforderlich.
