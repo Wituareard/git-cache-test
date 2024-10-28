@@ -28,7 +28,7 @@ Willkommen bei PauseAI!
 - Die PauseAI-Grundlagen: [FAQ](/faq), unser [Vorschlag](/proposal), [Risiken](/risks), [X-Risiko](/xrisk), [Dringlichkeit](/urgency), [Gefährliche Fähigkeiten](/dangerous-capabilities), [Milderung von Pause-Fehlern](/mitigating-pause-failures)
 - [Flyer verteilen](/flyering): Wie man effektiv Flyer verteilt
 - [Gegenargumente](/counterarguments)
-- [Organisation einer Protestaktion](/organizing-a-protest)
+- [Organisation einer Demonstration](/organizing-a-protest)
 - [Lernen Sie mehr über AI-Sicherheit](/learn)
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
