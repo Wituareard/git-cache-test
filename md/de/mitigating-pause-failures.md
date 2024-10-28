@@ -22,16 +22,16 @@ Wie Stuart Russell sagte, sollte man bei einem ungewissen Zeitlimit die Aktion w
 Je länger wir warten, desto mehr Menschen werden denken, dass ein Stillstand nicht möglich ist, und desto mehr Menschen werden fantasieren und in theoretisch mögliche KI-Anwendungen investieren.
 Also wird mehr Geld in Lobbyarbeit gegen Menschen wie uns investiert.
 
-Außerdem kann es viele Jahre dauern, von Protesten und Lobbyarbeit bis hin zu Überzeugung der Menschen an der Macht, um einen Vertrag in Kraft zu setzen. Nicht zu erwähnen, dass selbst wenn es nicht der Fall wäre, ein früher Stillstand uns Luft gibt, damit schlechte Akteure und algorithmische Durchbrüche uns nicht in den Abgrund stürzen.
+Außerdem kann es viele Jahre dauern, von Protesten und Lobbyarbeit bis hin zu Überzeugung der Menschen an der Macht, um einen Vertrag in Kraft zu setzen. Nicht zu erwähnen, dass selbst wenn dies nicht der Fall wäre, ein früher Stillstand uns Luft gibt, damit schlechte Akteure und algorithmische Durchbrüche uns nicht in den Abgrund stürzen.
 
 ## Zu kurzer Stillstand / nur 6 Monate
 
-Der Stillstand, den wir vorschlagen, ist von unbestimmter Länge. Wir sollten nicht wieder aufhören, bis es einen ausreichenden Konsens gibt, dass wir wissen, wie man sichere KI entwickeln kann, egal wie leistungsfähig sie ist, und dass wir die Systeme haben, um es sorgfältig und demokratisch zu tun.
+Der Stillstand, den wir vorschlagen, ist von unbestimmter Länge. Wir sollten nicht wieder aufhören, bis es einen ausreichenden Konsens gibt, dass wir wissen, wie man ausgerichtete KIs entwickeln kann, egal wie leistungsfähig sie sind, und dass wir die Systeme haben, um es sorgfältig und demokratisch zu tun.
 Es ist NICHT wie der [sechsmonatige Stillstand, der vom Future of Life Institute gefordert wurde](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
 
 ## Zu langer Stillstand
 
-Nick Bostrom, einer der ersten KI-Alarmisten, sorgt sich, dass [irgendwann zu viel Angst vor KI-Risiken](https://twitter.com/jachaseyoung/status/1723325057056010680) besteht, obwohl dieser Moment noch nicht gekommen ist.
+Nick Bostrom, einer der ersten KI-Alarmisten, sorgt sich darum, dass [irgendwann zu viel Angst vor KI-Risiken](https://twitter.com/jachaseyoung/status/1723325057056010680) besteht, obwohl dieser Moment noch nicht gekommen ist.
 Wenn die Sorge um KI weiter steigt und wir einen Stillstand erreichen, könnte es zu einer Situation kommen, in der die gesamte KI-Entwicklung tabuisiert oder illegal wird.
 Wenn das passiert, werden wir nie die Vorteile von KI ernten, und in der Zwischenzeit könnten wir andere existenzielle Risiken begegnen, die wir mit Hilfe von KI hätten vermeiden können.
 
@@ -72,12 +72,12 @@ Wir stimmen dieser Einschätzung nicht zu und Sie können hier [mehr darüber le
 
 ## KI-Entwicklung könnte in den Untergrund gehen
 
-Wenn die KI-Entwicklung (über einen bestimmten Schwellenwert hinaus) verboten wird, könnte sie in den Untergrund gehen.
+Wenn die KI-Entwicklung (oberhalb eines bestimmten Schwellenwerts) verboten wird, könnte sie in den Untergrund gehen.
 Die potenziellen Vorteile sind so groß, dass ein Rogue-Akteur (Staat) beschließen könnte, KI in Geheimheit zu entwickeln.
 Das bedeutet, dass der erste, der Superintelligenz erreicht, ein nicht kooperativer Akteur wäre, was wahrscheinlich ein schlechtes Ergebnis ist.
 
 Indem wir GPU-Verkäufe verfolgen, können wir große KI-Entwicklungen erkennen.
-Da die Grenzmodell-GPU-Cluster immense Energiemengen und spezielle Gebäude erfordern, ist die physische Infrastruktur, die zum Trainieren eines großen Modells erforderlich ist, schwer zu verbergen.
+Da die Grenzen der Modell-GPU-Cluster immense Energiemengen und spezielle Gebäude erfordern, ist die physische Infrastruktur, die zum Trainieren eines großen Modells erforderlich ist, schwer zu verbergen.
 
 Westliche Mächte (USA, Niederlande und Taiwan) kontrollieren die GPU-Lieferkette stark genug, um zu verhindern, dass nicht kooperative Staaten GPUs erhalten.
 Nicht-Staatsakteure sind unwahrscheinlich, dass sie ausreichende Ressourcen in Geheimheit sammeln können, um ein AGI für mindestens ein Jahrzehnt nachdem AGI von großen Technologieunternehmen möglich wird, zu trainieren.
@@ -95,12 +95,12 @@ Außerdem würde die Tatsache, dass es kein Geschäftsanreiz mehr gibt, dazu bei
 Dies ist ein ernstes Problem, obwohl es starke Argumente dafür gibt, dass [ein Überhang unwahrscheinlich ist](https://blog.aiimpacts.org/p/are-there-examples-of-overhang-for).
 
 PauseAI unterstützt einen Stillstand bei relevanten Rechenverbesserungen.
-Außerdem, wie wir sagten, sollte die "Play"-Taste nicht gedrückt werden, wenn wir immer noch nicht wissen, wie man sichere KI baut.
+Außerdem, wie wir sagten, sollte der "Play"-Knopf nicht gedrückt werden, wenn wir immer noch nicht wissen, wie man sichere KI baut.
 Und das schließt das Training und die Bereitstellung von Modellen mit fortschrittlicherer Hardware ein.
 
 ## KI-Entwicklung ist notwendig, um zu lernen, wie man KI sicher macht
 
-Die meisten Menschen glauben, dass ein gewisses Maß an prosaischer/inkrementeller Ausrichtung notwendig ist, also wenn ein vollständiger Stillstand ohne Ausnahmen implementiert wird, würde nicht genug Fortschritt bei der Ausrichtung gemacht werden und schließlich würden Akteure, die sich nicht um Sicherheit und Stillstand kümmern, eine nicht ausgerichtete leistungsfähige KI entwickeln.
+Die meisten Menschen glauben, dass ein gewisses Maß an prosaischer/inkrementeller Ausrichtung notwendig ist, also wenn ein vollständiger Stillstand ohne Ausnahmen implementiert wird, würde nicht genug Fortschritt bei der Ausrichtung gemacht und schließlich würden Akteure, die sich nicht um Sicherheit und Stillstand kümmern, eine nicht ausgerichtete leistungsfähige KI entwickeln.
 
 Das ist ein Grund, warum wir vorschlagen, bestimmte Trainingsläufe zu genehmigen. Das würde uns ermöglichen, von größeren Systemen zu lernen, wenn wir ihre Sicherheit gewährleisten können.
 Allerdings haben wir in dem schlimmsten Fall, in dem wir ihre Sicherheit nicht gewährleisten können und nicht genug in der Ausrichtung fortschreiten, immer noch die Option, unsere Intelligenz durch andere Technologien zu steigern.
@@ -112,27 +112,27 @@ KI-Sicherheitsleute werden weniger ernst genommen
 
 ## Algorithmische oder Laufzeitverbesserungen können kleinere Modelle gefährlich machen
 
-Wir haben gesehen, dass Änderungen in Trainingsdaten, Trainingsalgorithmen oder Laufzeitnutzung zu großen Verbesserungen der Modellleistung führen können.
+Wir haben gesehen, dass Änderungen in den Trainingsdaten, Trainingsalgorithmen oder Laufzeitanwendungen zu großen Verbesserungen der Modellleistung führen können.
 Deswegen konzentrieren wir uns nicht nur auf die Modellgröße.
 Wir [schlagen vor](/proposal), die Entwicklung großer, allgemeiner KI-Modelle anzuhalten, die entweder 1) größer als 10^12 Parameter sind, 2) mehr als 10^25 FLOPs für das Training verwenden oder 3) Fähigkeiten haben, die GPT-4 überschreiten.
 Diese dritte Bedingung wird hinzugefügt, um auch kleinere Modelle einzubeziehen, die gefährlich sein können.
-Die Durchsetzung einer Obergrenze für Fähigkeiten ist schwierig, da es schwer ist, die Fähigkeiten eines Modells vorherzusagen, bevor es trainiert wird.
+Die Durchsetzung einer Obergrenze für Fähigkeiten ist schwierig, da es schwer vorherzusagen ist, welche Fähigkeiten ein Modell vor dem Training hat.
 
 Da die Einsätze so hoch sind, sollten wir vorsichtig sein, also unterstützen wir auch einen Stillstand bei relevanten algorithmischen und Laufzeitverbesserungen.
 Allerdings wird die Durchsetzung schwieriger sein als die Durchsetzung von Rechenregulierungen, weil Hardware leichter zu verfolgen ist als Software.
 
 ## Wenn wir nur allgemeine KI-Modelle verbieten, könnten wir immer noch AGI durch schmale Modelle erhalten
 
-Wir möchten gefährliche Modelle einschränken, die [gefährliche Fähigkeiten](/dangerous-capabilities) wie die Manipulation von Menschen, strategisches Planen und das Schreiben von Code haben.
-Wir möchten keine sehr schmalen KI-Modelle einschränken, wie Bildklassifizierer, die in selbstfahrenden Autos oder medizinischen Diagnosen verwendet werden.
+Wir möchten gefährliche Modelle einschränken, die [gefährliche Fähigkeiten](/dangerous-capabilities) wie die Manipulation von Menschen, strategische Planung und das Schreiben von Code haben.
+Wir möchten keine sehr schmalen KI-Modelle einschränken, wie Bildklassifizierer in selbstfahrenden Autos oder medizinischer Diagnose.
 Glücklicherweise fallen fast alle diese schmalen Modelle außerhalb unserer [vorgeschlagenen](/proposal) Einschränkungen, weil diese Modelle tendenziell relativ klein sind.
 
 Ein ausreichend leistungsfähiges schmales Modell (das auf realen Daten trainiert wurde) könnte wahrscheinlich auf gefährliche Fähigkeiten verallgemeinern.
-Ein sehr leistungsfähiges Bildgenerator-Modell könnte beispielsweise Bilder von funktionsfähigem Code erstellen oder ein sehr leistungsfähiges Video-Modell könnte einen Film über eine KI erstellen, die einen erfolgreichen Übernahmeplan plant.
+Ein sehr leistungsfähiges Bildgenerator-Modell könnte zum Beispiel Bilder von funktionsfähigem Code erstellen oder ein sehr leistungsfähiges Video-Modell könnte einen Film über eine KI erstellen, die einen erfolgreichen Übernahmeplan plant.
 Schmale Modelle werden oft besser in ihrer schmalen Aufgabe, indem sie verallgemeinern.
 In gewissem Maße ist dies, was LLMs wie ChatGPT so erfolgreich macht: Sie werden nur trainiert, um "das nächste Wort vorherzusagen", aber um wirklich gut darin zu sein, müssen sie viel über die Welt lernen.
 
-Daher haben wir in unserem Vorschlag "schmal" oder "allgemein" KI nicht definiert, sondern stattdessen drei Bedingungen verwendet, die sich auf Modellgröße, Rechenleistung und Fähigkeiten beziehen.
+Daher haben wir in unserem Vorschlag nicht "schmal" oder "allgemein" KI definiert, sondern stattdessen drei Bedingungen in Bezug auf Modellgröße, Rechenleistung und Fähigkeiten verwendet.
 
 ## Wenn ein Stillstand implementiert wird, sollten wir einen politischen Kompromiss erwarten
 
@@ -147,7 +147,7 @@ Beispielsweise:
 
 Wir können dies minimieren, indem wir in unseren Kommunikationen konsistent und klar sind, was wir wollen.
 
-## Zu spätes Anhalten
+## Zu später Stillstand
 
 Dies ist das offensichtlichste und wahrscheinlichste Risiko eines Scheiterns: Wenn wir zu spät anhalten, werden wir wahrscheinlich katastrophale Risiken begegnen.
 Und das könnte bald passieren, wie wir auf unserer [Dringlichkeitsseite](/urgency) erklären.
