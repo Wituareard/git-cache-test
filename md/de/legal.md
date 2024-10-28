@@ -118,6 +118,6 @@ PauseAI Global ist verantwortlich für:
 Die nationalen/lokalen Einheiten sind verantwortlich für:
 
 - Physische Veranstaltungen und Proteste.
-- Die Erlangung lokaler [Medienberichterstattung](/).
+- Die Beschaffung lokaler [Medienberichterstattung](/).
 - Lokale soziale Medien-Kanäle (z.B. [PauseAI UK](https://twitter.com/PauseAI_UK) und [PauseAI US](https://twitter.com/PauseAIus) Twitter)
 - Nationale politische Arbeit und Feedback.
