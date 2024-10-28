@@ -8,11 +8,11 @@ description: Unser Gemeinschaftsfonds zur Unterstützung von Projekten, die unse
 Wir haben eine lange Liste von Projekten, an denen unsere Gemeinschaft arbeitet.
 Es gibt so viel zu tun.
 Und manchmal benötigen wir finanzielle Mittel, um effektiver zu sein.
-Aber die Beschaffung von Fördermitteln kann mühsam sein - insbesondere, wenn man noch nie einen Antrag auf eine Förderung gestellt hat.
+Aber die Beschaffung von Mitteln kann mühsam sein - insbesondere, wenn man noch nie einen Zuschuss beantragt hat.
 
 Hier kommen die PauseAI Mikroförderungen ins Spiel!
 Kleine Geldbeträge (typischerweise unter 2000 EUR) für die Arbeit an einem Projekt.
-Wir sind ziemlich offen dafür, welche Arten von Projekten gefördert werden können.
+Wir sind ziemlich offen dafür, welche Arten von Projekten sich bewerben können.
 Hier sind einige Beispiele:
 
 - **Veranstaltung organisieren**, wie z.B. eine E-Mail-Lobby-Sitzung (Gebühr für Organisation, Raumvermietung, Essen und Getränke)
@@ -26,7 +26,7 @@ Hier sind einige Beispiele:
 ## Der Prozess {#the-process}
 
 - Beschreiben Sie Ihr Projekt im `#💪projects`-Kanal auf unserem Discord-Server. Erzählen Sie von der Idee, was Sie tun möchten, wo Sie Hilfe benötigen und wie viel Geld Sie benötigen. Erwähnen Sie `@microgrants`, um das Mikroförderungsteam zu benachrichtigen!
-- Füllen Sie die [Mikroförderungsvorlage](https://docs.google.com/document/d/1oPXezImarCY7MCYaT-lJb-uLNbbQ76O1FYNr-WTS6hI/edit?usp=sharing) aus und senden Sie sie an [joep@pauseai.info](mailto:joep@pauseai.info).
+- Füllen Sie das [Mikroförderungsvorlage](https://docs.google.com/document/d/1oPXezImarCY7MCYaT-lJb-uLNbbQ76O1FYNr-WTS6hI/edit?usp=sharing) aus und senden Sie es an [joep@pauseai.info](mailto:joep@pauseai.info).
 - Wir kontaktieren Sie. Entweder a) geben wir sofort eine Zusage, b) wir möchten einige Änderungen/Fragen beantwortet haben oder c) geben wir eine Absage.
 - Wir senden Ihnen ein Memorandum of Understanding (MoU), das Sie unterschreiben müssen.
 - Fangen Sie an zu arbeiten!
