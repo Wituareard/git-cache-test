@@ -29,7 +29,7 @@ Wir verwenden die erhobenen Daten für die folgenden Zwecke:
 - Um unsere Website und Dienste auf der Grundlage der von uns erhobenen Nutzungsdaten zu verbessern.
 
 ### b. Kommunikation {#b-communication}
-- Um Mitglieder über Airtable für interne Kommunikation und Updates über PauseAI-Veranstaltungen, Aktivitäten und andere relevante Informationen zu kontaktieren.
+- Um Mitglieder über Airtable für interne Kommunikation und Updates über PauseAI-Veranstaltungen, -Aktivitäten und andere relevante Informationen zu kontaktieren.
 
 ## 4. Offenlegung Ihrer Daten {#4-disclosure-of-your-information}
 
@@ -39,7 +39,7 @@ Wir verkaufen, handeln oder übertragen Ihre personenbezogenen Daten nicht an Dr
 - Wir können Ihre Daten mit Drittanbietern wie Airtable und Google Analytics teilen, um uns bei der Betreibung unserer Website und der Durchführung unserer Aktivitäten zu unterstützen.
 
 ### b. Gesetzliche Anforderungen {#b-legal-requirements}
-- Wir können Ihre Daten offenlegen, wenn wir gesetzlich dazu verpflichtet sind oder aufgrund von gültigen Anfragen von öffentlichen Behörden.
+- Wir können Ihre Daten offenlegen, wenn wir gesetzlich dazu verpflichtet sind oder aufgrund von Anfragen von öffentlichen Behörden.
 
 ## 5. Datensicherheit {#5-data-security}
 
