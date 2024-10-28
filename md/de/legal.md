@@ -1,7 +1,7 @@
----
+
+
 title: Rechtliche Informationen
 description: Gesetzlich vorgeschriebene Informationen über PauseAI.
----
 
 Diese Website wird von PauseAI Global betrieben.
 Weitere Informationen über die internen Abläufe von PauseAI finden Sie auf der [Organisationsseite](/organization).
@@ -15,7 +15,7 @@ Im Folgenden finden Sie Informationen über die niederländische juristische Per
 - RSIN: 866227696
 - Steuer-/Umsatzsteuernummer: NL866227696B01
 - Bankkonto: NL31BUNQ2109903155 ([spenden](/donate))
-- Ziel: "Milderung der katastrophalsten Risiken von KI."
+- Ziel: "Die katastrophalsten Risiken von KI abmildern."
 - Gründungsdatum: 13.02.2024
 - ANBI-Status: Ja, seit 13.02.2024
 - Kontakt: [Joep Meindertsma](mailto:joep@pauseai.info)
@@ -24,26 +24,26 @@ Im Folgenden finden Sie Informationen über die niederländische juristische Per
 ### ANBI-Status
 
 Der ANBI-Status ist ein niederländischer Steuerstatus für gemeinnützige Organisationen.
-Er ermöglicht steuerfreie und steuerabzugsfähige Spenden sowie weitere Vorteile für die Organisation und ihre Spender.
+Er ermöglicht steuerfreie und steuerabzugsfähige Spenden und andere Vorteile für die Organisation und ihre Spender.
 Stichting PauseAI ist seit 13.02.2024 ein registrierter ANBI. Überprüfen Sie den Status [hier](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (Seite auf Niederländisch).
 
 Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/conditions_pbos/which_conditions_must_be_met_by_pbo) erfüllen:
 
 - Sie muss dem öffentlichen Interesse dienen.
 - Es darf kein Gewinnmotiv geben, das Geld muss für das Ziel der Organisation verwendet werden.
-- Es gibt verschiedene Veröffentlichungspflichten (wie diese Seite).
+- Verschiedene Veröffentlichungspflichten (wie diese Seite).
 
 ### Politikplan 2024-2025 ("Beleidsplan")
 
-Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies durch folgende Maßnahmen erreichen:
+Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies erreichen, indem wir folgende Maßnahmen ergreifen:
 
-- Aufbau einer Gemeinschaft von Freiwilligen, die sich für KI-Sicherheit einsetzen.
-- Information der Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen.
-- Förderung des Gemeinschaftswachstums durch Organisation von sozialen Veranstaltungen.
-- Verteilung von [Spenden](/donate) an Projekte, die mit unseren Zielen übereinstimmen.
-- Organisation von [Protesten](/protests) und anderen Formen des Aktivismus, um das Bewusstsein für die Risiken von KI zu schärfen.
-- Schulung von [Freiwilligen](/join), um sie zu effektiveren Befürwortern zu machen.
-- Recherche von politischen Maßnahmen und Aktualisierung [unseres Vorschlags](/proposal) entsprechend.
+- Eine Gemeinschaft von Freiwilligen aufbauen, um für KI-Sicherheit zu werben.
+- Die Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen informieren.
+- Die Gemeinschaft durch die Organisation von sozialen Veranstaltungen [wachsen](/growth-strategy) lassen.
+- [Spenden](/donate) an Projekte verteilen, die mit unseren Zielen übereinstimmen.
+- [Proteste](/protests) und andere Formen des Aktivismus organisieren, um das Bewusstsein für die Risiken von KI zu schärfen.
+- [Freiwillige](/join) darüber aufklären, wie sie effektivere Fürsprecher werden können.
+- Politische Maßnahmen erforschen und [unseren Vorschlag](/proposal) entsprechend aktualisieren.
 
 #### Finanzielle Rechenschaftspflicht ("Financieele paragraaf")
 
@@ -56,8 +56,8 @@ Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die übersch
 
 ### Bericht über Aktivitäten
 
-Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) finden Sie auf den jeweiligen Seiten.
-Soziale Medien-Beiträge finden Sie hauptsächlich auf [X](https://x.com/PauseAI).
+Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) kann auf den jeweiligen Seiten gefunden werden.
+Soziale Medien-Beiträge können hauptsächlich auf [X](https://x.com/PauseAI) gefunden werden.
 Unser [Discord-Server](https://discord.gg/T3YrWUJsJ5) ist bei weitem unsere aktivste Gemeinschaft, mit durchschnittlich 100 Nachrichten pro Tag.
 
 ### Vorstand
@@ -103,12 +103,12 @@ Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31.
 
 PauseAI Global ist verantwortlich für:
 
-- Förderung des Wachstums der Bewegung.
-- Unterstützung lokaler PauseAI-Einheiten.
+- Die Förderung des Wachstums der Bewegung.
+- Die Unterstützung lokaler PauseAI-Einheiten.
 - Diese Website und die Verwaltung der Online-Discord-Gemeinschaft.
 - Freiwilligenmanagement und -wachstum.
 - Globale soziale Medien.
-- Organisation digitaler Veranstaltungen.
+- Organisation von digitalen Veranstaltungen.
 - Die globale Strategie und Theorie des Wandels.
 - Die globalen Finanzen und Spendenaktionen.
 - [Microgrants](/microgrants).
@@ -116,6 +116,6 @@ PauseAI Global ist verantwortlich für:
 Die nationalen/lokalen Einheiten sind verantwortlich für:
 
 - Physische Veranstaltungen und Proteste.
-- Erhaltung lokaler [Medienberichterstattung](/).
+- Lokale [Medienberichterstattung](/).
 - Lokale soziale Medien-Kanäle (z.B. [PauseAI UK](https://twitter.com/PauseAI_UK) und [PauseAI US](https://twitter.com/PauseAIus) Twitter)
 - Nationale politische Arbeit und Feedback.
