@@ -1,6 +1,8 @@
+
+
 ---
 title: PauseAI-Protest in Den Haag, Niederlande - 11. August
-description: Wir organisieren einen Protest, um eine Pause bei der Entwicklung gefährlicher KI zu fordern.
+description: Wir organisieren einen Protest, um eine Pause bei der Entwicklung gefährlicher künstlicher Intelligenz zu fordern.
 ---
 
 <script>
@@ -19,21 +21,21 @@ description: Wir organisieren einen Protest, um eine Pause bei der Entwicklung g
 
 ## Warum wir protestieren
 
-KI entwickelt sich rasant und wird immer leistungsfähiger, weit schneller als fast jeder KI-Wissenschaftler vorhergesagt hat.
+Künstliche Intelligenz entwickelt sich rasant und weit schneller als fast jeder KI-Wissenschaftler vorhergesagt hat.
 Milliarden werden in KI-Fähigkeiten investiert, und die Ergebnisse sind atemberaubend.
 Neue Modelle überbieten Menschen in vielen Bereichen.
 Mit zunehmenden Fähigkeiten steigen auch die Risiken.
-Wissenschaftler warnen sogar davor, dass KI möglicherweise die Menschheit zerstören könnte.
+Wissenschaftler warnen sogar davor, dass KI die Menschheit auslöschen könnte.
 
 Unsere Politiker nehmen dieses Thema nicht annähernd so ernst, wie sie sollten.
-Wir brauchen unsere Führer, um auf diese Warnungen zu hören.
-Wir brauchen sie, um Maßnahmen zu ergreifen und eine Pause einzulegen, um dieses Selbstmordrennen zu stoppen.
+Wir brauchen unsere Führer, um diese Warnungen zu hören.
+Wir brauchen sie, um Maßnahmen zu ergreifen und eine Pause bei der Entwicklung gefährlicher künstlicher Intelligenz einzuleiten.
 
 Wir fordern die niederländische Regierung auf:
 
 - KI-Sicherheitsexperten einzuladen, um das Parlament über diese Risiken zu informieren
-- Ein Parlamentsdebatt über die existenziellen Risiken von KI anzusetzen
-- Die Vorbereitungen für den KI-Gipfel später in diesem Jahr zu priorisieren und eine führende Rolle bei der Ausarbeitung effektiver Politik zu übernehmen
+- Ein Parlamentsdebatt über die existenziellen Risiken von KI zu führen
+- Die Vorbereitungen für den KI-Gipfel im Vereinigten Königreich später in diesem Jahr zu priorisieren und eine führende Rolle bei der Ausarbeitung effektiver Politik zu übernehmen
 - Internationale Zusammenarbeit zu fördern, um ausreichende Sicherheitsmaßnahmen auf globaler Ebene umzusetzen
 
 ## Agenda
@@ -44,16 +46,46 @@ Wir fordern die niederländische Regierung auf:
 
 ## Kontakt
 
-- Joep Meindertsma ([twitter](https://twitter.com/joepmeindertsma), [email](mailto:joep@ontola.io))
+- Joep Meindertsma ([Twitter](https://twitter.com/joepmeindertsma), [E-Mail](mailto:joep@ontola.io))
 
-## Pressemitteilung (EN): PauseAI fordert die niederländische Regierung auf, menschheitsbedrohende KI-Katastrophen zu verhindern
+## Pressemitteilung (EN): PauseAI fordert niederländische Regierung auf, menschheitsbedrohende KI-Katastrophen zu verhindern
 
-Am Freitag, den 11. August, um 16:00 Uhr, wird eine Gruppe besorgter Bürger unter dem Namen [PauseAI](http://pauseai.info) vor dem Innenministerium zusammenkommen, um die Entwicklungen im Bereich der (generativen) KI anzusprechen. Sie fordern die Regierung auf, Maßnahmen zu ergreifen, um die Entwicklung leistungsfähiger und möglicherweise gefährlicher künstlicher Intelligenz zu pausieren.
+Am Freitag, den 11. August, um 16:00 Uhr, wird eine Gruppe besorgter Bürger unter dem Namen [PauseAI](http://pauseai.info) vor dem Innenministerium zusammenkommen, um die Entwicklungen im Bereich der künstlichen Intelligenz anzusprechen. Sie fordern die Regierung auf, Maßnahmen zu ergreifen, um die Entwicklung gefährlicher künstlicher Intelligenz zu stoppen.
 
-Bisher hat die niederländische Regierung keine Schritte unternommen, um die existenzielle Bedrohung durch KI zu bekämpfen. Es gab keine Reaktion auf Warnungen und Erklärungen von Organisationen wie den [UN](https://www.linkedin.com/feed/update/urn:li:activity:7075767810336923648), dem Premierminister des [Vereinigten Königreichs](https://www.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak?) (wo ein Gipfel zu diesem Thema für den Herbst geplant ist) und [KI-Experten](https://nos.nl/op3/artikel/2012979-wetenschappers-waarschuwen-voor-kunstmatige-intelligentie), selbst nachdem eine [Motion](https://www.parlementairemonitor.nl/9353000/1/j9vvij5epmj1ey0/vm1rshv2ulz5) im Parlament zu solchen Maßnahmen aufgerufen hatte.
+Bisher hat die niederländische Regierung keine Schritte unternommen, um die existenzielle Bedrohung durch KI zu bekämpfen. Es gab keine Reaktion auf Warnungen und Erklärungen von Organisationen wie den [Vereinten Nationen](https://www.linkedin.com/feed/update/urn:li:activity:7075767810336923648), dem Premierminister des [Vereinigten Königreichs](https://www.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak?) (wo ein Gipfel zu diesem Thema für den Herbst geplant ist) und [KI-Experten](https://nos.nl/op3/artikel/2012979-wetenschappers-waarschuwen-voor-kunstmatige-intelligentie), selbst nachdem eine [Motion](https://www.parlementairemonitor.nl/9353000/1/j9vvij5epmj1ey0/vm1rshv2ulz5) im Parlament zu solchen Maßnahmen aufgerufen hatte.
 
-"[Wissenschaftler](https://www.safe.ai/statement-on-ai-risk) schlagen Alarm: KI könnte das Ende der Menschheit bedeuten. Experten schätzen die Wahrscheinlichkeit sogar auf [30%](https://forum.effectivealtruism.org/posts/8CM9vZ2nnQsWJNsHx/existential-risk-from-ai-survey-results). KI-Unternehmen rasen vorwärts und riskieren unser aller Leben, während die Regulierung hoffnungslos hinterherhinkt." - Joep Meindertsma, CEO von Ontola und Gründer von PauseAI.
+"[Wissenschaftler](https://www.safe.ai/statement-on-ai-risk) schlagen Alarm: KI könnte das Ende der Menschheit bedeuten. Experten schätzen die Wahrscheinlichkeit dafür auf 30 %. KI-Unternehmen rasen vorwärts und riskieren unser aller Leben, während die Regulierung hoffnungslos hinterherhinkt." - Joep Meindertsma, CEO von Ontola und Gründer von PauseAI.
 
-Die Sorgen über die Risiken, die mit KI verbunden sind, wachsen weltweit rasant. Diese Woche veröffentlichte das Forschungsinstitut Axios die Ergebnisse einer Meinungsumfrage unter Einwohnern der Vereinigten Staaten, die zeigte, dass 86% der Befragten besorgt über katastrophale KI-Risiken sind.
+Die Sorgen über die Risiken von KI wachsen weltweit rasant. Diese Woche veröffentlichte das Forschungsunternehmen Axios die Ergebnisse einer Meinungsumfrage unter Einwohnern der Vereinigten Staaten, die ergab, dass 86 % der Befragten besorgt über katastrophale KI-Risiken sind.
 
-"Die USA haben Senatsanhörungen, bei denen
+"Die USA führen Senatsanhörungen durch, bei denen KI-Experten darüber sprechen, wie KI das Ende der Menschheit herbeiführen könnte. Warum wird dieses Thema in der niederländischen Politik ignoriert? Insbesondere angesichts der Tatsache, dass die Niederlande eine Schlüsselrolle in der Chip-Lieferkette spielen, dank ASML. Deshalb kann es auch eine Schlüsselrolle bei der KI-Regulierung spielen. Alle Leben stehen auf dem Spiel!" - Joep Meindertsma
+
+PauseAI fordert die niederländische Regierung auf:
+
+- KI-Sicherheitsexperten einzuladen, um das Parlament über diese Risiken zu informieren
+- Ein Parlamentsdebatt über die existenziellen Risiken von KI zu führen
+- Die Vorbereitungen für den KI-Gipfel im Vereinigten Königreich später in diesem Jahr zu priorisieren und eine führende Rolle bei der Ausarbeitung effektiver Politik zu übernehmen
+- Internationale Zusammenarbeit zu fördern, um ausreichende Sicherheitsmaßnahmen auf globaler Ebene umzusetzen
+
+Für weitere Informationen besuchen Sie [PauseAI.info](http://pauseai.info). Kontakt: Joep Meindertsma ([Twitter](https://twitter.com/joepmeindertsma), [E-Mail](mailto:joep@ontola.io)) & Ruben Dieleman ([E-Mail](mailto:ruben@existentialriskobservatory.org))
+
+## Pressemitteilung (NL): PauseAI roept overheid op tot het voorkomen van mensbedreigende, AI-gerelateerde rampen
+
+Op vrijdag 11 augustus om 16.00 komt een groep mensen samen die zich zorgen maken over de ontwikkelingen op het gebied van (generatieve) AI bij het Ministerie van Binnenlandse Zaken onder de naam [PauseAI](http://pauseai.info). Zij roepen de regering op zich in te spannen voor een pauze van de ontwikkeling van krachtige en mogelijk gevaarlijke kunstmatige intelligentie.
+
+Tot nu toe heeft de Nederlandse regering echter geen actie ondernomen tegen de existentiële bedreiging van AI . Er is nog niet [gereageerd](https://www.linkedin.com/feed/update/urn:li:activity:7075767810336923648) op waarschuwingen en uitspraken van onder meer de [VN](https://www.linkedin.com/feed/update/urn:li:activity:7075088560508284928), de premier van het [Verenigd Koninkrijk](https://www.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak?) (waar in het najaar een top wordt georganiseerd over dit onderwerp) en [experts op het gebied van AI](https://nos.nl/op3/artikel/2012979-wetenschappers-waarschuwen-voor-kunstmatige-intelligentie). Ook niet nadat eerder dit jaar een [motie](https://www.parlementairemonitor.nl/9353000/1/j9vvij5epmj1ey0/vm1rshv2ulz5) in de Tweede Kamer daartoe aanspoorde.
+
+"[Wetenschappers](https://www.safe.ai/statement-on-ai-risk) trekken aan de bel: AI kan het einde betekenen van de mensheid. Experts geven dit gemiddeld zelfs 30% kans. AI bedrijven racen vooruit en gokken met al onze levens, terwijl regulering hopeloos achter blijft." - Joep Meindertsma, directeur van softwarebedrijf Ontola en oprichter van PauseAI.
+
+De zorgen over de risico's die kleven aan AI zijn mondiaal snel aan het groeien. Deze week nog publiceerde onderzoeksbureau Axios de resultaten van een opiniepeiling onder inwoners van de Verenigde Staten, waaruit [bleek](https://www.axios.com/2023/08/09/ai-voters-trust-government-regulation) dat 86% zich zorgen maakt over catastrofale risico's van AI.
+
+"De VS heeft senaatshoorzittingen waarbij AI experts vertellen over hoe AI het einde kan vormen van de mensheid. Waarom wordt dit onderwerp genegeerd in de Nederlandse politiek? En dat terwijl Nederland een sleutelrol speelt in de chip supply chain, dankzij ASML. Hierom kan het óók een sleutelrol spelen in AI compute governance. Alle levens staan op het spel!" - Joep Meindertsma
+
+PauseAI wil dat de Nederlandse regering:
+
+- AI safety-experts uitnodigt om het parlement te informeren over deze risico's
+- Een parlementair debat inroostert over de existentiële risico's van geavanceerde kunstmatige intelligentie
+- Voorbereidingen op de voorgestelde AI-top in het Verenigd Koninkrijk van later dit jaar voorrang geeft en een leidende rol neemt inzake effectief beleid
+- Internationaal samenwerkt om een toereikende set maatregelen op mondiale schaal toegepast te krijgen, waaronder een zogenoemde AI-pauze.
+
+Voor meer info, bezoek [PauseAI.info](http://pauseai.info). Contact: Joep Meindertsma ([Twitter](https://twitter.com/joepmeindertsma), [E-Mail](mailto:joep@ontola.io)) & Ruben Dieleman ([E-Mail](mailto:ruben@existentialriskobservatory.org))
