@@ -9,13 +9,11 @@ Die Gruppe der Menschen, die sich der Risiken von künstlicher Intelligenz bewus
 Sie gehören jetzt dazu.
 **Ihre Handlungen sind wichtiger, als Sie denken.**
 
-## [Melden Sie sich hier an](https://airtable.com/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form)
-
 Möglichkeiten, wie Sie beitreten können:
 
 - Treten Sie einer [lokale Gemeinschaft](/communities) oder einem [Ereignis](/events) bei oder gründen Sie eine.
 - Treten Sie dem PauseAI-[Discord](https://discord.gg/2XXWXvErfA) bei, wo die meisten Zusammenarbeiten stattfinden.
-- Füllen Sie dieses Formular aus, und Sie können mit dem Onboarding-Team über Ihre Interessen und Möglichkeiten sprechen, an Projekten oder [Teams](/teams) teilzunehmen:
+- Füllen Sie dieses Formular aus, und Sie können mit dem Onboarding-Team über Ihre Interessen und Möglichkeiten, an Projekten oder [Teams](/teams) teilzunehmen, chatten oder einen Anruf durchführen:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
