@@ -1,10 +1,12 @@
 
 
+---
 title: Rechtliche Informationen
 description: Gesetzlich vorgeschriebene Informationen über PauseAI.
+---
 
 Diese Website wird von PauseAI Global betrieben.
-Weitere Informationen über die internen Abläufe von PauseAI finden Sie auf der [Organisationsseite](/organization).
+Mehr über die internen Abläufe von PauseAI erfahren Sie auf der [Organisationsseite](/organization).
 
 ## PauseAI Global (Stichting PauseAI)
 
@@ -56,8 +58,8 @@ Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die übersch
 
 ### Bericht über Aktivitäten
 
-Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) kann auf den jeweiligen Seiten gefunden werden.
-Soziale Medien-Beiträge können hauptsächlich auf [X](https://x.com/PauseAI) gefunden werden.
+Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) finden Sie auf den jeweiligen Seiten.
+Soziale Medien-Beiträge finden Sie hauptsächlich auf [X](https://x.com/PauseAI).
 Unser [Discord-Server](https://discord.gg/T3YrWUJsJ5) ist bei weitem unsere aktivste Gemeinschaft, mit durchschnittlich 100 Nachrichten pro Tag.
 
 ### Vorstand
@@ -106,9 +108,9 @@ PauseAI Global ist verantwortlich für:
 - Die Förderung des Wachstums der Bewegung.
 - Die Unterstützung lokaler PauseAI-Einheiten.
 - Diese Website und die Verwaltung der Online-Discord-Gemeinschaft.
-- Freiwilligenmanagement und -wachstum.
+- Die Verwaltung und das Wachstum von Freiwilligen.
 - Globale soziale Medien.
-- Organisation von digitalen Veranstaltungen.
+- Die Organisation digitaler Veranstaltungen.
 - Die globale Strategie und Theorie des Wandels.
 - Die globalen Finanzen und Spendenaktionen.
 - [Microgrants](/microgrants).
@@ -116,6 +118,6 @@ PauseAI Global ist verantwortlich für:
 Die nationalen/lokalen Einheiten sind verantwortlich für:
 
 - Physische Veranstaltungen und Proteste.
-- Lokale [Medienberichterstattung](/).
+- Die Erlangung lokaler [Medienberichterstattung](/).
 - Lokale soziale Medien-Kanäle (z.B. [PauseAI UK](https://twitter.com/PauseAI_UK) und [PauseAI US](https://twitter.com/PauseAIus) Twitter)
 - Nationale politische Arbeit und Feedback.
