@@ -2,17 +2,17 @@
 
 ---
 title: Umweltauswirkungen von KI
-description: Die Umweltauswirkungen von KI sind ein Problem, nicht nur wegen der unmittelbaren menschlichen Kosten, sondern auch weil Roboter enorm energiehungrig sind und somit die nicht nachhaltige, unhaltbare Schädigung der Erde beschleunigen.
+description: Die Umweltauswirkungen von KI sind ein Problem, nicht nur wegen der unmittelbaren menschlichen Kosten, sondern auch weil Roboter enorm energiehungrig sind und somit die nicht nachhaltigen, unhaltbaren Schäden, die wir der Erde zufügen, beschleunigen.
 ---
 
-> „Der Aufstieg der Roboter ist ein Problem, nicht nur wegen der unmittelbaren menschlichen Kosten, sondern auch weil Roboter enorm energiehungrig sind und somit die nicht nachhaltige, unhaltbare Schädigung der Erde beschleunigen.“
+> „Der Aufstieg der Roboter ist ein Problem, nicht nur wegen der unmittelbaren menschlichen Kosten, sondern auch weil Roboter enorm energiehungrig sind und somit die nicht nachhaltigen, unhaltbaren Schäden, die wir der Erde zufügen, beschleunigen.“
 > – [Rupert Read](https://www.theguardian.com/theobserver/2016/mar/27/leters-robots-energy-consuming), ehemaliger Sprecher von Extinction Rebellion
 
 Die unmittelbaren Schäden werden immer intensiver.
 
 Konzerne füttern die Daten unserer Freunde und Familien in KI-Systeme ein. Konzerne verfeinern KI, um unsere langjährigen Kollegen billig zu ersetzen. Konzerne verkaufen Bots, die verwendet werden, um uns zu manipulieren und zu zielen.
 
-Es ist leicht, den diffusen Schaden von KI für unsere Umwelt zu übersehen.
+Es ist leicht, den diffusen Schaden zu übersehen, den KI unserem Umfeld zufügt.
 
 ## Energieverbrauch {#burning-energy}
 
@@ -21,8 +21,8 @@ Um diese nächsten Sätze in Antworten an Benutzer zu generieren, verbraucht Cha
 
 Bis 2027 könnten alle KI-Systeme so viel Energie verbrauchen wie [ein ganzes Land](https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricity-as-an-entire-country.html), nur um unsere Daten in Rechenzentren zu verarbeiten.
 
-Rechenzentren, die Milliarden von [Litern](https://www.theguardian.com/world/2023/jul/11/uruguay-drought-water-google-data-center) Trinkwasser verbrauchen, um die überhitzte Hardware von KI zu kühlen.
-Rechenzentren, die Milliarden von [Tonnen](https://ainowinstitute.org/spotlight/climate) Kohlendioxid ausstoßen und die Atmosphäre erwärmen.
+Rechenzentren, die Milliarden von [Litern](https://www.theguardian.com/world/2023/jul/11/uruguay-drought-water-google-data-center) Trinkwasser verbrauchen, um die überhitzte Hardware von KI-Systemen zu kühlen.
+Rechenzentren, die Milliarden von [Tonnen](https://ainowinstitute.org/spotlight/climate) Kohlendioxid emittieren und die Atmosphäre erwärmen.
 
 Und doch sind Rechenzentren nur eine Stufe im Lebenszyklus von KI.
 
@@ -30,7 +30,7 @@ Und doch sind Rechenzentren nur eine Stufe im Lebenszyklus von KI.
 
 Die heutige KI ist natürlich nicht „lebendig“.
 
-KI sieht noch nicht wie die frei beweglichen Roboter aus, die wir in Filmen sehen. KI läuft in Rechenzentren, auf Hardware, die sich abnutzt und alle ~4 Jahre ersetzt wird.
+KI sieht noch nicht aus wie die frei beweglichen Roboter, die wir in Filmen sehen. KI läuft in Rechenzentren, auf Hardware, die sich abnutzt und alle ~4 Jahre ersetzt wird.
 
 Aber die Herstellung dieser Hardware erfordert [hunderte](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6237170/#!po=17.9245) [krebserregende Chemikalien](https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it).
 Die benötigten Materialien wurden bei glühenden Temperaturen geschmolzen und wieder zusammengesetzt.
@@ -45,13 +45,13 @@ KI ist giftig für unsere Umwelt. Konzerne verstecken die Toxizität, außerhalb
 
 ## Dieser Boom ist anders {#this-boom-is-different}
 
-Glücklicherweise haben Klimaaktivisten erkannt, dass KI eine erstaunliche Menge an Energie verbraucht. Staaten sind gezwungen, [Kohlekraftwerke](https://futurism.com/the-byte/coal-plants-ai) in Betrieb zu halten, um den Bedarf von KI-Rechenzentren zu decken.
+Glücklicherweise haben Klimaaktivisten erkannt, dass KI eine erstaunliche Menge an Energie verbraucht. Staaten sind gezwungen, [Kohlekraftwerke](https://futurism.com/the-byte/coal-plants-ai) in Betrieb zu halten, um den Bedarf an KI-Rechenzentren zu decken.
 Sogar der CEO von OpenAI gibt zu: „Wir schätzen die Energiebedürfnisse dieser Technologie immer noch nicht richtig ein.“
 
 Klimaaktivisten sind diesmal schneller auf den Beinen.
-Jahre zuvor begann ein weiterer Tech-Boom: Kryptowährungen.
+Jahre zuvor begann ein weiterer Technologie-Boom: Kryptowährungen.
 Hardware verbrauchte [0,5%](https://www.whitehouse.gov/ostp/news-updates/2022/09/08/fact-sheet-climate-and-energy-implications-of-crypto-assets-in-the-united-states/#:~:text=Crypto%2Dasset%20activity%20in%20the,railroads%20in%20the%20United%20States.) der US-Energie, um Kryptowährungen zu berechnen.
-Es wurde so schlimm, dass Texas [Millionen Dollar an Steuergeldern](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/) gab, um ein Bitcoin-Unternehmen dazu zu bringen, den Stromverbrauch zu reduzieren.
+Es wurde so schlimm, dass Texas [Millionen Dollar an Steuergeldern](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/) gab, um ein Bitcoin-Unternehmen dazu zu bringen, weniger Strom zu verbrauchen.
 
 Aber hier ist der entscheidende Unterschied:
 
@@ -66,19 +66,19 @@ KI, um zu extrahieren, zu exploitieren, zu extrahieren.
 - Konzerne extrahieren Profit mithilfe ungetesteter Bots
 - Um in noch mehr giftige Hardware-Fabriken zu investieren
 - Um noch mehr energiehungrige Rechenzentren zu bauen
-- Um noch mehr unserer kostenlosen Daten in KI einzuspeisen
+- Um noch mehr unserer kostenlosen Daten in KI-Systeme einzuspeisen
 - Um noch mehr Arbeit billig zu automatisieren
 - Um noch mehr Profit zu extrahieren
 
 Dies ist ein Teufelskreis.
 
-Nach zwei Jahrhunderten des Wettbewerbs um die Skalierung ressourcenintensiver Maschinen steht die Gesellschaft bereits kurz vor dem [Kollaps](https://youtu.be/vi166hJv6Qk).
+Nach zwei Jahrhunderten des Wettbewerbs um die Skalierung ressourcenintensiver Maschinen steht die Gesellschaft bereits am Rande des [Kollapses](https://youtu.be/vi166hJv6Qk).
 Um die Gesellschaft zu schützen, warum verringern wir nicht den übermäßigen Einsatz von Unternehmens-Technologie?
 
 KI-Konzerne beschleunigen unsere Klimakrise. Sie skalieren Maschinenmodelle, um menschliches Verhalten vorherzusagen. Sie automatisieren allmählich die Arbeit, die benötigt wird, um ressourcenintensive [Maschinen](https://www.euronews.com/green/2020/05/06/a-robot-takeover-is-possible-so-what-about-the-planet) zu reproduzieren.
 
 ## Handeln {#act}
 
-- **Einfach**: Hören Sie [Forschern](https://shows.acast.com/the-data-fix/episodes/empathy-with-steven-gonzalez-monserrate) zu, die die Umweltverschmutzung durch KI untersuchen.
-- **Mittel**: Sprechen Sie mit [Klimaaktivisten](https://rebellion.global/) über gemeinsame Bedenken.
+- **Einfach**: Hören Sie [Forschern](https://shows.acast.com/the-data-fix/episodes/empathy-with-steven-gonzalez-monserrate) zu, die den Lebenszyklus von KI untersuchen.
+- **Mittel**: Sprechen Sie mit [Klimaaktivisten](https://rebellion.global/) über gemeinsame Anliegen.
 - **Spielveränderer**: Organisieren Sie eine [gemeinsame Protestaktion](https://blogs.lse.ac.uk/medialse/2022/11/02/big-techs-new-headache-data-centre-activism-flourishes-across-the-world/) bei einem KI-Rechenzentrum.

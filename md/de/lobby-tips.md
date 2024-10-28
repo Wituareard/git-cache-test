@@ -9,18 +9,18 @@ description: Wie man die eigene Regierung davon überzeugt, dass sie an einer Pa
 
 Sie benötigen keinen Abschluss in KI, keine spezielle Ausbildung.
 Sie können sich an Ihre Vertreter wenden und ihnen über die Risiken von KI berichten.
-Es ist _ihr Job_, _ihren Wählern_ zuzuhören.
+Es ist _ihre Aufgabe_, den _Anliegen ihrer Wähler_ zuzuhören.
 Sie repräsentieren _Sie_.
 
 Also scheuen Sie sich nicht, sich an sie zu wenden.
 
-Wenn Sie aus den USA stammen, können Sie unseren speziellen [US-Lobbying-Leitfaden](/us-lobby-guide) lesen.
+Wenn Sie aus den USA stammen, können Sie unseren speziellen [US-Lobbying-Leitfaden](/us-lobby-guide) konsultieren.
 
 ## Finden Sie Menschen, die Ihnen helfen {#find-people-to-help-you}
 
 - Es kann nützlich sein, Menschen zu finden, die Erfahrung im Lobbying haben und die politische Kultur in Ihrem Land kennen.
-- Erwarten Sie nicht, die perfekte Person sofort zu finden. Sie müssen iterieren. Treffen Sie sich mit Menschen (auch wenn es nur ein 30-minütiges Gespräch ist), fragen Sie sie, ob sie wissen, mit wem Sie sprechen sollten. Dies wird viel schneller gehen, als Sie denken!
-- Setzen Sie nicht alle Ihre Anstrengungen auf eine Kontaktperson. Versuchen Sie mehrere Ansätze, mehrere Menschen. Wenn mehrere Menschen denselben Namen nennen, ist es wahrscheinlich eine gute Idee, sich an sie zu wenden.
+- Erwarten Sie nicht, die perfekte Person auf Anhieb zu finden. Sie müssen iterieren. Treffen Sie sich mit Menschen (auch wenn es nur ein 30-minütiges Gespräch ist), fragen Sie sie, ob sie wissen, mit wem Sie sprechen sollten. Dies wird viel schneller gehen, als Sie denken!
+- Setzen Sie nicht alle Ihre Hoffnungen auf einen Kontakt. Versuchen Sie mehrere Ansätze, mehrere Menschen. Wenn mehrere Menschen denselben Namen nennen, ist es wahrscheinlich eine gute Idee, sich an sie zu wenden.
 - Wenn Menschen technisch versiert sind, haben Sie eine höhere Chance, dass sie dieses Problem ernst nehmen.
 
 ## Kommunizieren Sie klar über die Dringlichkeit und die Risiken {#communicate-clearly-about-the-urgency-and-the-risks}
@@ -28,7 +28,7 @@ Wenn Sie aus den USA stammen, können Sie unseren speziellen [US-Lobbying-Leitfa
 Für viele Menschen ist es leicht, das Risiko von KI als Science-Fiction-Unsinn abzutun.
 Deshalb ist es wichtig, klar zu kommunizieren, was Experten sagen.
 Beachten Sie, dass die [drei meistzitierten KI-Forscher](https://twitter.com/PauseAI/status/1734641804245455017) alle vor [x-Risiken](/xrisk) warnen.
-Lesen Sie die [Umfragen](/polls-and-surveys) und die [Zitate](/quotes) für Beispiele.
+Überprüfen Sie die [Umfragen](/polls-and-surveys) und die [Zitate](/quotes)-Seiten für Beispiele.
 
 ## Finden Sie Ihr ultimatives Ziel {#find-your-ultimate-target}
 
@@ -38,10 +38,10 @@ Lesen Sie die [Umfragen](/polls-and-surveys) und die [Zitate](/quotes) für Beis
 
 ## Schreiben Sie einen Brief oder eine E-Mail {#write-a-letter-or-email}
 
-- Wir haben eine App speziell dafür entwickelt! Lesen Sie den [E-Mail-Builder](/email-builder).
+- Wir haben eine App speziell dafür entwickelt! Überprüfen Sie den [E-Mail-Builder](/email-builder).
 - Ihre E-Mail muss gut sein, aber sie muss nicht perfekt sein. Arbeiten Sie nicht monatelang daran, oder schlimmer noch - senden Sie sie gar nicht.
 - **Optional**: Berücksichtigen Sie, Unterschriften von Menschen zu sammeln, die mit Ihnen übereinstimmen. Dies wird Ihren Brief stärker machen. Finden Sie Professoren, Meinungsbildner, Menschen mit Status, die ihn unterzeichnen. Sie sollten in der Lage sein, ein paar einfach durch Googeln zu finden. Bitten Sie die Menschen, die Ihnen helfen, weitere Menschen zu finden. Die erste Unterschrift ist die schwierigste. Je höher der Status des ersten Unterzeichners ist, desto leichter wird es, die Liste zu erweitern.
-- **Optional**: Berücksichtigen Sie, den Brief zu veröffentlichen. Ein offener Brief ist ein starkes Werkzeug. Es kann den Prozess beschleunigen, aber es kann auch Ihnen schaden, wenn die Regierung in Abwehrhaltung geht, anstatt die Führung zu übernehmen. Diskutieren Sie dies mit den lokalen Lobbyisten.
+- **Optional**: Berücksichtigen Sie, den Brief zu veröffentlichen. Ein offener Brief ist ein mächtiges Werkzeug. Es kann den Prozess beschleunigen, aber es kann auch Ihnen schaden, wenn die Regierung in Abwehrhaltung geht, anstatt die Führung zu übernehmen. Diskutieren Sie dies mit den lokalen Lobbyisten.
 
 ## Während des Treffens {#during-the-meeting}
 
