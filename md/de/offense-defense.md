@@ -1,17 +1,19 @@
+
+
 ---
-title: Angriffs- und Verteidigungsgleichgewicht in der KI-Sicherheit
-description: Wie man über das Gleichgewicht zwischen Angriff und Verteidigung in der KI-Sicherheit nachdenkt
+title: Angriff-Abwehr-Gleichgewicht in der KI-Sicherheit
+description: Wie man über das Gleichgewicht zwischen Angriff und Abwehr in der KI-Sicherheit nachdenkt
 ---
 
-Das Angriffs-Verteidigungsgleichgewicht bezieht sich auf die relativen Stärken und Schwächen von Angriffs- und Verteidigungsstrategien, normalerweise im Kontext von militärischen Konflikten oder sportlichen Wettbewerben.
+Das Angriff-Abwehr-Gleichgewicht bezieht sich auf die relativen Stärken und Schwächen von Angriffs- und Abwehrstrategien, normalerweise im Kontext von militärischen Konflikten oder Sportwettbewerben.
 
-Da KI eine Dual-Use-Technologie ist, können wir diese Angriffs-Verteidigungsgleichgewichte in verschiedenen KI-Sicherheitsproblemen beobachten:
+Da KI eine Dual-Use-Technologie ist, können wir diese Angriff-Abwehr-Gleichgewichte in verschiedenen KI-Sicherheitsproblemen beobachten:
 
 - Erstellung gefälschter Medien, Erkennung gefälschter Medien
-- Cyberangriffe, Cyberverteidigung
-- KI-Übernahme, KI-Verteidigung gegen Übernahme
+- Cyberangriffe, Cyberabwehr
+- KI-Übernahme, KI-Abwehr gegen Übernahme
 
-Wie wird sich das Angriffs-Verteidigungsgleichgewicht in der KI-Sicherheit entwickeln?
+Wie wird sich das Angriff-Abwehr-Gleichgewicht in der KI-Sicherheit entwickeln?
 
 ## Gefälschte Medien
 
@@ -25,17 +27,17 @@ Ein paar Monate später wurde ein Fotowettbewerb mit einem KI-generierten Bild g
 Wir haben auch KIs, die Deepfakes erkennen können.
 Dies führt zu einem Katz-und-Maus-Spiel zwischen den Fälschern und den Detektoren.
 
-Bei Texten scheint die Angriffsseite zu gewinnen.
+Für Texte scheint die Angriffsseite zu gewinnen.
 OpenAI [stellt ihren KI-Klassifizierer](https://news.ycombinator.com/item?id=36862850) aufgrund geringer Genauigkeit ein.
 
 Glücklicherweise können Maßnahmen wie [Wasserzeichen](https://arxiv.org/abs/2303.07205) und digitale Signaturen verwendet werden, um Fälschungen zu erkennen.
 Die Anforderung von Signaturen für alle Medien, die wir konsumieren, könnte eine geeignete Lösung sein.
 
-## Cyberangriffe vs. Verteidigung
+## Cyberangriffe vs. Cyberabwehr
 
 Moderne große Sprachmodelle können verwendet werden, um Schwachstellen in Software zu finden.
-Wenn Sie eine Schwachstelle entdecken, können Sie sie beheben (Verteidigung) oder ausnutzen (Angriff).
-Und glücklicherweise sind die meisten Menschen auf der Verteidigungsseite.
+Wenn Sie eine Schwachstelle entdecken, können Sie sie beheben (Abwehr) oder ausnutzen (Angriff).
+Und glücklicherweise sind die meisten Menschen auf der Abwehrseite.
 
 Es gibt jedoch einige Vorteile, die Angreifer gegenüber Verteidigern haben:
 
@@ -45,23 +47,23 @@ Es gibt jedoch einige Vorteile, die Angreifer gegenüber Verteidigern haben:
 ## Biohazards und Biodefense
 
 KI kann verwendet werden, um neue biologische Agenzien zu entwerfen oder bei der Entwicklung einer Pandemie zu helfen.
-Eine Gruppe von Studenten konnte einen Chatbot verwenden, um [alle Schritte zu erstellen, die benötigt werden, um eine neue Pandemie zu schaffen](https://arxiv.org/abs/2306.03809).
-Es könnte jedoch auch verwendet werden, um neue Impfstoffe, Medikamente oder Verteidigungen gegen biologische Agenzien zu entwickeln.
+Eine Gruppe von Studenten konnte einen Chatbot verwenden, um [alle Schritte zu erstellen, die benötigt werden, um eine neue Pandemie zu erstellen](https://arxiv.org/abs/2306.03809).
+Es könnte jedoch auch verwendet werden, um neue Impfstoffe, Medikamente oder Abwehrmittel gegen biologische Agenzien zu entwickeln.
 
 - **Viren verbreiten sich schneller als Impfstoffe.** Ein Virus ist buchstäblich eine selbstreplizierende Maschine. Eine Impfung hingegen erfordert viel Aufwand, um sie herzustellen und zu verteilen.
 
 ## Unbekannte Technologie und Risiken
 
-Eine KI, die viel intelligenter ist als Menschen, könnte ihre überlegene Verständnis der Realität nutzen, um neue Technologien zu entwickeln.
+Eine KI, die weit intelligenter ist als Menschen, könnte ihre überlegene Verständnis der Realität nutzen, um neue Technologien zu entwickeln.
 Vielleicht einige selbstreplizierende Nanobots, die alle Materie in Kopien von sich selbst umwandeln können, oder kleine Maschinen, die die Gehirne von Menschen beeinflussen können.
-Es ist unmöglich vorherzusagen, was genau diese Art von Technologie sein wird (wir müssten mindestens so intelligent sein wie die KI), aber wir können immer noch über das Angriffs-Verteidigungsgleichgewicht nachdenken.
-Die Schlussfolgerung ist nicht besonders schwierig: Wir haben keine Ahnung, was kommt, und wir haben keine Ahnung, wie wir uns dagegen verteidigen können.
+Es ist unmöglich, genau vorherzusagen, was für eine Technologie dies sein wird (wir müssten mindestens so intelligent sein wie die KI), aber wir können immer noch über das Angriff-Abwehr-Gleichgewicht nachdenken.
+Die Schlussfolgerung ist nicht schwer: wir haben keine Ahnung, was kommt, und wir haben keine Ahnung, wie wir uns dagegen verteidigen können.
 Wir sind im Nachteil.
 
 ## Schlussfolgerung
 
-Viele KI-Risiken haben ein Angriffs-Verteidigungsgleichgewicht.
-Bei gefälschten Medien könnten wir digitale Signaturen verwenden, um Fälschungen zu erkennen, und das Gleichgewicht zugunsten der Verteidigung verschieben.
-Bei Cyberangriffen, Biohazards und unbekannter Technologie scheint die Angriffsseite im Vorteil zu sein.
+Viele KI-Risiken haben ein Angriff-Abwehr-Gleichgewicht.
+Für gefälschte Medien könnten wir digitale Signaturen verwenden, um Fälschungen zu erkennen, und das Gleichgewicht zugunsten der Abwehr verschieben.
+Für Cyberangriffe, Biohazards und unbekannte Technologie scheint die Angriffsseite im Vorteil zu sein.
 
-Die wichtige politische Implikation daraus ist: [Lasst uns diese Technologie nicht erst entwickeln](/proposal).
+Die wichtige politische Implikation daraus ist: [Lasst uns diese Technologie nicht entwickeln](/proposal).
