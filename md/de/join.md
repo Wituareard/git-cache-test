@@ -13,7 +13,7 @@ Sie gehören jetzt dazu.
 
 Möglichkeiten, wie Sie beitreten können:
 
-- Treten Sie einer [lokalen Gemeinschaft](/communities) oder einem [Event](/events) bei.
+- Treten Sie einer [lokale Gemeinschaft](/communities) oder einem [Event](/events) bei.
 - Treten Sie dem PauseAI-[Discord](https://discord.gg/2XXWXvErfA) bei, wo die meisten Zusammenarbeiten stattfinden.
 - Füllen Sie dieses Formular aus, und Sie können mit dem Onboarding-Team über Ihre Interessen und Möglichkeiten sprechen, an Projekten oder [Teams](/teams) teilzunehmen:
 
