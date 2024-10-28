@@ -12,7 +12,7 @@ Dies ist eine Zusammenstellung von Meinungsverschiedenheiten über die Gefahren 
 Das könnte sein, wir stimmen dem nicht zu.
 Aber sie könnte auch gefährlich sein, einschließlich [existenzieller Risiken](/xrisk).
 
-## Menschliches Aussterben? Das ist nur Werbung von KI-Unternehmen für ihre Technologie
+## Menschliches Aussterben? Das ist nur Werbung für die Technologie von KI-Unternehmen
 
 Aber es sind nicht nur KI-Unternehmen, die sagen, dass es ein existenzielles Risiko ist.
 
@@ -22,7 +22,7 @@ Aber es sind nicht nur KI-Unternehmen, die sagen, dass es ein existenzielles Ris
 
 Mehr über [x-Risiken](/xrisk) erfahren.
 
-## Die Kontrolle verlieren? KI ist nur ein Stück Software, es wird von Menschen entworfen
+## Kontrolle verlieren? KI ist nur ein Stück Software, es wird von Menschen entworfen
 
 Moderne KI wird nicht entworfen, sondern trainiert.
 Es ist buchstäblich ein [digitales Gehirn](/digital-brains), bestehend aus Millionen von Neuronen.
@@ -66,8 +66,8 @@ Dies wird als _instrumentelle Konvergenz_ bezeichnet, [dieses Video erklärt es 
 
 ## Die KIs, die ich kenne, haben keinen eigenen Willen - sie tun einfach, was ihnen gesagt wird
 
-Auch wenn sie keine eigenen Ziele hat und nur Befehle befolgt, wird jemand irgendwann etwas Gefährliches damit tun.
-Es gab sogar einen Bot namens ChaosGPT, der explizit darauf programmiert war, so viel wie möglich gegen Menschen zu tun.
+Auch wenn sie keine eigenen Ziele hat und einfach Befehle befolgt, wird jemand irgendwann etwas Gefährliches damit tun.
+Es gab sogar einen Bot namens ChaosGPT, der explizit darauf programmiert war, so viel wie möglich für Menschen zu tun.
 Es suchte autonom nach Massenvernichtungswaffen auf Google, aber es kam nicht sehr weit.
 Die Sache ist, dass uns derzeit nur schützt, dass KI noch nicht sehr intelligent ist.
 
@@ -101,14 +101,14 @@ Mehr über [Machbarkeit](/feasibility) erfahren.
 
 ## Eine Pause wäre schlecht, weil...
 
-Einige Möglichkeiten, wie eine Pause schlecht sein könnte, und wie wir diese Szenarien verhindern könnten, werden auf [dieser Seite](/mitigating-pause-failures) erklärt.
-Aber wenn der Artikel Ihre Sorgen nicht abdeckt, können Sie uns über [diesen Link](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form) informieren.
+Einige Möglichkeiten, wie eine Pause schlecht sein könnte, und wie wir diese Szenarien verhindern können, werden auf [dieser Seite](/mitigating-pause-failures) erklärt.
+Aber wenn der Artikel Ihre Sorgen nicht abdeckt, können Sie uns [hier](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form) darüber informieren.
 
 ## Niemand will eine Pause
 
-70% der Menschen glauben bereits, dass Regierungen die KI-Entwicklung pausieren sollten.
+70% der Menschen glauben bereits, dass Regierungen die Entwicklung von KI pausieren sollten.
 Die [populäre Unterstützung](/polls-and-surveys) ist bereits da.
-Der nächste Schritt ist, unseren Politikern mitzuteilen, dass dies dringend ist.
+Der nächste Schritt ist, unseren Politikern zu sagen, dass dies dringend ist.
 
 ## Ich kann keinen Unterschied machen
 
