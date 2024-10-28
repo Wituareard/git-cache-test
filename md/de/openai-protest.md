@@ -1,7 +1,7 @@
 
 
 ---
-title: "3-Tage-Demonstration in San Francisco: Forderung nach Pause bei der Entwicklung fortgeschrittener KI in der Nähe von OpenAI"
+title: "Drei-Tage-Demonstration in San Francisco: Forderung nach Pause bei der Entwicklung fortgeschrittener KI in der Nähe von OpenAI"
 ---
 
 <script>
@@ -13,35 +13,35 @@ title: "3-Tage-Demonstration in San Francisco: Forderung nach Pause bei der Entw
 - [Hier anmelden](https://discord.gg/Epg6AsmQ?event=1103338741906550844)
 - [Discord-Kanal beitreten](https://discord.gg/anXWYCCdH5)
 
-## Wer sind wir?
+## Wer sind wir? {#who-are-we}
 
 Wir sind eine Gruppe von Menschen, die sich um die Sicherheit von künstlicher Intelligenz (KI) sorgen. Diese Demonstration soll das Bewusstsein für die Risiken unkontrollierter KI-Entwicklung schärfen und zu einem internationalen Gipfeltreffen für politische Entscheidungsträger und die Öffentlichkeit aufrufen.
 
 > _"Unregulierte allgemein einsetzbare #KI wäre meiner Meinung nach noch dümmer als die Abschaffung aller Sicherheitsgurte, Ampeln und Geschwindigkeitsbegrenzungen."_
 >
-> Max Tegmark, bekannter KI-Sicherheitsbefürworter
+> Max Tegmark, renommierter KI-Sicherheitsbefürworter
 
 Inspiriert von dem offenen Brief "Pause Giant AI Experiments" des Future of Life Institute, unterzeichnet von bekannten Persönlichkeiten wie Elon Musk, Steve Wozniak, Andrew Yang und Max Tegmark.
 
-Die Organisatoren fördern eine friedliche und respektvolle Atmosphäre und laden die Teilnehmer ein, den Hashtag #PauseAI in sozialen Medien zu verwenden. Wir werden Schilder tragen.
+Die Organisatoren fördern eine friedliche und respektvolle Atmosphäre und laden die Teilnehmer ein, den Hashtag #PauseAI in sozialen Medien zu verwenden. Wir werden Transparente tragen.
 
 Dies wird die erste Demonstration in der Geschichte sein, die sich mit KI-Sicherheit befasst.
 
-## Warum bei OpenAI?
+## Warum bei OpenAI? {#why-at-openai}
 
 OpenAI entwickelt derzeit die leistungsfähigsten KI-Modelle.
 Sie sind führend bei den Kapazitäten von GPT-4.
 Ihre Entscheidung, die GPT-APIs für Plugins zu öffnen, hat die KI-Entwicklung drastisch beschleunigt.
-Dennoch haben wir großen Respekt für die Arbeit, die OpenAI geleistet hat, und die Menschen, die dort arbeiten.
+Dennoch haben wir großen Respekt vor der Arbeit von OpenAI und den Menschen, die dort arbeiten.
 
 Wir glauben, dass OpenAI in der perfekten Position ist, Verantwortung zu übernehmen und eine Pause bei riesigen KI-Experimenten zu unterstützen.
 
-## Kontaktiere die Organisatoren
+## Kontaktiere die Organisatoren {#contact-the-organizers}
 
 - **Mary Newby**: [Twitter](https://twitter.com/sisyphusunc), [E-Mail](mailto:sisyphus.unc@gmail.com)
 - **Percy Otebay**: [Twitter](https://twitter.com/Radlib4), [E-Mail](mailto:persiutebay@gmail.com)
 
-## Medien
+## Medien {#media-2}
 
 <WidgetConsent>
 <div>
