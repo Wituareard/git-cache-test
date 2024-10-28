@@ -1,15 +1,14 @@
-title: PauseAI Organisation
-description: Wie die PauseAI Organisation strukturiert ist und welche Ressourcen für Mitglieder verfügbar sind.
+
 
 Willkommen bei PauseAI!
 
 ## Organisationsstruktur
 
 - [Rechtliche Einheiten](/legal): PauseAI besteht aus einer internationalen Einheit und mehreren lokalen/nationalen rechtlichen Einheiten. Diese Website und die Social-Media-Konten werden von der internationalen Einheit verwaltet. Nationale Einheiten können ihre eigene Website und ihre eigene Arbeitsweise haben.
-- [Menschen (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
+- [Menschen (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil zu zeigen und sich für mindestens einige Stunden pro Woche für PauseAI zu engagieren.
 - [Teams](/teams): Unsere Freiwilligen arbeiten in allen möglichen Teams. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste der Mitglieder. Kontaktieren Sie einen Teamleiter, um einem Team beizutreten!
-- [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die in der Regel ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit.
-- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrem Gebiet gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
+- [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die typischerweise ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit.
+- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrer Nähe gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
 
 ![Organigramm](/org.png)
 
@@ -21,11 +20,11 @@ Willkommen bei PauseAI!
 
 ## Bildungsressourcen
 
-- Die PauseAI-Grundlagen: [FAQ](/faq), unser [Vorschlag](/proposal), [Risiken](/risks), [X-Risiko](/xrisk), [Dringlichkeit](/urgency), [Gefährliche Fähigkeiten](/dangerous-capabilities), [Milderung von Pausenfehlern](/mitigating-pause-failures)
+- Die PauseAI-Grundlagen: [FAQ](/faq), unser [Vorschlag](/proposal), [Risiken](/risks), [X-Risiko](/xrisk), [Dringlichkeit](/urgency), [Gefährliche Fähigkeiten](/dangerous-capabilities), [Milderung von Pause-Fehlern](/mitigating-pause-failures)
 - [Flyer verteilen](/flyering): Wie man effektiv Flyer verteilt
 - [Gegenargumente](/counterarguments)
-- [Organisation einer Demonstration](/organizing-a-protest)
-- [Erfahren Sie mehr über AI-Sicherheit](/learn)
+- [Organisation einer Protestaktion](/organizing-a-protest)
+- [Erfahren Sie mehr über KI-Sicherheit](/learn)
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
 - [US-Lobby-Leitfaden](/us-lobby-guide)
@@ -40,7 +39,7 @@ Willkommen bei PauseAI!
 
 ## Weitere nützliche Links
 
-- [Kostenloses Buch über AI-X-Risiko: Unkontrollierbar](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
+- [Kostenloses Buch über KI-X-Risiko: Unkontrollierbar](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
 - [Google-Kalender-Link](https://calendar.google.com/calendar/u/0?cid=Y19mNWE4YWYyMDZlNjM1ODc2NjVjNmU4MzAzOTgzZmVmYWYzYTBjNjE0NGRiMGFhNDljOTcwZWZhNTEwYTNkODY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [Anonymes Feedback-Formular](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form): Wenn Sie uns kritische Gedanken mitteilen möchten, während Sie anonym bleiben.
 - [Mikrosubventionen](/microgrants): Wenn Sie eine Finanzierung für Ihr PauseAI-bezogenes Projekt/Event benötigen
