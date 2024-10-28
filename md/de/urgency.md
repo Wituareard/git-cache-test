@@ -19,11 +19,11 @@ Es könnte früher sein als die meisten denken.
 
 KI-Modelle benötigen Algorithmen, Daten und Chips.
 Jeder dieser Komponenten verbessert sich rasant aufgrund enormer Investitionen in die KI.
-Die Verbesserungen in jeder dieser Komponenten summieren sich auf und führen zu exponentiellem Wachstum in den Fähigkeiten der KI.
+Die Verbesserungen in jeder dieser Komponenten summieren sich und führen zu exponentiellem Wachstum in den Fähigkeiten der KI.
 
 - **Mehr Chips**. ChatGPT wurde auf [10.000](https://www.fierceelectronics.com/sensors/chatgpt-runs-10k-nvidia-training-gpus-potential-thousands-more) spezialisierten Chips trainiert. Meta hat [angekündigt](https://www.datacenterdynamics.com/en/news/meta-to-operate-600000-gpus-by-year-end/), dass sie 600.000 Next-Gen-Chips für die Ausbildung ihrer nächsten KI-Modelle haben werden.
 - **Schnellere Chips**. Jedes Jahr werden Chips aufgrund neuer Architekturen und Lithographie-Innovationen schneller. Die Chips, die Meta verwendet, sind 10-mal schneller als die Chips, die für ChatGPT verwendet wurden. Wir sehen auch hochspezialisierte Hardware wie die Groq-Chips, die [13-mal schneller](https://mezha.media/en/2024/02/22/groq-s-new-ai-chip-offers-to-increase-chatgpt-speed-by-13-times/) sind als die Konkurrenz. Auf einem längeren Zeitraum könnten [ternäre Architekturen](https://arxiv.org/pdf/2402.17764.pdf) oder [photonische Chips](https://www.nature.com/articles/s41566-024-01394-2) Chips noch schneller machen.
-- **Mehr Daten**. GPT3 wurde auf [45 TB](https://community.openai.com/t/what-is-the-size-of-the-training-set-for-gpt-3/360896) Text trainiert, GPT4 verwendete etwa 20-mal so viel. KI-Unternehmen verwenden jetzt auch [riesige Mengen an Videodaten](https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/), Audiodaten und generieren sogar [synthetische Daten, um diese Modelle zu trainieren](https://arxiv.org/pdf/2401.10020). Früher wurde die Idee, synthetische Daten für die Ausbildung zu verwenden, aufgrund des Modellkollapses als unmöglich angesehen, aber [neue Fortschritte](https://arxiv.org/abs/2406.07515) zeigen, dass die Verhinderung des Modellkollapses möglich ist.
+- **Mehr Daten**. GPT3 wurde auf [45 TB](https://community.openai.com/t/what-is-the-size-of-the-training-set-for-gpt-3/360896) Text trainiert, GPT4 verwendete etwa 20-mal so viel. KI-Unternehmen verwenden jetzt auch [riesige Mengen an Videodaten](https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/), Audiodaten und generieren sogar [synthetische Daten, um diese Modelle zu trainieren](https://arxiv.org/pdf/2401.10020). Früher wurde die Idee, synthetische Daten für die Ausbildung zu verwenden, als unmöglich angesehen, aber [neue Fortschritte](https://arxiv.org/abs/2406.07515) zeigen, dass die Verhinderung eines Modellkollapses möglich ist.
 - **Bessere Daten**. Die "Textbooks are all you need"-Studie [zeigte](https://arxiv.org/abs/2306.11644), dass die Verwendung von hochwertigen synthetischen Daten die Modellleistung drastisch verbessern kann, selbst wenn weniger Daten und Rechenleistung verwendet werden.
 - **Bessere Algorithmen**. Die Transformer-Architektur ermöglichte die aktuelle LLM-Revolution. Neue Architekturen können ähnliche Fähigkeitssprünge ermöglichen. Das Mamba-Modell zeigt beispielsweise [5-mal schnelleren Durchsatz](https://arxiv.org/abs/2312.00752).
 - **Bessere Laufzeiten**. Agentic-Laufzeiten, Retrieval-Augmented-Generation oder einfach cleveres Prompting (durch [Graph of Thought](https://arxiv.org/abs/2305.16582) zum Beispiel) können einen großen Einfluss auf die Fähigkeiten dieser Modelle haben.
@@ -37,19 +37,19 @@ Ein Jahr später gewann ein chinesischer Professor einen Schreibwettbewerb mit e
 
 Auf Metaculus war [die Gemeinschaftsvorhersage für (schwache) AGI](https://www.metaculus.com/questions/3479/date-weakly-general-ai-is-publicly-known/) vor drei Jahren 2057, und jetzt ist es ~~2027~~ 2026.
 
-Nun wollen wir uns die Definition von AGI ansehen, die in dieser Umfrage verwendet wurde:
+Lassen Sie uns nun in die Definition von AGI eintauchen, die in dieser Umfrage verwendet wurde:
 
-- Punktzahl >90% bei der Winograd-Schema-Herausforderung
-- Punktzahl >75% bei SAT-Tests
+- Punktzahl >90% in der Winograd-Schema-Herausforderung
+- Punktzahl >75% in SAT-Ergebnissen
 - Bestehen eines Turing-Tests
 - Beenden von Montezumas Rache
 
-GPT-4 erreicht [94,4% bei der Winograd-Schema-Herausforderung](https://d-kz.medium.com/evaluating-gpt-3-and-gpt-4-on-the-winograd-schema-challenge-reasoning-test-e4de030d190d) und [93% bei dem SAT-Lesetest, 89% bei dem SAT-Mathematiktest](https://www.cnbc.com/2023/03/14/openai-announces-gpt-4-says-beats-90percent-of-humans-on-sat.html).
+GPT-4 erreicht [94,4% in der Winograd-Schema-Herausforderung](https://d-kz.medium.com/evaluating-gpt-3-and-gpt-4-on-the-winograd-schema-challenge-reasoning-test-e4de030d190d) und [93% im SAT-Lesetest, 89% im SAT-Mathetest](https://www.cnbc.com/2023/03/14/openai-announces-gpt-4-says-beats-90percent-of-humans-on-sat.html).
 Es hat den Turing-Test nicht bestanden, aber wahrscheinlich nicht wegen mangelnder Fähigkeiten.
-Es liegt daran, dass GPT-4 darauf trainiert wurde, Menschen nicht zu täuschen. Es ist nicht gut für das Geschäft, wenn die KI den Menschen sagt, dass sie eigentlich ein Mensch ist.
-Das lässt nur noch Montezumas Rache übrig.
+Es liegt daran, dass GPT-4 darauf trainiert wurde, Menschen nicht zu täuschen. Es ist nicht gut für das Geschäft, wenn Ihre KI den Menschen sagt, dass sie eigentlich ein Mensch ist.
+Das lässt nur Montezumas Rache übrig.
 Es ist nicht undenkbar, dass es durch eine clevere Einrichtung von GPT-4, unter Verwendung von etwas wie AutoGPT, um den Bildschirm zu analysieren und die richtigen Eingaben zu generieren, beendet werden kann.
-Im Mai 2023 war [GPT-4 in der Lage, Code zu schreiben, um Diamantausrüstung in Minecraft zu erhalten](https://the-decoder.com/minecraft-bot-voyager-programs-itself-using-gpt-4/).
+Im Mai 2023 konnte [GPT-4 Code schreiben, um Diamantausrüstung in Minecraft zu erhalten](https://the-decoder.com/minecraft-bot-voyager-programs-itself-using-gpt-4/).
 Kurz gesagt: GPT-4 hat 2/4 Kriterien mit Sicherheit erreicht, mit den anderen beiden in Reichweite.
 
 **Wir sind da, Leute.
@@ -61,14 +61,14 @@ Wir lagen um den Faktor 10 daneben.
 
 Es gibt viele Gründe, warum Menschen den Fortschritt der KI unterschätzen.
 
-- **Es ist schwer, auf dem Laufenden zu bleiben**. Fast täglich sehen wir neue Durchbrüche in der KI. Es ist fast unmöglich, mit dem Tempo des Fortschritts Schritt zu halten. Sie sind nicht allein, wenn Sie das Gefühl haben, dass Sie zurückfallen.
-- **Wir verschieben ständig die Zielpfosten**. In den 90er Jahren dachten die Menschen, dass der Heilige Gral der KI etwas war, das Schach spielen konnte. Als die KI Kasparow besiegte, war ihre nächste Herausforderung Go. Jetzt haben wir Maschinen, die im [99,9. Perzentil bei IQ-Tests](https://bgr.com/tech/chatgpt-took-an-iq-test-and-its-score-was-sky-high/) abschneiden, [26 Sprachen übersetzen](https://bgr.com/tech/chatgpt-took-an-iq-test-and-its-score-was-sky-high/) und [Fotowettbewerbe gewinnen](https://www.scientificamerican.com/article/how-my-ai-image-won-a-major-photography-competition/), und doch fragen wir immer noch: "Wann wird die KI menschliches Niveau erreichen?". Sie übertrifft uns bereits in vielen Bereichen, aber wir konzentrieren uns immer auf die immer kleiner werdende Anzahl von Dingen, die wir noch besser können.
-- **Wir möchten gerne denken, dass wir besonders sind**. Menschen möchten gerne das Gefühl haben, dass sie besonders sind. Wenn eine KI das kann, was wir können, sind wir nicht mehr besonders. Das ist eine bittere Pille, und das [Gehirn hat viele Abwehrmechanismen, um dies zu vermeiden](psychology-of-x-risk).
-- **Wir sind wirklich schlecht darin, exponentielles Wachstum zu verstehen**. Wir neigen dazu, systematisch und vorhersehbar zu unterschätzen, wie sich exponentielles Wachstum über die Zeit kumuliert. Dies wurde in [wissenschaftlichen Studien](https://www.researchgate.net/figure/Underestimation-of-exponential-growth-a-shows-the-participants-prediction-of-the_fig4_351171143) gezeigt.
+- **Es ist schwer, Schritt zu halten**. Fast täglich sehen wir neue Durchbrüche in der KI. Es ist fast unmöglich, mit dem Tempo des Fortschritts Schritt zu halten. Sie sind nicht allein, wenn Sie das Gefühl haben, dass Sie zurückfallen.
+- **Wir verschieben ständig die Torpfosten**. In den 90er Jahren dachten die Menschen, dass der Heilige Gral der KI etwas war, das Schach spielen konnte. Als KI Kasparow besiegte, war die nächste Herausforderung Go. Jetzt haben wir Maschinen, die im [99,9. Perzentil in IQ-Tests](https://bgr.com/tech/chatgpt-took-an-iq-test-and-its-score-was-sky-high/) punkten, [26 Sprachen übersetzen](https://bgr.com/tech/chatgpt-took-an-iq-test-and-its-score-was-sky-high/) und [Fotowettbewerbe gewinnen](https://www.scientificamerican.com/article/how-my-ai-image-won-a-major-photography-competition/), doch wir fragen immer noch: "Wann wird KI menschliches Niveau erreichen?". Sie übertrifft uns bereits in vielen Bereichen, aber wir konzentrieren uns immer auf die immer kleiner werdende Anzahl von Dingen, die wir noch besser können.
+- **Wir möchten gerne denken, dass wir besonders sind**. Menschen möchten gerne denken, dass sie besonders sind. Wenn eine KI das kann, was wir können, sind wir nicht mehr besonders. Das ist eine bittere Pille, und das [Gehirn hat viele Abwehrmechanismen, um dies zu vermeiden](psychology-of-x-risk).
+- **Wir sind wirklich schlecht in exponentiellem Wachstum**. Wir neigen dazu, systematisch und vorhersehbar zu unterschätzen, wie sich exponentielles Wachstum im Laufe der Zeit kumuliert. Dies wurde in [wissenschaftlichen Studien](https://www.researchgate.net/figure/Underestimation-of-exponential-growth-a-shows-the-participants-prediction-of-the_fig4_351171143) gezeigt.
 
 Glücklicherweise gibt es noch einige Dinge, die eine KI noch nicht kann.
-Sie kann nicht [besser hacken als die besten Hacker](/cybersecurity-risks), und sie kann nicht so gut KI-Forschung betreiben wie die besten KI-Forscher.
-**Wenn wir eines dieser Schwellen erreichen, werden wir uns in einem neuen Regime erhöhten Risikos befinden**.
+Sie kann nicht [besser als die besten Hacker hacken](/cybersecurity-risks), und sie kann nicht so gut wie die besten KI-Forscher forschen.
+**Wenn wir eine dieser Schwellen erreichen, werden wir uns in einem neuen Regime erhöhten Risikos befinden**.
 
 Also, wann werden wir den Punkt erreichen, an dem eine KI all diese Dinge auf übermenschlichem Niveau kann?
 Wann werden wir eine _Superintelligenz_ haben?
@@ -77,12 +77,12 @@ Wann werden wir eine _Superintelligenz_ haben?
 
 Ich denke, der entscheidende Punkt, den wir berücksichtigen sollten, ist **der Punkt, an dem eine KI besser darin ist, KI-Forschung zu betreiben als jemand wie Ilya Sutskever** (ehemaliger Chefingenieur bei OpenAI).
 Eine KI, die sinnvolle Beiträge zu KI-Algorithmen und -Architekturen leisten kann, ist wahrscheinlich in der Lage, sich selbst zu verbessern.
-Nennen wir diesen Punkt der möglichen Selbstverbesserung die _Ilya-Schwelle_.
-Wenn sie diese Schwelle erreicht, könnte eine KI sich selbst verbessern, weil sie explizit dazu angewiesen wurde, oder weil es ein nützliches Teilziel für andere Ziele ist (KIs [erstellen bereits ihre eigenen Teilziele](https://github.com/Significant-Gravitas/Auto-GPT)).
-Diese Iterationen könnten Wochen dauern (das Training von GPT-3 dauerte 34 Tage), aber es ist auch möglich, dass eine Art Laufzeitverbesserung implementiert wird, die in wenigen Minuten signifikante Fortschritte macht: eine [Intelligenzexplosion](https://www.youtube.com/watch?v=5qfIgCiYlfY).
+Nennen wir diesen Punkt des potenziellen Selbstverbesserung die _Ilya-Schwelle_.
+Wenn sie diese Schwelle erreicht, könnte eine KI sich selbst verbessern, weil sie explizit dazu angewiesen wurde oder weil es ein nützliches Teilziel für andere Ziele ist (KIs [erstellen bereits ihre eigenen Teilziele](https://github.com/Significant-Gravitas/Auto-GPT)).
+Diese Iterationen könnten Wochen dauern (das Training von GPT-3 dauerte 34 Tage), aber es ist auch möglich, dass eine Art Laufzeitverbesserung implementiert wird, die in wenigen Minuten erhebliche Fortschritte macht: eine [Intelligenzexplosion](https://www.youtube.com/watch?v=5qfIgCiYlfY).
 
 Also, wie weit entfernt sind wir von der Ilya-Schwelle?
-Es ist grundlegend schwierig, [vorherzusagen, wann bestimmte Fähigkeiten entstehen](https://arxiv.org/abs/2206.07682), wenn LLMs skaliert werden, aber bisher haben wir viele Fähigkeiten gesehen, die zuvor als weit entfernt galten.
+Es ist grundlegend schwierig vorherzusagen, [wann bestimmte Fähigkeiten entstehen](https://arxiv.org/abs/2206.07682), wenn LLMs skaliert werden, aber bisher haben wir viele Fähigkeiten gesehen, die zuvor als weit entfernt galten.
 Die [neuesten KI-Modelle](/sota) schlagen bereits die meisten menschlichen Programmierer, also ist es nicht undenkbar, dass zukünftige Modelle
 
 Bessere Chips, mehr Daten und bessere Algorithmen werden alle dazu beitragen, die Ilya-Schwelle zu erreichen.
@@ -94,6 +94,6 @@ Anthropic-Mitgründer Ben Mann [glaubt](https://x.com/ai_ctrl/status/18191737038
 Ex-OpenAI-Forscher Daniel Kokotajlo denkt, dass es eine [15%ige Chance](https://x.com/ai_ctrl/status/1819173703869255879/photo/0) gibt, dass wir 2024 AGI haben werden.
 Niemand weiß genau, wann wir die Ilya-Schwelle erreichen werden.
 Aber die [Einsätze sind zu hoch](/xrisk), um anzunehmen, dass wir viel Zeit haben.
-Wir müssen auf die kleine Chance reagieren, dass wir nur noch Monate entfernt sind.
+Wir müssen auf die geringe Chance reagieren, dass wir nur noch Monate entfernt sind.
 Wir müssen die [Entwicklung von Frontier-KI pausieren](/proposal) jetzt.
 Es liegt an jedem von uns, [Maßnahmen zu ergreifen](/action) und sicherzustellen, dass wir nicht unvorbereitet sind.
