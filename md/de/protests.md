@@ -7,9 +7,9 @@ description: Wann und wo wir protestieren werden.
 
 **Siehe unsere [Veranstaltungen](/events) für bevorstehende Proteste.**
 
-## Vergangene Proteste
+## Vergangene Proteste {#past-protests}
 
-### 2024
+### 2024 {#2024}
 
 - [22. September, NYC](https://www.eventbrite.com/e/pauseai-nyc-summit-of-the-future-protest-tickets-905766862067)
 - [30. Juli, Washington DC](https://www.facebook.com/events/2528518090675538) (World Pause Coalition)
@@ -17,7 +17,7 @@ description: Wann und wo wir protestieren werden.
 - [13. Mai, San Francisco, London, Stockholm, Berlin, Den Haag, Rom, Paris...](/2024-may)
 - [12. Februar, OpenAI, SF](/2024-february)
 
-### 2023
+### 2023 {#2023}
 
 - [1. November, Bletchley Park, UK](/2023-november-uk)
 - [21. Oktober, Internationaler Protest](/2023-oct)
@@ -34,12 +34,12 @@ description: Wann und wo wir protestieren werden.
 - [20. Mai, OpenAI, San Francisco](/openai-protest)
 - [19. - 22. Mai, Google DeepMind, London](/2023-may-deepmind-london)
 
-## Organisieren Sie einen Protest
+## Organisieren Sie einen Protest {#organize-a-protest}
 
 Übernehmen Sie die Verantwortung für einen Protest und organisieren Sie ihn selbst!
 Wir sind hier, um zu helfen.
 Lesen Sie mehr über das [Organisieren eines Protests](/organizing-a-protest).
 
-## Verhaltenskodex
+## Verhaltenskodex {#code-of-conduct}
 
 [Lesen Sie unseren Verhaltenskodex für Proteste](/protesters-code-of-conduct)
