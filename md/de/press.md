@@ -11,7 +11,7 @@ Joep Meindertsma ([joep@pauseai.info](mailto:joep@pauseai.info))
 ## Logo, Materialien {#logo-materials}
 
 Unser Logo und andere Materialien finden Sie in [diesem Google Drive-Ordner](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing).
-Wenn Sie selbst PauseAI-Bezugs-materialien erstellen möchten, können Sie unsere Markenfarbe _#FF9416_ und die Schriftarten _Saira Condensed_ (700) und _Roboto Slab_ (300, 700) verwenden.
+Wenn Sie selbst PauseAI-Materialien erstellen möchten, können Sie unsere Markenfarbe _#FF9416_ und die Schriftarten _Saira Condensed_ (700) und _Roboto Slab_ (300, 700) verwenden.
 
 ## Internationale Medienberichte {#international-media-coverage}
 
@@ -31,7 +31,7 @@ Wenn Sie selbst PauseAI-Bezugs-materialien erstellen möchten, können Sie unser
 - [NHK World Japan](https://www3.nhk.or.jp/nhkworld/en/news/backstories/3047/): Bericht über den Protest bei OpenAI im Februar 2024
 - [Futurism](https://futurism.com/protesters-swarm-openai): Bericht über den Protest bei OpenAI im Februar 2024
 - [Le Monde](https://www.lemonde.fr/en/economy/article/2023/11/27/openai-the-beginnings-of-the-sam-altman-drama_6291282_19.html)
-- [ComputerWorld](https://www.computerworld.com/article/3714261/sam-altmans-pledges-about-ai-responsibility-dont-mean-much-experts.html): Interview mit Joep Meindertsma über OpenAI vs. Musk.
+- [ComputerWorld](https://www.computerworld.com/article/3714261/sam-altmans-pledges-about-ai-responsibility-dont-mean-much-experts.html): Interview mit Joep Meindertsma über OpenAI vs. Musk
 - [Wired](https://www.wired.com/story/protesters-pause-ai-split-stop/?redirectURL=https://www.wired.com/story/protesters-pause-ai-split-stop/) Über den Protest im Mai 2024
 - [DailyAI](https://dailyai.com/2024/05/pauseai-protestors-demand-a-halt-to-training-of-ai-models/)
 - [ReadWrite](https://readwrite.com/pause-ai-protestors-are-fighting-to-put-ai-development-on-hold/)
@@ -42,7 +42,7 @@ Wenn Sie selbst PauseAI-Bezugs-materialien erstellen möchten, können Sie unser
 - [**Youtube-Playlist**](https://www.youtube.com/playlist?list=PLI46NoubGtIJvSAWkC7VOmfWrLD2u1ZPA). Die **mehr als 10 Podcasts** und Vorträge, an denen mehrere Personen von PauseAI teilgenommen haben. Nachfolgende Einträge auf dieser Liste sind Aufnahmen, die nicht auf YouTube hochgeladen wurden.
 - [Dr. Phil Primetime](https://www.meritplus.com/c/s/VQ2aB6Sp?episodeId=LknWbG7N&play=1): Liron Shapira war als Gast in einer Diskussion über KI und Bildung.
 - [Creatives with AI-Podcast](https://podcasters.spotify.com/pod/show/creativeswithai/episodes/15-AI-The-Race-Against-Time---Balancing-Progress-and-Potential-Catastrophe-with-Joep-Meinderstma-e28ln8a/a-aa9vpjp): Interview mit PauseAI-Gründer Joep Meindertsma.
-- [Art of AI-Podcast](https://spotify.link/AggzYfcj8Db): Interview mit Joep Meindertsma über Proteste, Psychologie des x-Risikos, KI-Politik.
+- [Art of AI-Podcast](https://spotify.link/AggzYfcj8Db): Interview mit Joep Meindertsma über Proteste, Psychologie des existenziellen Risikos und KI-Politik.
 
 ## Nationale Medienberichte {#national-media-coverage}
 
