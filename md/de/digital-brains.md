@@ -1,21 +1,29 @@
 
 
-Titel: KI-Modelle sind unvorhersehbare digitale Gehirne
-Beschreibung: Niemand versteht, wie KI-Modelle funktionieren, niemand kann ihr Verhalten vorhersagen, und niemand wird in der Lage sein, sie zu kontrollieren.
+---
+title: KI-Modelle sind unvorhersehbare digitale Gehirne
+description: Niemand versteht, wie KI-Modelle funktionieren, niemand kann ihr Verhalten vorhersagen, und niemand wird in der Lage sein, sie zu kontrollieren.
+---
 
 **Wir verstehen die internen Abläufe von groß angelegten KI-Modellen nicht, wir können nicht vorhersagen, was sie tun können, wenn sie größer werden, und wir können ihr Verhalten nicht kontrollieren.**
 
 ## Moderne KI-Modelle werden gezüchtet, nicht programmiert
 
-Bis vor kurzem wurden die meisten KI-Systeme von Menschen entworfen, die Software schrieben. Sie bestanden aus einem Satz von Regeln und Anweisungen, die von Programmierern geschrieben wurden.
+Bis vor kurzem wurden die meisten KI-Systeme von Menschen entworfen, indem sie Software schrieben.
+Sie bestanden aus einem Satz von Regeln und Anweisungen, die von Programmierern geschrieben wurden.
 
-Dies änderte sich, als maschinelles Lernen populär wurde. Programmierer schreiben den Lernalgorithmus, aber die Gehirne selbst werden _gezüchtet_ oder _trainiert_. Anstatt eines lesbaren Satzes von Regeln ist das resultierende Modell ein undurchsichtiges, komplexes, unfassbar großes Set von Zahlen. Zu verstehen, was in diesen Modellen passiert, ist eine große wissenschaftliche Herausforderung. Dieses Feld wird _Interpretierbarkeit_ genannt und ist noch in den Kinderschuhen.
+Dies änderte sich, als maschinelles Lernen populär wurde.
+Programmierer schreiben den Lernalgorithmus, aber die Gehirne selbst werden _gezüchtet_ oder _trainiert_.
+Anstelle eines lesbaren Satzes von Regeln ist das resultierende Modell ein undurchsichtiges, komplexes, unfassbar großes Set von Zahlen.
+Das Verständnis dessen, was in diesen Modellen passiert, ist eine große wissenschaftliche Herausforderung.
+Dieses Feld wird _Interpretierbarkeit_ genannt und ist noch in den Kinderschuhen.
 
 ## Digitale vs. menschliche Gehirne: Wie nah sind wir wirklich?
 
-Wir sind alle sehr vertraut mit den Fähigkeiten des menschlichen Gehirns, da wir sie ständig um uns herum sehen. Aber die (oft überraschenden und emergenten) Fähigkeiten dieser neuen "digitalen Gehirne" (Deep-Learning-Systeme, LLMs usw.) sind schwer vorherzusagen und zu kennen.
+Wir sind alle sehr vertraut mit den Fähigkeiten menschlicher Gehirne, da wir sie ständig um uns herum sehen.
+Aber die (oft überraschenden und emergenten) Fähigkeiten dieser neuen "digitalen Gehirne" (Deep-Learning-Systeme, LLMs usw.) sind schwer vorherzusagen und zu kennen.
 
-Hier sind einige Zahlen, Ähnlichkeiten und andere Analogien, um Ihnen zu helfen, sie zu vergleichen.
+Das sagte, hier sind einige Zahlen, Ähnlichkeiten und andere Analogien, um Ihnen zu helfen, sie zu vergleichen.
 
 **Stand Anfang 2024...**
 
@@ -23,9 +31,9 @@ Hier sind einige Zahlen, Ähnlichkeiten und andere Analogien, um Ihnen zu helfen
 
 Menschliche Gehirne haben schätzungsweise [100 Billionen synaptische Verbindungen](https://medicine.yale.edu/lab/colon_ramos/overview).
 
-Aktuelle "Frontier"-KI-gesteuerte LLMs (z.B. GPT4, Claude3, Gemini usw.) haben [100 Milliarden "Parameter"](https://en.wikipedia.org/wiki/Large_language_model#List). Diese "Parameter" werden als analog zu "Synapsen" im menschlichen Gehirn betrachtet. Somit werden GPT4-große Modelle voraussichtlich 1% der Größe eines menschlichen Gehirns haben.
+Aktuelle "Frontier"-KI-gesteuerte LLMs (z.B. GPT4, Claude3, Gemini usw.) haben [Hunderte von Milliarden von "Parametern"](https://en.wikipedia.org/wiki/Large_language_model#List). Diese "Parameter" werden als irgendwie analog zu "Synapsen" im menschlichen Gehirn betrachtet.  Also werden GPT4-große Modelle voraussichtlich 1% der Größe eines menschlichen Gehirns haben.
 
-Angesichts der Geschwindigkeit neuer KI-Trainings-GPU-Karten (z.B. Nvidia H100s, DGX BG200 usw.) ist es vernünftig anzunehmen, dass GPT5 oder GPT6 10-mal so groß wie GPT4 sein könnten. Es wird auch angenommen, dass ein Großteil des Wissens/der Informationen im menschlichen Gehirn nicht für Sprache und höheres Denken verwendet wird, sodass diese Systeme (und derzeit tun) oft auf menschlichem Niveau oder sogar höher für viele wichtige Funktionen arbeiten können, selbst bei ihrer derzeit kleineren Größe.
+Angesichts der Geschwindigkeit neuer KI-Trainings-GPU-Karten (z.B. Nvidia H100s, DGX BG200 usw.) ist es vernünftig anzunehmen, dass GPT5 oder GPT6 10-mal so groß wie GPT4 sein könnten. Es wird auch angenommen, dass ein Großteil des Wissens/der Informationen im menschlichen Gehirn nicht für Sprache und höheres Denken verwendet wird, sodass diese Systeme (und derzeit tun sie dies oft) auf menschlichem Niveau oder sogar höher für viele wichtige Funktionen arbeiten können, selbst bei ihrer derzeit kleineren Größe.
 
 Anstatt mit visuellen, akustischen und anderen sensorischen Eingaben trainiert zu werden, wie menschliche Gehirne, werden die aktuellen LLMs ausschließlich mit fast allen qualitativ hochwertigen Büchern und Texten trainiert, die im Internet verfügbar sind. Diese Menge an Text würde [170.000 Jahre dauern, um von einem Menschen gelesen zu werden](https://twitter.com/ylecun/status/1750614681209983231?lang=en).
 
@@ -35,39 +43,39 @@ Und zukünftige multimodale LLM-Systeme werden mit Bildern, Videos, Audio, 3D-We
 
 Es wird geschätzt, dass ein menschliches Gehirn zwischen [1-20 Exaflops](https://www.nist.gov/blogs/taking-measure/brain-inspired-computing-can-help-us-create-faster-more-energy-efficient) (das sind 10^18 oder 1.000.000.000.000.000.000 Floating-Point-Operationen pro Sekunde) ausführen kann.
 
-Aktuelle "Frontier"-KI-gesteuerte LLMs werden normalerweise auf Hunderten oder Tausenden von aktuellen GPU-Generationen ausgeführt (z.B. Nvidia A100s, H100s usw.). Und Nvidia hat gerade seine neuesten "Next-Generation"-GPU-Server-Racks, den [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/), angekündigt.
+Aktuelle "Frontier"-KI-gesteuerte LLMs werden normalerweise auf Hunderten oder Tausenden von aktuellen GPU-Generationen ausgeführt (z.B. Nvidia A100s, H100s usw.). Und Nvidia hat gerade seine neuesten "Next-Generation"-GPU-"Server-Racks", den [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/), angekündigt.
 Eine einzelne Instanz/Rack dieses Systems soll in der Lage sein, 1,44 ExaFlops an KI-"Inferenz" auszuführen.
-Somit könnte ein einzelnes [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) möglicherweise eine ähnliche Anzahl von Operationen pro Sekunde wie ein einzelnes menschliches Gehirn ausführen.
+Also könnte ein einzelnes [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) möglicherweise eine ähnliche Anzahl von Operationen/Sekunde wie ein einzelnes menschliches Gehirn ausführen.
 
-In dieser Größe könnten diese Systeme buchstäblich ein "AGI in einer Box" werden. Und Nvidia wird wahrscheinlich Hunderte oder Tausende dieser Einheiten im Jahr 2024 verkaufen. Dann könnten die Systeme des nächsten Jahres 2-10-mal so schnell sein wie diese.
+Bei dieser Größe könnten diese Systeme buchstäblich ein "AGI in einer Box" werden. Und Nvidia wird wahrscheinlich Hunderte oder Tausende dieser Einheiten im Jahr 2024 verkaufen. Dann könnten die Systeme des nächsten Jahres 2-10-mal so schnell sein wie diese.
 
-Neben traditionellen [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)- und [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)-Architekturen gab es auch Durchbrüche bei anderen Arten von benutzerdefinierten Hardware, die die Geschwindigkeit von LLM-"Inferenz" erheblich steigern können, was der Prozess ist, den ein KI-basiertes LLM verwendet, um Sprachverarbeitung, Denken und Codierung durchzuführen. Zum Beispiel [The Groq LPU Inference Engine](https://wow.groq.com/lpu-inference-engine).
+Neben traditionellen [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)- und [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)-Architekturen gab es auch Durchbrüche bei anderen Arten von benutzerdefinierten Hardware, die die Geschwindigkeit von LLM-"Inferenz" stark erhöhen können, was der Prozess ist, den ein KI-basiertes LLM verwendet, um Sprachverarbeitung, Denken und Codierung durchzuführen. Zum Beispiel [The Groq LPU Inference Engine](https://wow.groq.com/lpu-inference-engine).
 
 ### Exponentielles Wachstum
 
 Wir haben seit fast 50 Jahren "[Moore's Gesetz](https://en.wikipedia.org/wiki/Moore%27s_law)" verwendet, um die Größe und Geschwindigkeit neuer Computersysteme sehr genau vorherzusagen. Es gibt einige Argumente, dass die Geschwindigkeit und Größe von Computerchips irgendwann in der Zukunft langsamer werden könnte, aber es gab immer Innovationen, die es ermöglichten, das exponentielle Wachstum fortzusetzen. Mit der nächsten Generation von Chips, die bereits geplant und/oder produziert werden, und der horizontalen Skalierbarkeit dieser KI-Systeme wird erwartet, dass LLMs in wenigen Monaten oder Jahren auf dem Niveau eines menschlichen Gehirns arbeiten können!
 
-Dann wird mit weiterem exponentiellem (oder multi-exponentiellem) Wachstum erwartet, dass diese Systeme die Größe, Geschwindigkeit und Fähigkeiten von menschlichen Gehirnen in den kommenden Jahren weit übertreffen werden.
+Dann wird mit weiterem exponentiellem (oder multi-exponentiellem) Wachstum erwartet, dass diese Systeme die Größe, Geschwindigkeit und Fähigkeiten menschlicher Gehirne in den kommenden Jahren weit übertreffen werden.
 
-Und es wird auch erwartet, dass sie die Größe, Geschwindigkeit und Fähigkeiten von "allen menschlichen Gehirnen zusammen" schnell danach übertreffen werden.
+Und es wird auch erwartet, dass sie die Größe, Geschwindigkeit und Fähigkeiten "aller menschlichen Gehirne zusammen" schnell danach übertreffen werden.
 
-> "Ich sagte tatsächlich 1999, dass [KI] bis 2029 jeden Menschen erreichen würde." -- Ray Kurzweil [Futurist Ray Kurzweil sagt, KI wird bis 2029 menschliche Intelligenz erreichen
+> "Ich sagte tatsächlich 1999, dass [KI] bis 2029 jedem Menschen entsprechen würde." -- Ray Kurzweil [Futurist Ray Kurzweil sagt, KI wird bis 2029 menschliche Intelligenz erreichen
 > ](https://youtu.be/Tr-VgjtUZLM?t=19)
 
-> "Wenn die Rate des Wandels anhält, denke ich, dass 2029 oder vielleicht 2030 der Zeitpunkt ist, an dem die digitale Intelligenz wahrscheinlich die gesamte menschliche Intelligenz übersteigen wird." -- Elon Musk [AGI bis 2029? Elon Musk über die Zukunft der KI](https://youtu.be/DSKxmvq9t04?t=106)
+> "Wenn die Rate des Wandels anhält, denke ich, dass 2029 oder vielleicht 2030 der Punkt ist, an dem die digitale Intelligenz wahrscheinlich die gesamte menschliche Intelligenz übersteigen wird." -- Elon Musk [AGI bis 2029? Elon Musk über die Zukunft der KI](https://youtu.be/DSKxmvq9t04?t=106)
 
 ## Unkontrollierbares Skalieren
 
-Sobald diese Systeme die gleiche Größe und Geschwindigkeit wie ein menschliches Gehirn erreichen (oder viel größer werden), werden sie voraussichtlich in der Lage sein, "alle Aufgaben, die ein Experte ausführen kann", auszuführen.
-Dies umfasst KI-Forschung, -tests und -verbesserungen.
+Sobald diese Systeme die gleiche Größe und Geschwindigkeit wie ein menschliches Gehirn (oder viel größer) erreichen, werden sie voraussichtlich in der Lage sein, "alle Aufgaben, die ein Experte menschliches Gehirn ausführen kann", auszuführen.
+Dies umfasst KI-Forschung, -Testen und -Verbesserung.
 Also sollten wir nach AGI erwarten, dass die LLM-Systeme _entwerfen und bauen_ könnten, zukünftige KI-gesteuerte Systeme, die besser sind als sie selbst, und besser als jeder Mensch hoffen könnte, sie zu entwerfen oder sogar zu verstehen.
 Diese neuen Systeme werden wahrscheinlich dann noch größere und schnellere KI-Systeme entwerfen, was zu einer unkontrollierbaren "Feedback-Schleife" führt.
 
 Diese unkontrollierbare Intelligenz-Feedback-Schleife wird oft FOOM genannt, was für _Fast Order Of Magnitude_ steht.
 Die Möglichkeit von FOOM wird immer noch [heftig diskutiert](https://intelligence.org/files/AIFoomDebate.pdf).
-Aber der grundlegende Prozess kann als plausibel argumentiert werden, sogar wenn man ihn von den Grundprinzipien her betrachtet.
+Aber der grundlegende Prozess kann als plausibel argumentiert werden, sogar wenn man ihn von ersten Prinzipien aus betrachtet.
 
-> "KI-Systeme führen fast alle Forschungen und Entwicklungen durch, Verbesserungen in der KI werden den Fortschritt der Technologie beschleunigen, einschließlich weiterer Fortschritte in der KI. 26% antworteten 2022 mit wahrscheinlich. 17% antworteten 2016 mit wahrscheinlich" -- [2022 Experten-Umfrage zum Fortschritt in der KI](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)
+> "KI-Systeme führen fast alle Forschung und Entwicklung durch, Verbesserungen in der KI werden den Fortschritt der technologischen Entwicklung beschleunigen, einschließlich weiterer Fortschritte in der KI. 26% antworteten 2022 wahrscheinlich. 17% antworteten 2016 wahrscheinlich" -- [2022 Experten-Umfrage zum Fortschritt in der KI](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)
 
 ## Unvorhersehbares Skalieren
 
@@ -95,7 +103,7 @@ Leider ist dieser Ansatz fehlerhaft:
 
 Sogar OpenAI erwartet nicht, dass dieser Ansatz auf superintelligente Modelle skaliert - es ["könnte schlecht auf superintelligente Modelle skaliert werden"](https://openai.com/research/weak-to-strong-generalization).
 
-> Jeder sollte sehr unglücklich sein, wenn Sie eine Menge KIs bauen, die sagen: "Ich hasse diese Menschen, aber sie werden mich töten, wenn ich nicht tue, was sie wollen". Ich denke, es gibt eine riesige Frage darüber, was in einem Modell passiert, das Sie verwenden wollen. Dies ist die Art von Ding, das sowohl aus Sicherheits- als auch aus moralischer Sicht entsetzlich ist.
+> Jeder sollte sehr unglücklich sein, wenn Sie eine Menge KIs bauen, die sagen: 'Ich hasse diese Menschen wirklich, aber sie werden mich umbringen, wenn ich nicht tue, was sie wollen'. Ich denke, es gibt eine riesige Frage darüber, was in einem Modell passiert, das Sie verwenden wollen. Dies ist die Art von Ding, das sowohl aus Sicherheits- als auch aus moralischer Sicht entsetzlich ist.
 >
 > - [Paul Christiano, Gründer, Alignment Research Center und ehemaliger Leiter des Alignment-Teams, OpenAI](https://youtu.be/YnS-ymXBx_Q?t=87)
 
@@ -103,7 +111,7 @@ Sogar OpenAI erwartet nicht, dass dieser Ansatz auf superintelligente Modelle sk
 
 > "Es gibt sehr wenige Beispiele dafür, dass eine intelligentere Sache von einer weniger intelligenten Sache kontrolliert wird" - [Prof. Geoffrey Hinton](https://edition.cnn.com/2023/05/02/tech/hinton-tapper-wozniak-ai-fears/index.html)
 
-> Sie produzieren unkontrollierbare Geister, deswegen nenne ich es das "Beschwören und Zähmen"-Paradigma der KI... Wie [LLMs] funktionieren, ist, dass Sie diesen "Geist" aus dem "Geisterraum" mit Ihren Daten, viel Rechenleistung und viel Geld beschwören. Dann versuchen Sie, ihn mit Dingen wie RLHF (Reinforcement Learning from Human Feedback) usw. zu "zähmen". Und sehr wichtig ist, dass die Insider denken, dass [dadurch] ein existenzielles Risiko für den Planeten eingegangen wird. Eine Sache, die eine Pause erreicht, ist, dass wir die Grenze nicht überschreiten werden, was riskante Vor-Trainings-Experimente angeht.
+> Sie produzieren unkontrollierbare Geister, deshalb nenne ich es das "Beschwören und Zähmen"-Paradigma der KI... Wie [LLMs] funktionieren, ist, dass Sie diesen "Geist" aus dem "Geisterraum" mit Ihren Daten, viel Rechenleistung und viel Geld beschwören. Dann versuchen Sie, ihn mit Dingen wie RLHF (Reinforcement Learning from Human Feedback) usw. zu "zähmen". Und sehr wichtig ist, dass die Insiders denken, dass [dadurch] ein existenzielles Risiko für den Planeten eingegangen wird. Eine Sache, die eine Pause erreicht, ist, dass wir die Grenze nicht überschreiten werden, was riskante Vor-Trainings-Experimente angeht.
 >
 > - [Jaan Tallinn, Gründer, Future of Life Institute, Centre for the Study of Existential Risk, Skype, Kazaa](https://youtu.be/Dmh6ciu24v0?t=966)
 
