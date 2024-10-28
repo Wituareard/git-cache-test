@@ -43,12 +43,12 @@ Dies bietet nur ein sehr geringes Maß an Schutz gegen KI-Gefahren.
 
 Beispiele:
 
-- **Anforderungen an Red-Teaming**. Dies bedeutet, dass ein KI-Modell vor seiner Bereitstellung von einem Red-Team getestet wird, um zu sehen, ob es gehackt (jailbroken) oder missbraucht werden kann.
+- **Anforderungen an Red-Teaming**. Dies bedeutet, dass ein KI-Modell, bevor es bereitgestellt wird, von einem Red-Team getestet wird, um zu sehen, ob es gehackt (jailbroken) oder missbraucht werden kann.
 - **Verbot der Bereitstellung und Open-Sourcing** von Modellen mit [gefährlichen Fähigkeiten](/dangerous-capabilities).
 
 Wenn wir die Bereitstellung regulieren, verhindern wir, dass gefährliche Modelle verfügbar sind.
 Dies bedeutet, dass die Verantwortung bei den Erstellern der Modelle liegt.
-Dies ist eine sicherere Situation als Ebene 1, da wir nun auf eine viel kleinere Gruppe von Menschen angewiesen sind, verantwortungsvoll zu handeln.
+Dies ist eine sicherere Situation als Ebene 1, da wir nun von einer viel kleineren Gruppe von Menschen abhängig sind, die verantwortungsvoll handeln.
 
 Allerdings lassen wir immer noch gefährliche Trainingsläufe zu, so dass Unfälle in KI-Labors (einschließlich des Lecks von gefährlichen KI-Modellen oder der Erstellung von Rogue-KI) immer noch passieren können.
 
@@ -56,11 +56,11 @@ Allerdings lassen wir immer noch gefährliche Trainingsläufe zu, so dass Unfäl
 
 Beispiele:
 
-- **Sicherheitsnachweis** vor der Genehmigung zum Training eines bestimmten Modells. Dies kann auch einen formalen Nachweis der Ausrichtung umfassen. [Dieser Beitrag beschreibt einige der aktuellen Sicherheitsprobleme](https://www.lesswrong.com/posts/mnoc3cKY3gXMrTybs/a-list-of-core-ai-safety-problems-and-how-i-hope-to-solve).
+- **Sicherheitsnachweis** vor der Erteilung der Erlaubnis, ein bestimmtes Modell zu trainieren. Dies kann auch einen formalen Nachweis der Ausrichtung umfassen. [Dieser Beitrag beschreibt einige der aktuellen Sicherheitsprobleme](https://www.lesswrong.com/posts/mnoc3cKY3gXMrTybs/a-list-of-core-ai-safety-problems-and-how-i-hope-to-solve).
 - Festlegung einer **Skalierungsobergrenze für das Training neuer Modelle** (z.B. eine maximale Anzahl von FLOPS). Dies könnte auch den Prozess des Fine-Tunings umfassen.
-- **Lizenzierung** zum Training von KI-Modellen (oberhalb einer bestimmten Größe / mit bestimmten Fähigkeiten).
+- **Lizenzierung** zum Trainieren von KI-Modellen (oberhalb einer bestimmten Größe / mit bestimmten Fähigkeiten).
 - **Verbot des Trainings auf gefährlichen Datentypen**. Einige Arten von Trainingsdaten können zu [gefährlichen Fähigkeiten](/dangerous-capabilities) führen, wie z.B. Hacking oder die Erstellung von Biowaffen. Wir könnten das Training auf Daten verbieten, die dieses Wissen enthalten.
-- **Verbot des Trainings auf urheberrechtlich geschützten Daten**. Dies zielt nicht direkt auf unsichere Daten ab, aber es limitiert die Menge an Daten, die verwendet werden können, was uns Zeit gibt, herauszufinden, wie wir sichere KI-Modelle bauen können.
+- **Verbot des Trainings auf urheberrechtlich geschützten Daten**. Dies zielt nicht direkt auf unsichere Daten ab, aber es limitiert die Menge an Daten, die verwendet werden können, was uns Zeit gibt, um herauszufinden, wie man sichere KI-Modelle baut.
 
 Wenn wir die Trainingsläufe regulieren, verhindern wir, dass gefährliche Modelle überhaupt erstellt werden.
 Dies wird Unfälle in KI-Labors, die sich an die Regulierungen halten, verhindern.
@@ -80,7 +80,7 @@ Dies bietet uns den besten Schutz gegen die Risiken durch KI.
 ## Einschränkungen {#limitations}
 
 Hinweis: Dieses Rahmenwerk ist nicht perfekt, und nicht alle möglichen Arten von KI-Regulierungen passen sauber in eine der genannten Ebenen.
-Beispielsweise kann die rechtliche Haftung für Modellersteller als Ebene-1-"Nutzung"-Typ-Regulierung eingestuft werden, da sie nach der Bereitstellung durchgesetzt wird, aber sie könnte auch als Ebene-2- oder Ebene-3-Typ-Regulierung eingestuft werden, da sie den Erstellern helfen kann, zu überlegen, ob ein bestimmtes Modell bereitgestellt oder trainiert werden sollte.
+Beispielsweise kann die rechtliche Haftung für Modellersteller als Ebene-1-"Nutzung"-Typ-Regulierung klassifiziert werden, da sie nach der Bereitstellung durchgesetzt wird, aber sie könnte auch als Ebene-2- oder Ebene-3-Typ-Regulierung klassifiziert werden, da sie den Erstellern helfen kann, zu überlegen, ob ein bestimmtes Modell bereitgestellt oder trainiert werden sollte.
 
 ## Schlussfolgerungen {#conclusions}
 
