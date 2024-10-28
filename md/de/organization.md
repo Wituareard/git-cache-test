@@ -29,7 +29,7 @@ Willkommen bei PauseAI!
 - [Flyer verteilen](/flyering): Wie man effektiv Flyer verteilt
 - [Gegenargumente](/counterarguments)
 - [Organisation einer Protestaktion](/organizing-a-protest)
-- [Lernen Sie mehr über KI-Sicherheit](/learn)
+- [Lernen Sie mehr über AI-Sicherheit](/learn)
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
 - [US-Lobby-Leitfaden](/us-lobby-guide)
@@ -44,9 +44,9 @@ Willkommen bei PauseAI!
 
 ## Weitere nützliche Links {#other-useful-links}
 
-- [Kostenloses Buch über KI-X-Risiko: Unkontrollierbar](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
+- [Kostenloses Buch über AI-X-Risiko: Unkontrollierbar](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
 - [Google-Kalender-Link](https://calendar.google.com/calendar/u/0?cid=Y19mNWE4YWYyMDZlNjM1ODc2NjVjNmU4MzAzOTgzZmVmYWYzYTBjNjE0NGRiMGFhNDljOTcwZWZhNTEwYTNkODY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-- [Anonymes Feedback-Formular](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form): Wenn Sie uns Ihre kritischen Gedanken mitteilen möchten, ohne Ihre Identität preiszugeben.
+- [Anonymes Feedback-Formular](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form): Wenn Sie uns kritische Gedanken mitteilen möchten, während Sie anonym bleiben.
 - [Mikrosubventionen](/microgrants): Wenn Sie eine Finanzierung für Ihr PauseAI-bezogenes Projekt/Event benötigen
 
 ## Verwendete Tools {#tools-used}
@@ -60,7 +60,7 @@ Willkommen bei PauseAI!
 
 ## Social Media {#social-media}
 
-Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
+Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier passiert die meiste Koordination!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
 Sie können uns kontaktieren unter [joep@pauseai.info](mailto:joep@pauseai.info).
 
 ## Design-Ressourcen (Flyer, Poster, Logo) {#design-resources-flyers-posters-logo}
