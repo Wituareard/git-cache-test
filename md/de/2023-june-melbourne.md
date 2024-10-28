@@ -2,7 +2,7 @@
 
 ---
 title: PauseAI-Protest in Melbourne - 16. Juni
-description: Nehmen Sie an dem bevorstehenden friedlichen Protest von PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
+description: Nehmen Sie am bevorstehenden friedlichen Protest von PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
 ---
 
 <script>
@@ -11,31 +11,31 @@ description: Nehmen Sie an dem bevorstehenden friedlichen Protest von PauseAI am
 
 <WidgetConsent>
 <div>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today we protested in Melbourne, where OpenAI&#39;s Sam Altman was speaking. OpenAI aims to build a superintelligence, which has a serious chance to kill everyone on earth. We&#39;re demanding our governments to step in and <a href="https://twitter.com/hashtag/PauseAI?src=hash&amp;ref_src=twsrc%5Etfw">#PauseAI</a>.<br><br>Press release: <a href="https://t.co/xu7XXTUUyT">https://t.co/xu7XXTUUyT</a> <a href="https://t.co/HtYymXpqjf">https://t.co/HtYymXpqjf</a></p>&mdash; PauseAI (@pause_ai_info) <a href="https://twitter.com/pause_ai_info/status/1669809871867240451?ref_src=twsrc%5Etfw">June 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today we protested in Melbourne, where OpenAI's Sam Altman was speaking. OpenAI aims to build a superintelligence, which has a serious chance to kill everyone on earth. We're demanding our governments to step in and <a href="https://twitter.com/hashtag/PauseAI?src=hash&amp;ref_src=twsrc%5Etfw">#PauseAI</a>.<br><br>Press release: <a href="https://t.co/xu7XXTUUyT">https://t.co/xu7XXTUUyT</a> <a href="https://t.co/HtYymXpqjf">https://t.co/HtYymXpqjf</a></p>&mdash; PauseAI (@pause_ai_info) <a href="https://twitter.com/pause_ai_info/status/1669809871867240451?ref_src=twsrc%5Etfw">June 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </WidgetConsent>
 
-Nehmen Sie an dem friedlichen Protest von #PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
+Nehmen Sie am friedlichen Protest von #PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
 
 - Datum und Uhrzeit: Freitag, 16. Juni, 14 Uhr AEST
 - Ort: Haupteingang des MCEC, 1 Convention Centre Place, South Wharf, VIC 3006, Australien
-- Protestzeiten: 13:30 Uhr bis 15 Uhr (Ankunftszeit) und 16:30 Uhr (Abreisezeit)
-- Logistik: Bringen Sie Schilder und Flyer mit, keine Teilnahmegebühr erforderlich, Startup Victoria-Mitgliedschaftsticket ist derzeit kostenlos
+- Protestzeiten: 13:30 Uhr bis 15 Uhr (Ankunftszeit) und 16:30 Uhr (Abfahrtszeit)
+- Logistik: Bitte bringen Sie Schilder und Flyer mit, keine Teilnahmegebühr erforderlich, Startup Victoria-Mitgliedschaftsticket ist derzeit kostenlos
 
-Nehmen Sie an unserer Aktion teil, um Ihre Stimme für die Sicherheit von künstlicher Intelligenz (KI) zu erheben und einen Unterschied zu machen. Bitte treten Sie dem [Discord-Server](https://discord.gg/2XXWXvErfA) von #PauseAI bei, dem Kanal #australia und dem Slack von AGI Moratorium, [#λ-australia](https://www.campaignforaisafety.org/r/2b0991d9?m=4045bfdd-2b52-4fa2-b4c5-0d8adb4aac63), für weitere Diskussionen.
+Nehmen Sie an unserer Aktion teil, um Ihre Stimme für die Sicherheit von künstlicher Intelligenz zu erheben und einen Unterschied zu machen. Bitte treten Sie dem [Discord-Server](https://discord.gg/2XXWXvErfA) von #PauseAI bei, dem Kanal #australia und dem Slack von AGI Moratorium, [#λ-australia](https://www.campaignforaisafety.org/r/2b0991d9?m=4045bfdd-2b52-4fa2-b4c5-0d8adb4aac63), für weitere Diskussionen.
 
 ## Pressemitteilung
 
-Am Freitag, dem 16. Juni, werden Freiwillige der neuen Bewegung [PauseAI](http://pauseai.info) am Melbourne Convention and Exhibition Centre zusammenkommen, um die australische Regierung aufzufordern, die Führung bei der Pause der Entwicklung von leistungsfähigeren und gefährlicheren KI-Systemen zu übernehmen.
+Am Freitag, dem 16. Juni, werden Freiwillige der neuen Bewegung [PauseAI](http://pauseai.info) am Melbourne Convention and Exhibition Centre zusammenkommen, um die australische Regierung aufzufordern, die Führung bei der Pause der Entwicklung von gefährlicheren KI-Systemen zu übernehmen.
 
-Eine rasch wachsende Zahl von KI-Experten hat letzte Woche eine [Erklärung](https://www.safe.ai/statement-on-ai-risk) unterzeichnet, die lautet:
+Eine rasch wachsende Zahl von KI-Experten hat letzte Woche eine Erklärung unterzeichnet, die lautet:
 
 > "Die Minderung des Risikos des Aussterbens durch KI sollte eine globale Priorität neben anderen gesellschaftlichen Risiken wie Pandemien und Atomkrieg sein."
 
 Dies wurde von praktisch allen KI-Labors (OpenAI, Google DeepMind, Anthropic) und Hunderten von KI-Wissenschaftlern, einschließlich Geoffrey Hinton, dem "Gottvater der KI", unterzeichnet.
 
 KI-Sicherheitsforscher haben noch keinen Konsens darüber erzielt, wie groß das Risiko des menschlichen Aussterbens sein wird.
-Die Ergebnisse der ["Umfrage zum existenziellen Risiko durch KI"](https://forum.effectivealtruism.org/posts/8CM9vZ2nnQsWJNsHx/existential-risk-from-ai-survey-results) zeigen, dass die Schätzungen zwischen 2% und 98% liegen, mit einem Durchschnitt von 30%.
+Die Ergebnisse der Umfrage ["Existenzielles Risiko durch KI"](https://forum.effectivealtruism.org/posts/8CM9vZ2nnQsWJNsHx/existential-risk-from-ai-survey-results) zeigen, dass die Schätzungen zwischen 2% und 98% liegen, mit einem Durchschnitt von 30%.
 
 Die Demonstranten fordern die australische Regierung auf, die Führung bei der globalen KI-Sicherheit zu übernehmen und die Entwicklung von gefährlicheren KI-Systemen zu pausieren.
 Sie bitten sie auch, die Pause auf dem [KI-Sicherheitsgipfel](https://pauseai.info/summit) zu priorisieren, der von Großbritannien organisiert wird und später im Jahr 2023 stattfinden wird.
@@ -47,7 +47,7 @@ OpenAI glaubt, dass ["es unintuitiv riskant und schwierig wäre, die Schaffung v
 
 > "KI-Unternehmen riskieren alles; wir sehen bereits den Schaden, und es wird noch schlimmer werden. Die Technologieentwicklung ist nicht unvermeidlich, und eine Pause sollte als machbare Option in Betracht gezogen werden. Wir können die Zukunft nicht einigen wenigen CEOs überlassen, die bereit sind, die Menschheit für ihre Träume zu riskieren. Wir alle verdienen ein Mitspracherecht an unserer Zukunft, und eine globale Pause gibt uns diese Chance."
 
-> "Trotz der Anerkennung der Gefahren der fortgesetzten KI-Entwicklung nutzen diese Unternehmen dies nur als Vorwand, um weiterzumachen, und scheinen freiwillig auf diese gefährliche Macht verzichten zu wollen. In solchen Situationen ist die globale Zusammenarbeit bei der Eindämmung dieser gefährlichen Entwicklung von entscheidender Bedeutung, damit wir sicherstellen, dass die Technologieentwicklung für alle funktioniert."
+> "Trotz der Anerkennung der Gefahren der fortgesetzten KI-Entwicklung nutzen diese Unternehmen dies nur als Ausrede, um weiterzumachen, und scheinen freiwillig auf diese gefährliche Macht verzichten zu wollen. In solchen Situationen ist die globale Zusammenarbeit bei der Eindämmung dieser gefährlichen Entwicklung von entscheidender Bedeutung, damit wir sicherstellen, dass die Technologieentwicklung für alle funktioniert."
 
 > "Wir haben möglicherweise nicht den Luxus der Zeit. KI-Entwicklungen erfolgen in einem frenetischen Tempo, und wir müssen jetzt handeln, um die schlimmsten Szenarien zu verhindern. Der Gipfel im Herbst könnte sogar zu spät sein, um das Schlimmste zu verhindern. Wir brauchen Regierungen, die die KI-Entwicklung jetzt pausieren"
 
