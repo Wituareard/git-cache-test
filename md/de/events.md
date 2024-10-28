@@ -1,7 +1,8 @@
+
+
 ---
 title: PauseAI-Veranstaltungen
 description: Treffen, Workshops, Proteste und mehr!
----
 
 ## Alle Veranstaltungen anzeigen [hier](https://lu.ma/PauseAI)
 
@@ -15,8 +16,8 @@ description: Treffen, Workshops, Proteste und mehr!
   tabindex="0"
 ></iframe>
 
-## Eine Veranstaltung erstellen
+## Veranstaltung erstellen
 
-Wenn Sie eine Veranstaltung organisieren möchten, erstellen Sie bitte [eine Veranstaltung auf lu.ma](https://lu.ma/create) und klicken Sie auf die Schaltfläche "Veranstaltung einreichen" auf [unserer Kalenderseite](https://lu.ma/PauseAI).
+Wenn Sie eine Veranstaltung organisieren möchten, erstellen Sie bitte eine Veranstaltung auf [lu.ma](https://lu.ma/create) und klicken Sie auf den Button "Veranstaltung einreichen" auf [unserer Kalenderseite](https://lu.ma/PauseAI).
 
-Mehr über [lokale Organisation](/local-organizing).
+Mehr über [lokale Organisation](/local-organizing) erfahren.
