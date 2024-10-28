@@ -16,11 +16,11 @@ Das Auffinden sogenannter Zero-Day-Exploits (Sicherheitslücken, die noch nicht 
 Wenn jedoch KI ausreichend fortgeschritten ist, wird dies nicht mehr der Fall sein.
 Anstatt ein Team von hochqualifizierten Sicherheitsexperten/Hackern anzuheuern, um Zero-Day-Exploits zu finden, könnte jeder einfach eine viel billigere KI verwenden.
 
-## KI-Modelle können autonom Sicherheitslücken finden und ausnutzen
+## KI-Modelle können autonom Sicherheitslücken finden und ausnutzen {#ai-models-can-autonomously-find-and-exploit-vulnerabilities}
 
-Die neuesten KI-Systeme können bereits Software analysieren und schreiben
+Die neuesten KI-Systeme können bereits Software analysieren und schreiben.
 Sie [können Sicherheitslücken finden](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411) in Software und [sie könnten genutzt werden, um sie auszunutzen](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/).
-GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), indem es Aufgaben wie Blind-Database-Schema-Extraktion und SQL-Injektionen ohne menschliches Feedback durchführt, was 18 Monate nach Abschluss des Trainings von GPT-4 entdeckt wurde.
+GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), indem es Aufgaben wie die Extraktion von Datenbank-Schemas und SQL-Injektionen ohne menschliches Feedback durchführt, was 18 Monate nach Abschluss des Trainings von GPT-4 entdeckt wurde.
 GPT-4 übertrifft bereits [88%](https://arxiv.org/pdf/2402.11814.pdf) der menschlichen Hacker in einem CTF-Wettbewerb.
 Es kann auch [autonom 87% der getesteten Sicherheitslücken ausnutzen](https://arxiv.org/abs/2404.08144), was einen enormen Fortschritt gegenüber GPT-3.5 oder Open-Source-Modellen darstellt, die alle 0% erreichten.
 Teams aus mehreren LLMs [funktionieren noch besser](https://arxiv.org/abs/2406.01637) - sie können reale Zero-Day-Sicherheitslücken ausnutzen.
@@ -40,7 +40,7 @@ Dies kann auf viele Arten schiefgehen.
 - **Finanzen**: Cyberwaffen können genutzt werden, um [Geld von Banken zu stehlen](https://en.wikipedia.org/wiki/2015%E2%80%932016_SWIFT_banking_hack) oder um [den Aktienmarkt zu manipulieren](https://en.wikipedia.org/wiki/2010_flash_crash).
 - **Militär**: Geräte wie Waffen und Sensoren sind zunehmend von drahtloser Konnektivität und komplexer Software abhängig.
 
-## Groß angelegte Cyberangriffe
+## Groß angelegte Cyberangriffe {#large-scale-cyberattacks}
 
 Es ist möglich, dass eine solche leistungsfähige KI genutzt wird, um einen Virus zu erstellen, der eine große Anzahl von Zero-Day-Exploits nutzt.
 Die meisten Cyberwaffen nutzen
@@ -58,7 +58,7 @@ Wenn unsere Geräte nicht mehr ordnungsgemäß funktionieren, versagen auch viel
 
 Über [93% der Cybersicherheitsexperten](https://www.weforum.org/publications/global-cybersecurity-outlook-2023/) glauben, dass „ein weitreichendes, katastrophales Cyberereignis in den nächsten zwei Jahren wahrscheinlich ist“.
 
-## Minderung von KI-Cybersicherheitsrisiken
+## Minderung von KI-Cybersicherheitsrisiken {#mitigating-ai-cybersecurity-risks}
 
 Die oben beschriebene Geschichte kann nur passieren, wenn:
 
