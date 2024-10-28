@@ -15,8 +15,8 @@ Internationale Abkommen bedeuten Verträge, und dafür müssen Länder persönli
 
 Es gab einige Beispiele für internationale Gipfel und daraus resultierende Verträge, die erfolgreich waren, um Risiken zu reduzieren:
 
-- **Montreal-Protokoll** (1987): Das Montreal-Protokoll ist ein internationales Umweltabkommen, das den Schutz der Ozonschicht durch die schrittweise Einstellung der Produktion und des Verbrauchs von ozonschädigenden Substanzen zum Ziel hat. Es war sehr erfolgreich bei der Reduzierung des Einsatzes von Substanzen wie Fluorchlorkohlenwasserstoffen (FCKW) und hat zum allmählichen Erholen der Ozonschicht beigetragen.
-- **Stockholmer Übereinkommen über persistente organische Schadstoffe** (2001): Das Stockholmer Übereinkommen ist ein internationales Abkommen, das darauf abzielt, die menschliche Gesundheit und die Umwelt vor persistenten organischen Schadstoffen (POP) zu schützen. Diese sind giftige Chemikalien, die in der Umwelt persistieren, in lebenden Organismen bioakkumulieren und schwerwiegende negative Auswirkungen auf die menschliche Gesundheit und Ökosysteme haben können. Wissenschaftler haben Bedenken hinsichtlich der schädlichen Auswirkungen von POP geäußert, einschließlich ihrer Fähigkeit, über lange Strecken durch Luft- und Wasserströmungen zu reisen. Das Übereinkommen führte zu einem Verbot oder strengen Beschränkungen der Produktion und des Einsatzes mehrerer POP, einschließlich polychlorierter Biphenyle (PCB), Dichlordiphenyltrichlorethan (DDT) und Dioxine.
+- **Montreal-Protokoll** (1987): Das Montreal-Protokoll ist ein internationales Umweltabkommen, das den Schutz der Ozonschicht durch die schrittweise Abschaffung der Produktion und des Verbrauchs von ozonschädigenden Substanzen zum Ziel hat. Es war sehr erfolgreich bei der Reduzierung des Einsatzes von Substanzen wie Fluorchlorkohlenwasserstoffen (FCKW) und hat zum allmählichen Wiederherstellen der Ozonschicht beigetragen.
+- **Stockholmer Übereinkommen über persistente organische Schadstoffe** (2001): Das Stockholmer Übereinkommen ist ein internationales Abkommen, das darauf abzielt, die menschliche Gesundheit und die Umwelt vor persistenten organischen Schadstoffen (POP) zu schützen. Diese sind giftige Chemikalien, die in der Umwelt persistieren, in lebenden Organismen bioakkumulieren und schwerwiegende negative Auswirkungen auf die menschliche Gesundheit und Ökosysteme haben können. Wissenschaftler äußerten Bedenken hinsichtlich der schädlichen Auswirkungen von POP, einschließlich ihrer Fähigkeit, über lange Strecken durch Luft- und Wasserströmungen zu reisen. Das Übereinkommen führte zu einem Verbot oder strengen Beschränkungen der Produktion und Verwendung mehrerer POP, einschließlich polychlorierter Biphenyle (PCB), Dichlordiphenyltrichlorethan (DDT) und Dioxine.
 
 ## KI-Sicherheitsgipfel
 
@@ -24,16 +24,16 @@ Es gab einige Beispiele für internationale Gipfel und daraus resultierende Vert
 
 Das Hauptziel von PauseAI war es, eine Regierung davon zu überzeugen, einen solchen Gipfel zu organisieren.
 Nur fünf Wochen nach dem ersten PauseAI-Protest gab die britische Regierung bekannt, dass sie einen KI-Sicherheitsgipfel ausrichten würde, der am 1. und 2. November 2023 stattfand.
-Der Gipfel war relativ klein (nur 100 Personen wurden eingeladen) und fand in Bletchley Park statt.
+Der Gipfel war relativ klein (nur 100 Personen waren eingeladen) und fand in Bletchley Park statt.
 Obwohl er nicht zu einem bindenden Vertrag führte, führte er zu der "Bletchley-Erklärung", die von allen 28 teilnehmenden Ländern unterzeichnet wurde.
 In dieser Erklärung anerkannten die Länder die Risiken von KI (einschließlich "Probleme der Kontrolle im Zusammenhang mit der Ausrichtung auf menschliche Absichten").
-Dieser Gipfel führte auch dazu, dass zwei Folgegipfel für 2024 in Seoul und Paris angekündigt wurden.
+Dieser Gipfel führte auch zu zwei Folgegipfeln, die für 2024 in Seoul und Paris angekündigt wurden.
 
 ### Südkorea-KI-Sicherheitsgipfel 2024 (21. und 22. Mai)
 
-Monatelang war unklar, was der Umfang dieses Gipfels in Seoul sein würde.
+Monatelang war unklar, welchen Umfang dieser Gipfel in Seoul haben würde.
 Alles, was wir wussten, war, dass es ein "virtuelles Minigipfeltreffen" sein würde.
-Eine ziemlich unambitionierte Art, mit den hoch alarmierenden Aufrufen zur Regulierung umzugehen.
+Eine ziemlich unambitionierte Art, mit den hoch alarmierenden Forderungen nach Regulierung umzugehen.
 Im April 2024 wurde der zweite KI-Sicherheitsgipfel offiziell von der britischen Regierung angekündigt.
 Wir organisierten am 13. Mai einen Protest, um unsere Minister davon zu überzeugen, am Gipfel teilzunehmen (einige hatten nicht einmal vor, teilzunehmen) und Verhandlungen über einen Vertrag zur Pause aufzunehmen.
 
@@ -52,11 +52,11 @@ Eines der Ziele dieser Konferenz ist es, verschiedene KI-Sicherheitsinstitute da
 Man könnte argumentieren, dass einige sicherheitsbewusste hochrangige Beamte von den Entscheidungen Frankreichs enttäuscht waren und beschlossen, dass ein wahrer Sicherheitsgipfel bald benötigt wurde.
 Es ist unglaublich unglücklich, dass das neue chinesische KI-Sicherheitsinstitut nicht eingeladen wurde, teilzunehmen.
 
-## ~~2024~~ 2025 Frankreich-KI-~~Sicherheits~~-Aktionsgipfel
+## ~~2024~~ 2025 Frankreich-KI-~~Sicherheits~~Aktionsgipfel
 
 Während des Bletchley-Gipfels 2023 entschied sich Frankreich, den nächsten großen Gipfel im November 2024 auszurichten.
 Frankreich verschob ihn auf Februar 2025.
 Er wurde auch in "KI-Aktionsgipfel" umbenannt und der wichtige Fokus auf "Sicherheit" wurde fallen gelassen.
 Wir wurden informiert, dass Sicherheit nur einer von fünf Schwerpunkten des Gipfels sein wird.
-Er wird von der KI-Skeptikerin Anne Bouverot geleitet, die "Alarmdiskurs" ablehnt und KI mit Taschenrechnern vergleicht und KI-Sicherheitsbedenken mit Y2K-Bedenken vergleicht und sicher ist, dass "KI uns nicht ersetzen wird, sondern uns helfen wird".
+Er wird von der KI-Skeptikerin Anne Bouverot geleitet, die "Alarmdiskurs" ablehnt und KI mit Taschenrechnern vergleicht und Bedenken hinsichtlich der KI-Sicherheit mit Y2K-Bedenken vergleicht und sich sicher ist, dass "KI uns nicht ersetzen, sondern uns helfen wird".
 Es scheint immer unwahrscheinlicher, dass dieser Gipfel zu den internationalen Regulierungen führen wird, die wir fordern.
