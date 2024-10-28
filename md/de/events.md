@@ -3,6 +3,7 @@
 ---
 title: PauseAI-Veranstaltungen
 description: Treffen, Workshops, Proteste und mehr!
+---
 
 ## Alle Veranstaltungen anzeigen [hier](https://lu.ma/PauseAI)
 
