@@ -9,9 +9,9 @@ Möchten Sie einen Einfluss ausüben und an dem wichtigsten Thema der Welt arbei
 
 ## Über PauseAI {#about-pauseai}
 
-PauseAI ist eine junge, internationale gemeinnützige Organisation mit dem Ziel, die Entwicklung von künstlicher Intelligenz (KI) zu verhindern, die (viel) intelligenter ist als die Menschheit.
+PauseAI ist eine junge, internationale gemeinnützige Organisation mit dem Ziel, die Entwicklung von künstlicher Intelligenz (KI) zu verhindern, die (weit) intelligenter ist als die Menschheit.
 Eine überwältigende Mehrheit von [86 % der KI-Wissenschaftler](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) glaubt, dass wir, wenn wir diesen Punkt erreichen, die Kontrolle verlieren könnten.
-Die [drei größten KI-Wissenschaftler](https://twitter.com/PauseAI/status/1734641804245455017) warnen uns seit langem: dies könnte das Ende der Menschheit bedeuten.
+Die [drei größten KI-Wissenschaftler](https://twitter.com/PauseAI/status/1734641804245455017) warnen uns seit Langem: dies könnte das Ende der Menschheit bedeuten.
 
 PauseAI wurde im April 2023 gegründet und ist seitdem auf 2000 Mitglieder, über 100 [registrierte Freiwillige](/people) und Dutzende von [lokalen Gruppen](/communities) auf der ganzen Welt angewachsen.
 
@@ -24,9 +24,9 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 
 ### Aufgaben und Verantwortlichkeiten {#tasks--responsibilities}
 
-- Kontakt zu verschiedenen Freiwilligen und [Teams](/teams) innerhalb von PauseAI aufrechterhalten und verwalten.
+- Kontaktpflege und Koordination von verschiedenen Freiwilligen und [Teams](/teams) innerhalb von PauseAI.
 - Coaching und Unterstützung von Teams und Leitern von [lokalen](/communities) und [nationalen Gruppen](/national-groups).
-- Entwurf und Implementierung einer [organisatorischen Struktur](/organization) und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
+- Entwicklung und Implementierung einer [organisatorischen Struktur](/organization) und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
 - Entwicklung und Verwaltung von Materialien für lokale und nationale PauseAI-Gruppen.
 - Erstellung von Social-Media-Inhalten (Text, Video), um Mitglieder zu informieren, zu motivieren und zu inspirieren.
 
@@ -48,6 +48,6 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 - Remote-Arbeit oder persönliche Anwesenheit in Utrecht.
 - Vollzeit-Position, 32 Stunden pro Woche verhandelbar.
 
-## Bewerbung {#apply}
+## Bewerben {#apply}
 
 Wenn Sie an dieser Stelle interessiert sind, senden Sie bitte ein kurzes Motivationsschreiben und Ihren Lebenslauf an [joep@pauseai.info](mailto:joep@pauseai.info) vor dem 30. November 2024.
