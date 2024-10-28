@@ -2,11 +2,11 @@
 
 ---
 title: Fähigkeiten moderner KI-Systeme im Vergleich zum Menschen
-description: Wie intelligent sind die neuesten KI-Modelle im Vergleich zum Menschen?
+description: Wie intelligent sind die neuesten KI-Modelle im Vergleich zu Menschen?
 ---
 
-Wie intelligent sind die neuesten KI-Modelle im Vergleich zum Menschen?
-Lassen Sie uns einen Blick darauf werfen, wie die kompetentesten KI-Systeme in verschiedenen Bereichen im Vergleich zum Menschen abschneiden.
+Wie intelligent sind die neuesten KI-Modelle im Vergleich zu Menschen?
+Lassen Sie uns einen Blick darauf werfen, wie die kompetentesten KI-Systeme in verschiedenen Bereichen im Vergleich zu Menschen abschneiden.
 Die Liste unten wird regelmäßig aktualisiert, um die neuesten Entwicklungen widerzuspiegeln.
 
 _Letzte Aktualisierung: 2024-09-16_
@@ -16,9 +16,9 @@ _Letzte Aktualisierung: 2024-09-16_
 - **Spiele**: Bei vielen Spielen (Schach, Go, Starcraft, Dota, Gran Turismo usw.) ist die beste KI besser als der beste Mensch.
 - **Arbeitsgedächtnis**: Ein durchschnittlicher Mensch kann etwa 7 Elemente (wie Zahlen) gleichzeitig merken. Gemini 1.5 Pro kann 99% von 7 Millionen Wörtern lesen und merken.
 - **Lesegeschwindigkeit**: Ein Modell wie Gemini 1.5 Pro kann ein ganzes Buch in 30 Sekunden lesen. Es kann eine völlig neue Sprache lernen und Texte in einer halben Minute übersetzen.
-- **Denkgeschwindigkeit**: KI-Modelle können mit Geschwindigkeiten schreiben, die weit über denen eines Menschen liegen, und ganze Computerprogramme in Sekunden schreiben.
+- **Denkgeschwindigkeit**: KI-Modelle können mit Geschwindigkeiten schreiben, die weit über denen von Menschen liegen, und ganze Computerprogramme in Sekunden schreiben.
 - **Wissensumfang**: Moderne LLMs wissen weit mehr als jeder Mensch, ihr Wissen umfasst praktisch jeden Bereich. Es gibt keinen Menschen, dessen Wissensbreite auch nur annähernd kommt.
-- **Speichereffizienz**: GPT-4 hat etwa 1,7 Billionen Parameter (Neuronenverbindungen), während Menschen etwa 100- bis 1000-mal so viele Synapsen (Neuronenverbindungen) haben. Allerdings weiß GPT-4 tausendfach mehr und speichert mehr Informationen in einer kleineren Menge an Parametern.
+- **Speichereffizienz**: GPT-4 hat etwa 1,7 Billionen Parameter (Neuronenverbindungen), während Menschen etwa 100- bis 1000-mal so viele Synapsen (Neuronenverbindungen) haben. Allerdings weiß GPT-4 tausendmal mehr und speichert mehr Informationen in einer kleineren Anzahl von Parametern.
 
 ## Besser als die meisten Menschen
 
@@ -30,8 +30,8 @@ _Letzte Aktualisierung: 2024-09-16_
 - **Spezialwissen**: GPT-4 erreicht 75% im Medical Knowledge Self-Assessment Program, Menschen im Durchschnitt zwischen 65 und 75%. Es schneidet besser ab als 68 bis 90% der Jurastudenten bei der Anwaltsprüfung.
 - **Kunst**: Bildgenerierungsmodelle haben Kunst- und sogar Fotowettbewerbe gewonnen.
 - **Forschung**: GPT-4 kann autonome chemische Forschung betreiben, und DeepMind hat eine KI entwickelt, die eine Lösung für ein offenes mathematisches Problem gefunden hat. Allerdings erfordern diese Architekturen viel menschliches Engineering und sind nicht allgemein einsetzbar.
-- **Programmierung**: o1 schlägt 93% der menschlichen Programmierer im Codeforces-Wettbewerb. KI-Modelle können Code in fast jeder Programmiersprache schreiben. Devin kann 13% der Codierprobleme lösen und kann auf Upwork Geld verdienen.
-- **Hacking**: GPT-4 kann autonom Websites hacken und schlägt 89% der Hacker in einem Capture-the-Flag-Wettbewerb. Glücklicherweise versagen SOTA-Modelle noch immer bei wesentlichen Aufgaben, die für autonome Selbstreplikation erforderlich sind (siehe unten).
+- **Programmierung**: o1 schlägt 93% der menschlichen Programmierer im Codeforces-Wettbewerb. KI-Modelle können Code in fast jeder Programmiersprache schreiben. Devin kann 13% der Codierprobleme lösen und kann Geld auf Upwork verdienen.
+- **Hacking**: GPT-4 kann autonom Websites hacken und schlägt 89% der Hacker in einem Capture-the-Flag-Wettbewerb. Glücklicherweise scheitern SOTA-Modelle noch an wesentlichen Aufgaben, die für autonome Selbstreplikation erforderlich sind (siehe unten).
 - **Mathematik**: o1 platziert sich unter den besten 500 Schülern in den USA in einem Qualifikationstest für die USA-Mathematik-Olympiade (AIME).
 
 ## Schlechter als die meisten Menschen
@@ -39,8 +39,8 @@ _Letzte Aktualisierung: 2024-09-16_
 - **"Ich weiß nicht" sagen**: Praktisch alle großen Sprachmodelle haben dieses Problem der "Halluzination", also das Erfinden von Informationen, anstatt zu sagen, dass sie es nicht wissen. Dies mag wie ein relativ kleiner Mangel erscheinen, aber es ist ein sehr wichtiger. Es macht LLMs unzuverlässig und schränkt ihre Anwendbarkeit stark ein. Allerdings zeigen Studien, dass größere Modelle weit weniger halluzinieren als kleinere.
 - **Ein überzeugender Mensch sein**: GPT-4 kann 54% der Menschen davon überzeugen, dass es ein Mensch ist, aber Menschen können dies 67% der Zeit tun. Mit anderen Worten, GPT-4 besteht den Turing-Test noch nicht konsequent.
 - **Geschickte Bewegung**: Kein Roboter kann sich wie ein Mensch bewegen, aber wir kommen näher. Der Atlas-Roboter kann gehen, Objekte werfen und Saltos machen. Googles RT-2 kann Ziele in die Tat umsetzen, wie "den Becher zum Weinflasche bewegen". Teslas Optimus-Roboter kann Kleidung falten und die bipede Figur kann Kaffee machen.
-- **Selbstreplikation**: Alle Lebewesen auf der Erde können sich selbst replizieren. KI-Modelle könnten sich durch das Internet von Computer zu Computer verbreiten, aber dies erfordert eine Reihe von Fähigkeiten, die KI-Modelle noch nicht besitzen. Eine Studie aus dem Jahr 2023 listet eine Reihe von 12 Aufgaben für Selbstreplikation auf, von denen getestete Modelle 4 erfüllten. Wir möchten nicht herausfinden, was passiert, wenn ein KI-Modell es schafft, sich selbst über das Internet zu verbreiten.
-- **Kontinuierliches Lernen**: Aktuelle SOTA-LLMs trennen Lernen ("Training") von Tun ("Inferenz"). Obwohl LLMs mithilfe ihres Kontexts lernen können, können sie ihre Gewichte nicht aktualisieren, während sie verwendet werden. Menschen lernen und tun gleichzeitig. Allerdings gibt es mehrere potenzielle Ansätze für kontinuierliches Lernen in LLMs. Eine Studie aus dem Jahr 2024 beschrieb einige aktuelle Ansätze für kontinuierliches Lernen in LLMs.
+- **Selbstreplikation**: Alle Lebewesen auf der Erde können sich selbst replizieren. KI-Modelle könnten sich durch das Internet von Computer zu Computer verbreiten, aber dies erfordert eine Reihe von Fähigkeiten, die KI-Modelle noch nicht besitzen. Eine Studie aus dem Jahr 2023 listet eine Reihe von 12 Aufgaben für die Selbstreplikation auf, von denen getestete Modelle 4 erfüllten. Wir wollen nicht herausfinden, was passiert, wenn ein KI-Modell es schafft, sich selbst über das Internet zu verbreiten.
+- **Kontinuierliches Lernen**: Aktuelle SOTA-LLMs trennen Lernen ("Training") von Tun ("Inferenz"). Obwohl LLMs mithilfe ihres Kontexts lernen können, können sie ihre Gewichte nicht aktualisieren, während sie verwendet werden. Menschen lernen und tun gleichzeitig. Es gibt jedoch mehrere potenzielle Ansätze für kontinuierliches Lernen in LLMs. Eine Studie aus dem Jahr 2024 beschrieb einige aktuelle Ansätze für kontinuierliches Lernen in LLMs.
 - **Planung**: LLMs sind noch nicht sehr gut bei der Planung (z.B. beim Nachdenken darüber, wie man Blöcke auf einem Tisch stapelt). Allerdings performen größere Modelle wesentlich besser als kleinere.
 
 ## Der Endpunkt
