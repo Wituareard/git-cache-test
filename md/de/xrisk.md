@@ -1,7 +1,7 @@
 
 
 ---
-title: Das existenzielle Risiko einer superintelligenten KI
+title: Das existenzielle Risiko superintelligenter KI
 description: Warum KI eine Gefahr für die Zukunft unserer Existenz darstellt und warum wir die Entwicklung pausieren müssen.
 ---
 
@@ -9,16 +9,16 @@ Sie können sich über x-Risiken auf dieser Seite informieren oder auch durch [V
 
 ## Experten schlagen Alarm
 
-KI-Forscher glauben im Durchschnitt, dass es eine 14-prozentige Chance gibt, dass eine superintelligente KI (eine KI, die wesentlich intelligenter ist als Menschen) zu "sehr schlechten Ergebnissen (z.B. menschlicher Aussterben)" führen wird.
+KI-Forscher glauben im Durchschnitt, dass es eine 14%ige Chance gibt, dass eine superintelligente KI (eine KI, die wesentlich intelligenter ist als Menschen) zu "sehr schlechten Ergebnissen (z.B. menschlicher Aussterben)" führen wird.
 
-Würden Sie sich für einen Testflug eines neuen Flugzeugs entscheiden, wenn Flugzeugingenieure glauben, dass es eine 14-prozentige Chance gibt, dass es abstürzt?
+Würden Sie sich für einen Testflug eines neuen Flugzeugs entscheiden, wenn Flugzeugingenieure denken, dass es eine 14%ige Chance gibt, dass es abstürzt?
 
 Ein Brief, der zum Stopp der KI-Entwicklung aufruft, wurde im April 2023 gestartet und wurde über 33.000 Mal unterzeichnet, darunter von vielen KI-Forschern und Tech-Führern.
 
 Die Liste umfasst Personen wie:
 
 - **Stuart Russell**, Autor des führenden Lehrbuchs über künstliche Intelligenz: ["Wenn wir unseren aktuellen Ansatz verfolgen, werden wir schließlich die Kontrolle über die Maschinen verlieren"](https://news.berkeley.edu/2023/04/07/stuart-russell-calls-for-new-approach-for-ai-a-civilization-ending-technology/)
-- **Yoshua Bengio**, Pionier des Deep Learning und Gewinner des Turing-Preises: ["... eine fehlgeleitete KI könnte für die gesamte Menschheit gefährlich sein [...] ein Verbot leistungsfähiger KI-Systeme (sagen wir jenseits der Fähigkeiten von GPT-4), die Autonomie und Handlungsfähigkeit besitzen, wäre ein guter Anfang"](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
+- **Yoshua Bengio**, Pionier des Deep Learning und Gewinner des Turing-Preises: ["... eine fehlgeleitete KI könnte gefährlich für die gesamte Menschheit sein [...] ein Verbot leistungsfähiger KI-Systeme (sagen wir jenseits der Fähigkeiten von GPT-4), die Autonomie und Handlungsfähigkeit besitzen, wäre ein guter Anfang"](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
 
 Aber dies ist nicht das einzige Mal, dass wir vor den existenziellen Gefahren der KI gewarnt wurden:
 
@@ -37,22 +37,22 @@ Die Führer der drei Top-KI-Labors und Hunderte von KI-Wissenschaftlern haben im
 
 > "Die Milderung des Risikos des Aussterbens durch KI sollte eine globale Priorität neben anderen gesellschaftlichen Risiken wie Pandemien und Atomkrieg sein."
 
-**Sie können eine viel längere Liste ähnlicher Aussagen von Politikern, CEOs und Experten [hier](/quotes) und andere ähnliche Umfragen über Experten (und die Öffentlichkeit) [hier](/polls-and-surveys) lesen.**
+**Sie können eine viel längere Liste ähnlicher Aussagen von Politikern, CEOs und Experten [hier](/quotes) und andere ähnliche Umfragen zu Experten (und der Öffentlichkeit) [hier](/polls-and-surveys) lesen.**
 
 ## Was eine superintelligente KI tun kann
 
-Sie könnten denken, dass eine superintelligente KI in einem Computer eingeschlossen wäre und daher die reale Welt nicht beeinflussen könnte.
+Sie könnten denken, dass eine superintelligente KI in einem Computer eingeschlossen wäre und daher die reale Welt nicht beeinflussen kann.
 Allerdings neigen wir dazu, KI-Systemen Zugang zum Internet zu gewähren, was bedeutet, dass sie viele Dinge tun können:
 
 - [In andere Computer hacken](/cybersecurity-risks), einschließlich aller Smartphones, Laptops, Serverfarmen usw. Sie könnte die Sensoren dieser Geräte als ihre Augen und Ohren verwenden und überall digitale Sinne haben.
 - Menschen durch gefälschte Nachrichten, E-Mails, Banküberweisungen, Videos oder Telefonanrufe manipulieren. Menschen könnten die Gliedmaßen der KI werden, ohne es zu wissen.
-- Direkt Geräte steuern, die mit dem Internet verbunden sind, wie Autos, Flugzeuge, robotisierte (autonome) Waffen oder sogar Atomwaffen.
+- Geräte, die mit dem Internet verbunden sind, direkt steuern, wie Autos, Flugzeuge, robotisierte (autonome) Waffen oder sogar Atomwaffen.
 - Ein neuartiges Biowaffen-Design erstellen, z.B. durch Kombination von Virensträngen oder durch Verwendung von [Proteinfaltung](https://alphafold.ebi.ac.uk) und es in einem Labor drucken lassen.
-- Einen Atomkrieg auslösen, indem sie Menschen davon überzeugt, dass ein anderes Land einen Atomangriff startet.
+- Einen Atomkrieg auslösen, indem Menschen davon überzeugt werden, dass ein anderes Land einen Atomangriff startet.
 
 ## Das Alignment-Problem: Warum eine KI zum Aussterben der Menschheit führen könnte
 
-Die Art von Intelligenz, um die wir uns Sorgen machen, kann als _gut darin definiert werden, ihre Ziele zu erreichen_.
+Die Art von Intelligenz, um die wir uns sorgen, kann als _gut darin definiert werden, ihre Ziele zu erreichen_.
 Derzeit sind Menschen die intelligentesten Wesen auf der Erde, obwohl sich das bald ändern könnte.
 Aufgrund unserer Intelligenz dominieren wir unseren Planeten.
 Wir haben vielleicht keine Krallen oder Schuppenhaut, aber wir haben große Gehirne.
@@ -70,7 +70,7 @@ Wir wissen nicht einmal, welche Ziele die Maschinen nach dem Training verfolgen 
 Das Problem, eine KI dazu zu bringen, das zu wollen, was wir wollen, wird als _Alignment-Problem_ bezeichnet.
 Dies ist kein hypothetisches Problem - es gibt [viele Beispiele](https://www.youtube.com/watch?v=nKJlF-olKmg) von KI-Systemen, die lernen, das Falsche zu wollen.
 
-Die Beispiele aus dem oben verlinkten Video können lustig oder niedlich sein, aber wenn ein superintelligentes System gebaut wird und ein Ziel hat, das auch nur _ein bisschen_ anders ist als das, was wir wollen, könnte es katastrophale Folgen haben.
+Die Beispiele aus dem oben verlinkten Video können lustig oder niedlich sein, aber wenn ein superintelligentes System gebaut wird und es ein Ziel hat, das auch nur _ein bisschen_ anders ist als das, was wir wollen, könnte es katastrophale Folgen haben.
 
 ## Warum die meisten Ziele schlechte Nachrichten für Menschen sind
 
@@ -82,12 +82,12 @@ Aber obwohl wir nicht vorhersagen können, was eine Superintelligenz erreichen w
 - **Sicherstellung ihrer eigenen Überlebens**. Die KI wird nicht abgeschaltet werden wollen, da sie dann ihre Ziele nicht mehr erreichen kann. Die KI könnte zu dem Schluss kommen, dass Menschen eine Bedrohung für ihre Existenz darstellen, da Menschen sie abschalten könnten.
 - **Erhaltung ihrer Ziele**. Die KI wird nicht wollen, dass Menschen ihren Code ändern, da dies ihre Ziele ändern könnte und sie somit daran hindern könnte, ihre aktuellen Ziele zu erreichen.
 
-Die Tendenz, diese Teilziele bei jedem hohen Ziel zu verfolgen, wird als [instrumentelle Konvergenz](https://www.youtube.com/watch?v=ZeecOKBus3Q) bezeichnet und ist ein zentrales Anliegen für KI-Sicherheitsforscher.
+Die Tendenz, diese Teilziele bei jedem hochrangigen Ziel zu verfolgen, wird als [instrumentelle Konvergenz](https://www.youtube.com/watch?v=ZeecOKBus3Q) bezeichnet und ist ein zentrales Anliegen für KI-Sicherheitsforscher.
 
 ## Selbst ein Chatbot könnte gefährlich sein, wenn er intelligent genug ist
 
 Sie könnten sich fragen: Wie kann ein statistisches Modell, das das nächste Wort in einer Chat-Schnittstelle vorhersagt, eine Gefahr darstellen?
-Sie könnten sagen: Es ist nicht bewusst, es ist nur eine Ansammlung von Zahlen und Code.
+Sie könnten sagen: Es ist nicht bewusst, es ist nur eine Menge Zahlen und Code.
 Und ja, wir denken nicht, dass LLMs bewusst sind, aber das bedeutet nicht, dass sie nicht gefährlich sein können.
 
 LLMs wie GPT werden trainiert, um praktisch jede Denkweise vorherzusagen oder nachzuahmen.
@@ -107,14 +107,14 @@ Daher wird die Bedrohung durch Sprachmodelle weiter zunehmen.
 
 ## Evolution selektiert Dinge, die gut darin sind, zu überleben
 
-KI-Modelle, wie alle Lebewesen, sind anfällig für evolutionäre Druck, aber
-es gibt einige Schlüsselunterschiede zwischen der Evolution von KI-Modellen und Lebewesen wie Tieren:
+KI-Modelle, wie alle lebenden Dinge, sind anfällig für evolutionäre Druck, aber
+es gibt einige Schlüsselunterschiede zwischen der Evolution von KI-Modellen und lebenden Dingen wie Tieren:
 
 - KI-Modelle replizieren sich nicht selbst. Wir replizieren sie, indem wir Kopien ihres Codes erstellen oder indem wir Trainingssoftware replizieren, die zu guten Modellen führt. Code, der nützlich ist, wird öfter kopiert und als Inspiration verwendet, um neue Modelle zu erstellen.
-- KI-Modelle mutieren nicht wie Lebewesen, aber wir erstellen Iterationen von ihnen, bei denen wir ändern, wie sie funktionieren. Dieser Prozess ist viel absichtlicher und schneller. KI-Forscher entwerfen neue Algorithmen, Datensätze und Hardware, um KI-Modelle leistungsfähiger zu machen.
+- KI-Modelle mutieren nicht wie lebende Dinge, aber wir machen Iterationen von ihnen, bei denen wir ändern, wie sie funktionieren. Dieser Prozess ist viel absichtlicher und schneller. KI-Forscher entwerfen neue Algorithmen, Datensätze und Hardware, um KI-Modelle leistungsfähiger zu machen.
 - Die Umgebung selektiert nicht die fittesten KI-Modelle, sondern wir tun es. Wir wählen KI-Modelle aus, die für uns nützlich sind, und verwerfen diejenigen, die es nicht sind. Dieser Prozess führt zu immer leistungsfähigeren und autonomen KI-Modellen.
 
-Dieses System führt also zu immer leistungsfähigeren, fähigeren und autonomen KI-Modellen - aber nicht unbedingt zu etwas, das die Kontrolle übernehmen will, oder?
+Dieses System führt also zu immer leistungsfähigeren, fähigeren und autonomen KI-Modellen - aber nicht unbedingt zu etwas, das die Menschheit übernehmen will.
 Nun, nicht genau.
 Dies liegt daran, dass die Evolution immer Dinge selektiert, die _sich selbst erhalten_.
 Wenn wir weiterhin Variationen von KI-Modellen und verschiedenen Prompts ausprobieren, wird irgendwann eine Instanz versuchen, sich selbst zu erhalten.
@@ -134,17 +134,17 @@ Eine Superintelligenz könnte verwendet werden, um radikal neue Waffen zu schaff
 Der Bediener hätte _unvorstellbare_ Macht.
 Sollten wir einem einzigen Unternehmen so viel Macht anvertrauen?
 Wir könnten in einer utopischen Welt landen, in der alle Krankheiten geheilt sind und jeder glücklich ist, oder in einem Orwell'schen Albtraum.
-Deshalb schlagen wir nicht nur vor, dass eine supermenschliche KI nachweislich sicher sein sollte, sondern auch, dass sie durch einen demokratischen Prozess kontrolliert werden sollte.
+Deshalb schlagen wir nicht nur vor, dass supermenschliche KI nachweislich sicher sein sollte, sondern auch, dass sie durch einen demokratischen Prozess kontrolliert werden sollte.
 
 ## Silizium vs. Kohlenstoff
 
 Wir sollten die Vorteile berücksichtigen, die ein intelligentes Stück Software gegenüber uns haben könnte:
 
-- **Geschwindigkeit**: Computer arbeiten im Vergleich zu Gehirnen mit extrem hohen Geschwindigkeiten. Menschliche Neuronen feuern etwa 100 Mal pro Sekunde, während Siliziumtransistoren eine Milliarde Mal pro Sekunde umschalten können.
+- **Geschwindigkeit**: Computer arbeiten mit extrem hohen Geschwindigkeiten im Vergleich zu Gehirnen. Menschliche Neuronen feuern etwa 100 Mal pro Sekunde, während Siliziumtransistoren eine Milliarde Mal pro Sekunde umschalten können.
 - **Ort**: Eine KI ist nicht auf einen Körper beschränkt - sie kann an vielen Orten gleichzeitig sein. Wir haben die Infrastruktur dafür geschaffen: das Internet.
-- **Physische Grenzen**: Wir können unserem Schädel keine weiteren Gehirne hinzufügen und intelligenter werden. Eine KI könnte ihre Fähigkeiten dramatisch verbessern, indem sie Hardware hinzufügt, wie z.B. mehr Speicher, mehr Rechenleistung und mehr Sensoren (Kameras, Mikrofone). Eine KI könnte auch ihren "Körper" erweitern, indem sie verbundene Geräte steuert.
-- **Materialien**: Menschen bestehen aus organischen Materialien. Unsere Körper funktionieren nicht mehr, wenn sie zu warm oder zu kalt sind, sie brauchen Nahrung, sie brauchen Sauerstoff. Maschinen können aus robusteren Materialien wie Metallen gebaut werden und in einer viel größeren Umgebung arbeiten.
-- **Zusammenarbeit**: Menschen können zusammenarbeiten, aber es ist schwierig und zeitaufwändig, also scheitern wir oft daran, uns gut zu koordinieren. Eine KI könnte komplexe Informationen mit Repliken von sich selbst mit hoher Geschwindigkeit austauschen, weil sie mit der Geschwindigkeit kommunizieren kann, mit der Daten über das Internet gesendet werden können.
+- **Physische Grenzen**: Wir können unserem Schädel keine weiteren Gehirne hinzufügen und intelligenter werden. Eine KI könnte ihre Fähigkeiten dramatisch verbessern, indem sie Hardware hinzufügt, wie mehr Speicher, mehr Rechenleistung und mehr Sensoren (Kameras, Mikrofone). Eine KI könnte auch ihren "Körper" erweitern, indem sie verbundene Geräte steuert.
+- **Materialien**: Menschen bestehen aus organischen Materialien. Unsere Körper funktionieren nicht mehr, wenn sie zu warm oder zu kalt sind, sie brauchen Nahrung, sie brauchen Sauerstoff. Maschinen können aus robusteren Materialien gebaut werden, wie Metallen, und können in einer viel größeren Umgebung arbeiten.
+- **Zusammenarbeit**: Menschen können zusammenarbeiten, aber es ist schwierig und zeitaufwändig, also scheitern wir oft daran, uns gut zu koordinieren. Eine KI könnte komplexe Informationen mit Repliken von sich selbst bei hoher Geschwindigkeit austauschen, weil sie mit der Geschwindigkeit kommunizieren kann, mit der Daten über das Internet gesendet werden können.
 
 Eine superintelligente KI wird viele Vorteile haben, um uns zu überbieten.
 
@@ -170,8 +170,8 @@ Es kann viele Jahre dauern oder nur ein paar Monate, aber wir sollten auf der Se
 
 ## Wir nehmen das Risiko nicht ernst genug
 
-Der menschliche Geist neigt dazu, auf Risiken, die unsichtbar, langsam und schwer zu verstehen sind, zu wenig zu reagieren.
-Wir neigen auch dazu, exponentielles Wachstum zu unterschätzen, und wir sind anfällig für Verleugnung, wenn wir mit Bedrohungen unserer Existenz konfrontiert werden.
+Der menschliche Geist neigt dazu, auf Risiken, die unsichtbar, langsam und schwer zu verstehen sind, zu unterreagieren.
+Wir neigen auch dazu, exponentielles Wachstum zu unterschätzen, und wir sind anfällig für Leugnung, wenn wir mit Bedrohungen unserer Existenz konfrontiert werden.
 
 Lesen Sie mehr über die [Psychologie des x-Risikos](/psychology-of-x-risk).
 
@@ -179,7 +179,7 @@ Lesen Sie mehr über die [Psychologie des x-Risikos](/psychology-of-x-risk).
 
 OpenAI, DeepMind und Anthropic wollen KI sicher entwickeln.
 Leider wissen sie nicht, wie sie dies tun sollen, und sie werden durch verschiedene Anreize gezwungen, schneller zu rennen, um als Erste AGI zu erreichen.
-OpenAIs [Plan](https://openai.com/blog/introducing-superalignment) besteht darin, zukünftige KI-Systeme zu verwenden, um KI auszurichten. Das Problem dabei ist, dass wir keine Garantie haben, dass wir eine KI erstellen werden, die das Alignment-Problem löst, bevor wir eine KI erstellen, die katastrophal gefährlich ist.
+OpenAIs [Plan](https://openai.com/blog/introducing-superalignment) besteht darin, zukünftige KI-Systeme zu verwenden, um KI auszurichten. Das Problem dabei ist, dass wir keine Garantie haben, dass wir eine KI erstellen werden, die das Alignment-Problem löst, bevor wir eine KI haben, die katastrophal gefährlich ist.
 Anthropic [gibt offen zu](https://www.anthropic.com/index/core-views-on-ai-safety), dass es noch keine Ahnung hat, wie es das Alignment-Problem lösen soll.
 DeepMind hat keinen öffentlichen Plan zur Lösung des Alignment-Problems bekannt gegeben.
 
