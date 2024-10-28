@@ -15,7 +15,7 @@ date: '2024-8-20'
 - [Senden Sie eine E-Mail über die Risiken der KI an alle Ihre gewählten Amtsträger gleichzeitig](https://democracy.io/). Wenn Sie nicht wissen, was Sie schreiben sollen, verwenden Sie [unseren E-Mail-Generator](https://pauseai.info/email-builder).
 - Nehmen Sie an [unseren monatlichen Treffen](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) teil, die jeden Monat am 11. stattfinden.
 - Treten Sie unserer Online-Community in New York City bei: [Discord](https://discord.com/channels/1100491867675709580/1223374237016784928), [Whatsapp](https://chat.whatsapp.com/KAQMwz2nQeWIkTLxwKxHg1) Wir nutzen hauptsächlich Discord, aber lassen Sie uns wissen, wenn Sie alternative Kommunikationswege bevorzugen.
-- Folgen Sie PauseAINYC auf [Instagram](https://www.instagram.com/pauseainyc/) oder auf [Twitter](https://x.com/PauseAINYC).
+- Folgen Sie PauseAINYC auf [Instagram](https://www.instagram.com/pauseainyc/), oder auf [Twitter](https://x.com/PauseAINYC).
 
 **Wenn Sie gerne Kontakte knüpfen:**
 
@@ -24,12 +24,12 @@ date: '2024-8-20'
 
 **Wenn Sie gut im Posten und Netzwerken in sozialen Medien sind:**
 
-- [Nehmen Sie an unseren Treffen teil](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrung. Wir suchen speziell nach Menschen, die Verbindungen zu anderen Technologierisiko-Communities herstellen und unsere Reichweite als Organisation in sozialen Medien erweitern können. Design-Fähigkeiten sind momentan weniger relevant, da wir davon bereits einiges abgedeckt haben.
-- Für ein geringeres Engagement wird auch die Wertschätzung für die PauseAINYC-Beiträge durch Likes, unterstützende Kommentare und Follows geschätzt.
+- [Nehmen Sie an unseren Treffen teil](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957), oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrung. Wir suchen speziell nach Menschen, die Verbindungen zu anderen Technologierisiko-Communities herstellen und unsere Reichweite als Organisation in sozialen Medien erweitern können. Design-Fähigkeiten sind momentan weniger relevant, da wir einige davon bereits abgedeckt haben.
+- Für ein geringeres Engagement wird auch die Wertschätzung für die Posts von PauseAINYC durch Likes, unterstützende Kommentare und Follows geschätzt.
 
 **Wenn Sie gut in der Webentwicklung sind:**
 
-- [Nehmen Sie an unseren Treffen teil](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrung. Wir suchen nach Menschen, die unseren eigenen separaten Webauftritt schreiben und potenziell hosten können (der nicht eine Million Dollar von einem Webhosting-Anbieter kostet).
+- [Nehmen Sie an unseren Treffen teil](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957), oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrung. Wir suchen nach Menschen, die unseren eigenen separaten Webauftritt schreiben und potenziell hosten können (der nicht eine Million Dollar von einem Webhosting-Anbieter kostet).
 
 **Wenn Sie gut in Fotografie, Videografie und/oder Medienproduktion sind:**
 
@@ -38,4 +38,4 @@ date: '2024-8-20'
 **Wenn Sie finanzielle Unterstützung leisten möchten:**
 
 - Sie können [hier spenden](https://pauseai.info/donate). Ihre Spenden sind steuerlich absetzbar (wenn Sie sie einzeln auflisten), und alle Spenden gehen direkt an Menschen und Projekte, die sich mit den Gefahren der KI befassen.
-- Alternativ können Sie auch spezifische Projekte direkt finanzieren, wie z.B. die Kosten für das Drucken von T-Shirts oder Mittel, um Mitgliedern die Teilnahme an gemeinsamen Protesten zu ermöglichen.
+- Alternativ können Sie spezifische Projekte direkt finanzieren, wie z.B. die Kosten für das Drucken von T-Shirts oder Mittel, um Mitgliedern die Teilnahme an gemeinsamen Protesten zu ermöglichen.
