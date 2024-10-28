@@ -1,9 +1,11 @@
+
+
 ---
 title: PauseAI beitreten
 description: Melden Sie sich an, um der PauseAI-Bewegung beizutreten.
 ---
 
-Die Gruppe der Menschen, die sich der Risiken künstlicher Intelligenz bewusst sind, ist noch klein.
+Die Gruppe der Menschen, die sich der Risiken von künstlicher Intelligenz bewusst sind, ist noch klein.
 Sie gehören jetzt dazu.
 **Ihre Handlungen sind wichtiger, als Sie denken.**
 
@@ -11,7 +13,7 @@ Sie gehören jetzt dazu.
 
 Möglichkeiten, wie Sie beitreten können:
 
-- Treten Sie einer [lokale Gemeinschaft](/communities) oder einem [Event](/events) bei oder gründen Sie eine.
+- Treten Sie einer [lokalen Gemeinschaft](/communities) oder einem [Event](/events) bei.
 - Treten Sie dem PauseAI-[Discord](https://discord.gg/2XXWXvErfA) bei, wo die meisten Zusammenarbeiten stattfinden.
 - Füllen Sie dieses Formular aus, und Sie können mit dem Onboarding-Team über Ihre Interessen und Möglichkeiten sprechen, an Projekten oder [Teams](/teams) teilzunehmen:
 
