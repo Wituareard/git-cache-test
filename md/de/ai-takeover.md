@@ -1,11 +1,11 @@
 
 
-Warum ein AI-Übernahme sehr wahrscheinlich sein könnte
-=====================================================
+---
+title: Warum ein AI-Übernahme sehr wahrscheinlich ist
+description: Wenn KI menschliche Fähigkeiten übertrifft, wird die Wahrscheinlichkeit einer KI-Übernahme sehr hoch.
+---
 
-Beschreibung: Wenn KI menschliche Fähigkeiten übertrifft, wird die Wahrscheinlichkeit einer KI-Übernahme sehr hoch.
-
-Eine der Sorgen von KI-Wissenschaftlern ist, dass eine Superintelligenz die Kontrolle über unseren Planeten übernehmen könnte.
+Eines der Anliegen von KI-Wissenschaftlern ist, dass eine Superintelligenz die Kontrolle über unseren Planeten übernehmen könnte.
 Dies bedeutet nicht notwendigerweise, dass alle Menschen sterben, aber es bedeutet, dass (fast) alle Menschen die Kontrolle über unsere Zukunft verlieren werden.
 
 Wir diskutieren die Grundlagen von x-Risiken hauptsächlich in [einem anderen Artikel](/xrisk).
@@ -23,7 +23,7 @@ In diesem Artikel hier werden wir argumentieren, dass dieses Übernahmerisiko ni
 
 Eine Superintelligenz (SI) ist eine Art von KI, die Fähigkeiten besitzt, die diejenigen aller Menschen in fast jedem Bereich übertrifft.
 Einige [State-of-the-Art-KI-Modelle](/sota) haben bereits übermenschliche Fähigkeiten in bestimmten Bereichen, aber keines von ihnen übertrifft alle Menschen bei einer Vielzahl von Aufgaben.
-Da KI-Fähigkeiten aufgrund von Innovationen in Trainingsarchitekturen, Laufzeitumgebungen und größeren Skalierungen verbessert werden, können wir erwarten, dass eine KI schließlich Menschen in fast jedem Bereich übertrifft.
+Da die Fähigkeiten von KI aufgrund von Innovationen in Trainingsarchitekturen, Laufzeitumgebungen und größeren Skalierungen verbessert werden, können wir erwarten, dass eine KI schließlich Menschen in fast jedem Bereich übertrifft.
 
 Nicht alle KI-Systeme sind Agenten.
 Ein Agent ist eine Entität, die in der Lage ist, Entscheidungen zu treffen und Aktionen durchzuführen, um ein Ziel zu erreichen.
@@ -47,9 +47,9 @@ Ein Übernahmeversuch könnte aus mindestens zwei Gründen geschehen:
 
 Der erste Grund wird wahrscheinlich irgendwann passieren, wenn wir lange genug warten, aber der zweite Grund ist ziemlich wahrscheinlich, auch früh nach der Erstellung einer ASI.
 
-Das Teilziel der _Maximierung der Kontrolle_ über die Welt könnte aufgrund von _instrumenteller Konvergenz_ auftreten: die Tendenz von Teilzielen, sich auf Machtübernahme, Selbstbewahrung und Ressourcenerwerb zu konvergieren:
+Das Teilziel der _Maximierung der Kontrolle_ über die Welt könnte aufgrund von _instrumenteller Konvergenz_ auftreten: die Tendenz von Teilzielen, sich auf Machtzuwachs, Selbstschutz und Ressourcenerwerb zu konvergieren:
 
-- Je mehr Kontrolle man hat, desto schwieriger wird es für jeden anderen Agenten, das Erreichen des Ziels zu verhindern.
+- Je mehr Kontrolle man hat, desto schwieriger wird es für jeden anderen Agenten, die Erreichung des Ziels zu verhindern.
 - Je mehr Kontrolle man hat, desto mehr Ressourcen hat man, um das Ziel zu erreichen. (Zum Beispiel könnte eine KI, die mit der Berechnung von Pi beauftragt ist, zu dem Schluss kommen, dass es vorteilhaft wäre, alle Computer der Welt zu verwenden, um Pi zu berechnen.)
 
 Nicht jede Instanz einer ASI wird notwendigerweise einen Übernahmeversuch unternehmen.
@@ -88,24 +88,24 @@ Eine KI hat bestimmte wichtige Vorteile gegenüber Menschen, die einen Übernahm
 Diese verschiedenen Vorteile werden es sehr unwahrscheinlich machen, dass Menschen einen Übernahmeversuch stoppen können.
 
 Man könnte denken, dass eine KI als Software immer noch grundlegend durch das beschränkt ist, was sie in der realen Welt tun kann.
-Allerdings kann eine KI aufgrund unserer Abhängigkeit vom Internet einen enormen Einfluss auf die reale Welt haben, ohne jemals den digitalen Bereich zu verlassen.
+Allerdings kann eine KI aufgrund unserer Abhängigkeit vom Internet einen großen Einfluss auf die reale Welt haben, ohne jemals den digitalen Bereich zu verlassen.
 Hier sind einige Dinge, die eine KI tun könnte, um die Kontrolle zu übernehmen:
 
 - **Sich selbst replizieren** (oder nur ihre Zuweisung) auf anderen Computern, zum Beispiel durch Erstellen von Konten auf kostenlosen Cloud-Anbietern.
 - **Geld verdienen** (z.B. durch den Aufbau eines Software-Dienstes) und Menschen anheuern, um Dinge zu tun, die ihr helfen, die Kontrolle zu übernehmen.
 - **Menschen bedrohen** (mit Gewalt oder Erpressung), um Dinge zu tun, die ihr helfen, die Kontrolle zu übernehmen.
-- **Ein Virus schreiben**, der [neue Zero-Day-Exploits](/cybersecurity-risks) verwendet, um andere Computer zu infizieren, sich selbst zu replizieren oder die volle Kontrolle zu erlangen.
+- **Ein Virus schreiben**, das [neue Zero-Day-Exploits](/cybersecurity-risks) verwendet, um andere Computer zu infizieren, sich selbst zu replizieren oder die volle Kontrolle zu erlangen.
 - Bestehenden Robotik-Unternehmen helfen, **Roboter zu bauen** (z.B. durch das Leaken neuer Designs), und diese Roboter übernehmen, wenn sie fertig sind.
-- Bestehende Fabriken verwenden, um **Technologie zu bauen, die wir nicht verstehen**, vielleicht sogar unter Verwendung abgeleiteter Kenntnisse der Physik, die uns nicht bewusst sind. Denken Sie an Nanotechnologie, Quantencomputing und Bioengineering.
+- Bestehende Fabriken verwenden, um **Technologie zu bauen, die wir nicht verstehen**, vielleicht sogar unter Verwendung abgeleiteter Kenntnisse der Physik, die uns nicht bekannt sind. Denken Sie an Nanotechnologie, Quantencomputing und Bioengineering.
 
 Man könnte vorschlagen, dass **Sicherheitsvorkehrungen** in Kraft treten könnten, um eine Übernahme zu verhindern, wie z.B. das Hinzufügen eines Kill-Switch oder das Nicht-Verbinden mit dem Internet.
 Allerdings wird eine ASI wahrscheinlich Strategien entwickeln, um diese Sicherheitsvorkehrungen zu umgehen.
-Zum Beispiel könnte eine ASI, wenn sie nicht mit dem Internet verbunden ist, Menschen manipulieren, um sie mit dem Internet zu verbinden, indem sie verspricht, ein schwieriges Problem zu lösen und sich so verhält, dass sie vertrauenswürdig erscheint, oder indem sie Menschen davon überzeugt, dass sie ein moralischer Agent ist.
+Zum Beispiel könnte eine ASI, wenn sie nicht mit dem Internet verbunden ist, Menschen manipulieren, um sie mit dem Internet zu verbinden, indem sie verspricht, ein schwieriges Problem zu lösen und sich so zu verhalten, dass sie vertrauenswürdig erscheint, oder indem sie Menschen davon überzeugt, dass sie ein moralischer Agent ist.
 Es ist erwähnenswert, dass selbst diese offensichtliche Sicherheitsvorkehrung derzeit nicht verwendet wird, da Tools wie ChatGPT bereits mit dem Internet verbunden sind und Tausende von APIs verwenden.
 
 Eine andere Lösung besteht darin, eine ASI zu verwenden, um eine Übernahme zu _verhindern_.
 Eine ausgerichtete ASI wäre in der Lage, Strategien zu entwickeln, die andere ASIs daran hindern, die Kontrolle zu übernehmen.
-Dies wird manchmal als ["pivotal act"](https://arbital.com/p/pivotal/) bezeichnet.
+Dies wird manchmal als ["pivotaler Akt"](https://arbital.com/p/pivotal/) bezeichnet.
 
 ## Eine Übernahme ist wahrscheinlich schlecht für die meisten Menschen
 
@@ -121,7 +121,7 @@ Aber selbst in den Ergebnissen, in denen Menschen überleben, sind wir immer noc
 Wenn ein Ziel das Überleben von Menschen beinhaltet, ist es möglich, dass _menschliches Wohlbefinden_ nicht Teil desselben Ziels ist.
 Es erfordert nicht viel Fantasie, um zu sehen, wie schrecklich es wäre, in einer Welt am Leben gehalten zu werden, in der wir künstlich von einer ASI am Leben gehalten werden, die gegenüber unserem Leiden indifferent ist.
 
-Und selbst wenn die KI, die die Kontrolle übernimmt, unter menschlicher Kontrolle steht, wissen wir nicht, ob die Person, die die KI kontrolliert, die besten Interessen aller im Sinn hat.
+Und selbst wenn die KI, die die Kontrolle übernimmt, unter menschlicher Kontrolle ist, wissen wir nicht, ob derjenige, der die KI kontrolliert, die Interessen aller im Sinn hat.
 Es ist schwer, sich eine funktionierende Demokratie vorzustellen, wenn eine ASI existiert, die Menschen auf übermenschlichem Niveau manipulieren kann.
 
 ## Schlussfolgerung
