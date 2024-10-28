@@ -17,22 +17,22 @@ Wenn ein KI-Stillstand eintritt, bevor die Risiken groß genug sind, könnten wi
 Letztendlich müssen wir die Risiken mit den Kosten eines Stillstands abwägen.
 
 Unserer Meinung nach ist die Wahrscheinlichkeit, dass KI katastrophale Risiken [bald](/urgency) verursacht, bereits groß genug, um einen Stillstand in diesem Moment zu rechtfertigen.
-Wie Stuart Russell sagte, sollte man bei einem ungewissen Zeitplan die Aktion wählen, die bei der kürzesten Zeitbeschränkung optimal wäre.
+Wie Stuart Russell sagte, sollte man bei einem ungewissen Zeitlimit die Aktion wählen, die bei dem kürzesten Zeitlimit optimal wäre.
 
 Je länger wir warten, desto mehr Menschen werden denken, dass ein Stillstand nicht möglich ist, und desto mehr Menschen werden fantasieren und in theoretisch mögliche KI-Anwendungen investieren.
 Also wird mehr Geld in Lobbyarbeit gegen Menschen wie uns investiert.
 
-Außerdem kann es viele Jahre dauern, von Protesten und Lobbyarbeit bis hin zu Überzeugungsarbeit an Menschen mit Macht, um einen Vertrag in Kraft zu setzen. Nicht zu erwähnen, dass selbst wenn dies nicht der Fall wäre, ein früher Stillstand uns Luft verschafft, damit böse Akteure und algorithmische Durchbrüche uns nicht in den Abgrund stürzen.
+Außerdem kann es viele Jahre dauern, von Protesten und Lobbyarbeit bis hin zu Überzeugungsarbeit bei Menschen an der Macht, um einen Vertrag in Kraft zu setzen. Nicht zu erwähnen, dass selbst wenn dies nicht der Fall wäre, ein früher Stillstand uns Luft verschafft, damit böse Akteure und algorithmische Durchbrüche uns nicht in den Abgrund stürzen.
 
 ## Zu kurzer Stillstand / nur 6 Monate
 
 Der Stillstand, den wir vorschlagen, ist von unbestimmter Länge. Wir sollten nicht wieder anfangen, bis es einen ausreichenden Konsens gibt, dass wir wissen, wie man ausgerichtete KIs entwickeln kann, egal wie leistungsfähig sie sind, und dass wir die Systeme haben, um es sorgfältig und demokratisch zu tun.
-Es ist NICHT wie der [sechsmonatige Stillstand, der vom Future of Life Institute gefordert wurde](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
+Es ist NICHT wie der [sechsmonatige Stillstand, der vom Future of Life Institute gefordert wird](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
 
 ## Zu langer Stillstand
 
-Nick Bostrom, einer der ersten KI-Alarmisten, sorgt sich darum, dass [wir irgendwann zu viel über KI-Risiken besorgt sein könnten](https://twitter.com/jachaseyoung/status/1723325057056010680), obwohl dieser Moment noch nicht gekommen ist.
-Wenn die Besorgnis über KI weiter steigt und wir einen Stillstand erreichen, könnte es zu einer Situation führen, in der die gesamte KI-Entwicklung tabuisiert oder illegal wird.
+Nick Bostrom, einer der ersten KI-Alarmisten, sorgt sich darum, dass [irgendwann zu viel Angst vor KI-Risiken](https://twitter.com/jachaseyoung/status/1723325057056010680) besteht, obwohl dieser Moment noch nicht gekommen ist.
+Wenn die Sorge um KI weiter steigt und wir einen Stillstand erreichen, könnte es zu einer Situation kommen, in der die gesamte KI-Entwicklung tabuisiert oder illegal wird.
 Wenn das passiert, werden wir nie die Vorteile von KI ernten, und in der Zwischenzeit könnten wir andere existenzielle Risiken begegnen, die wir mit Hilfe von KI hätten vermeiden können.
 
 Wir können dieses Risiko minimieren, indem wir klar darlegen, unter welchen Bedingungen die KI-Entwicklung wieder aufgenommen werden sollte.
@@ -52,8 +52,8 @@ Wenn Sie in die Geschichte von OpenAI, DeepMind und Anthropic eintauchen, werden
 In gewisser Weise sind wir froh, dass die größten KI-Unternehmen derzeit KI-Sicherheit als Teil ihrer Kultur haben.
 Vielleicht gibt ein Stillstand einer großen Anzahl von Unternehmen die Zeit, aufzuholen, was zu einer großen Gruppe von Unternehmen führen könnte, die weniger sicherheitsbewusst sind.
 
-Wenn wir einen zeitbasierten Stillstand fordern würden, wäre dies eine berechtigte Sorge.
-Aber was wir fordern, ist ein Stillstand, bis wir beweisen können, dass KI sicher gebaut werden kann, also sollten wir nicht mit Organisationen enden, die unsichere KI nach dem Stillstand bauen.
+Wenn wir um einen zeitbasierten Stillstand bitten würden, wäre dies eine berechtigte Sorge.
+Aber worum wir bitten, ist ein Stillstand, bis wir beweisen können, dass KI sicher gebaut werden kann, also sollten wir nicht mit Organisationen enden, die unsichere KI nach dem Stillstand bauen.
 
 ## Nationale/lokale Stillstände könnten scheitern
 
@@ -80,7 +80,7 @@ Indem wir GPU-Verkäufe verfolgen, können wir große KI-Entwicklungen erkennen.
 Da die erforderliche physische Infrastruktur für die Ausbildung eines großen Modells schwer zu verbergen ist, können wir die Entwicklung von KI in großem Umfang erkennen.
 
 Westliche Mächte (USA, Niederlande und Taiwan) kontrollieren die GPU-Lieferkette stark genug, um zu verhindern, dass nicht kooperative Staaten GPUs erhalten.
-Nicht-staatliche Akteure sind unwahrscheinlich, genügend Ressourcen in Geheimheit zu sammeln, um ein AGI für mindestens ein Jahrzehnt nachdem AGI von großen Technologieunternehmen möglich wird, zu trainieren.
+Nicht-staatliche Akteure sind unwahrscheinlich, dass sie ausreichende Ressourcen in Geheimheit sammeln können, um ein AGI für mindestens ein Jahrzehnt nachdem AGI von großen Technologieunternehmen möglich wird, zu trainieren.
 Außerdem würde die Tatsache, dass es kein Geschäftsanreiz mehr gibt, dazu beitragen, die Menge an Untergrund-KI-Entwicklung zu reduzieren.
 
 ## Hardware-Überhang könnte zu einem schnellen Takeoff führen
@@ -96,19 +96,14 @@ Dies ist ein ernstes Problem, obwohl es starke Argumente dafür gibt, dass [ein 
 
 PauseAI unterstützt einen Stillstand bei relevanten Rechenverbesserungen.
 Außerdem, wie wir sagten, sollte die "Play"-Taste nicht gedrückt werden, wenn wir immer noch nicht wissen, wie man sichere KI baut.
-Und das schließt die Ausbildung und den Einsatz von Modellen mit fortschrittlicherer Hardware ein.
+Und das schließt die Ausbildung und den Einsatz von Modellen mit fortschrittlicher Hardware ein.
 
 ## KI-Entwicklung ist notwendig, um zu lernen, wie man KI sicher macht
 
 Die meisten Menschen glauben, dass ein gewisses Maß an prosaischer/inkrementeller Ausrichtung notwendig ist, also wenn ein vollständiger Stillstand ohne Ausnahmen implementiert wird, würde nicht genug Fortschritt bei der Ausrichtung gemacht werden und schließlich würden Akteure, die sich nicht um Sicherheit und den Stillstand kümmern, eine nicht ausgerichtete leistungsfähige KI entwickeln.
 
-Das ist ein Grund, warum wir vorschlagen, bestimmte Trainingsläufe zu genehmigen. Das würde es uns ermöglichen, von größeren Systemen zu lernen, wenn wir ihre Sicherheit gewährleisten können.
-Allerdings haben wir in dem schlimmsten Fall, in dem wir ihre Sicherheit nicht gewährleisten können und nicht genug in der Ausrichtung vorankommen, immer noch die Option, unsere Intelligenz durch andere Technologien zu steigern.
-
-<!-- 
-## Politisches Kapital ist begrenzt, Stillstand könnte scheitern
-
-KI-Sicherheitsleute werden weniger ernst genommen
+Das ist ein Grund, warum wir vorschlagen, bestimmte Trainingsläufe zu genehmigen. Das würde uns ermöglichen, von größeren Systemen zu lernen, wenn wir ihre Sicherheit gewährleisten können.
+Allerdings haben wir in dem schlimmsten Fall, in dem wir ihre Sicherheit nicht gewährleisten können und nicht genug in der Ausrichtung fortschreiten, immer noch die Option, unsere Intelligenz durch andere Technologien zu steigern.
 
 ## Algorithmische oder Laufzeitverbesserungen können kleinere Modelle gefährlich machen
 
@@ -123,7 +118,7 @@ Allerdings wird die Durchsetzung schwieriger sein als die Durchsetzung von Reche
 
 ## Wenn wir nur allgemeine KI-Modelle verbieten, könnten wir immer noch AGI durch schmale Modelle erhalten
 
-Wir möchten gefährliche Modelle einschränken, die [gefährliche Fähigkeiten](/dangerous-capabilities) wie die Manipulation von Menschen, strategische Planung und das Schreiben von Code haben.
+Wir möchten gefährliche Modelle einschränken, die [gefährliche Fähigkeiten](/dangerous-capabilities) wie die Manipulation von Menschen, strategische Planung und Code-Schreiben haben.
 Wir möchten keine sehr schmalen KI-Modelle einschränken, wie Bildklassifizierer in selbstfahrenden Autos oder medizinischer Diagnose.
 Glücklicherweise fallen fast alle diese schmalen Modelle außerhalb unserer [vorgeschlagenen](/proposal) Einschränkungen, weil diese Modelle tendenziell relativ klein sind.
 
@@ -138,18 +133,18 @@ Daher haben wir in unserem Vorschlag "schmal" oder "allgemein" KI nicht definier
 
 Wir haben einen [spezifischen Vorschlag](/proposal), den wir für optimal halten.
 Allerdings sollten wir nicht erwarten, dass unser Vorschlag genau so implementiert wird, wie wir es wollen.
-Politik ist chaotisch und unvorhersehbar, also sollten wir erwarten, dass unsere Lobbyarbeit vage richtungsweisende Auswirkungen hat, anstatt präzise Auswirkungen.
+Politik ist chaotisch und unvorhersehbar, also sollten wir erwarten, dass unsere Lobbyarbeit eher vage Richtungseffekte als präzise Effekte hat.
 Wenn wir eine Form eines Stillstands erhalten, aber es ist nicht genau das, was wir wollen, könnte dies schlimmer sein als gar keinen Stillstand zu haben.
 Beispielsweise:
 
 - Ein nationaler Stillstand, der potenziell schlechtere Akteure dazu bringen könnte, als erste AGI zu erreichen
 - Ein internationaler Stillstand, der nicht richtig durchgesetzt wird, was zu einem ähnlichen Ergebnis führen könnte
 
-Wir können dies minimieren, indem wir in unseren Kommunikationen konsistent und klar sind, was wir wollen.
+Wir können dies minimieren, indem wir in unserer Kommunikation konsistent und klar sind, was wir wollen.
 
 ## Zu spätes Anhalten
 
-Dies ist das offensichtlichste und wahrscheinlichste Risiko eines Scheiterns: Wenn wir zu spät anhalten, werden wir wahrscheinlich katastrophale Risiken begegnen.
+Dies ist das offensichtlichste und wahrscheinlichste Risiko eines Fehlschlags: Wenn wir zu spät anhalten, werden wir wahrscheinlich katastrophale Risiken begegnen.
 Und das könnte bald passieren, wie wir auf unserer [Dringlichkeitsseite](/urgency) erklären.
 
-Deswegen brauchen wir Ihre Hilfe, um jetzt [einen Stillstand zu fordern](/action).
+Deswegen brauchen wir Ihre Hilfe, um jetzt für einen [Stillstand](/action) zu sorgen.
