@@ -24,7 +24,7 @@ OpenAI versucht, eine KI zu entwickeln, die intelligenter ist als Menschen.
 Hunderte von Wissenschaftlern warnen davor, dass dies das Ende der Menschheit bedeuten könnte.
 Deswegen haben über 33.000 Menschen den Pause-Brief unterzeichnet, in dem sie Unternehmen wie OpenAI auffordern, ihre Forschung zu stoppen.
 Sogar Sam Altman, der CEO von OpenAI, hat gesagt, dass man die Notbremse ziehen sollte, wenn "KI-Modelle auf Weisen verbessert werden, die wir nicht vollständig verstehen".
-In einem anderen Interview sagte Sam, dass die Vorhersage von Fähigkeiten ein "unterhaltsames Ratespiel" für OpenAI-Mitarbeiter sei.
+In einem anderen Interview nannte Sam die Vorhersage von Fähigkeiten ein "unterhaltsames Ratespiel" für OpenAI-Mitarbeiter.
 Mit anderen Worten: Selbst OpenAI versteht nicht, wie ihre Modelle verbessert werden.
 Es ist Zeit, die Notbremse zu ziehen.
 
@@ -34,7 +34,7 @@ Am 10. Januar hat OpenAI ohne Ankündigung die Sprache in seiner Nutzungsrichtli
 
 KI wird rapide immer leistungsfähiger, viel schneller als fast jeder KI-Wissenschaftler vorhergesagt hat. Milliarden werden in KI-Fähigkeiten investiert, und die Ergebnisse sind atemberaubend. Neue Modelle überbieten Menschen in vielen Bereichen. Mit zunehmenden Fähigkeiten steigen auch die Risiken. Wissenschaftler warnen sogar davor, dass KI die Menschheit zerstören könnte.
 
-Laut ihrer Satzung ist "OpenAIs Mission, sicherzustellen, dass künstliche allgemeine Intelligenz (AGI) - mit der wir hochautonome Systeme meinen, die Menschen bei allen wirtschaftlich wertvollen Arbeiten überbieten - allen Menschen zugutekommt". Aber viele Menschen schätzen ihre Arbeit und finden Sinn darin, und daher wollen sie nicht, dass ihre Jobs von einer AGI übernommen werden. Was der Mitorganisator der Demonstration, Sam Kirchner von No AGI, den "psychologischen Bedrohung" nennt, gilt auch, wenn AGI uns nicht tötet.
+Laut ihrer Satzung ist "OpenAIs Mission, sicherzustellen, dass künstliche allgemeine Intelligenz (AGI) - mit der wir hochautonome Systeme meinen, die Menschen bei allen wirtschaftlich wertvollen Arbeiten überbieten - allen Menschen zugutekommt". Aber viele Menschen schätzen ihre Arbeit und finden Sinn darin, und daher wollen sie nicht, dass ihre Jobs von einer AGI übernommen werden. Was der Protest-Mitorganisator Sam Kirchner von No AGI den "psychologischen Bedrohung" nennt, gilt auch, wenn AGI uns nicht tötet.
 
 ## Kontakt {#contact-6}
 
