@@ -20,7 +20,7 @@ PauseAI hat bisher 180.552 € an Spenden erhalten.
 - 1.000 (anonyme Person)
 - 1.000 (anonyme Person)
 
-_Beträge sind in Euro angegeben. Wenn dieselbe Person mehrere Spenden getätigt hat, werden sie als eine Summe zusammengefasst._
+_Beträge sind in Euro angegeben. Wenn dieselbe Person mehrere Spenden getätigt hat, werden sie zusammengefasst und addiert._
 
 ## Verwandtes {#related}
 
