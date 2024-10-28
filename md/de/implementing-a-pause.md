@@ -24,7 +24,7 @@ Nur ein Unternehmen stellt die Lithographiemaschinen her: ASML.
 Das bedeutet, dass die Lieferkette für die Schaffung dieser KI-Modelle sehr zentralisiert ist, was bedeutet, dass sie relativ leicht zu kontrollieren ist.
 Die Umsetzung von Exportkontrollen für GPUs und die Überwachung von Verkäufen wäre ein guter erster Schritt.
 
-Aber da das Mooresche Gesetz weiterhin gilt, wird die Hürde für die Schaffung dieser Modelle gesenkt.
+Aber da das Mooresche Gesetz weiterhin gilt, wird die Hürde für die Schaffung dieser Modelle immer niedriger.
 Wenn es sich herausstellt, dass es schwierig ist, KI nachweislich sicher zu machen, könnte die Pause viele Jahre dauern.
 Nicht nur wird die Hardware billiger und leistungsfähiger, wir können auch erwarten, dass effizientere Algorithmen entwickelt werden (wir werden später darüber sprechen).
 Das bedeutet, dass wir die Regulierung im Laufe der Zeit verschärfen müssen.
@@ -35,6 +35,6 @@ Das Risiko, eine superintelligente KI zu schaffen, könnte zu hoch sein.
 ## Wie regulieren wir Software für das Training von KI? {#how-do-we-regulate-software-used-for-training-ai}
 
 Die Transformer-Architektur revolutionierte das Feld der KI.
-Dieses neue parallele Design ermöglichte es, KI-Modelle auf viel höherem Niveau zu skalieren, bei viel geringeren Kosten und mit besseren Ergebnissen.
-Die Software-Seite ist viel schwieriger zu kontrollieren.
+Dieses neue parallele Design ermöglichte es, KI-Modelle auf viel höherem Niveau zu skalieren, bei viel niedrigeren Kosten und mit besseren Ergebnissen.
+Die Software-Seite ist jedoch viel schwieriger zu kontrollieren.
 Software ist nur Information - sie kann sehr leicht kopiert und verteilt werden.
