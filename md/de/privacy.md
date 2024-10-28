@@ -1,9 +1,10 @@
 
 
-Datenschutzbestimmungen für PauseAI
-=====================================
+---
+title: Datenschutzbestimmungen für PauseAI
+---
 
-**Gültig ab:** 17. Juli 2024
+**Gültigkeitsdatum:** 17. Juli 2024
 
 ## 1. Einführung
 
@@ -28,7 +29,7 @@ Wir verwenden die erhobenen Daten für die folgenden Zwecke:
 - Um unsere Website und Dienste auf der Grundlage der von uns erhobenen Nutzungsdaten zu verbessern.
 
 ### b. Kommunikation
-- Um Mitglieder über Airtable für interne Kommunikation und Updates über PauseAI-Veranstaltungen, Aktivitäten und andere relevante Informationen zu kontaktieren.
+- Um Mitglieder über Airtable für interne Kommunikation und Updates über PauseAI-Veranstaltungen, -Aktivitäten und andere relevante Informationen zu kontaktieren.
 
 ## 4. Offenlegung Ihrer Daten
 
@@ -48,15 +49,15 @@ Wir setzen eine Vielzahl von Sicherheitsmaßnahmen ein, um die Sicherheit Ihrer 
 
 Sie haben das Recht, auf Ihre personenbezogenen Daten zuzugreifen, sie zu korrigieren oder zu löschen. Wenn Sie diese Rechte ausüben möchten oder Fragen zu unseren Datenschutzpraktiken haben, kontaktieren Sie uns bitte unter [E-Mail-Adresse einfügen].
 
-## 7. Änderungen an diesen Datenschutzbestimmungen
+## 7. Änderungen an dieser Datenschutzbestimmung
 
 Wir können diese Datenschutzbestimmungen von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite mit einem aktualisierten Gültigkeitsdatum veröffentlicht.
 
 ## 8. Kontakt
 
-Wenn Sie Fragen oder Bedenken zu diesen Datenschutzbestimmungen haben, kontaktieren Sie uns bitte unter:
+Wenn Sie Fragen oder Bedenken zu dieser Datenschutzbestimmung haben, kontaktieren Sie uns bitte unter:
 
 **Stichting PauseAI**
 [joep@pauseai.info](mailto:joep@pauseai.info)
 
-Durch die Nutzung unserer Website und Dienste stimmen Sie den Bedingungen dieser Datenschutzbestimmungen zu.
+Durch die Nutzung unserer Website und Dienste stimmen Sie den Bedingungen dieser Datenschutzbestimmung zu.
