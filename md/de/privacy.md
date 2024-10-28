@@ -1,8 +1,9 @@
----
-title: Datenschutzbestimmungen für PauseAI
----
 
-**Gültigkeitsdatum:** 17. Juli 2024
+
+Datenschutzbestimmungen für PauseAI
+=====================================
+
+**Gültig ab:** 17. Juli 2024
 
 ## 1. Einführung
 
@@ -37,7 +38,7 @@ Wir verkaufen, handeln oder übertragen Ihre personenbezogenen Daten nicht an Dr
 - Wir können Ihre Daten mit Drittanbietern wie Airtable und Google Analytics teilen, um uns bei der Betreibung unserer Website und der Durchführung unserer Aktivitäten zu unterstützen.
 
 ### b. Gesetzliche Anforderungen
-- Wir können Ihre Daten offenlegen, wenn wir gesetzlich dazu verpflichtet sind oder aufgrund von gültigen Anfragen von öffentlichen Behörden.
+- Wir können Ihre Daten offenlegen, wenn wir gesetzlich dazu verpflichtet sind oder aufgrund von Anfragen von öffentlichen Behörden.
 
 ## 5. Datensicherheit
 
