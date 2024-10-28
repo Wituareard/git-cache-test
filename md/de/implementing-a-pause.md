@@ -2,7 +2,7 @@
 
 ---
 title: Eine internationale Pause umsetzen - die schwierigen Fragen angehen
-description: Wie würde eine KI-Pause aussehen? Wie kann man tatsächlich verhindern, dass eine Superintelligenz geschaffen wird?
+description: Wie würde eine KI-Pause aussehen? Wie kann man tatsächlich die Schaffung einer Superintelligenz verhindern?
 ---
 
 Wenn wir die Schaffung einer superintelligenten KI zulassen, riskieren wir jedes einzelne Leben auf der Erde.
