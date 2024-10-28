@@ -56,7 +56,7 @@ Interessiert? DM Pato in [Discord](https://discord.gg/y9hdAjD83e)
 
 Interessiert? [Mail an Maxime](mailto:maxime@pausai.info)
 
-## Rekrutierungsteam-Mitglied {#recruitment-team-member}
+## Rekrutierungs-Team-Mitglied {#recruitment-team-member}
 
 - Helfen Sie PauseAI, neue Gemeinschaften zu erreichen, Mitglieder anzuziehen und das Bewusstsein zu schärfen
 - Dies ist etwas, das Sie unabhängig in Ihrer Freizeit tun können, mit wenig Notwendigkeit für Koordination mit anderen
@@ -70,6 +70,6 @@ Interessiert? DM Diego in [Discord](https://discord.gg/y9hdAjD83e)
 - Stärken Sie alle anderen, indem Sie ihnen die Hilfe geben, die sie benötigen, und die Freiheit, die sie wollen.
 - Beraten und unterstützen Sie bei den Technologieentscheidungen der Teams und halten Sie alles am Laufen.
 - Seien Sie strategisch: Halten Sie alles einfach und skalierbar, kaufen Sie nicht, sondern bauen Sie, es sei denn, wir müssen...
-- ...aber manchmal müssen wir! Also treten Sie vor, Entwickler: Kratzen Sie sich und retten Sie die Welt.
+- ...aber manchmal müssen wir! Also, Schritt für Schritt, Devs: Kratzen Sie sich und retten Sie die Welt.
 
 Interessiert? [E-Mail an Anthony](mailto:anthony@pausai.info) (oder DM anthonybailey.net auf [Discord](https://discord.gg/y9hdAjD83e))
