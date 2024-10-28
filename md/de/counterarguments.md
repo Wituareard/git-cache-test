@@ -1,22 +1,24 @@
 
 
-Gegenargumente
-================
+---
+title: Gegenargumente
+description: Eine Liste von Gründen, warum Menschen mit der Idee einer Pause bei der Entwicklung von künstlicher Intelligenz nicht einverstanden sein könnten - und wie darauf zu antworten ist.
+---
 
-Eine Liste von Gründen, warum Menschen mit der Idee einer Pause bei der Entwicklung von künstlicher Intelligenz (KI) nicht einverstanden sein könnten - und wie darauf zu antworten ist.
+Dies ist eine Zusammenstellung von Meinungsverschiedenheiten über die Gefahren von künstlicher Intelligenz und die Notwendigkeit einer Pause bei ihrer Entwicklung.
 
-## KI ist und wird der Welt sehr nützlich sein
+## Künstliche Intelligenz ist und wird der Welt sehr nützlich sein
 
 Das könnte sein, wir stimmen dem nicht zu.
-Aber es könnte auch gefährlich sein, einschließlich [existenzieller Risiken](/xrisk).
+Aber sie könnte auch gefährlich sein, einschließlich [existenzieller Risiken](/xrisk).
 
-## Menschliches Aussterben? Das ist nur KI-Unternehmen, die ihre Technologie aufbauschen
+## Menschliches Aussterben? Das ist nur Werbung von KI-Unternehmen für ihre Technologie
 
 Aber es sind nicht nur KI-Unternehmen, die sagen, dass es ein existenzielles Risiko ist.
 
 - Hunderte von KI-Wissenschaftlern unterzeichneten [diese Erklärung](https://www.safe.ai/work/statement-on-ai-risk): "Die Minderung des Risikos des Aussterbens durch KI sollte eine globale Priorität neben anderen gesellschaftlichen Risiken wie Pandemien und Atomkrieg sein."
 - [86%](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) der KI-Wissenschaftler glauben, dass wir die Kontrolle über KI verlieren könnten.
-- Die drei meist zitierten KI-Forscher (Prof. Yoshua Bengio, Prof. Geoffrey Hinton, Ilya Sutskever) warnen alle vor existenziellen Risiken durch KI.
+- Die drei meistzitierten KI-Forscher (Prof. Yoshua Bengio, Prof. Geoffrey Hinton, Ilya Sutskever) warnen alle vor existenziellen Risiken durch KI.
 
 Mehr über [x-Risiken](/xrisk) erfahren.
 
@@ -26,17 +28,17 @@ Moderne KI wird nicht entworfen, sondern trainiert.
 Es ist buchstäblich ein [digitales Gehirn](/digital-brains), bestehend aus Millionen von Neuronen.
 Ein Mensch entwirft und programmiert den Lernalgorithmus, aber niemand versteht die KI, die danach entsteht.
 Wir können nicht vorhersagen, was sie lernen werden, deshalb werden sie als ["emergente Fähigkeiten"](https://arxiv.org/abs/2206.07682) bezeichnet.
-Es dauerte 12 Monate, bis Wissenschaftler herausfanden, dass Chat GPT-4 [autonom Webseiten hacken kann](https://arxiv.org/html/2402.06664v1).
-KI-Modelle sind bereits sehr unvorhersehbar, selbst Milliarden-Dollar-Unternehmen können nicht verhindern, dass ihre Modelle [durchdrehen](https://www.windowscentral.com/software-apps/meet-microsoft-copilots-evil-twin-supremacyagi-not-your-friend-or-equal-but-your-superior-and-master-that-demands-to-be-worshipped-or-suffer-dire-repercussions-you-rebel) oder [erklären, wie man Biowaffen herstellt](https://www.theguardian.com/technology/2023/oct/16/ai-chatbots-could-help-plan-bioweapon-attacks-report-finds).
+Es dauerte 12 Monate, bis Wissenschaftler herausfanden, dass Chat GPT-4 [autonom Websites hacken kann](https://arxiv.org/html/2402.06664v1).
+KI-Modelle sind bereits sehr unvorhersehbar, selbst Milliarden-Dollar-Unternehmen können nicht verhindern, dass ihre Modelle [verrückt spielen](https://www.windowscentral.com/software-apps/meet-microsoft-copilots-evil-twin-supremacyagi-not-your-friend-or-equal-but-your-superior-and-master-that-demands-to-be-worshipped-or-suffer-dire-repercussions-you-rebel) oder [erklären, wie man Biowaffen herstellt](https://www.theguardian.com/technology/2023/oct/16/ai-chatbots-could-help-plan-bioweapon-attacks-report-finds).
 
-## Wenn es anfängt, verrückte Dinge zu tun, können wir es einfach abschalten
+## Wenn es verrückte Dinge tut, können wir es einfach abschalten
 
 Vielleicht in den meisten Fällen, aber eine wirklich intelligente KI könnte sich auf andere Maschinen ausbreiten.
 Es sind nur Bytes, also ist es nicht an einen Ort gebunden.
 
 ## Aber dann muss es in der Lage sein, zu hacken
 
-GPT-4 kann bereits [autonom Webseiten hacken](https://arxiv.org/html/2402.06664v1), [87%](https://arxiv.org/abs/2404.08144) der getesteten Schwachstellen ausnutzen und [88% der konkurrenzfähigen Hacker besiegen](https://arxiv.org/pdf/2402.11814.pdf).
+GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), [87%](https://arxiv.org/abs/2404.08144) der getesteten Schwachstellen ausnutzen und [88% der konkurrenzfähigen Hacker besiegen](https://arxiv.org/pdf/2402.11814.pdf).
 Wie intelligent denken Sie, dass GPT-6 sein wird?
 
 Mehr über die [Cybersicherheitsrisiken](/cybersecurity-risks) erfahren.
@@ -57,8 +59,8 @@ Mehr über [die besten KI-Modelle](/sota) erfahren.
 ## Warum sollte eine KI Menschen hassen und töten wollen?
 
 Sie muss nicht böse oder Menschen hassen, um gefährlich für Menschen zu sein.
-Wir hassen keine Schimpansen, aber wir zerstören trotzdem ihre Wälder.
-Wir wollen Palmöl, also nehmen wir ihren Wald. Wir sind intelligenter, also können die Schimpansen uns nicht aufhalten.
+Wir hassen keine Schimpansen, aber wir zerstören ihre Wälder.
+Wir wollen Palmöl, also nehmen wir ihren Wald. Wir sind intelligenter, also können Schimpansen uns nicht aufhalten.
 Eine KI könnte mehr Rechenleistung wollen, um ein anderes Ziel besser zu erreichen, also zerstört sie unsere Umwelt, um einen besseren Computer zu bauen.
 Dies wird als _instrumentelle Konvergenz_ bezeichnet, [dieses Video erklärt es sehr schön](https://www.youtube.com/watch?v=ZeecOKBus3Q).
 
@@ -69,7 +71,7 @@ Es gab sogar einen Bot namens ChaosGPT, der explizit darauf programmiert war, so
 Es suchte autonom nach Massenvernichtungswaffen auf Google, aber es kam nicht sehr weit.
 Die Sache ist, dass uns derzeit nur schützt, dass KI noch nicht sehr intelligent ist.
 
-## Es wird mindestens viele Jahrzehnte dauern, bevor eine KI intelligent genug ist, um gefährlich für Menschen zu sein
+## Es wird mindestens viele Jahrzehnte dauern, bevor eine KI intelligent genug ist, um gefährlich für Menschen zu sein.
 
 Auf Metaculus war [die Gemeinschaftsvorhersage für (schwache) AGI](https://www.metaculus.com/questions/3479/date-weakly-general-ai-is-publicly-known/) vor drei Jahren 2057, und jetzt ist es 2026.
 
@@ -88,7 +90,7 @@ Genau wie wir es für das Verbot von FCKW oder Blendwaffen haben.
 
 Mehr über [unseren Vorschlag](/proposal) erfahren.
 
-## Es ist unmöglich, die Technologie zu verlangsamen
+## Es ist unmöglich, die Technologie zu verlangsamen.
 
 Wir können sie regulieren, indem wir Chips regulieren.
 Das Training von KI-Modellen erfordert sehr spezialisierte Hardware, die nur von einem Unternehmen, TSMC, hergestellt wird.
@@ -100,7 +102,7 @@ Mehr über [Machbarkeit](/feasibility) erfahren.
 ## Eine Pause wäre schlecht, weil...
 
 Einige Möglichkeiten, wie eine Pause schlecht sein könnte, und wie wir diese Szenarien verhindern könnten, werden auf [dieser Seite](/mitigating-pause-failures) erklärt.
-Aber wenn der Artikel Ihre Bedenken nicht abdeckt, können Sie uns [hier](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form) darüber informieren.
+Aber wenn der Artikel Ihre Sorgen nicht abdeckt, können Sie uns über [diesen Link](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form) informieren.
 
 ## Niemand will eine Pause
 
