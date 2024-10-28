@@ -1,15 +1,17 @@
 
 
-Titel: 4 Ebenen der KI-Sicherheitsregulierung
-Beschreibung: Ein Rahmenwerk zum Nachdenken darüber, wie die Risiken durch leistungsfähige KI-Systeme gemildert werden können
-Bild: /4levels.png
+---
+title: 4 Ebenen der KI-Sicherheitsregulierung
+description: Ein Rahmenwerk zum Nachdenken darüber, wie die Risiken durch leistungsfähige KI-Systeme gemildert werden können
+image: /4levels.png
+---
 
 Mit zunehmenden KI-Fähigkeiten steigen auch die Risiken, die diese Systeme für die Menschheit darstellen.
 Viele Wissenschaftler haben bereits vor dem Risiko des menschlichen Aussterbens gewarnt.
 
 In diesem Artikel werden wir unser 4-Ebenen-Rahmenwerk für die Regulierung der KI-Sicherheit vorstellen.
 
-## KI-Pipeline als Rahmenwerk für die Sicherheitsgovernance
+## KI-Pipeline als Rahmenwerk für Sicherheitsgovernance
 
 Die KI-Erstellungspipeline besteht aus verschiedenen Schritten, die jeweils auf unterschiedliche Weise reguliert werden können.
 Diese Pipeline besteht aus:
@@ -41,7 +43,7 @@ Dies bietet nur ein sehr geringes Maß an Schutz gegen KI-Gefahren.
 
 Beispiele:
 
-- **Anforderungen an Red-Teaming**. Dies bedeutet, dass ein KI-Modell, bevor es bereitgestellt wird, von einem Red-Team getestet wird, um zu sehen, ob es gehackt (gejailbreakt) oder missbraucht werden kann.
+- **Anforderungen an Red-Teaming**. Dies bedeutet, dass ein KI-Modell vor seiner Bereitstellung von einem Red-Team getestet wird, um zu sehen, ob es gehackt (gejailbreakt) oder missbraucht werden kann.
 - **Verbot der Bereitstellung und Open-Sourcing** von Modellen mit [gefährlichen Fähigkeiten](/dangerous-capabilities).
 
 Wenn wir die Bereitstellung regulieren, verhindern wir, dass gefährliche Modelle verfügbar sind.
@@ -78,7 +80,7 @@ Dies bietet uns den besten Schutz gegen die Risiken durch KI.
 ## Einschränkungen
 
 Hinweis: Dieses Rahmenwerk ist nicht perfekt, und nicht alle möglichen Arten von KI-Regulierungen passen sauber in eine der genannten Ebenen.
-Beispielsweise kann die rechtliche Haftung für Modellersteller als Ebene-1-"Nutzung"-Typ-Regulierung klassifiziert werden, da sie nach der Bereitstellung durchgesetzt wird, aber sie könnte auch als Ebene-2- oder Ebene-3-Typ-Regulierung klassifiziert werden, da sie den Erstellern helfen kann, zu überlegen, ob ein bestimmtes Modell bereitgestellt oder trainiert werden sollte.
+Beispielsweise kann die rechtliche Haftung für Modellersteller als Ebene-1-"Nutzung"-Typ-Regulierung eingestuft werden, da sie nach der Bereitstellung durchgesetzt wird, aber sie könnte auch als Ebene-2- oder Ebene-3-Typ-Regulierung eingestuft werden, da sie den Erstellern helfen kann, zu überdenken, ob ein bestimmtes Modell bereitgestellt oder trainiert werden sollte.
 
 ## Schlussfolgerungen
 
