@@ -7,7 +7,7 @@ description: Melden Sie sich an, um der PauseAI-Bewegung beizutreten.
 
 Die Gruppe der Menschen, die sich der Risiken von künstlicher Intelligenz bewusst sind, ist noch klein.
 Sie gehören jetzt dazu.
-**Ihre Aktionen sind wichtiger, als Sie denken.**
+**Ihre Handlungen sind wichtiger, als Sie denken.**
 
 Möglichkeiten, wie Sie beitreten können:
 
