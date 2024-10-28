@@ -19,7 +19,7 @@ Mit Ihrer finanziellen Unterstützung können wir uns professionalisieren und ei
 - **Software**: E-Mail, Website usw.
 - **Kampagnen**: Online-Werbung, Materialien
 - **Rechtliche und finanzielle Angelegenheiten**: Gründung der Stiftung (Notarkosten), Buchhaltung.
-- **Gemeinschaftsprojekte**: unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
+- **Gemeinschaftsprojekte**: Unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
 
 ## Was haben wir bereits erreicht {#what-have-we-already-achieved}
 
