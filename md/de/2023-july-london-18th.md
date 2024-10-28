@@ -1,7 +1,7 @@
 
 
 ---
-title: PauseAI-Protest vor dem FCDO in London am 18. Juli
+title: PauseAI-Protest @ FCDO, London, 18. Juli
 ---
 
 <script>
@@ -14,19 +14,19 @@ title: PauseAI-Protest vor dem FCDO in London am 18. Juli
 </div>
 </WidgetConsent>
 
-- PauseAI-Protest, der den Sicherheitsrat der Vereinten Nationen auffordert, eine globale Pause bei den größten KI-Trainingsläufen einzulegen.
+- PauseAI-Protest, um den Sicherheitsrat der Vereinten Nationen dazu aufzufordern, eine globale Pause bei den größten KI-Trainingsläufen einzulegen.
 - Wo: vor dem Foreign, Commonwealth and Development Office (FCDO), King Charles Street, Westminster, London, SW1A 2AH
 - Wann: 18. Juli, 16:30 - 17:30 Uhr
 - [Anmelden](https://docs.google.com/forms/d/e/1FAIpQLSfLoAUfPEhp3bZyUbDnc8HigL_rYC7ykUmmPZvVWas-m2y5bQ/viewform?usp%253Dsf_link)
-- [Facebook-Veranstaltung](https://fb.me/e/1bawf1ZH1)
+- [Facebook-Event](https://fb.me/e/1bawf1ZH1)
 
 ## Kontakt
 
 - Alistair Steward ([Twitter](https://twitter.com/alistair___s))
 
-## Pressemitteilung: PauseAI protestiert vor dem Foreign Office vor dem UN-Sicherheitsratstreffen zum Thema KI-Risiken
+## Pressemitteilung: PauseAI protestiert vor dem Foreign Office vor dem UN-Sicherheitsratstreffen zu KI-Risiken
 
-Am Dienstag, dem 18. Juli, werden Freiwillige der neuen Bewegung [PauseAI](http://pauseai.info/) vor dem Foreign Office in London zusammenkommen, um den UN-Sicherheitsrat aufzufordern, eine Pause bei den Trainingsläufen der leistungsfähigsten KI-Systeme einzulegen. In einer [Pressekonferenz](https://youtu.be/USap-tFrTDc?t=3235) letzte Woche erklärte die britische Botschafterin und Präsidentin des Sicherheitsrates, Barbara Woodward: "Künstliche Intelligenz ist nicht selbst ein Akteur", was ein Mangel an technischer Expertise unter Regierungsbeamten zeigt, der dazu führt, dass Risiken durch zukünftige KI-Systeme stark unterschätzt werden. Viele KI-Experten glauben, dass übermenschliche KI der menschlichen Kontrolle entkommen könnte, mit katastrophalen Folgen, einschließlich des Aussterbens der Menschheit. Der UN-Generalsekretär António Guterres [erkannte diese Bedrohung kürzlich an](https://press.un.org/en/2023/sgsm21832.doc.htm):
+Am Dienstag, dem 18. Juli, werden Freiwillige der neuen [PauseAI](http://pauseai.info/)-Bewegung vor dem Foreign Office in London zusammenkommen, um den UN-Sicherheitsrat dazu aufzufordern, eine Pause bei den Trainingsläufen der leistungsfähigsten KI-Systeme einzulegen. In einer [Pressekonferenz](https://youtu.be/USap-tFrTDc?t=3235) letzte Woche erklärte die britische Botschafterin und Präsidentin des Sicherheitsrates, Barbara Woodward: "Künstliche Intelligenz ist nicht selbst ein Akteur", was ein Mangel an technischer Expertise zeigt, der typisch für Regierungsbeamte ist und dazu führt, dass Risiken durch zukünftige KI-Systeme stark unterschätzt werden. Viele KI-Experten glauben, dass übermenschliche KI der menschlichen Kontrolle entkommen könnte, mit katastrophalen Folgen, einschließlich des Aussterbens der Menschheit. Der UN-Generalsekretär António Guterres [hat diese Bedrohung kürzlich anerkannt](https://press.un.org/en/2023/sgsm21832.doc.htm):
 
 > "Die Alarmglocken über die neueste Form der künstlichen Intelligenz - generative KI - sind ohrenbetäubend, und sie sind am lautesten von den Entwicklern, die sie entworfen haben. Diese Wissenschaftler und Experten haben die Welt aufgerufen, zu handeln, und erklärt, dass KI eine existenzielle Bedrohung für die Menschheit darstellt, die mit dem Risiko eines Atomkriegs vergleichbar ist."
 
@@ -34,6 +34,6 @@ Der Sicherheitsrat der Vereinten Nationen wird am 18. Juli ein beispielloses Tre
 
 > "Wir können nicht erwarten, dass KI-Unternehmen freiwillig aufhören, neue KI-Modelle zu trainieren - es gibt zu viel Wettbewerbsdruck. Nationale Regierungen haben ein ähnliches Problem, da Nationen auch konkurrieren. Wir brauchen globale Maßnahmen. Der UN-Sicherheitsrat ist eines der wenigen Gremien, in denen ein solcher internationaler Vertrag gebildet werden könnte. Wir fordern unsere Führer auf, diese einzigartige Gelegenheit zu nutzen und die KI-Trainingsläufe zu pausieren." - PauseAI-Mitglieder
 
-Großbritannien übernimmt derzeit die internationale Führung bei KI-Sicherheitsvorschriften, da die Regierung [am 7. Juni bekannt gab](https://www.gov.uk/government/news/uk-to-host-first-global-summit-on-artificial-intelligence), dass sie den ersten KI-Sicherheitsgipfel in diesem Herbst ausrichten wird. Die Demonstranten befürchten jedoch, dass es zu wenig Aktionen geben wird, zu spät:
+Das Vereinigte Königreich übernimmt derzeit die internationale Führung bei KI-Sicherheitsvorschriften, da die Regierung [am 7. Juni bekannt gab](https://www.gov.uk/government/news/uk-to-host-first-global-summit-on-artificial-intelligence), dass es den ersten KI-Sicherheitsgipfel in diesem Herbst ausrichten wird. Die Demonstranten befürchten jedoch, dass es zu wenig Aktionen geben wird, zu spät:
 
 > "Es ist unglaublich schwierig, vorherzusagen, wie schnell KI fortschreiten wird. Wir müssen auf der Seite der Vorsicht erraten und uns auf ein Szenario vorbereiten, in dem wir gefährliche Intelligenzniveaus in Monaten - nicht Jahren - erreichen. Das Treffen des UN-Sicherheitsrates ist der erste Moment, in dem eine globale Pause beschlossen werden könnte." - PauseAI-Mitglieder
