@@ -1,20 +1,20 @@
----
-title: Entkräftung skeptischer Argumente zu existenziellen Risiken durch künstliche Intelligenz
-description: Warum existenzielle Risiken durch künstliche Intelligenz real sind und ernsthafte Aufmerksamkeit verdienen
----
+
+
+Titel: Entkräftung skeptischer Argumente zu existenziellen Risiken durch künstliche Intelligenz
+Beschreibung: Warum existenzielle Risiken durch künstliche Intelligenz real sind und ernsthafte Aufmerksamkeit verdienen
 
 _Diese Seite ist eine Zusammenfassung des Artikels [AI Risk Skepticism](https://arxiv.org/ftp/arxiv/papers/2303/2303.03885.pdf) von Ambartsoumean & Yampolskiy._
 
-Für weitere häufige Einwände sollten Sie [AISafety.info: Objections and responses](https://aisafety.info/questions/9TDI/Objections-and-responses) und [unsere Einführung in x-Risiken](/xrisk) konsultieren.
+Für andere häufige Einwände sollten Sie [AISafety.info: Einwände und Antworten](https://aisafety.info/questions/9TDI/Objections-and-responses) und [unsere Einführung in x-Risiken](/xrisk) konsultieren.
 
 ## Wir haben noch viel Zeit, uns vorzubereiten
 
-- Skeptiker behaupten, der Fortschritt in der künstlichen Intelligenz sei nicht so schnell wie von einigen vorhergesagt, und AGI sei noch weit entfernt. Sie verweisen auf vergangene Fehlprognosen und die Grenzen aktueller KI-Systeme.
-- Der Fortschritt in der künstlichen Intelligenz war jedoch tatsächlich sehr schnell, mit exponentiell wachsenden Fähigkeiten in vielen Teilgebieten. Auch wenn genaue Vorhersagen schwierig sind, macht der anhaltende Fortschritt die Entwicklung leistungsfähiger KI-Systeme unvermeidlich. Selbst wenn dies in der Ferne liegt, benötigt die KI-Sicherheitsforschung ausreichend Zeit.
+- Skeptiker behaupten, der Fortschritt in der künstlichen Intelligenz sei nicht so schnell wie von einigen vorhergesagt, und die Entwicklung einer allgemeinen künstlichen Intelligenz (AGI) sei noch weit entfernt. Sie verweisen auf vergangene Fehlprognosen und die Grenzen aktueller KI-Systeme.
+- Der Fortschritt in der künstlichen Intelligenz war jedoch tatsächlich sehr schnell, mit exponentiell wachsenden Fähigkeiten in vielen Teilgebieten. Auch wenn genaue Vorhersagen schwierig sind, macht der kontinuierliche Fortschritt die Entwicklung leistungsfähiger KI-Systeme unvermeidlich. Selbst wenn dies in der Ferne liegt, benötigt die KI-Sicherheitsforschung ausreichend Zeit.
 
 ## KI kann keine menschenähnlichen Fähigkeiten haben
 
-- Skeptiker argumentieren, KI fehle es an Eigenschaften, die mit menschlicher Intelligenz assoziiert werden, wie Kreativität, allgemeine Argumentationsfähigkeit, Emotionen und Bewusstsein. Sie behaupten, Computer könnten nur eng begrenzte Aufgaben optimieren.
+- Skeptiker argumentieren, KI fehle es an Eigenschaften, die mit menschlicher Intelligenz assoziiert werden, wie Kreativität, allgemeine Argumentationsfähigkeit, Emotionen und Bewusstsein. Sie behaupten, Computer könnten nur eng gefasste Aufgaben optimieren.
 - KI-Systeme zeigen jedoch bereits einige menschenähnliche Fähigkeiten wie Kreativität und allgemeine Spielkompetenz. Es gibt keinen grundlegenden Grund, warum KI nicht weiterhin in allen Dimensionen der Intelligenz fortschreiten könnte. KI benötigt kein Bewusstsein oder Emotionen, um Risiken darzustellen.
 
 ## KI kann keine Ziele oder Autonomie haben
@@ -35,8 +35,8 @@ Für weitere häufige Einwände sollten Sie [AISafety.info: Objections and respo
 ## Regulierung wird KI-Risiken verhindern
 
 - Skeptiker sagen, regulatorische Aufsicht und ethische Richtlinien würden schädliche KI-Anwendungen einschränken, so dass wir uns keine Sorgen machen müssten.
-- Regulatorische Politik bleibt jedoch oft hinter technologischen Entwicklungen zurück, insbesondere bei exponentiellen Fortschritten. Selbstregulierung in einem wettbewerbsorientierten Umfeld ist ebenfalls unzureichend. Technische KI-Sicherheitsforschung ist nach wie vor von entscheidender Bedeutung.
+- Regulierungspolitik bleibt jedoch oft hinter technologischen Entwicklungen zurück, insbesondere bei exponentiellen Fortschritten. Selbstregulierung in einem wettbewerbsorientierten Umfeld ist ebenfalls unzureichend. Technische KI-Sicherheitsforschung ist nach wie vor entscheidend.
 
 ## Schlussfolgerung
 
-Die skeptischen Argumente zeigen im Allgemeinen fehlerhaftes Denken, unterschätzen das exponentielle Tempo und die Unvorhersehbarkeit des KI-Fortschritts und zeigen kein Verständnis für die Schwierigkeiten der Wertübereinstimmung. Angesichts der beteiligten Interessen macht es Sinn, einen vorsichtigen, proaktiven Ansatz für die KI-Sicherheit zu wählen. Obwohl die Zukunftsaussichten unklar bleiben, scheint es unklug, existenzielle Risiken durch KI völlig abzutun. Eine differenziertere, technische Analyse und Debatte sind erforderlich.
+Die skeptischen Argumente zeigen im Allgemeinen fehlerhaftes Denken, unterschätzen das exponentielle Tempo und die Unvorhersehbarkeit des KI-Fortschritts und zeigen mangelndes Verständnis für die Schwierigkeiten der Wertübereinstimmung. Angesichts der beteiligten Interessen macht es Sinn, einen vorsichtigen, proaktiven Ansatz für KI-Sicherheit zu verfolgen. Obwohl die Zukunftsaussichten unklar bleiben, scheint es unklug, existenzielle Risiken durch KI völlig abzutun. Eine differenziertere, technische Analyse und Debatte sind erforderlich.
