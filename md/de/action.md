@@ -15,7 +15,7 @@ Hier sind einige Beispiele für das, was Sie tun können.
 
 ## Andere informieren
 
-- **Teilen** Sie Informationen über die Risiken von künstlicher Intelligenz in sozialen Medien. Diese Website ist ein guter Ausgangspunkt.  <!-- Sobald wir ein Intro-Video haben, sollte das unsere erste Wahl sein. Wenn wir weit davon entfernt sind, könnten wir hier einige offizielle E-Flyer teilen? https://drive.google.com/drive/u/1/folders/1c6D_i8U95FUpfrl-eR-oRNoHUf3zghOc -->
+- **Teilen** Sie Informationen über die Risiken von künstlicher Intelligenz in sozialen Medien. Diese Website ist ein guter Ausgangspunkt.  <!-- Sobald wir ein Intro-Video haben, sollte das unser Standard sein. Wenn wir weit davon entfernt sind, könnten wir hier offizielle E-Flyer teilen? https://drive.google.com/drive/u/1/folders/1c6D_i8U95FUpfrl-eR-oRNoHUf3zghOc -->
 - **Erstellen** Sie [Artikel](/learn#articles), [Videos](/learn#videos) oder [Memes](https://twitter.com/AISafetyMemes).
 - **Sprechen** Sie mit Menschen in Ihrem Leben darüber. Beantworten Sie ihre Fragen und bringen Sie sie dazu, zu handeln. Nutzen Sie unsere [Gegenargumente](/counterarguments), um überzeugender zu sein.
 - [**Infostände**](/tabling) und [**Flyerverteilung**](/flyering) sind großartige Möglichkeiten, viele Menschen in kurzer Zeit zu erreichen.
@@ -29,8 +29,8 @@ Hier sind einige Beispiele für das, was Sie tun können.
 ## Der Bewegung beitreten
 
 - Treten Sie einer [lokalen Gemeinschaft](/communities) oder einem [Event](/events) bei.
-- Treten Sie dem PauseAI-[Discord](https://discord.gg/2XXWXvErfA) bei, wo die meisten Zusammenarbeiten stattfinden.
-- Wenn Sie sich freiwillig engagieren möchten, füllen Sie [dieses Formular](https://airtable.com/embed/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form) aus.
+- Treten Sie dem PauseAI-[Discord](https://discord.gg/2XXWXvErfA) bei, wo die meisten Zusammenarbeitsaktivitäten stattfinden.
+- Wenn Sie sich freiwillig engagieren möchten, füllen Sie bitte [dieses Formular](https://airtable.com/embed/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form) aus.
 - [**Spenden**](/donate) Sie an PauseAI oder kaufen Sie Merchandise in unserem [Shop](https://pauseai-shop.fourthwall.com/).
 - **Folgen** Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai) und bleiben Sie auf dem Laufenden.
 
@@ -52,5 +52,5 @@ Hier sind einige Beispiele für das, was Sie tun können.
 
 - **Arbeiten Sie nicht an Superintelligenz**. Wenn Sie eine coole Idee haben, wie wir KI-Systeme 10x schneller machen können, bitte bauen Sie es nicht / verbreiten Sie es nicht / sprechen Sie nicht darüber. Wir müssen die KI-Entwicklung verlangsamen, nicht beschleunigen.
 - **Sprechen Sie mit Ihrem Management und Ihren Kollegen** über die Risiken. Bringen Sie sie dazu, eine institutionelle Position dazu einzunehmen.
-- **Halten Sie ein Seminar** über KI-Sicherheit an Ihrem Arbeitsplatz. Überprüfen Sie [diese Vorträge und Videos](https://www.youtube.com/playlist?list=PLI46NoubGtIJa0JVCBR-9CayxCOmU0EJt) für Inspiration.
-- **Unterschreiben** Sie die [Erklärung zu KI-Risiken](https://www.safe.ai/statement-on-ai-risk).
+- **Halten Sie ein Seminar** über KI-Sicherheit an Ihrem Arbeitsplatz. Schauen Sie sich [diese Vorträge und Videos](https://www.youtube.com/playlist?list=PLI46NoubGtIJa0JVCBR-9CayxCOmU0EJt) für Inspiration an.
+- **Unterschreiben Sie** die [Erklärung zu KI-Risiken](https://www.safe.ai/statement-on-ai-risk).
