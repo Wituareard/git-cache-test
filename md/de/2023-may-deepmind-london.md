@@ -28,7 +28,7 @@ Wann und wo:
 - 1700-2000 Uhr, Mo, 22. Mai, vor Google DeepMind
 - In Zukunft: regelmäßiger (wöchentlicher?) Protest?
 
-Genauer Standort:
+Genaue Orte:
 
 - Google DeepMind im Gebäude [S2 Handyside](https://www.kingscross.co.uk/s2-handyside): [2 Canal Reach](https://goo.gl/maps/HEA1pvEQJRfmymiEA?coh=178571&entry=tt), King's Cross, London, N1C 4DC
 - Effective Altruism Global London ([EAG London](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2023)): [Tobacco Dock](https://goo.gl/maps/MfVJ6Exfv7B1NbcL6?coh=178571&entry=tt), Tobacco Quay, Wapping Lane, Wapping, London, E1W 2SF
@@ -45,8 +45,8 @@ Wie:
 
 - Wir werden rechtmäßig und friedlich vor Google DeepMind mit Plakaten und einem Banner stehen, möglicherweise Flyer / Aufkleber / Anstecker an DeepMind-Mitarbeiter und Passanten verteilen
 - Wir werden respektvolle, kooperative Gespräche führen
-- Wir können Reden halten (wahrscheinlicher) und/oder singen und/oder skandieren (weniger wahrscheinlich)
-- Wir können uns in auffälligen Kostümen kleiden
+- Wir werden möglicherweise Reden halten (wahrscheinlicher) und/oder singen und/oder skandieren (weniger wahrscheinlich)
+- Wir werden möglicherweise auffällige Kostüme tragen
 - Unser Ton wird informativ, inklusiv und humorvoll sein, anstatt konfrontativ und störend
 - Wir zielen darauf ab, bis zu 30 Personen zu diesem ersten Protest zu bringen
 
@@ -62,7 +62,7 @@ Presse/Medien/Öffentlichkeit:
 - Bitte teilen Sie so weit wie möglich auf sozialen Medien, durch Mundpropaganda usw.!
 - Facebook-Event [hier](https://fb.me/e/Tc3BBimH)
 
-## Botschaft & Erzählung {#messaging--narrative}
+## Botschaft und Erzählung {#messaging--narrative}
 
 Das Problem:
 
@@ -76,7 +76,7 @@ Das Problem:
 - Risiko, den Planeten zu zerstören, ist höher als 1% -- [KI-Forscher](https://twitter.com/liron/status/1656929936639430657?s=20)
 - Experten sind besorgt
 - Siehe PauseAI-Zitate von Experten [hier](https://pauseai.info/xrisk)
-- Pause im Rennen nach unten
+- Stoppen Sie das Rennen nach unten
 - Was, wenn wir den Stecker nicht ziehen können?
 - Wir haben die Neandertaler ausgerottet; wird KI uns ausrotten?
 - KI, die die Menschheit auslöscht, ist "nicht undenkbar" -- Hinton
@@ -103,17 +103,17 @@ Das Endergebnis:
 - KI-Sommer
 - Wir brauchen keine AGI für eine großartige Zukunft
 
-Weitere Botschaften und Erzählungsideen:
+Weitere Ideen für Botschaften und Erzählungen:
 
 - PauseAI-Website [hier](https://pauseai.info/risks)
-- Campaign for AI Safety (CFAIS)-Ideen für die Botschaftentestung [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
-- CFAIS-Erzählungstestergebnisse [hier](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
+- Campaign for AI Safety (CFAIS)-Ideen für die Testung von Botschaften [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
+- CFAIS-Ergebnisse der Erzählungstestung [hier](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
 
 ## Ausrüstung {#equipment}
 
 Banner
 
-- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) darauf drucken
+- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) drucken
 
 Plakate
 
@@ -131,6 +131,6 @@ Aufkleber und Anstecker
 
 - Alistair wird versuchen, PauseAI-Aufkleber und -Anstecker zu drucken
 
-## Kontakt {#contact-4}
+## Kontakt {#contact-5}
 
 Alistair Steward ([E-Mail](mailto:achoto@protonmail.com), [Twitter](https://twitter.com/alistair___s))
