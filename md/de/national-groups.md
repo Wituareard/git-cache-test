@@ -8,13 +8,13 @@ description: Was bedeutet es, eine Ländergruppe im PauseAI-Netzwerk zu sein?
 ## PauseAI-Ländergruppen {#pauseai-national-groups}
 
 - Verwalten, coachen und koordinieren ihre eigenen [lokale Gemeinschaften](/communities).
-- Sind für die nationale Strategie und Koordination verantwortlich.
+- Sind verantwortlich für die nationale Strategie und Koordination.
 - Haben in der Regel ihre eigene Website, Social-Media-Konten und eine juristische Person.
 - Führen Lobbyarbeit und Medienarbeit auf nationaler Ebene durch.
 
 ## Beziehung zu PauseAI Global {#relationship-with-pauseai-global}
 
-- Ländergruppen werden erwartet, die PauseAI-Strategie ([Theorie des Wandels](/theory-of-change), [Kommunikationsstrategie](/communication-strategy), [Wachstumsstrategie](/growth-strategy)) zu befolgen.
+- Ländergruppen werden erwartet, die PauseAI-Strategie zu verfolgen ([Theorie des Wandels](/theory-of-change), [Kommunikationsstrategie](/communication-strategy), [Wachstumsstrategie](/growth-strategy)).
 - Ländergruppen können sich für [Mikrosubventionen](/microgrants) von PauseAI Global bewerben, um alle Arten von Aktivitäten zu finanzieren.
 - Das Oversight-Team bei PauseAI Global überwacht und coacht Ländergruppen, um sicherzustellen, dass sie erfolgreich sind und mit der globalen Strategie übereinstimmen.
 
@@ -54,7 +54,7 @@ description: Was bedeutet es, eine Ländergruppe im PauseAI-Netzwerk zu sein?
     4. [Lokale Organisationsanleitung](/local-organizing) hat einige Ratschläge zur Rekrutierung, die auch auf nationaler Ebene übertragbar sein können.
 7. Einrichten von **Aktivitäten**
     1. Posten von Dingen auf Ihren Social-Media-Kanälen
-    2. [Flyering](/flyering) / [Tabling](/tabling) (besonders auf Studentenmessen an Hochschulen, auch großartig für die Rekrutierung)
+    2. [Flyering](/flyering) / [Tabling](/tabling) (insbesondere auf Studentenmessen an Hochschulen, auch großartig für die Rekrutierung)
     3. Workshops (z.B. Lobby-Workshop, Protest-Workshop)
     4. Direkte Lobbyarbeit
     5. Medienarbeit / Journalistenarbeit
