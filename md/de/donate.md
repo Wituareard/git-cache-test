@@ -7,19 +7,19 @@ description: Mit Ihrer finanziellen Unterstützung können wir einen größeren 
 
 Wir haben PauseAI als Gruppe von Freiwilligen gegründet, die in ihrer Freizeit daran arbeiten.
 Seit Februar 2024 ist PauseAI eine [registrierte gemeinnützige Stiftung](/legal).
-Wir haben noch nicht genug Mittel, um Menschen einzustellen, die Vollzeit für PauseAI arbeiten, daher setzen wir uns noch auf freiwilliger Arbeit.
-Mit Ihrer finanziellen Unterstützung können wir uns professionalisieren und einen größeren Einfluss ausüben.
+Wir haben noch nicht genug Mittel, um Vollzeit-Mitarbeiter einzustellen, daher arbeiten wir weiterhin auf ehrenamtlicher Basis.
+Mit Ihrer finanziellen Unterstützung können wir professionalisieren und einen größeren Einfluss ausüben.
 
 <div style="display: flex; justify-content: center;" ><a href="https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE"><img src="/PayPal.svg" alt="Jetzt spenden" width="256" /></a></div>
 
 ## Wie wir Ihre Spenden verwenden
 
-- **Menschen**: Aufbau einer stärkeren Gemeinschaft, Arbeit an Projekten, Organisation von Protesten, Verbesserung der Website usw.
-- **Veranstaltungen**: Anmietung eines Ortes, Catering, Reisekosten.
+- **Menschen**: Aufbau einer stärkeren Gemeinschaft, Projektarbeit, Organisation von Protesten, Verbesserung der Website usw.
+- **Veranstaltungen**: Anmietung von Räumlichkeiten, Catering, Reisekosten.
 - **Software**: E-Mail, Website usw.
 - **Kampagnen**: Online-Werbung, Materialien
 - **Rechtliche und finanzielle Angelegenheiten**: Gründung der Stiftung (Notarkosten), Buchhaltung.
-- **Gemeinschaftsprojekte**: Unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
+- **Gemeinschaftsprojekte**: unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene Kleinprojekte.
 
 ## Was haben wir bereits erreicht
 

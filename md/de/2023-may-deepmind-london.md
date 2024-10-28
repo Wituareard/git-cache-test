@@ -28,7 +28,7 @@ Wann und wo:
 - 1700-2000 Uhr, Mo, 22. Mai, vor Google DeepMind
 - In Zukunft: regelmäßige (wöchentliche?) Demonstration?
 
-Genaue Orte:
+Genauer Standort:
 
 - Google DeepMind im Gebäude [S2 Handyside](https://www.kingscross.co.uk/s2-handyside): [2 Canal Reach](https://goo.gl/maps/HEA1pvEQJRfmymiEA?coh=178571&entry=tt), King's Cross, London, N1C 4DC
 - Effective Altruism Global London ([EAG London](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2023)): [Tobacco Dock](https://goo.gl/maps/MfVJ6Exfv7B1NbcL6?coh=178571&entry=tt), Tobacco Quay, Wapping Lane, Wapping, London, E1W 2SF
@@ -48,7 +48,7 @@ Wie:
 - Wir werden möglicherweise Reden halten (wahrscheinlicher) und/oder singen und/oder skandieren (weniger wahrscheinlich)
 - Wir werden möglicherweise auffällige Kostüme tragen
 - Unser Ton wird informativ, inklusiv und humorvoll sein, anstatt konfrontativ und störend
-- Wir zielen darauf ab, bis zu 30 Personen zu dieser ersten Demonstration zu bringen
+- Wir streben an, bis zu 30 Personen zu dieser ersten Demonstration zu bringen
 
 Rechtliches:
 
@@ -76,7 +76,7 @@ Das Problem:
 - Risiko, den Planeten zu zerstören, ist höher als 1% -- [KI-Forscher](https://twitter.com/liron/status/1656929936639430657?s=20)
 - Experten sind besorgt
 - Siehe PauseAI-Zitate von Experten [hier](https://pauseai.info/xrisk)
-- Pausieren Sie das Rennen nach unten
+- Stoppen Sie das Rennen nach unten
 - Was, wenn wir den Stecker nicht ziehen können?
 - Wir haben die Neandertaler ausgerottet; wird KI uns ausrotten?
 - KI, die die Menschheit auslöscht, ist "nicht undenkbar" -- Hinton
@@ -87,7 +87,7 @@ Das Problem:
 
 Die Lösung:
 
-- Pausieren Sie KI
+- Pause KI
 - #pauseAI
 - #justlookup
 - Bauen Sie keine AGI
@@ -117,13 +117,13 @@ Banner
 
 Plakate
 
-- Aufgrund von Zeitmangel und Unsicherheit darüber, was optimale Plakatbotschaften sein werden, plant Alistair derzeit nicht, Plakate in großen Mengen zu drucken
+- Aufgrund von Zeitmangel und Unsicherheit über optimale Plakatbotschaften plant Alistair derzeit nicht, Plakate in großen Mengen zu drucken
 - Jeder ist ermutigt, eigene Plakate zu erstellen und mitzubringen (z.B. mit Karton und einem Sharpie-Stift!)
 - Wenn Sie Plakate drucken möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
 Flyer
 
-- Aufgrund von Unsicherheit darüber, was auf Flyern stehen sollte, plant Alistair derzeit nicht, Flyer zu drucken
+- Aufgrund von Unsicherheit über den Inhalt von Flyern plant Alistair derzeit nicht, Flyer zu drucken
 - Alistair wird eine Ladung FLI-Briefe (und möglicherweise Yudkowsky-Zeit-Artikel) drucken, um sie zu verteilen
 - Wenn Sie dies tun möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
