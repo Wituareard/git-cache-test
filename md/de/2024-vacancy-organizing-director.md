@@ -35,9 +35,9 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 - Ein Generalist mit Führungserfahrung.
 - Erfahrung mit Aktivismus und Community-Building.
 - Hervorragende Kommunikationsfähigkeiten, sowohl mündlich als auch schriftlich.
-- Unterstützt die Idee eines KI-Moratoriums, aber offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien).
+- Unterstützt die Idee eines KI-Pauses, aber offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien).
 - Proaktiv und unternehmerisch.
-- Vorzugsweise mit Sitz in den Niederlanden, aber auch Remote-Arbeit ist möglich.
+- Vorzugsweise mit Sitz in den Niederlanden, aber Remote-Arbeit ist auch möglich.
 - Verständnis für KI-Sicherheit; Expertise ist nicht erforderlich, aber muss ein schneller Lerner sein.
 - Kenntnisse im Bereich Recht/AI-Governance sind ein Plus.
 - Erfahrung mit der Erstellung von Video-Inhalten ist ein Plus.
