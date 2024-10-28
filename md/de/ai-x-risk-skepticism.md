@@ -1,7 +1,9 @@
 
 
-Titel: Entkräftung skeptischer Argumente zu existenziellen Risiken durch künstliche Intelligenz
-Beschreibung: Warum existenzielle Risiken durch künstliche Intelligenz real sind und ernsthafte Aufmerksamkeit verdienen
+---
+title: Entkräftung skeptischer Argumente zu existenziellen Risiken durch künstliche Intelligenz
+description: Warum existenzielle Risiken durch künstliche Intelligenz real sind und ernsthafte Aufmerksamkeit verdienen
+---
 
 _Diese Seite ist eine Zusammenfassung des Artikels [AI Risk Skepticism](https://arxiv.org/ftp/arxiv/papers/2303/2303.03885.pdf) von Ambartsoumean & Yampolskiy._
 
@@ -9,8 +11,8 @@ Für andere häufige Einwände sollten Sie [AISafety.info: Einwände und Antwort
 
 ## Wir haben noch viel Zeit, uns vorzubereiten
 
-- Skeptiker behaupten, der Fortschritt in der künstlichen Intelligenz sei nicht so schnell wie von einigen vorhergesagt, und die Entwicklung einer allgemeinen künstlichen Intelligenz (AGI) sei noch weit entfernt. Sie verweisen auf vergangene Fehlprognosen und die Grenzen aktueller KI-Systeme.
-- Der Fortschritt in der künstlichen Intelligenz war jedoch tatsächlich sehr schnell, mit exponentiell wachsenden Fähigkeiten in vielen Teilgebieten. Auch wenn genaue Vorhersagen schwierig sind, macht der kontinuierliche Fortschritt die Entwicklung leistungsfähiger KI-Systeme unvermeidlich. Selbst wenn dies in der Ferne liegt, benötigt die KI-Sicherheitsforschung ausreichend Zeit.
+- Skeptiker behaupten, der Fortschritt in der künstlichen Intelligenz sei nicht so schnell wie von einigen vorhergesagt, und AGI sei noch weit entfernt. Sie verweisen auf vergangene Fehlprognosen und die Grenzen aktueller KI-Systeme.
+- Der Fortschritt in der künstlichen Intelligenz war jedoch tatsächlich sehr schnell, mit exponentiell wachsenden Fähigkeiten in vielen Teilgebieten. Auch wenn genaue Vorhersagen schwierig sind, macht der kontinuierliche Fortschritt leistungsfähige KI-Systeme unvermeidlich. Selbst wenn sie noch weit entfernt sind, benötigt die KI-Sicherheitsforschung viel Zeit.
 
 ## KI kann keine menschenähnlichen Fähigkeiten haben
 
@@ -25,7 +27,7 @@ Für andere häufige Einwände sollten Sie [AISafety.info: Einwände und Antwort
 ## KI wird keine unkontrollierte Macht haben
 
 - Skeptiker argumentieren, KI-Systeme würden begrenzte Werkzeuge unter menschlicher Kontrolle sein. Sie sehen keinen Weg, wie KI unbegrenzte Intelligenz und Macht erlangen könnte, um die Kontrolle zu übernehmen.
-- Es benötigt nur ein unkontrolliertes KI-System, um potenziell Schaden anzurichten. Die Fähigkeiten von KI werden wahrscheinlich die menschliche Kontrolle weit überschreiten. Die Unterschätzung der Macht des exponentiellen technologischen Fortschritts ist kurzsichtig.
+- Es reicht jedoch ein unkontrolliertes KI-System aus, um potenziell Schaden anzurichten. Die Fähigkeiten von KI werden wahrscheinlich die menschliche Kontrolle weit überschreiten. Die Unterschätzung der Macht des exponentiellen technologischen Fortschritts ist kurzsichtig.
 
 ## KI wird mit menschlichen Werten übereinstimmen
 
@@ -35,8 +37,8 @@ Für andere häufige Einwände sollten Sie [AISafety.info: Einwände und Antwort
 ## Regulierung wird KI-Risiken verhindern
 
 - Skeptiker sagen, regulatorische Aufsicht und ethische Richtlinien würden schädliche KI-Anwendungen einschränken, so dass wir uns keine Sorgen machen müssten.
-- Regulierungspolitik bleibt jedoch oft hinter technologischen Entwicklungen zurück, insbesondere bei exponentiellen Fortschritten. Selbstregulierung in einem wettbewerbsorientierten Umfeld ist ebenfalls unzureichend. Technische KI-Sicherheitsforschung ist nach wie vor entscheidend.
+- Regulatorische Politik bleibt jedoch oft hinter technologischen Entwicklungen zurück, insbesondere bei exponentiellen Fortschritten. Selbstregulierung in einem wettbewerbsorientierten Umfeld ist ebenfalls unzureichend. Technische KI-Sicherheitsforschung ist nach wie vor entscheidend.
 
 ## Schlussfolgerung
 
-Die skeptischen Argumente zeigen im Allgemeinen fehlerhaftes Denken, unterschätzen das exponentielle Tempo und die Unvorhersehbarkeit des KI-Fortschritts und zeigen mangelndes Verständnis für die Schwierigkeiten der Wertübereinstimmung. Angesichts der beteiligten Interessen macht es Sinn, einen vorsichtigen, proaktiven Ansatz für KI-Sicherheit zu verfolgen. Obwohl die Zukunftsaussichten unklar bleiben, scheint es unklug, existenzielle Risiken durch KI völlig abzutun. Eine differenziertere, technische Analyse und Debatte sind erforderlich.
+Die skeptischen Argumente weisen im Allgemeinen fehlerhafte Argumentation auf, unterschätzen das exponentielle Tempo und die Unvorhersehbarkeit des KI-Fortschritts und zeigen kein Verständnis für die Schwierigkeiten der Wertübereinstimmung. Angesichts der beteiligten Interessen macht es Sinn, einen vorsichtigen, proaktiven Ansatz für KI-Sicherheit zu verfolgen. Obwohl die Zukunftsaussichten unklar bleiben, scheint es unklug, existenzielle Risiken durch KI rundweg abzulehnen. Eine differenziertere, technische Analyse und Debatte sind erforderlich.

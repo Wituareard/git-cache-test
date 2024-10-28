@@ -8,7 +8,7 @@ description: Mit Ihrer finanziellen Unterstützung können wir einen größeren 
 Wir haben PauseAI als Gruppe von Freiwilligen gegründet, die in ihrer Freizeit daran arbeiten.
 Seit Februar 2024 ist PauseAI eine [registrierte gemeinnützige Stiftung](/legal).
 Wir haben noch nicht genug Mittel, um Menschen einzustellen, die Vollzeit für PauseAI arbeiten, daher setzen wir uns noch auf freiwilliger Arbeit.
-Mit Ihrer finanziellen Unterstützung können wir professionalisieren und einen größeren Einfluss ausüben.
+Mit Ihrer finanziellen Unterstützung können wir uns professionalisieren und einen größeren Einfluss ausüben.
 
 <div style="display: flex; justify-content: center;" ><a href="https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE"><img src="/PayPal.svg" alt="Jetzt spenden" width="256" /></a></div>
 
@@ -19,14 +19,14 @@ Mit Ihrer finanziellen Unterstützung können wir professionalisieren und einen 
 - **Software**: E-Mail, Website usw.
 - **Kampagnen**: Online-Werbung, Materialien
 - **Rechtliche und finanzielle Angelegenheiten**: Gründung der Stiftung (Notarkosten), Buchhaltung.
-- **Gemeinschaftsprojekte**: unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
+- **Gemeinschaftsprojekte**: Unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
 
 ## Was haben wir bereits erreicht
 
 - 1000+ Menschen, die sich [PauseAI angeschlossen](/join) haben, von denen viele aktiv an verschiedenen Projekten arbeiten
 - 100+ Projekte auf unserem Discord-Server (Websites, Workshops, Videos, Antworten auf Regierungskonsultationen usw.)
 - 15+ [Proteste](/protests) in 7 Ländern organisiert.
-- 30+ [Medienauftritte](/press) in großen Nachrichtenagenturen, Podcasts, Dokumentationen, TV und mehr.
+- 30+ [Medienauftritte](/press) in großen Nachrichtenmagazinen, Podcasts, Dokumentationen, TV und mehr.
 - Viele Treffen mit Politikern und anderen Interessengruppen.
 
 ## Wer finanziert PauseAI
