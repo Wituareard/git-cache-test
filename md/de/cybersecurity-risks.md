@@ -20,7 +20,7 @@ Anstatt ein Team von hochqualifizierten Sicherheitsexperten/Hackern anzuheuern, 
 
 Die neuesten KI-Systeme können bereits Software analysieren und schreiben.
 Sie [können Sicherheitslücken finden](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411) in Software und [sie könnten genutzt werden, um sie auszunutzen](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/).
-GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), indem es Aufgaben wie die Extraktion von Datenbank-Schemas und SQL-Injektionen ohne menschliches Feedback durchführt, was 18 Monate nach Abschluss des Trainings von GPT-4 entdeckt wurde.
+GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), indem es Aufgaben wie die Extraktion von Datenbank-Schemas und SQL-Injektionen ohne menschliches Feedback durchführt, was 18 Monate nach Abschluss der GPT-4-Trainingsphase entdeckt wurde.
 GPT-4 übertrifft bereits [88%](https://arxiv.org/pdf/2402.11814.pdf) der menschlichen Hacker in einem CTF-Wettbewerb.
 Es kann auch [autonom 87% der getesteten Sicherheitslücken ausnutzen](https://arxiv.org/abs/2404.08144), was einen enormen Fortschritt gegenüber GPT-3.5 oder Open-Source-Modellen darstellt, die alle 0% erreichten.
 Teams aus mehreren LLMs [funktionieren noch besser](https://arxiv.org/abs/2406.01637) - sie können reale Zero-Day-Sicherheitslücken ausnutzen.
@@ -46,7 +46,7 @@ Es ist möglich, dass eine solche leistungsfähige KI genutzt wird, um einen Vir
 Die meisten Cyberwaffen nutzen
 Eine ausreichend leistungsfähige KI könnte den Quellcode aller Betriebssysteme und anderer Software analysieren und Sicherheitslücken finden.
 Ein solcher Virus könnte jeden Computer infizieren, unabhängig vom Betriebssystem, über mehrere Kanäle wie Wi-Fi, Bluetooth, UTP usw.
-Dies könnte volle Kontrolle über diese Maschinen geben und dem Kontrolleur ermöglichen, Daten zu stehlen, die Hardware für eigene Berechnungen zu nutzen, den Inhalt zu verschlüsseln, um Lösegeld zu erpressen, oder [die Maschine vollständig zu deaktivieren](https://en.wikipedia.org/wiki/Hardware_Trojan).
+Dies könnte volle Kontrolle über diese Maschinen geben und dem Kontrolleur ermöglichen, Daten zu stehlen, die Hardware für eigene Berechnungen zu nutzen, den Inhalt für Lösegeld zu verschlüsseln oder [die Maschine vollständig zu deaktivieren](https://en.wikipedia.org/wiki/Hardware_Trojan).
 
 Ein Virus wie dieser könnte als Werkzeug von Kriminellen erstellt werden, um Geld zu stehlen, oder als sehr zerstörerische Cyberwaffe von einer Nation oder terroristischen Organisation.
 Wenn jedoch KI immer agenter wird, könnte sie auch autonom erstellt und eingesetzt werden von [fehlgeleiteter KI](/xrisk).
@@ -65,12 +65,12 @@ Die oben beschriebene Geschichte kann nur passieren, wenn:
 1. Die **Fähigkeit, Zero-Day-Exploits zu finden**, entsteht. Aktuelle Modelle können bereits einige Sicherheitslücken entdecken, aber dies wird wahrscheinlich mit neueren Modellen verbessert.
 2. Das **Modell in die Hände von böswilligen Akteuren gerät**. Dies kann passieren, wenn die Modellgewichte geleakt werden, wenn das Modell Open-Source ist oder wenn es von einem böswilligen Akteur entwickelt wird.
 3. Die **Sicherheitslücken nicht gepatcht werden**, bevor ein solches Cyberwaffen eingesetzt wird. Leider sind die Verteidiger im Nachteil, wenn das Modell weit verbreitet ist, aus zwei Gründen:
-   1. Patchen + Veröffentlichen + Deployen dauert viel länger als angreifen. Das Fenster der Verwundbarkeit ist größer als die Zeit, die benötigt wird, um den Angriff zu starten.
+   1. Patchen + Veröffentlichen + Deployen dauert viel länger als angreifen. Das Fenster der Verwundbarkeit ist größer als die Zeit, die benötigt wird, um den Angriff zu erstellen.
    2. Die Angreifer müssen nur eine Sicherheitslücke finden, während die Verteidiger alle finden müssen.
 
 Es gibt verschiedene Maßnahmen, die wir ergreifen können, um dies zu bekämpfen:
 
 - **Erlauben Sie nicht die Schulung von Modellen, die Zero-Day-Exploits finden können**. Dies ist der effektivste Weg, um dies zu verhindern. Es ist der sicherste Weg, und es ist das, was wir [vorschlagen](/proposal).
-- **Erlauben Sie nur die Veröffentlichung oder Open-Sourcing von Modellen nach umfassenden Tests**. Wenn sie gefährliche Fähigkeiten haben, veröffentlichen Sie sie nicht.
+- **Erlauben Sie nur die Veröffentlichung von Modellen nach umfangreichen Tests**. Wenn sie gefährliche Fähigkeiten haben, veröffentlichen Sie sie nicht.
 - **Erlassen Sie strenge Cybersicherheitsvorschriften, um zu verhindern, dass Modellgewichte geleakt werden**. Wenn Sie gefährliche Modelle zulassen, stellen Sie sicher, dass sie nicht in die falschen Hände geraten.
 - **Verlangen Sie von KI-Unternehmen, die KI zu nutzen, um Sicherheitslücken zu beheben**. Wenn ein Modell trainiert wird, das neue Sicherheitslücken finden kann, nutzen Sie dies, um Software-Entwickler zu kontaktieren, um diese Sicherheitslücken zu patchen. Geben Sie dem Patch-Prozess genügend Zeit, bevor das Modell veröffentlicht wird. Stellen Sie sicher, dass die Gewichte nicht geleakt werden, und schützen Sie das Modell, als ob es der Startcode für einen nuklearen Angriff wäre. Wenn dies ordnungsgemäß durchgeführt wird, kann KI die Cybersicherheit überall dramatisch verbessern.
