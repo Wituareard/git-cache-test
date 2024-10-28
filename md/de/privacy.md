@@ -39,7 +39,7 @@ Wir verkaufen, handeln oder übertragen Ihre personenbezogenen Daten nicht an Dr
 - Wir können Ihre Daten mit Drittanbietern wie Airtable und Google Analytics teilen, um uns bei der Betreibung unserer Website und der Durchführung unserer Aktivitäten zu unterstützen.
 
 ### b. Gesetzliche Anforderungen
-- Wir können Ihre Daten offenlegen, wenn wir gesetzlich dazu verpflichtet sind oder aufgrund von Anfragen von öffentlichen Behörden.
+- Wir können Ihre Daten offenlegen, wenn wir dazu gesetzlich verpflichtet sind oder aufgrund von Anfragen von öffentlichen Behörden.
 
 ## 5. Datensicherheit
 
@@ -49,15 +49,15 @@ Wir setzen eine Vielzahl von Sicherheitsmaßnahmen ein, um die Sicherheit Ihrer 
 
 Sie haben das Recht, auf Ihre personenbezogenen Daten zuzugreifen, sie zu korrigieren oder zu löschen. Wenn Sie diese Rechte ausüben möchten oder Fragen zu unseren Datenschutzpraktiken haben, kontaktieren Sie uns bitte unter [E-Mail-Adresse einfügen].
 
-## 7. Änderungen an dieser Datenschutzbestimmung
+## 7. Änderungen an diesen Datenschutzbestimmungen
 
 Wir können diese Datenschutzbestimmungen von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite mit einem aktualisierten Gültigkeitsdatum veröffentlicht.
 
 ## 8. Kontakt
 
-Wenn Sie Fragen oder Bedenken zu dieser Datenschutzbestimmung haben, kontaktieren Sie uns bitte unter:
+Wenn Sie Fragen oder Bedenken zu diesen Datenschutzbestimmungen haben, kontaktieren Sie uns bitte unter:
 
 **Stichting PauseAI**
 [joep@pauseai.info](mailto:joep@pauseai.info)
 
-Durch die Nutzung unserer Website und Dienste stimmen Sie den Bedingungen dieser Datenschutzbestimmung zu.
+Durch die Nutzung unserer Website und Dienste stimmen Sie den Bedingungen dieser Datenschutzbestimmungen zu.
