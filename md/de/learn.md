@@ -1,7 +1,7 @@
 
 
 ---
-title: Erfahren Sie, warum KI-Sicherheit wichtig ist
+title: Warum KI-Sicherheit wichtig ist
 description: Bildungsressourcen (Videos, Artikel, Bücher) über KI-Risiken und KI-Alignment
 ---
 
@@ -32,9 +32,9 @@ Hier sind einige Ressourcen, um loszulegen.
 - [Max Tegmark | Ted Talk (2023)](https://www.youtube.com/watch?v=xUNx_PxNHrY) (15 Minuten). KI-Fähigkeiten verbessern sich schneller als erwartet.
 - [Tristan Harris | Nobelpreis-Gipfel 2023](https://www.youtube.com/watch?v=6lVBp2XjWsg) (15 Minuten). Vortrag darüber, warum wir unsere "paleolithischen Gehirne akzeptieren, unsere mittelalterlichen Institutionen aufwerten und die göttliche Technologie binden" müssen.
 - [Sam Harris | Können wir KI bauen, ohne die Kontrolle darüber zu verlieren?](https://www.youtube.com/watch?v=8nt3edWLgIg) (15 Minuten). Ted-Talk über die verrückte Situation, in der wir uns befinden.
-- [Ilya: Der KI-Wissenschaftler, der die Welt prägt](https://youtu.be/9iqn1HhFJ6c?si=WnzvpdsPtgCvqAZg) (12 Minuten). Mitbegründer und ehemaliger Chef-Wissenschaftler bei OpenAI erklärt, wie AGI die Kontrolle über alles übernehmen wird und warum wir sie lehren müssen, sich um Menschen zu kümmern.
-- [Die Gefahren von künstlicher Intelligenz erkunden](https://www.youtube.com/watch?v=sPyu_dTSma0&t=1328s) (25 Minuten). Zusammenfassung von Cybersicherheits-, Biohazard- und Macht-suchenden KI-Risiken.
-- [Warum dieser Top-KI-Guru denkt, dass wir in Schwierigkeiten auf Artniveau stecken könnten | The InnerView](https://youtu.be/YZjmZFDx-pA?si=Y7QUxTaJcuC6LVji) (26 Minuten). Interview mit Connor Leahy über KI-X-Risiken im Fernsehen.
+- [Ilya: Der KI-Wissenschaftler, der die Welt gestaltet](https://youtu.be/9iqn1HhFJ6c?si=WnzvpdsPtgCvqAZg) (12 Minuten). Mitbegründer und ehemaliger Chef-Wissenschaftler bei OpenAI erklärt, wie AGI die Kontrolle über alles übernehmen wird und warum wir sie lehren müssen, sich um Menschen zu kümmern.
+- [Die Gefahren von künstlicher Intelligenz erkunden](https://www.youtube.com/watch?v=sPyu_dTSma0&t=1328s) (25 Minuten). Zusammenfassung der Risiken von Cybersicherheit, Biohazard und Macht suchender KI.
+- [Warum dieser Top-KI-Guru denkt, dass wir in Schwierigkeiten stecken könnten | The InnerView](https://youtu.be/YZjmZFDx-pA?si=Y7QUxTaJcuC6LVji) (26 Minuten). Interview mit Connor Leahy über KI-X-Risiken im Fernsehen.
 - [Das KI-Dilemma](https://www.youtube.com/watch?v=xoVJKj8lcNQ&t=1903s) (1 Stunde). Präsentation über die Gefahren von KI und das Rennen, in dem KI-Unternehmen stecken.
 - [Robert Miles' YouTube-Videos](https://www.youtube.com/watch?v=tlS5Y2vm02c&list=PLfHsskCxi_g-c62a_dmsNuHynaXsRQm40) sind ein großartiger Ort, um die meisten Grundlagen von KI-Alignment zu verstehen.
 
@@ -42,12 +42,12 @@ Hier sind einige Ressourcen, um loszulegen.
 
 - [Future of Life Institute | Connor Leahy über KI-Sicherheit und warum die Welt fragil ist](https://youtu.be/cSL3Zau1X8g?si=0X3EKoxZ80_HN9Rl&t=1803). Interview mit Connor über die KI-Sicherheitsstrategien.
 - [Lex Fridman | Max Tegmark: Der Fall für die Einstellung der KI-Entwicklung](https://youtu.be/VcVfceTsD0A?t=1547). Interview, das in die Details unserer aktuellen gefährlichen Situation eintaucht.
-- [Sam Harris | Eliezer Yudkowsky: KI, Racing Toward the Brink](https://samharris.org/episode/SE60B0CF4B8). Gespräch über die Natur der Intelligenz, verschiedene Arten von KI, das Alignment-Problem, Ist vs. Soll und vieles mehr. Eine von vielen Episoden, die Making Sense über KI-Sicherheit hat.
-- [Connor Leahy, KI-Feueralarm](https://youtu.be/pGjyiqJZPJo?t=2510). Vortrag über die Intelligenzexplosion und warum sie das wichtigste Ereignis wäre, das jemals passieren könnte.
+- [Sam Harris | Eliezer Yudkowsky: KI, Rennen an den Abgrund](https://samharris.org/episode/SE60B0CF4B8). Gespräch über die Natur der Intelligenz, verschiedene Arten von KI, das Alignment-Problem, Ist vs. Soll und vieles mehr. Eine von vielen Episoden, die Making Sense über KI-Sicherheit hat.
+- [Connor Leahy, KI-Feueralarm](https://youtu.be/pGjyiqJZPJo?t=2510). Vortrag über die Intelligenzexplosion und warum es das wichtigste Ereignis wäre, das jemals passieren könnte.
 - [Die empfohlenen Episoden des 80.000-Stunden-Podcasts über KI](https://80000hours.org/podcast/on-artificial-intelligence/). Nicht 80.000 Stunden lang, sondern eine Zusammenstellung von Episoden des 80.000-Stunden-Podcasts über KI-Sicherheit.
 - [Episoden des Future of Life Institute-Podcasts über KI](https://futureoflife.org/podcast/?_category_browser=ai). Alle Episoden des FLI-Podcasts über die Zukunft der künstlichen Intelligenz.
 
-Podcasts mit PauseAI-Mitgliedern finden Sie in der [Medienberichterstattung](/press)-Liste.
+Podcasts mit PauseAI-Mitgliedern finden Sie in der [Medienberichterstattung](/press).
 
 ## Artikel {#articles}
 
@@ -56,7 +56,7 @@ Podcasts mit PauseAI-Mitgliedern finden Sie in der [Medienberichterstattung](/pr
 - [Der Fall für die Verlangsamung von KI](https://www.vox.com/the-highlight/23621198/artificial-intelligence-chatgpt-openai-existential-risk-china-ai-safety-technology) (von Sigal Samuel)
 - [Die KI-Revolution: Der Weg zur Superintelligenz](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (von WaitButWhy)
 - [Wie sich bösartige KIs entwickeln könnten](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/) (von Yoshua Bengio)
-<!-- - [Eine lockere Einführung in KI-Doom und -Alignment](https://carado.moe/ai-doom.html)
+<!-- - [Eine lockere Einführung in KI-Untergang und -Alignment](https://carado.moe/ai-doom.html)
 Ich mag es und die Tatsache, dass es eine leichtere Lektüre ist, aber ich bin nicht sicher, ob ich es einfügen möchte, da es Alignment als rein technische Angelegenheit definiert und die Leute auffordert, nur technische Arbeit zu leisten -->
 - [Argumente gegen die Ernstnahme von KI-Sicherheit durchdenken](https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/) (von Yoshua Bengio)
 
