@@ -1,7 +1,9 @@
 
 
-FAQ
-Häufig gestellte Fragen zu PauseAI und den Risiken von superintelligenter KI.
+---
+title: Häufig gestellte Fragen
+description: Häufig gestellte Fragen über PauseAI und die Risiken von superintelligenter KI.
+---
 
 <script>
     import SimpleToc from '$lib/components/simple-toc/SimpleToc.svelte'
@@ -17,18 +19,18 @@ Häufig gestellte Fragen zu PauseAI und den Risiken von superintelligenter KI.
 
 ## Wer sind Sie?
 
-Wir sind eine Gemeinschaft von [Freiwilligen](/people) und [lokale Gemeinschaften](/communities), die von einer [gemeinnützigen Organisation](/legal) koordiniert wird, um die [Risiken von KI](/risks) (einschließlich des [Risikos des menschlichen Aussterbens](/xrisk)) zu mindern.
-Unser Ziel ist es, unsere Regierungen davon zu überzeugen, einzugreifen und die [Entwicklung von übermenschlicher KI](/proposal) zu stoppen.
+Wir sind eine Gemeinschaft von [Freiwilligen](/people) und [lokale Gemeinschaften](/communities), die von einer [gemeinnützigen Organisation](/legal) koordiniert wird, um die [Risiken von KI](/risks) (einschließlich des [Risikos des menschlichen Aussterbens](/xrisk)) zu mildern.
+Wir möchten unsere Regierungen davon überzeugen, einzugreifen und [die Entwicklung von übermenschlicher KI zu pausieren](/proposal).
 Wir tun dies, indem wir die Öffentlichkeit informieren, mit Entscheidungsträgern sprechen und Proteste organisieren.
 
-Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai), [Telegram](https://t.me/+UeTsIsNkmt82ZmQ8), [Whatsapp](https://chat.whatsapp.com/JgcAbjqRr8X3tvrXdeQvfj) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
+Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier passiert die meiste Koordination!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai), [Telegram](https://t.me/+UeTsIsNkmt82ZmQ8), [Whatsapp](https://chat.whatsapp.com/JgcAbjqRr8X3tvrXdeQvfj) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
 Sie können uns auch per E-Mail kontaktieren: [joep@pauseai.info](mailto:joep@pauseai.info).
 
 ## Haben Sie nicht einfach Angst vor Veränderungen und neuer Technologie?
 
 Sie könnten überrascht sein, dass die meisten Menschen bei PauseAI sich selbst als Techno-Optimisten betrachten.
-Viele von ihnen sind in die KI-Entwicklung involviert, sind Gadget-Liebhaber und waren bisher sehr aufgeregt über die Zukunft.
-Insbesondere viele von ihnen waren aufgeregt über das Potenzial von KI, um die Menschheit zu helfen.
+Viele von ihnen sind in die KI-Entwicklung involviert, sind Gadget-Liebhaber und waren sehr aufgeregt über die Zukunft.
+Insbesondere viele von ihnen waren aufgeregt über das Potenzial von KI, um der Menschheit zu helfen.
 Deshalb war für viele von ihnen die traurige Erkenntnis, dass KI ein existenzielles Risiko darstellen könnte, eine sehr [schwierige zu internalisieren](/psychology-of-x-risk).
 
 ## Wollen Sie alle KI verbieten?
@@ -43,31 +45,31 @@ Nein, wir denken nicht, dass [aktuelle KI-Modelle](/sota) eine existenzielle Bed
 Es scheint wahrscheinlich, dass die meisten nächsten KI-Modelle auch keine sein werden.
 Aber wenn wir weiterhin immer leistungsfähigere KI-Systeme bauen, werden wir schließlich einen Punkt erreichen, an dem eines eine [existenzielle Bedrohung](/xrisk) darstellen wird.
 
-## Kann ein Pause zurückfeuern und die Dinge schlimmer machen?
+## Kann eine Pause nach hinten losgehen und die Dinge verschlimmern?
 
 Wir haben diese Bedenken in [diesem Artikel](/mitigating-pause-failures) angesprochen.
 
-## Ist ein Pause überhaupt möglich?
+## Ist eine Pause überhaupt möglich?
 
 AGI ist nicht unvermeidlich.
 Es erfordert Horden von Ingenieuren mit Millionen-Dollar-Gehältern.
 Es erfordert eine voll funktionsfähige und unbeschränkte Lieferkette der komplexesten Hardware.
 Es erfordert, dass wir alle es diesen Unternehmen erlauben, mit unserer Zukunft zu spielen.
 
-[Lesen Sie mehr über die Machbarkeit eines Pause](/feasibility).
+[Lesen Sie mehr über die Machbarkeit einer Pause](/feasibility).
 
 ## Wer zahlt Ihnen?
 
-Praktisch alle unsere Aktionen bisher wurden von Freiwilligen durchgeführt.
+Virtuell alle unsere Aktionen bisher wurden von Freiwilligen durchgeführt.
 Seit Februar 2024 ist PauseAI jedoch eine [registrierte gemeinnützige Stiftung](/legal), und wir haben mehrere Spenden von Einzelpersonen erhalten.
 Wir haben auch 20.000 Dollar Förderung vom LightSpeed-Netzwerk erhalten.
 
 Sie können auch [spenden](/donate) an PauseAI, wenn Sie unsere Sache unterstützen!
-Wir verwenden das meiste Geld, um lokale Gemeinschaften in die Lage zu versetzen, Veranstaltungen zu organisieren.
+Wir verwenden das meiste Geld, um lokalen Gemeinschaften die Organisation von Veranstaltungen zu ermöglichen.
 
 ## Was sind Ihre Pläne?
 
-Fokus auf [die Bewegung zu vergrößern](/growth-strategy), Proteste zu organisieren, Lobbyarbeit bei Politikern und die Öffentlichkeit zu informieren.
+Fokus auf [das Wachstum der Bewegung](/growth-strategy), Organisation von Protesten, Lobbyarbeit bei Politikern und Information der Öffentlichkeit.
 
 Überprüfen Sie unsere [Roadmap](/roadmap) für eine detaillierte Übersicht über unsere Pläne und was wir mit mehr Förderung tun könnten.
 
@@ -78,11 +80,11 @@ Fokus auf [die Bewegung zu vergrößern](/growth-strategy), Proteste zu organisi
 ## Warum protestieren Sie?
 
 - Protestieren zeigt der Welt, dass wir uns um diese Angelegenheit kümmern. Indem wir protestieren, zeigen wir, dass wir bereit sind, unsere Zeit und Energie zu investieren, um die Menschen zum Zuhören zu bringen.
-- Proteste können und werden oft [positiv beeinflussen](https://www.socialchangelab.org/_files/ugd/503ba4_052959e2ee8d4924934b7efe3916981e.pdf) die öffentliche Meinung, das Wahlverhalten, das Verhalten von Unternehmen und die Politik.
-- Die meisten Menschen unterstützen [friedliche/nicht-gewalttätige Proteste](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america)
-- Es gibt [keinen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [es sei denn, der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und nicht-gewalttätig.
+- Proteste können und werden oft [die öffentliche Meinung, das Wahlverhalten, das Verhalten von Unternehmen und die Politik positiv beeinflussen](https://www.socialchangelab.org/_files/ugd/503ba4_052959e2ee8d4924934b7efe3916981e.pdf).
+- Die meisten Menschen unterstützen [friedliche/nicht-gewalttätige Proteste](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america).
+- Es gibt [keinen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [außer der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und nicht-gewalttätig.
 - Es ist eine soziale Bindungserfahrung. Sie treffen andere Menschen, die Ihre Bedenken und Ihre Bereitschaft, Maßnahmen zu ergreifen, teilen.
-- Überprüfen Sie [diesen großartigen Artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) für weitere Einblicke in die Wirksamkeit von Protesten
+- Überprüfen Sie [diesen großartigen Artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) für weitere Einblicke in die Wirksamkeit von Protesten.
 
 Wenn Sie einen [Protest organisieren](/organizing-a-protest) möchten, können wir Ihnen mit Ratschlägen und Ressourcen helfen.
 
@@ -112,12 +114,12 @@ Wir sollten so handeln, als hätten wir sehr wenig Zeit, weil wir nicht überras
 
 [Lesen Sie mehr über die Dringlichkeit](/urgency).
 
-## Wenn wir Pause einlegen, was ist mit China?
+## Wenn wir pausieren, was ist mit China?
 
 Zunächst hat China strengere KI-Regulierungen als fast jedes andere Land.
 Sie [erlaubten nicht einmal Chatbots](https://www.reuters.com/technology/chinas-slow-ai-roll-out-points-its-tech-sectors-new-regulatory-reality-2023-07-12/) und [verboten das Training auf Internet-Daten](https://cointelegraph.com/news/china-sets-stricter-rules-training-generative-ai-models) bis [September 2023](https://asia.nikkei.com/Business/Technology/China-approves-AI-chatbot-releases-but-will-it-unleash-innovation).
 China hat eine kontrollierendere Regierung und hat daher noch mehr Grund, die unkontrollierbaren und unvorhersehbaren Auswirkungen von KI zu fürchten.
-Während des UNSC-Treffens zu KI-Sicherheit war China das einzige Land, das die Möglichkeit erwähnte, eine Pause einzulegen.
+Während des UNSC-Treffens zu KI-Sicherheit war China das einzige Land, das die Möglichkeit erwähnte, eine Pause umzusetzen.
 
 Beachten Sie auch, dass wir in erster Linie eine _internationale_ Pause fordern, die durch einen Vertrag durchgesetzt wird.
 Ein solcher Vertrag muss auch von China unterzeichnet werden.
@@ -134,7 +136,7 @@ Ihre Strategie ist jedoch ziemlich explizit: Eine Pause ist unmöglich, wir müs
 Das Problem damit ist jedoch, dass sie [nicht glauben, dass sie das Alignment-Problem gelöst haben](https://youtu.be/L_Guz73e6fw?t=1478).
 Die KI-Unternehmen sind in einem Wettlauf nach unten gefangen, bei dem die KI-Sicherheit für einen Wettbewerbsvorteil geopfert wird.
 Dies ist einfach das Ergebnis von Marktdynamiken.
-Wir brauchen Regierungen, die eingreifen und Politiken (auf internationaler Ebene) umsetzen, die [die schlimmsten Ergebnisse verhindern](/proposal).
+Wir brauchen Regierungen, die eingreifen und Politiken umsetzen (auf internationaler Ebene), die [die schlimmsten Ergebnisse verhindern](/proposal).
 
 ## Drängen KI-Unternehmen die existenzielle Risiko-Erzählung, um uns zu manipulieren?
 
@@ -164,9 +166,9 @@ Im Mai 2023 änderte sich alles:
 Diese Unternehmen waren sehr langsam darin, das existenzielle Risiko anzuerkennen, wenn man bedenkt, dass viele ihrer Mitarbeiter sich dessen seit Jahren bewusst sind.
 Also sehen wir es so, dass die KI-Unternehmen die existenzielle Risiko-Erzählung nicht vorantreiben, sondern reagieren, wenn andere sie vorantreiben, und mit ihrer Reaktion warten, bis es absolut notwendig ist.
 
-Die Geschäftsanreize deuten in die andere Richtung: Unternehmen würden lieber nicht, dass die Menschen sich Sorgen über die Risiken ihrer Produkte machen.
-Fast alle Unternehmen bagatellisieren Risiken, um Kunden und Investitionen anzuziehen, anstatt sie zu übertreiben.
-Wie viel strenge Regulierung und negative Aufmerksamkeit laden sich die Unternehmen durch das Eingeständnis dieser Gefahren ein?
+Die Geschäftsanreize weisen in die andere Richtung: Unternehmen würden lieber nicht, dass die Menschen sich Sorgen über die Risiken ihrer Produkte machen.
+Virtuell alle Unternehmen bagatellisieren Risiken, um Kunden und Investitionen anzuziehen, anstatt sie zu übertreiben.
+Wie viel strenge Regulierung und negative Aufmerksamkeit laden sich die Unternehmen durch das Eingeständnis dieser Gefahren auf?
 Und würde ein Unternehmen wie OpenAI [20% seiner Rechenressourcen](https://openai.com/blog/introducing-superalignment) für KI-Sicherheit aufwenden, wenn es nicht an die Risiken glauben würde?
 
 Hier ist unsere Interpretation: Die KI-Unternehmen unterzeichneten die Erklärung, weil _sie wissen, dass das existenzielle Risiko ein Problem ist, das sehr ernst genommen werden muss_.
@@ -179,9 +181,9 @@ Weil die Anerkennung, dass _wir tatsächlich in Gefahr sind_, eine sehr, sehr be
 ## Okay, ich will helfen! Was kann ich tun?
 
 Es gibt viele [Dinge, die Sie tun können](/action).
-Sie können auf eigene Faust einen [Brief](/writing-a-letter) schreiben, [Flyer](/flyering) verteilen, [lernen](/learn) und andere informieren, sich einem [Protest](/protests) anschließen oder [spenden](/donate).
+Sie können auf eigene Faust einen [Brief schreiben](/writing-a-letter), [Flyer verteilen](/flyering), [lernen](/learn) und andere informieren, sich einem [Protest anschließen](/protests) oder [Geld spenden](/donate)!
 Aber noch wichtiger: Sie können [PauseAI beitreten](/join) und sich mit anderen koordinieren, die Maßnahmen ergreifen.
 Überprüfen Sie, ob es [lokale Gemeinschaften](/communities) in Ihrer Nähe gibt.
-Wenn Sie mehr beitragen möchten, können Sie ein Freiwilliger werden und sich einem unserer [Teams](/teams) anschließen oder [eine lokale Gemeinschaft gründen](/local-organizing).
+Wenn Sie mehr beitragen möchten, können Sie ein Freiwilliger werden und sich einem unserer [Teams anschließen](/teams) oder [eine lokale Gemeinschaft gründen](/local-organizing)!
 
 Selbst wenn wir dem Ende der Welt gegenüberstehen, kann es immer noch Hoffnung und sehr lohnende Arbeit geben.
