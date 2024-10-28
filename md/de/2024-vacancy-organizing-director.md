@@ -5,28 +5,28 @@ title: Stelle als Organisationsleiter bei PauseAI Global
 description: PauseAI sucht einen Organisationsleiter, um die Organisation zu unterstützen und lokale Gruppen zu koordinieren.
 ---
 
-Möchten Sie einen Unterschied machen und an dem wichtigsten Thema der Welt arbeiten?
+Möchten Sie einen Einfluss ausüben und an dem wichtigsten Thema der Welt arbeiten?
 
 ## Über PauseAI
 
 PauseAI ist eine junge, internationale gemeinnützige Organisation mit dem Ziel, die Entwicklung von künstlicher Intelligenz (KI) zu verhindern, die (viel) intelligenter ist als die Menschheit.
-Eine überwältigende Mehrheit von [86 % der KI-Forscher](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) glaubt, dass wir, wenn wir diesen Punkt erreichen, die Kontrolle verlieren könnten.
-Die [drei größten KI-Forscher](https://twitter.com/PauseAI/status/1734641804245455017) warnen uns seit Langem: Dies könnte das Ende der Menschheit bedeuten.
+Eine überwältigende Mehrheit von 86 % der KI-Wissenschaftler glaubt, dass wir, wenn wir diesen Punkt erreichen, die Kontrolle verlieren könnten.
+Die drei größten KI-Wissenschaftler warnen uns seit Langem: dies könnte das Ende der Menschheit bedeuten.
 
-PauseAI wurde im April 2023 gegründet und ist seitdem auf 2000 Mitglieder, über 100 [registrierte Freiwillige](/people) und Dutzende von [lokalen Gruppen](/communities) auf der ganzen Welt angewachsen.
+PauseAI wurde im April 2023 gegründet und ist seitdem auf 2000 Mitglieder, über 100 registrierte Freiwillige und Dutzende von lokalen Gruppen auf der ganzen Welt angewachsen.
 
 ## Ihre Rolle
 
-Obwohl [viele Freiwillige](/people) zu PauseAI beitragen (einige sogar Vollzeit), hat PauseAI derzeit keine bezahlten Mitarbeiter.
+Obwohl viele Freiwillige zu PauseAI beitragen (einige sogar Vollzeit), hat PauseAI derzeit keine bezahlten Mitarbeiter.
 Sie werden die erste Einstellung sein und eine entscheidende Rolle bei der Entwicklung und dem Wachstum der Organisation spielen.
 Sie werden eng mit dem Gründer, Joep Meindertsma, zusammenarbeiten.
 Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, sowohl in Bezug auf Mitglieder als auch auf Finanzierung.
 
 ### Aufgaben und Verantwortlichkeiten
 
-- Kontaktpflege und Koordination von verschiedenen Freiwilligen und [Teams](/teams) innerhalb von PauseAI.
-- Coaching und Unterstützung von Teams und Leitern von [lokalen](/communities) und [nationalen Gruppen](/national-groups).
-- Entwicklung und Implementierung einer [organisatorischen Struktur](/organization) und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
+- Kontaktpflege und Koordination von verschiedenen Freiwilligen und Teams innerhalb von PauseAI.
+- Coaching und Unterstützung von Teams und Leitern lokaler und nationaler Gruppen.
+- Entwicklung und Implementierung einer Organisationsstruktur und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
 - Entwicklung und Verwaltung von Materialien für lokale und nationale PauseAI-Gruppen.
 - Erstellung von Social-Media-Inhalten (Text, Video), um Mitglieder zu informieren, zu motivieren und zu inspirieren.
 
@@ -35,10 +35,10 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 - Ein Generalist mit Führungserfahrung.
 - Erfahrung mit Aktivismus und Community-Building.
 - Hervorragende Kommunikationsfähigkeiten, sowohl mündlich als auch schriftlich.
-- Unterstützung der Idee eines KI-Moratoriums, aber offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien).
+- Unterstützt die Idee eines KI-Moratoriums, aber offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien).
 - Proaktiv und unternehmerisch.
-- Vorzugsweise mit Sitz in den Niederlanden, aber Remote-Arbeit ist auch möglich.
-- Verständnis für KI-Sicherheit; Expertise ist nicht erforderlich, aber schnelles Lernen ist ein Muss.
+- Vorzugsweise mit Sitz in den Niederlanden, aber auch Remote-Arbeit ist möglich.
+- Verständnis für KI-Sicherheit; Expertise ist nicht erforderlich, aber muss ein schneller Lerner sein.
 - Kenntnisse im Bereich Recht/AI-Governance sind ein Plus.
 - Erfahrung mit der Erstellung von Video-Inhalten ist ein Plus.
 - Lobbying-Erfahrung ist ein Plus.
