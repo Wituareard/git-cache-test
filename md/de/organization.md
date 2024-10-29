@@ -28,7 +28,7 @@ Willkommen bei PauseAI!
 - Die PauseAI-Grundlagen: [FAQ](/faq), unser [Vorschlag](/proposal), [Risiken](/risks), [X-Risiko](/xrisk), [Dringlichkeit](/urgency), [Gefährliche Fähigkeiten](/dangerous-capabilities), [Milderung von Pause-Fehlern](/mitigating-pause-failures)
 - [Flyer verteilen](/flyering): Wie man effektiv Flyer verteilt
 - [Gegenargumente](/counterarguments)
-- [Organisation einer Protestaktion](/organizing-a-protest)
+- [Organisation einer Demonstration](/organizing-a-protest)
 - [Lernen Sie mehr über AI-Sicherheit](/learn)
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
@@ -60,7 +60,7 @@ Willkommen bei PauseAI!
 
 ## Social Media {#social-media}
 
-Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier passiert die meiste Koordination!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
+Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
 Sie können uns kontaktieren unter [joep@pauseai.info](mailto:joep@pauseai.info).
 
 ## Design-Ressourcen (Flyer, Poster, Logo) {#design-resources-flyers-posters-logo}
