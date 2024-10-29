@@ -17,7 +17,7 @@ description: Treffen, Workshops, Proteste und mehr!
   tabindex="0"
 ></iframe>
 
-## Eine Veranstaltung erstellen {#create-an-event}
+## Veranstaltung erstellen {#create-an-event}
 
 Wenn Sie eine Veranstaltung organisieren möchten, erstellen Sie bitte eine Veranstaltung auf [lu.ma](https://lu.ma/create) und klicken Sie auf den Button "Veranstaltung einreichen" auf [unserer Kalenderseite](https://lu.ma/PauseAI).
 
