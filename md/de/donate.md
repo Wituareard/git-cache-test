@@ -1,25 +1,25 @@
 
 
 ---
-title: Spenden Sie an PauseAI
+title: Spende an PauseAI
 description: Mit Ihrer finanziellen Unterstützung können wir einen größeren Einfluss ausüben.
 ---
 
 Wir haben PauseAI als Gruppe von Freiwilligen gegründet, die in ihrer Freizeit daran arbeiten.
 Seit Februar 2024 ist PauseAI eine [registrierte gemeinnützige Stiftung](/legal).
-Wir haben noch nicht genug Mittel, um Menschen einzustellen, die Vollzeit für PauseAI arbeiten, daher arbeiten wir weiterhin auf ehrenamtlicher Basis.
-Mit Ihrer finanziellen Unterstützung können wir uns professionalisieren und einen größeren Einfluss ausüben.
+Wir haben noch nicht genug Mittel, um Menschen einzustellen, die Vollzeit für PauseAI arbeiten, daher sind wir weiterhin auf ehrenamtliche Arbeit angewiesen.
+Mit Ihrer finanziellen Unterstützung können wir professionalisieren und einen größeren Einfluss ausüben.
 
 <div style="display: flex; justify-content: center;" ><a href="https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE"><img src="/PayPal.svg" alt="Jetzt spenden" width="256" /></a></div>
 
 ## Wie wir Ihre Spenden verwenden {#how-we-use-your-donations}
 
 - **Menschen**: Aufbau einer stärkeren Gemeinschaft, Arbeit an Projekten, Organisation von Protesten, Verbesserung der Website usw.
-- **Veranstaltungen**: Anmietung eines Ortes, Catering, Reisekosten.
+- **Veranstaltungen**: Anmietung eines Veranstaltungsortes, Catering, Reisekosten.
 - **Software**: E-Mail, Website usw.
 - **Kampagnen**: Online-Werbung, Materialien
 - **Rechtliche und finanzielle Angelegenheiten**: Gründung der Stiftung (Notarkosten), Buchhaltung.
-- **Gemeinschaftsprojekte**: Unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
+- **Gemeinschaftsprojekte**: unser [Mikrogrant-Programm](/microgrants) unterstützt verschiedene kleinere Projekte.
 
 ## Was haben wir bereits erreicht {#what-have-we-already-achieved}
 
@@ -41,5 +41,5 @@ Siehe unsere [Roadmap](/roadmap) für weitere Details.
 
 - Durch Banküberweisung. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). Dies ist wahrscheinlich die günstigste Möglichkeit, Geld an uns zu überweisen.
 - [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Unterstützt wiederkehrende Spenden. [Transaktionsgebühren](https://www.paypal.com/webapps/mpp/merchant-fees) gelten.
-- Durch unseren [Merchandise-Shop](https://pauseai-shop.fourthwall.com/). Alle US-basierten Kreditkarten-Transaktionen haben eine zusätzliche Gebühr von 2,9% + 0,30 $. Nicht-US-Kreditkarten haben eine Gebühr von 3,9% + 0,30 $.
+- Durch unseren [Merchandise-Shop](https://pauseai-shop.fourthwall.com/). Alle US-basierten Kreditkarten-Transaktionen haben eine zusätzliche Zahlungsabwicklungsgebühr von 2,9% + 0,30 $. Nicht-US-Kreditkarten haben eine Zahlungsabwicklungsgebühr von 3,9% + 0,30 $.
 - Durch [diesen Link](https://bunq.me/pauseai) (Wählen Sie Sofort - die meisten Banken und PayPal werden unterstützt)
