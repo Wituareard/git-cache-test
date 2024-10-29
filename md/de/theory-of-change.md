@@ -8,9 +8,9 @@ date: '2024-02-26'
 
 Wie plant PauseAI, seine Mission zu erreichen?
 
-## Was wollen wir? {#what-do-we-want-1}
+## Was wollen wir? {#what-do-we-want-2}
 
-Unser [Vorschlag](/proposal) beschreibt, was wir wollen: Die globale Einstellung der Entwicklung von Spitzen-KI-Systemen **bis wir wissen, wie wir es sicher und unter demokratischer Kontrolle tun können**.
+Unser [Vorschlag](/proposal) beschreibt, was wir wollen: Die globale Einstellung der Entwicklung von Spitzen-KI **bis wir wissen, wie wir es sicher tun können** und **unter demokratischer Kontrolle**.
 
 ## Warum haben wir noch keine Pause? {#why-dont-we-have-a-pause-yet}
 
@@ -28,7 +28,7 @@ Es gibt jedoch einige wichtige Gründe, warum wir noch keine Pause haben:
   Das ist der ganze Sinn unserer Bewegung.
 - **Mangel an Dringlichkeit**.
   Die Menschen [unterschätzen den Fortschritt der KI](/urgency).
-  Selbst Experten auf diesem Gebiet wurden von der Geschwindigkeit, mit der KI verbessert wurde, überrascht.
+  Selbst Experten auf diesem Gebiet wurden von der schnellen Verbesserung der KI überrascht.
 - **Unsere Psychologie**.
   Lesen Sie mehr darüber, wie unsere [Psychologie es uns sehr schwer macht](/psychology-of-x-risk), zu internalisieren, wie schlecht die Dinge werden können.
 - **Das Overton-Fenster**.
@@ -36,11 +36,11 @@ Es gibt jedoch einige wichtige Gründe, warum wir noch keine Pause haben:
 
 ## Wie pausieren wir? {#how-do-we-pause}
 
-Aufgrund der oben erwähnten Dynamik des Wettlaufs sollten wir keine lokale Pause erwarten.
+Aufgrund der oben genannten Dynamik des Wettlaufs sollten wir keine lokale Pause erwarten.
 Wir brauchen eine _internationale_ Pause.
-Wir können auf zwei Wegen dorthin gelangen:
+Wir können dies auf zwei Arten erreichen:
 
-1. **Ein internationales Abkommen**. Wir haben [blendende Laserwaffen](https://en.wikipedia.org/wiki/Protocol_on_Blinding_Laser_Weapons) und [FCKW](https://en.wikipedia.org/wiki/Montreal_Protocol) durch ein Abkommen verboten, also können wir auch superintelligente KI durch ein Abkommen verbieten. Diese Abkommen werden oft von einer kleinen Gruppe von Ländern initiiert, und dann treten andere Länder bei. Ein [Gipfel](/summit) ist oft die Veranstaltung, bei der ein solches Abkommen initiiert und unterzeichnet wird. Wir müssen unsere Politiker davon überzeugen, Verhandlungen über ein Abkommen zu initiieren. Dazu benötigen wir öffentliches Bewusstsein, öffentliche Unterstützung und schließlich ein Gefühl der Verantwortung seitens der Politiker.
+1. **Ein internationales Abkommen**. Wir haben [blendende Laserwaffen](https://en.wikipedia.org/wiki/Protocol_on_Blinding_Laser_Weapons) und [FCKW](https://en.wikipedia.org/wiki/Montreal_Protocol) durch ein Abkommen verboten, also können wir auch superintelligente KI durch ein Abkommen verbieten. Diese Abkommen werden oft von einer kleinen Gruppe von Ländern initiiert und dann von anderen Ländern beigetreten. Ein [Gipfel](/summit) ist oft das Ereignis, bei dem ein solches Abkommen initiiert und unterzeichnet wird. Wir müssen unsere Politiker davon überzeugen, Verhandlungen über ein Abkommen zu beginnen. Dazu benötigen wir öffentliches Bewusstsein, öffentliche Unterstützung und schließlich ein Gefühl der Verantwortung seitens der Politiker.
 2. **Eine einseitige Lieferkette-Pause**. Die KI-Lieferkette ist stark zentralisiert. Virtuell alle KI-Chips, die in Trainingsläufen verwendet werden, werden von NVidia entworfen, von TSMC produziert, das Lithographiemaschinen von ASML verwendet. Wenn eines dieser Monopole pausieren würde, würde die gesamte KI-Industrie pausieren. Wir können dies erreichen, indem wir diese Unternehmen lobbyieren und die Regierungen, die Einfluss auf diese Unternehmen haben, lobbyieren.
 
 ## Was tun wir, um dorthin zu gelangen? {#what-do-we-do-to-get-there}
@@ -48,14 +48,14 @@ Wir können auf zwei Wegen dorthin gelangen:
 1. **Die Bewegung wachsen lassen**. Je größer unsere Gruppe ist, desto mehr können wir tun. Wir lassen unsere Bewegung durch radikale Transparenz, Online-Community-Building und die Förderung [lokaler Gemeinschaften](/communities) wachsen. Wir stärken unsere Freiwilligen, damit sie handeln können, und machen es ihnen leicht, dies zu tun. Lesen Sie mehr über unsere [Wachstumsstrategie](/growth-strategy), wie wir dies tun.
 2. **Proteste**. [Proteste](/protests) haben sich als wirksam erwiesen, um öffentliches Bewusstsein und Unterstützung zu erhöhen. Sie sind auch eine großartige Möglichkeit, neue Mitglieder zu rekrutieren und das Gemeinschaftsgefühl zu verbessern. Da unser Thema relativ neu ist, können selbst kleine Proteste sehr gute [Medienberichterstattung](/press) erhalten. Wir ermutigen unsere Mitglieder, [Proteste in ihren eigenen Städten zu organisieren](/organizing-a-protest), indem wir ihnen die notwendigen Werkzeuge und Kenntnisse zur Verfügung stellen.
 3. **Lobbyarbeit**. _Jeder Freiwillige kann ein Amateur-Lobbyist werden_. Wir senden [E-Mails an Politiker](/email-builder), treffen uns mit ihnen und bleiben in Kontakt. Wir bitten sie, KI-Risiken auf die Agenda zu setzen und einen Vertrag zu entwerfen. Das Kernproblem, das wir zu lösen versuchen, ist ein _Mangel an Informationen_ und ein _Mangel an [emotionalem Verständnis](/psychology-of-x-risk)_ und Einsicht in der politischen Sphäre.
-4. **Die Öffentlichkeit informieren**. Wir machen die Menschen auf die [Risiken](/risks) aufmerksam, denen wir gegenüberstehen, und darauf, [was wir tun können](/action), um sie zu verhindern. Wir tun dies öffentlich, indem wir Artikel, Videos, Bilder und Beiträge in sozialen Medien veröffentlichen. Wir nehmen an Podcasts teil, halten Vorträge und organisieren Veranstaltungen. Wir kontaktieren auch Partnerorganisationen, Influencer, Bildungseinrichtungen und andere Gruppen, die eine Rolle bei der öffentlichen Aufklärung spielen können. Lesen Sie mehr über unsere [Kommunikationsstrategie](/communication-strategy).
+4. **Die Öffentlichkeit informieren**. Wir machen die Menschen auf die [Risiken](/risks) aufmerksam, denen wir gegenüberstehen, und [was wir tun können](/action), um sie zu verhindern. Wir tun dies öffentlich, indem wir Artikel, Videos, Bilder und Beiträge in sozialen Medien veröffentlichen. Wir nehmen an Podcasts teil, halten Vorträge und organisieren Veranstaltungen. Wir kontaktieren auch Partnerorganisationen, Influencer, Bildungseinrichtungen und andere Gruppen, die eine Rolle bei der öffentlichen Aufklärung spielen können. Lesen Sie mehr über unsere [Kommunikationsstrategie](/communication-strategy).
 
 ## Was tun wir _nicht_? {#what-do-we-_not_-do}
 
-- **Gewalt tolerieren**. Wir machen es unseren Mitgliedern und den Menschen, die sich unseren Protesten anschließen, sehr klar, dass wir eine friedliche Bewegung sind. Wir fördern keine Gewalt und dulden sie nicht. Wir kommunizieren dies in unserem Protestierenden-Verhaltenskodex, unseren Discord-Regeln und unserem Freiwilligen-Abkommen. Der Hauptgrund dafür ist, dass wir die Guten sein wollen, wir wollen, dass die Öffentlichkeit auf unserer Seite ist.
-- **In anderen Themen Partei ergreifen**. Wir sind eine Bewegung, die sich auf eine KI-Pause konzentriert. Wir diskutieren und ergreifen keine Partei in anderen Themen, selbst wenn (kurzfristige) Gelegenheiten entstehen, die dies verlockend machen könnten.
-- **Unaufrichtig sein**. Wir brauchen es, dass die Menschen uns vertrauen, was wir sagen, also müssen wir alles tun, um Ehrlichkeit zu fördern.
+- **Gewalt tolerieren**. Wir machen unseren Mitgliedern und den Menschen, die sich unseren Protesten anschließen, sehr deutlich, dass wir eine friedliche Bewegung sind. Wir fördern keine Gewalt und dulden sie nicht. Wir kommunizieren dies in unserem Protestierenden-Verhaltenskodex, unseren Discord-Regeln und unserem Freiwilligen-Abkommen. Der Hauptgrund dafür ist, dass wir die Guten sein wollen, wir wollen, dass die Öffentlichkeit auf unserer Seite ist.
+- **In anderen Themen Partei ergreifen**. Wir sind eine Bewegung, die sich auf eine KI-Pause konzentriert. Wir diskutieren und ergreifen keine Partei in anderen Themen, selbst wenn (kurzfristige) Gelegenheiten auftreten, die dies verlockend machen könnten.
+- **Unaufrichtig sein**. Wir brauchen, dass die Menschen uns vertrauen, was wir sagen, also müssen wir alles tun, um Ehrlichkeit zu fördern.
 
 ## Lasst uns loslegen {#lets-get-to-it}
 
-[Treten Sie](/join) PauseAI bei und [nehmen Sie Maßnahmen](/action)!
+[Treten Sie](/join) PauseAI bei und [handeln Sie](/action)!
