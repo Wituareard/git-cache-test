@@ -14,21 +14,21 @@ title: PauseAI-Protest vor dem FCDO in London am 18. Juli
 </div>
 </WidgetConsent>
 
-- PauseAI-Protest, um den Sicherheitsrat der Vereinten Nationen dazu aufzufordern, eine globale Pause bei den größten KI-Trainingsläufen einzulegen.
+- PauseAI-Protest, um den Sicherheitsrat der Vereinten Nationen zu einer globalen Pause bei den größten KI-Trainingsläufen aufzufordern.
 - Wo: vor dem Foreign, Commonwealth and Development Office (FCDO), King Charles Street, Westminster, London, SW1A 2AH
 - Wann: 18. Juli, 16:30 - 17:30 Uhr
 - [Anmelden](https://docs.google.com/forms/d/e/1FAIpQLSfLoAUfPEhp3bZyUbDnc8HigL_rYC7ykUmmPZvVWas-m2y5bQ/viewform?usp%253Dsf_link)
 - [Facebook-Event](https://fb.me/e/1bawf1ZH1)
 
-## Kontakt {#contact-2}
+## Kontakt {#contact-3}
 
 - Alistair Steward ([Twitter](https://twitter.com/alistair___s))
 
 ## Pressemitteilung: PauseAI protestiert vor dem Foreign Office vor dem UN-Sicherheitsratstreffen zu KI-Risiken {#press-release-pauseai-protests-foreign-office-ahead-of-un-security-council-meeting-on-ai-risk-1}
 
-Am Dienstag, dem 18. Juli, werden Freiwillige der neuen Bewegung [PauseAI](http://pauseai.info/) vor dem Foreign Office in London zusammenkommen, um den UN-Sicherheitsrat dazu aufzufordern, eine Pause bei den Trainingsläufen der leistungsfähigsten KI-Systeme einzulegen. In einer [Pressekonferenz](https://youtu.be/USap-tFrTDc?t=3235) letzte Woche erklärte die britische Botschafterin und Präsidentin des Sicherheitsrates, Barbara Woodward: "Künstliche Intelligenz ist nicht selbst ein Akteur", was ein Mangel an technischer Expertise unter Regierungsbeamten zeigt, der dazu führt, dass Risiken durch zukünftige KI-Systeme stark unterschätzt werden. Viele KI-Experten glauben, dass übermenschliche KI der menschlichen Kontrolle entkommen könnte, mit katastrophalen Folgen, einschließlich des Aussterbens der Menschheit. Der UN-Generalsekretär António Guterres [erkannte diese Bedrohung kürzlich an](https://press.un.org/en/2023/sgsm21832.doc.htm):
+Am Dienstag, dem 18. Juli, werden Freiwillige der neuen Bewegung [PauseAI](http://pauseai.info/) vor dem Foreign Office in London zusammenkommen, um den UN-Sicherheitsrat zu einer Pause bei den Trainingsläufen der leistungsfähigsten KI-Systeme aufzufordern. In einer [Pressekonferenz](https://youtu.be/USap-tFrTDc?t=3235) letzte Woche erklärte die britische Botschafterin und Präsidentin des Sicherheitsrates, Barbara Woodward: "Künstliche Intelligenz ist nicht selbst ein Akteur", was ein Mangel an technischer Expertise zeigt, der typisch für Regierungsbeamte ist und dazu führt, dass Risiken durch zukünftige KI-Systeme stark unterschätzt werden. Viele KI-Experten glauben, dass übermenschliche KI der menschlichen Kontrolle entkommen könnte, mit katastrophalen Folgen, einschließlich des Aussterbens der Menschheit. Der UN-Generalsekretär António Guterres [hat diese Bedrohung kürzlich anerkannt](https://press.un.org/en/2023/sgsm21832.doc.htm):
 
-> "Die Alarmglocken über die neueste Form der künstlichen Intelligenz - generative KI - sind ohrenbetäubend, und sie sind am lautesten von den Entwicklern, die sie entworfen haben. Diese Wissenschaftler und Experten haben die Welt aufgerufen, zu handeln, und KI als existenzielle Bedrohung für die Menschheit auf einer Ebene mit dem Risiko eines Atomkriegs erklärt."
+> "Die Alarmglocken über die neueste Form der künstlichen Intelligenz - generative KI - sind ohrenbetäubend, und sie sind am lautesten von den Entwicklern, die sie entworfen haben. Diese Wissenschaftler und Experten haben die Welt aufgerufen, zu handeln, und erklärt, dass KI eine existenzielle Bedrohung für die Menschheit darstellt, die mit dem Risiko eines nuklearen Krieges vergleichbar ist."
 
 Der UN-Sicherheitsrat wird am 18. Juli ein beispielloses Treffen abhalten, um über diese KI-Risiken zu diskutieren. Unter dem Vorsitz des britischen Außenministers James Cleverly wird das Treffen des Sicherheitsrates eine Gelegenheit bieten, Expertenmeinungen zu KI zu hören und eine Diskussion unter den 15 Ratsmitgliedern über ihre Auswirkungen zu beginnen. Ein [offener Brief](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) (veröffentlicht im April), der KI-Unternehmen auffordert, ihre Trainingsläufe zu pausieren, wurde von über 33.000 Menschen unterzeichnet, darunter viele KI-Forscher und Tech-Führer. Kein einziges KI-Unternehmen hat bisher nachgegeben.
 
