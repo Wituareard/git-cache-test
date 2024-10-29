@@ -1,33 +1,31 @@
-
-
 ---
-title: PauseAI Mikroförderungen
-description: Unser Gemeinschaftsfonds zur Unterstützung von Projekten, die unserer Mission entsprechen.
+title: PauseAI Mikro-Zuschüsse
+description: Unser Community-Fonds zur Unterstützung von Projekten, die mit unserer Mission übereinstimmen.
 ---
 
-Wir haben eine lange Liste von Projekten, an denen unsere Gemeinschaft arbeitet.
+Wir haben eine riesige Liste von Projekten, an denen unsere Community arbeitet.
 Es gibt so viel zu tun.
 Und manchmal benötigen wir finanzielle Mittel, um effektiver zu sein.
-Aber die Beschaffung von Mitteln kann mühsam sein - insbesondere, wenn man noch nie einen Zuschuss beantragt hat.
+Aber die Beantragung von Fördermitteln kann lästig sein - insbesondere, wenn man noch nie einen Zuschuss beantragt hat.
 
-Hier kommen die PauseAI Mikroförderungen ins Spiel!
+Hier kommt der PauseAI Mikro-Zuschuss ins Spiel!
 Kleine Geldbeträge (typischerweise unter 2000 EUR) für die Arbeit an einem Projekt.
-Wir sind ziemlich offen dafür, welche Arten von Projekten sich bewerben können.
+Wir sind ziemlich offen, was die Art der Projekte angeht, die beantragen können.
 Hier sind einige Beispiele:
 
-- **Veranstaltung organisieren**, wie z.B. eine E-Mail-Lobby-Sitzung (Gebühr für Organisation, Raumvermietung, Essen und Getränke)
-- **Videos erstellen** über die Notwendigkeit, KI zu pausieren
+- **Veranstaltung organisieren**, wie eine E-Mail-Lobby-Sitzung (Organisationsgebühr, Raumvermietung, Essen und Getränke)
+- **Videos erstellen**, um zu erklären, warum wir die AI-Pause benötigen
 - **Hilfe bei der Website**, z.B. Artikel schreiben, technische Verbesserungen vornehmen
-- **Forschung durchführen**, z.B. für die #"KI-Sicherheits-Scorecard".
-- **Entwurf einer Richtlinie erstellen**, z.B. unser [Vorschlag](/proposal) formalisieren
-- **Marktforschung durchführen**, z.B. eine Umfrage oder eine Nachrichtentest-Studie
-- **Für Medien schreiben**, z.B. einen Meinungsartikel für eine nationale Zeitung schreiben
+- **Forschung durchführen**, z.B. für die "AI-Sicherheits-Scorecard".
+- **Arbeit an einem Politikentwurf**, z.B. Formalisierung unseres [Vorschlags](/proposal)
+- **Marktforschung durchführen**, z.B. eine Umfrage oder Message-Testing-Studie
+- **Artikel für Medien schreiben**, z.B. einen Meinungsartikel für eine nationale Zeitung
 
 ## Der Prozess {#the-process}
 
-- Beschreiben Sie Ihr Projekt im `#💪projects`-Kanal auf unserem Discord-Server. Erzählen Sie von der Idee, was Sie tun möchten, wo Sie Hilfe benötigen und wie viel Geld Sie benötigen. Erwähnen Sie `@microgrants`, um das Mikroförderungsteam zu benachrichtigen!
-- Füllen Sie das [Mikroförderungsvorlage](https://docs.google.com/document/d/1oPXezImarCY7MCYaT-lJb-uLNbbQ76O1FYNr-WTS6hI/edit?usp=sharing) aus und senden Sie es an [joep@pauseai.info](mailto:joep@pauseai.info).
-- Wir kontaktieren Sie. Entweder a) geben wir sofort eine Zusage, b) wir möchten einige Änderungen/Fragen beantwortet haben oder c) geben wir eine Absage.
-- Wir senden Ihnen ein Memorandum of Understanding (MoU), das Sie unterschreiben müssen.
+- Beschreiben Sie Ihr Projekt im `#💪projects`-Kanal auf unserem Discord-Server. Erzählen Sie von der Idee, was Sie tun möchten, wo Sie Hilfe benötigen und wie viel Geld Sie benötigen. Erwähnen Sie `@microgrants`, um das Mikro-Zuschuss-Team zu benachrichtigen!
+- Füllen Sie das [Mikro-Zuschuss-Template](https://docs.google.com/document/d/1oPXezImarCY7MCYaT-lJb-uLNbbQ76O1FYNr-WTS6hI/edit?usp=sharing) aus und senden Sie es an [joep@pauseai.info](mailto:joep@pauseai.info).
+- Wir setzen uns mit Ihnen in Verbindung. Entweder a) geben wir sofort eine Zusage, b) bitten wir um Änderungen/Fragen oder c) geben wir eine Absage.
+- Wir senden Ihnen ein Memorandum of Understanding (MoU), das Sie unterzeichnen müssen.
 - Fangen Sie an zu arbeiten!
-- Teilen Sie uns mit, wenn Sie fertig sind, und wir senden Ihnen die Förderung. Wenn Sie das Geld im Voraus benötigen, können wir diese Option besprechen, aber es sollte nicht die Standardoption sein.
+- Informieren Sie uns, wenn Sie fertig sind, und wir senden Ihnen den Zuschuss. Wenn Sie das Geld im Voraus benötigen, können wir diese Option besprechen, aber es sollte nicht die Standard-Option sein.
