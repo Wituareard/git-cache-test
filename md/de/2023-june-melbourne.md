@@ -2,7 +2,7 @@
 
 ---
 title: PauseAI-Protest in Melbourne - 16. Juni
-description: Nehmen Sie am bevorstehenden friedlichen Protest von PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
+description: Nehmen Sie an dem bevorstehenden friedlichen Protest von PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
 ---
 
 <script>
@@ -15,46 +15,46 @@ description: Nehmen Sie am bevorstehenden friedlichen Protest von PauseAI am Mel
 </div>
 </WidgetConsent>
 
-Nehmen Sie am friedlichen Protest von #PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
+Nehmen Sie an dem bevorstehenden friedlichen Protest von #PauseAI am Melbourne Convention and Exhibition Centre (MCEC) teil, wo Sam Altman einen Vortrag halten wird.
 
 - Datum und Uhrzeit: Freitag, 16. Juni, 14 Uhr AEST
 - Ort: Haupteingang des MCEC, 1 Convention Centre Place, South Wharf, VIC 3006, Australien
 - Protestzeiten: 13:30 Uhr bis 15 Uhr (Ankunftszeit) und 16:30 Uhr (Abfahrtszeit)
 - Logistik: Bringen Sie Schilder und Flyer mit, keine Teilnahmegebühr erforderlich, Startup Victoria-Mitgliedschaftsticket ist derzeit kostenlos
 
-Nehmen Sie an unserem Protest teil, um Ihre Stimme für die Sicherheit von künstlicher Intelligenz zu erheben und einen Unterschied zu machen. Bitte treten Sie #PauseAIs [Discord-Server](https://discord.gg/2XXWXvErfA) bei, den #australia-Kanal und AGI Moratoriums Slack, [#λ-australia](https://www.campaignforaisafety.org/r/2b0991d9?m=4045bfdd-2b52-4fa2-b4c5-0d8adb4aac63) für weitere Diskussionen.
+Nehmen Sie an unserer Aktion teil, um Ihre Stimme für die Sicherheit von künstlicher Intelligenz zu erheben und einen Unterschied zu machen. Bitte treten Sie #PauseAIs [Discord-Server](https://discord.gg/2XXWXvErfA) bei, den #australia-Kanal und AGI Moratoriums Slack, [#λ-australia](https://www.campaignforaisafety.org/r/2b0991d9?m=4045bfdd-2b52-4fa2-b4c5-0d8adb4aac63) für weitere Diskussionen.
 
-## Pressemitteilung {#press-release-2}
+## Pressemitteilung {#press-release-1}
 
-Am Freitag, dem 16. Juni, werden Freiwillige der neuen Bewegung [PauseAI](http://pauseai.info) am Melbourne Convention and Exhibition Centre zusammenkommen, um die australische Regierung aufzufordern, die Führung bei der Pause der Entwicklung von gefährlicheren KI-Systemen zu übernehmen.
+Am Freitag, dem 16. Juni, werden Freiwillige der neuen [PauseAI](http://pauseai.info)-Bewegung am Melbourne Convention and Exhibition Centre zusammenkommen, um die australische Regierung aufzufordern, die Führung bei der Pause der Entwicklung von leistungsfähigeren und gefährlicheren KI-Systemen zu übernehmen.
 
-Eine rasch wachsende Zahl von KI-Experten hat letzte Woche eine Erklärung unterzeichnet, die lautet:
+Eine rasch wachsende Zahl von KI-Experten hat letzte Woche eine [Erklärung](https://www.safe.ai/statement-on-ai-risk) unterzeichnet, die lautet:
 
 > "Die Minderung des Risikos des Aussterbens durch KI sollte eine globale Priorität neben anderen gesellschaftlichen Risiken wie Pandemien und Atomkrieg sein."
 
-Dies wurde von praktisch allen KI-Labors (OpenAI, Google DeepMind, Anthropic) und Hunderten von KI-Wissenschaftlern, einschließlich Geoffrey Hinton, dem "Gottvater der KI", unterzeichnet.
+Dies wurde von praktisch allen KI-Labors (OpenAI, Google DeepMind, Anthropic) und Hunderten von KI-Wissenschaftlern, darunter Geoffrey Hinton, dem "Gottvater der KI", unterzeichnet.
 
 KI-Sicherheitsforscher haben noch keinen Konsens darüber erzielt, wie groß das Risiko des menschlichen Aussterbens sein wird.
-Die Ergebnisse der Umfrage "Existenzielles Risiko durch KI" zeigen, dass die Schätzungen zwischen 2% und 98% liegen, mit einem Durchschnitt von 30%.
+Die Ergebnisse der ["Umfrage zum existenziellen Risiko durch KI"](https://forum.effectivealtruism.org/posts/8CM9vZ2nnQsWJNsHx/existential-risk-from-ai-survey-results) zeigen, dass die Schätzungen zwischen 2% und 98% liegen, mit einem Durchschnitt von 30%.
 
 Die Demonstranten fordern die australische Regierung auf, die Führung bei der globalen KI-Sicherheit zu übernehmen und die Entwicklung von gefährlicheren KI-Systemen zu pausieren.
 Sie bitten sie auch, die Pause auf dem [KI-Sicherheitsgipfel](https://pauseai.info/summit) zu priorisieren, der von Großbritannien organisiert wird und später im Jahr 2023 stattfinden wird.
 
 Die Pause der KI-Entwicklung ist ein radikal anderer Ansatz zur Sicherheit als der, den die KI-Lab-Chefs wie Sam Altman vorschlagen.
-OpenAI glaubt, dass "es unintuitiv riskant und schwierig wäre, die Schaffung von Superintelligenz zu stoppen", also verfolgen sie die weitere Entwicklung in Richtung Superintelligenz.
+OpenAI glaubt, dass ["es unintuitiv riskant und schwierig wäre, die Schaffung von Superintelligenz zu stoppen"](https://openai.com/blog/governance-of-superintelligence), also verfolgen sie die weitere Entwicklung in Richtung Superintelligenz.
 
 > "Wir haben eine Wahl: Riskieren wir alles, um eine Superintelligenz zu bauen, über die die Öffentlichkeit nie konsultiert wurde, oder stoppen wir, solange wir noch können?" - PauseAI-Demonstranten
 
 > "KI-Unternehmen riskieren alles; wir sehen bereits den Schaden, und es wird noch schlimmer werden. Die Technologieentwicklung ist nicht unvermeidlich, und eine Pause sollte als machbare Option in Betracht gezogen werden. Wir können die Zukunft nicht einigen wenigen CEOs überlassen, die bereit sind, die Menschheit für ihre Träume zu riskieren. Wir alle verdienen ein Mitspracherecht an unserer Zukunft, und eine globale Pause gibt uns diese Chance."
 
-> "Trotz der Anerkennung der Gefahren der fortgesetzten KI-Entwicklung verwenden diese Unternehmen dies nur als Ausrede, um weiterzumachen, und scheinen freiwillig auf diese gefährliche Macht zu verzichten. In solchen Situationen ist die globale Zusammenarbeit bei der Eindämmung dieser gefährlichen Entwicklung von entscheidender Bedeutung, damit wir sicherstellen, dass die Technologieentwicklung für alle funktioniert."
+> "Trotz der Anerkennung der Gefahren der fortgesetzten KI-Entwicklung nutzen diese Unternehmen dies nur als Ausrede, um weiterzumachen, und scheinen freiwillig auf diese gefährliche Macht verzichten zu wollen. In solchen Situationen ist die globale Zusammenarbeit bei der Eindämmung dieser gefährlichen Entwicklung von entscheidender Bedeutung, damit wir sicherstellen, dass die Technologieentwicklung für alle funktioniert."
 
-> "Wir haben möglicherweise nicht den Luxus der Zeit. KI-Entwicklungen erfolgen in einem frenetischen Tempo, und wir müssen jetzt handeln, um die schlimmsten Szenarien zu verhindern. Der Gipfel im Herbst könnte sogar zu spät sein, um das Schlimmste zu verhindern. Wir brauchen Regierungen, die die KI-Entwicklung jetzt pausieren"
+> "Wir haben möglicherweise nicht den Luxus der Zeit. KI-Entwicklungen erfolgen in einem atemberaubenden Tempo, und wir müssen jetzt handeln, um die schlimmsten Szenarien zu verhindern. Der Gipfel im Herbst könnte sogar zu spät sein, um das Schlimmste zu verhindern. Wir brauchen Regierungen, die die KI-Entwicklung jetzt pausieren"
 
 Die PauseAI-Demonstranten haben konkrete [Agenda-Vorschläge](/summit) und [Politikvorschläge](/proposal) für den Gipfel.
 
 Für weitere Informationen besuchen Sie bitte [PauseAI.info](http://pauseai.info).
 
-## Kontakt {#contact-4}
+## Kontakt {#contact-1}
 
 - Michael Huang ([Twitter](https://twitter.com/michhuan))
