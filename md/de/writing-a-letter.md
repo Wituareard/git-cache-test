@@ -19,7 +19,7 @@ Das Erstellen einer hochgradig personalisierten Nachricht von Grund auf nach den
 
 - Wer ist die richtige Person, um Kontakt aufzunehmen? Wer hat die Macht? Wer bereitet die Sitzungen vor? Wer ist am wahrscheinlichsten, Ihre Nachricht zu lesen?
 
-## Die Nachricht vorbereiten {#preparing-your-message}
+## Ihre Nachricht vorbereiten {#preparing-your-message}
 
 - Was möchten Sie, dass sie tun? Seien Sie spezifisch.
 - Recherchieren Sie die Person, an die Sie schreiben. Was sind ihre Interessen? Was sind ihre Werte? Was sind ihre Prioritäten? Was sind ihre Bedenken? Haben sie bereits Dinge mit künstlicher Intelligenz gemacht? Was steht ihre Partei für? Was ist in ihrem Portfolio?
@@ -32,7 +32,7 @@ Das Erstellen einer hochgradig personalisierten Nachricht von Grund auf nach den
 - **Diskutieren Sie das Problem**. Geben Sie viele Links zu Quellen an. Verwenden Sie autoritative Quellen und Namen (z.B. Turing-Preisträger Hinton, Bengio) und Statistiken (14% durchschnittliches Aussterberisiko durch künstliche Intelligenz).
 - **Diskutieren Sie die Lösung**. Die Pause. Was bedeutet sie? Was beeinflusst sie? Diskutieren Sie, warum wir eine Pause benötigen, und warum der offene Brief nicht in der Lage war, sie zu erreichen (Marktdynamik, wir benötigen internationale Regulierung). Wenden Sie sich einigen der häufigen Beschwerden zu (z.B.).
 - **Diskutieren Sie die Dringlichkeit**. Warum müssen sie jetzt handeln? Diskutieren Sie, wie praktisch alle KI-Forscher von der Geschwindigkeit der jüngsten Fortschritte überrascht wurden, wie viel Geld und Forscher jetzt hinzugefügt werden. Die Pause kann nicht warten, bis zum Gipfel, wir können nicht riskieren, wieder falsch zu liegen. Wir müssen auf der Seite der Vorsicht sein.
-- **Bitten Sie**. Was möchten Sie, dass sie tun? Machen Sie Ihre Bitte sehr konkret. Z.B.: bringen Sie die Pause in der nächsten Sitzung zur Sprache und diskutieren Sie sie mit anderen Menschen mit Einfluss. Bitten Sie sie, Ihnen zu antworten, und bitten Sie sie, Sie über ihre Fortschritte auf dem Laufenden zu halten. Oder noch besser: bitten Sie sie, sich mit Ihnen zu treffen. Geben Sie einen konkreten Zeitraum an, in dem Sie verfügbar sind.
+- **Bitten Sie**. Was möchten Sie, dass sie tun? Machen Sie Ihre Bitte sehr konkret. Z.B.: bringen Sie die Pause in der nächsten Sitzung zur Sprache und diskutieren Sie sie mit anderen Personen mit Einfluss. Bitten Sie sie, Ihnen zu antworten, und bitten Sie sie, Sie über ihre Fortschritte auf dem Laufenden zu halten. Oder noch besser: bitten Sie sie, sich mit Ihnen zu treffen. Geben Sie einen konkreten Zeitraum an, in dem Sie verfügbar sind.
 
 ## Tipps {#tips}
 
