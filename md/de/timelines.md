@@ -17,10 +17,10 @@ Wie lange wird es dauern, bis AGI oder superintelligente KI entwickelt wird?
 - **Geoffrey Hinton** (Turing-Preisträger): [2028 bis 2053](https://twitter.com/geoffreyhinton/status/1653687894534504451?lang=en) (er dachte zunächst, es würde "mindestens" bis 2070 dauern)
 - **Gary Marcus** (Cognitiv): [nicht vor 2026](https://twitter.com/GaryMarcus/status/1730003151971840419)
 
-## Unsere Meinung {#our-take}
+## Unsere Einschätzung {#our-take}
 
 Vorhersagen sind sehr schwierig, insbesondere wenn es um die Zukunft geht.
-Frühere Expertenprognosen zur KI erwiesen sich als übermäßig optimistisch.
+Frühere Expertenprognosen für KI erwiesen sich als übermäßig optimistisch.
 
 In gewisser Weise sind KI-Modelle bereits übermenschlich, sodass wir möglicherweise sehr nahe an Modellen mit [gefährlichen Fähigkeiten](/dangerous-capabilities) sind.
 Aktuelle [State-of-the-Art](/sota)-KI-Modelle haben einen IQ von >130, sprechen 20 Sprachen, schreiben Code in den meisten Programmiersprachen und können Quantenmechanik in deutscher Dichtung des 18. Jahrhunderts erklären.
