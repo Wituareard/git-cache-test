@@ -5,7 +5,7 @@ title: PauseAI-Veranstaltungen
 description: Treffen, Workshops, Proteste und mehr!
 ---
 
-## Alle Veranstaltungen anzeigen [hier](https://lu.ma/PauseAI) {#view-all-events-herehttpslumapauseai}
+## Alle Veranstaltungen anzeigen [hier](https://lu.ma/PauseAI) {#view-all-events-here}
 
 <iframe
   src="https://lu.ma/embed/calendar/cal-E1qhLPs5IvlQr8S/events?"
