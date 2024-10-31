@@ -17,7 +17,7 @@ title: "Drei-Tage-Demonstration in San Francisco: Forderung nach Pause bei der E
 
 Wir sind eine Gruppe von Menschen, die sich um die Sicherheit von künstlicher Intelligenz (KI) sorgen. Diese Demonstration soll das Bewusstsein für die Risiken unkontrollierter KI-Entwicklung schärfen und zu einem internationalen Gipfeltreffen für politische Entscheidungsträger und die Öffentlichkeit aufrufen.
 
-> _"Unregulierte allgemein einsetzbare #KI wäre meiner Meinung nach noch dümmer als die Abschaffung aller Sicherheitsgurte, Ampeln und Geschwindigkeitsbegrenzungen."_
+> _"Unregulierte allgemein einsetzbare #KI wäre meiner Meinung nach noch unsinniger als die Abschaffung aller Sicherheitsgurte, Ampeln und Geschwindigkeitsbegrenzungen."_
 >
 > Max Tegmark, bekannter KI-Sicherheitsbefürworter
 
@@ -41,7 +41,7 @@ Wir glauben, dass OpenAI in der perfekten Position ist, Verantwortung zu überne
 - **Mary Newby**: [Twitter](https://twitter.com/sisyphusunc), [E-Mail](mailto:sisyphus.unc@gmail.com)
 - **Percy Otebay**: [Twitter](https://twitter.com/Radlib4), [E-Mail](mailto:persiutebay@gmail.com)
 
-## Medien {#media}
+## Medien {#media-2}
 
 <WidgetConsent>
 <div>
