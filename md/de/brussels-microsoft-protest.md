@@ -40,7 +40,7 @@ Wir glauben, dass Microsoft in einer guten Position ist, Verantwortung zu übern
 
 ... (unverändert)
 
-## Medien {#media-1}
+## Medien {#media}
 
 <WidgetConsent>
 <div>
