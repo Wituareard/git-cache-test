@@ -13,7 +13,7 @@ Willkommen bei PauseAI!
 - [Menschen (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
 - [Teams](/teams): Unsere Freiwilligen arbeiten in allen möglichen Teams. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste der Mitglieder. Kontaktieren Sie einen Teamleiter, um einem Team beizutreten!
 - [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die in der Regel ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit.
-- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrem Gebiet gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
+- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrer Nähe gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
 
 ![Organigramm](/org.png)
 
@@ -33,7 +33,7 @@ Willkommen bei PauseAI!
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
 - [US-Lobby-Leitfaden](/us-lobby-guide)
-- [Schreiben von Pressemitteilungen](/writing-press-releases)
+- [Pressemitteilungen schreiben](/writing-press-releases)
 
 ## Strategie {#strategy}
 
