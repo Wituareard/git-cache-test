@@ -41,7 +41,7 @@ Wir müssen also vorsichtig sein, dass wir nicht nur eine Pause erreichen, sonde
 
 Wenn Sie befürchten, dass Regierungen Ihre Sicherheit nicht ernst nehmen, ist das ein komplizierteres Problem.
 Aber im Allgemeinen kümmern sich Politiker darum, nicht die politische Unterstützung zu verlieren.
-Und wichtiger noch, sie können auch besorgt über die Risiken sein, ohne die enormen Vorurteile und rechtlichen Verpflichtungen, die einige Einzelpersonen aus Unternehmen haben, um Gewinne zu maximieren.
+Und wichtiger noch, sie können auch besorgt über die Risiken sein, ohne die enorme Voreingenommenheit und rechtlichen Verpflichtungen, die einige Einzelpersonen aus Unternehmen haben, um die Gewinne zu maximieren.
 
 Wenn Sie denken, dass wir die Regulierung einer einzelnen Regierung erreichen könnten, aber nicht einen multilateralen Vertrag, müssen Sie erkennen, dass, wenn Regierungen erkennen, dass einige unkontrollierbare Technologien eine Gefahr für ihre Bevölkerung darstellen und aus anderen Nationen stammen können, die neuen Technologien zu einem nationalen Sicherheitsproblem werden und die Regierungen daran interessiert sind, andere Länder daran zu hindern, sie zu entwickeln.
 Außerdem ist es wichtig zu erkennen, dass wir nicht wirklich viele Länder brauchen, um einer Pause zuzustimmen.
@@ -50,26 +50,26 @@ China und der Rest der Welt scheinen ziemlich weit zurückzuliegen, und wir soll
 
 ## Ähnliche historische Fälle {#similar-historical-cases}
 
-Obwohl jeder Beweis für die Unfähigkeit oder Bosheit unserer Regierungen, Unternehmen und Systeme uns in eine defätistische Denkweise locken kann, in der Koordination zu schwierig ist, die Interessen der Menschen nicht gut vertreten sind und/oder vertreten sind, aber dumm sind, erkennen wir manchmal nicht die Siege, die wir als Zivilisation throughout Geschichte errungen haben.
+Obwohl jeder Beweis für die Unfähigkeit oder Bosheit unserer Regierungen, Unternehmen und Systeme uns in eine defätistische Denkweise locken kann, in der Koordination zu schwierig ist, die Interessen der Menschen nicht gut vertreten sind und/oder vertreten werden, aber dumm sind, erkennen wir manchmal nicht die Siege, die wir als Zivilisation throughout Geschichte errungen haben.
 
 Für empirische Beweise dafür, dass ein Vertrag wie dieser möglich ist, sollten wir uns historische globale Vereinbarungen ansehen.
-Ob formell oder informell, sie waren ziemlich häufig throughout Geschichte, hauptsächlich um Streitigkeiten zu lösen und Menschenrechte zu fördern.
+Ob formell oder informell, sie waren ziemlich häufig throughout Geschichte, hauptsächlich um Streitigkeiten zu lösen und die Menschenrechte zu fördern.
 Viele vergangene Siege, wie die Abschaffung der Sklaverei, hatten auch starke, kurzfristige wirtschaftliche Anreize gegen sie.
 Aber das hat sie nicht aufgehalten.
 
 Wenn wir nach ähnlichen modernen Beispielen für globale Vereinbarungen gegen neue Technologien suchen, können wir viele finden. Einige der wichtigsten waren:
 
-- Das [Montreal-Protokoll](https://de.wikipedia.org/wiki/Montrealer_Protokoll), das die Produktion von FCKWs in allen 197 Ländern verbot und dazu führte, dass die globalen Emissionen von ozonschädigenden Substanzen seit 1986 um mehr als 99% zurückgegangen sind. Dank des Protokolls heilt das Ozonloch jetzt, und das ist der Grund, warum wir nicht mehr davon hören.
-- Die [Biowaffenkonvention](https://de.wikipedia.org/wiki/Biowaffenkonvention), die biologische und Toxin-Waffen verbot und von 185 Staaten unterzeichnet wurde.
-- Die [Chemiewaffenkonvention](https://de.wikipedia.org/wiki/Chemiewaffenkonvention), die chemische Waffen verbot und von 193 Staaten unterzeichnet wurde.
-- Die [Umweltänderungskonvention](https://de.wikipedia.org/wiki/Umweltänderungskonvention), die Wetterkrieg verbot und von 78 Staaten unterzeichnet wurde.
-- Der [Weltraumvertrag](https://de.wikipedia.org/wiki/Weltraumvertrag), der die Stationierung von Massenvernichtungswaffen im Weltraum verbot, militärische Aktivitäten auf Himmelskörpern verbot, die friedliche Erforschung und Nutzung des Weltraums rechtlich bindend machte und von 114 Ländern unterzeichnet wurde.
-- Der [Nichtverbreitungsvertrag](https://de.wikipedia.org/wiki/Vertrag_über_die_Nichtverbreitung_von_Kernwaffen) und eine Reihe anderer internationaler Vereinbarungen, die entscheidend dazu beigetragen haben, die Verbreitung von Nuklearwaffen zu verhindern und das Ziel der nuklearen Abrüstung zu fördern. Dank ihnen haben wir viele Länder davon abgehalten, Nuklearwaffenprogramme zu verfolgen, die Menge an Nuklearwaffen seit den 90er Jahren reduziert und einen Nuklearkrieg über viele Jahrzehnte vermieden. Alle unglaublichen Errungenschaften.
-- Die [Internationale Atomenergie-Organisation](https://de.wikipedia.org/wiki/Internationale_Atomenergie-Organisation), die eine zwischenstaatliche Organisation mit 178 Mitgliedstaaten ist, die sich für die friedliche Nutzung von Nuklearenergie einsetzt und ihre Verwendung für militärische Zwecke verhindern will. Unabhängig davon, ob Sie denken, dass die Kernenergie überreguliert ist oder nicht, gilt die IAEO als gutes Beispiel für ein internationales Instrument, das wir haben könnten, um die Sicherheit der größten KI-Modelle zu bewerten.
-- Und die [Erklärung der Vereinten Nationen über das Klonen von Menschen](https://de.wikipedia.org/wiki/Erklärung_der_Vereinten_Nationen_über_das_Klonen_von_Menschen), die die Mitgliedstaaten aufforderte, das Klonen von Menschen im Jahr 2005 zu verbieten und viele von ihnen dazu brachte, dies zu tun. Es ist ein interessanter Fall, weil jetzt, fast 20 Jahre später und ohne eine formelle Vereinbarung, 60 Länder es entweder vollständig oder teilweise verboten haben und es keinen einzigen (verifizierten) Fall eines geklonten Menschen gegeben hat. Es deutet also auf die Möglichkeit hin, dass viele einseitige Regulierungen ausreichen könnten, um die Entwicklung anderer gefährlicher Technologien zu verhindern.
+- Das [Montreal-Protokoll](https://en.wikipedia.org/wiki/Montreal_Protocol), das die Produktion von FCKWs in allen 197 Ländern verbot und dazu führte, dass die globalen Emissionen von ozonabbauenden Substanzen seit 1986 um mehr als 99% zurückgegangen sind. Dank des Protokolls heilt das Ozonloch jetzt, und das ist der Grund, warum wir nicht mehr davon hören.
+- Die [Biowaffenkonvention](https://en.wikipedia.org/wiki/Biological_Weapons_Convention), die biologische und Toxin-Waffen verbot und von 185 Staaten unterzeichnet wurde.
+- Die [Chemiewaffenkonvention](https://en.wikipedia.org/wiki/Chemical_Weapons_Convention), die chemische Waffen verbot und von 193 Staaten unterzeichnet wurde.
+- Die [Umweltänderungskonvention](https://en.wikipedia.org/wiki/Environmental_Modification_Convention), die Wetterkrieg verbot und von 78 Staaten unterzeichnet wurde.
+- Der [Weltraumvertrag](https://en.wikipedia.org/wiki/Outer_Space_Treaty), der die Stationierung von Massenvernichtungswaffen im Weltraum verbot, militärische Aktivitäten auf Himmelskörpern verbot, die friedliche Erforschung und Nutzung des Weltraums rechtlich bindend machte und von 114 Ländern unterzeichnet wurde.
+- Der [Nichtverbreitungsvertrag](https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons) und eine Reihe anderer internationaler Vereinbarungen, die entscheidend dazu beigetragen haben, die Verbreitung von Nuklearwaffen zu verhindern und das Ziel der nuklearen Abrüstung zu fördern. Dank ihnen haben wir viele Länder davon abgehalten, Nuklearwaffenprogramme zu verfolgen, die Menge an Nuklearwaffen seit den 90er Jahren reduziert und einen Nuklearkrieg über viele Jahrzehnte vermieden. Alle unglaublichen Errungenschaften.
+- Die [Internationale Atomenergie-Organisation](https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency), eine zwischenstaatliche Organisation mit 178 Mitgliedstaaten, die sich für die friedliche Nutzung von Nuklearenergie einsetzt und ihre Verwendung für militärische Zwecke verhindern will. Unabhängig davon, ob Sie denken, dass die Nuklearenergie überreguliert ist oder nicht, gilt die IAEO als gutes Beispiel für ein internationales Instrument, das wir haben könnten, um die Sicherheit der größten KI-Modelle zu bewerten.
+- Und die [Erklärung der Vereinten Nationen über das Klonen von Menschen](https://en.wikipedia.org/wiki/United_Nations_Declaration_on_Human_Cloning), die die Mitgliedstaaten aufforderte, das Klonen von Menschen im Jahr 2005 zu verbieten und viele von ihnen dazu brachte, es zu tun. Es ist ein interessanter Fall, weil jetzt, fast 20 Jahre später und ohne eine formelle Vereinbarung, 60 Länder es entweder vollständig oder teilweise verboten haben und es keinen einzigen (verifizierten) Fall eines geklonten Menschen gegeben hat. Es deutet also auf die Möglichkeit hin, dass viele einseitige Regulierungen ausreichen könnten, um die Entwicklung anderer gefährlicher Technologien zu verhindern.
 
 Wenn Sie denken, dass KI tatsächlich ähnlich wie andere Fälle ist, in denen wir es nicht geschafft haben, gute Verträge international zu schließen: Alles, was jemals passiert ist, hatte ein erstes Mal.
-Es gab Besonderheiten, die sie zum ersten Mal machten, und das ist ein Grund, die [Besonderheiten von KI](#ki-besonderheiten) anzusprechen.
+Es gab Besonderheiten, die sie zum ersten Mal machten, und das ist ein Grund, die [Besonderheiten von KI](#ai-particular-case) anzusprechen.
 
 ### Auswirkungen von Protesten {#impact-of-protests}
 
@@ -79,25 +79,25 @@ Und [es gibt Gründe zu glauben, dass KI-Aktivismus ähnliche Ergebnisse erziele
 
 Wenn Sie die Idee von Protesten nicht mögen, unternehmen wir auch [andere Aktionen](/action), wie den direkten Kontakt mit [Regierungen](/lobby-tips).
 
-## KI-Besonderheiten {#ai-particular-case}
+## Besonderheiten von KI {#ai-particular-case}
 
 Wenn Sie denken, dass KI anders genug ist als diese Fälle (oder sogar wenn Sie es nicht tun), ist es nützlich, ihre besondere Situation zu analysieren.
 Die Dinge, die KI anders machen, müssen nicht unbedingt dazu führen, dass sie weniger regulierbar ist.
-Zum Beispiel versuchen wir nicht, [bestehende Produkte und Dienstleistungen zu regulieren, die Menschen bereits nutzen und regelmäßig verwenden](/proposal), und wir gehen nicht gegen viele Unternehmen vor, die lobbyieren oder Arbeiter, die ihre Jobs verlieren könnten, wenn wir erfolgreich sind. Ziemlich das Gegenteil.
+Zum Beispiel [versuchen wir nicht, bestehende Produkte und Dienstleistungen zu regulieren, die Menschen bereits nutzen und regelmäßig verwenden](/proposal), und wir gehen nicht gegen viele Unternehmen vor, die lobbyieren oder Arbeiter, die ihre Jobs verlieren könnten, wenn wir erfolgreich sind. Ziemlich das Gegenteil.
 
 Ein weiterer Punkt, der für uns spricht, ist, dass die Öffentlichkeit nicht parteiisch oder politisch gespalten ist, sondern [vereint in ihrer Unterstützung für Regulierungen](https://drive.google.com/file/d/1n0pXDBuIcb01tW4TQdP1Mb5aAiFDvWk0/view).
 Dennoch müssen wir vorsichtig sein, sie nicht zu verprellen, ihre Perspektiven zu hören und zu sehen, auf welche Weise sie durch eine Pause unterstützt werden können, basierend auf dem, was ihnen wichtig ist. Da viele Menschen noch nicht entschieden haben, welche Art von Regulierung sie unterstützen.
 
 Wenn es um KI-Risiken geht, scheinen die Öffentlichkeit und die Experten [besorgt über die Risiken und interessiert an Regulierungen](/polls-and-surveys) zu sein.
-Die Politiker scheinen, basierend auf den [Politiken, die verabschiedet werden und in Arbeit sind](https://www.bloomberg.com/news/articles/2024-03-13/regulate-ai-how-us-eu-and-china-are-going-about-it), den [Gipfeln, die sie organisieren](/summit), und den [Erklärungen, die sie abgeben](/quotes), ziemlich besorgt zu sein.
+Die Politiker scheinen, basierend auf den [verabschiedeten und in Arbeit befindlichen Richtlinien](https://www.bloomberg.com/news/articles/2024-03-13/regulate-ai-how-us-eu-and-china-are-going-about-it), den [Gipfeln, die sie organisieren](/summit), und den [Erklärungen, die sie abgeben](/quotes), ziemlich besorgt zu sein.
 Sogar ein aktueller [Bericht der US-Regierung](https://time.com/6898967/ai-extinction-national-security-risks-report/) empfiehlt, unter mehreren Vorschlägen, verschiedene Arten von Pausen in der KI-Entwicklung, um Risiken für die nationale Sicherheit und die Menschheit als Ganzes zu vermeiden.
 
 All dies passiert, während PauseAI noch ziemlich jung ist und die meisten Menschen noch nicht von den meisten Risiken gehört haben.
 Wenn wir das Bewusstsein und die Übereinstimmung über existenzielle Risiken erhöhen würden, hätten wir das Potenzial, mainstream zu werden, da praktisch niemand sterben oder die Welt untergehen lassen will.
-Das ist nicht etwas, das im besten Interesse der egoistischsten Unternehmen, Regierungen und Menschen ist.
+Das ist nicht einmal im besten Interesse der egoistischsten Unternehmen, Regierungen und Menschen.
 
 Auch wenn es Zeit braucht, werden die Manifestationen der Probleme, die KI in den nächsten Jahren bringen wird, das Bewusstsein für sie potenzieren und schließlich mehr und mehr Regulierungen auslösen.
-Im Fall, dass wir keine Pause so schnell erreichen, wie wir es gerne hätten, könnten massive Arbeitslosigkeit und alle Arten von Zwischenfällen die meisten Menschen auf dieselbe Seite bringen, entweder schrittweise oder plötzlich, und die Menschen, die eine Pause nicht ernsthaft in Betracht gezogen hätten, dazu bringen, es tatsächlich zu tun.
+Falls wir keine Pause so schnell erreichen, wie wir es gerne hätten, könnten massive Arbeitslosigkeit und alle Arten von Zwischenfällen die meisten Menschen auf dieselbe Seite bringen, entweder schrittweise oder plötzlich, und die Menschen, die eine Pause nicht ernsthaft in Betracht gezogen hätten, dazu bringen, es tatsächlich zu tun.
 Deswegen ist es wichtig, unser Potenzial zum Erfolg nicht auf kurzfristige Ergebnisse zu gründen, sondern immer auf neue Anhänger und Verbündete vorbereitet zu sein und bereit zu sein, Politiker zu führen, um unsere Vorschläge umzusetzen, falls ein Warnschuss passiert.
 
 ## Kollaterale Vorteile {#collateral-benefits}
@@ -108,14 +108,14 @@ Es veranlasst die Menschen, der technischen, politischen und kommunikativen Arbe
 
 Es würde nicht nur neue Menschen und Ressourcen für neue Interventionen bringen, sondern auch dazu beitragen, moderate technische und politische Initiativen als "vernünftiger" erscheinen zu lassen und ihre Chancen auf Unterstützung zu erhöhen.
 
-Außerdem könnte es die Menschen einigermaßen auf die Gefahren vorbereiten, sie lehren, wie man KI ethischer verwendet, und sie sogar davon überzeugen, nicht in gefährliche und unsichere Projekte zu investieren oder daran zu arbeiten.
+Außerdem könnte es die Menschen einigermaßen auf die Gefahren vorbereiten, sie lehren, wie man KI ethischer verwendet, und sie sogar davon überzeugen, nicht in Grenz- und unsichere Projekte zu investieren oder daran zu arbeiten.
 
 ## Geben Sie nicht dem Pessimismus nach {#dont-give-in-to-pessimism}
 
 Wir verstehen, woher die pessimistischen Überzeugungen über starke Regulierungen kommen und dass es nicht einfach sein wird.
 Aber es ist auch nicht einfach, die Zukunft vorherzusagen, und dieser Artikel versucht, gegen die Überzeugung von unserer Machtlosigkeit zu argumentieren, da dies nur als eine sich selbst erfüllende Prophezeiung dienen kann.
 
-Das einzige, was einfach zu tun ist, ist aufzugeben, [der einfache Ausweg](/psychology-of-x-risk#difficult-to-act-on).
+Das einzige, was einfach zu tun ist, ist aufzugeben, [es ist der einfache Ausweg](/psychology-of-x-risk#difficult-to-act-on).
 Denn wenn es nichts gibt, was wir tun können, gibt es nichts, was wir tun sollten.
 Aber wir sollten nicht aufgeben, ohne es zu versuchen.
 Dies ist tatsächlich unsere beste Chance, einen Einfluss auf die Welt und die Zukunft unserer Zivilisation zu haben.
