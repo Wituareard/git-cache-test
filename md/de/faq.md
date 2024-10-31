@@ -20,7 +20,7 @@ description: Häufig gestellte Fragen über PauseAI und die Risiken von superint
 ## Wer sind Sie? {#who-are-you}
 
 Wir sind eine Gemeinschaft von [Freiwilligen](/people) und [lokale Gemeinschaften](/communities), die von einer [gemeinnützigen Organisation](/legal) koordiniert wird, um die [Risiken von KI](/risks) (einschließlich des [Risikos des menschlichen Aussterbens](/xrisk)) zu mildern.
-Wir möchten unsere Regierungen davon überzeugen, einzugreifen und die [Entwicklung von übermenschlicher KI zu pausieren](/proposal).
+Wir möchten unsere Regierungen davon überzeugen, einzugreifen und [die Entwicklung von übermenschlicher KI zu pausieren](/proposal).
 Wir tun dies, indem wir die Öffentlichkeit informieren, mit Entscheidungsträgern sprechen und Proteste organisieren.
 
 Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai), [Telegram](https://t.me/+UeTsIsNkmt82ZmQ8), [Whatsapp](https://chat.whatsapp.com/JgcAbjqRr8X3tvrXdeQvfj) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
@@ -28,7 +28,7 @@ Sie können uns auch per E-Mail kontaktieren: [joep@pauseai.info](mailto:joep@pa
 
 ## Haben Sie nicht einfach Angst vor Veränderungen und neuer Technologie? {#arent-you-just-scared-of-changes-and-new-technology}
 
-Sie könnten überrascht sein, dass die meisten Menschen bei PauseAI sich als Techno-Optimisten betrachten.
+Sie könnten überrascht sein, dass die meisten Menschen bei PauseAI sich selbst als Techno-Optimisten betrachten.
 Viele von ihnen sind in die KI-Entwicklung involviert, sind Gadget-Liebhaber und waren bisher sehr aufgeregt über die Zukunft.
 Insbesondere viele von ihnen waren aufgeregt über das Potenzial von KI, um der Menschheit zu helfen.
 Deshalb war für viele von ihnen die traurige Erkenntnis, dass KI ein existenzielles Risiko darstellen könnte, eine sehr [schwierige zu internalisieren](/psychology-of-x-risk).
@@ -37,7 +37,7 @@ Deshalb war für viele von ihnen die traurige Erkenntnis, dass KI ein existenzie
 
 Nein, nur die Entwicklung der größten allgemeinen KI-Systeme, oft "Frontier-Modelle" genannt.
 Fast alle derzeit existierenden KI-Systeme wären unter [unserem Vorschlag](/proposal) legal, und die meisten zukünftigen KI-Modelle werden auch legal bleiben.
-Wir fordern ein Verbot von KI-Systemen, die leistungsfähiger sind als GPT-4, bis wir wissen, wie wir beweisbar sichere KI bauen können und sie unter demokratischer Kontrolle haben.
+Wir fordern ein Verbot von KI-Systemen, die leistungsfähiger sind als GPT-4, bis wir wissen, wie wir provable sichere KI bauen können und sie unter demokratischer Kontrolle haben.
 
 ## Glauben Sie, dass GPT-4 uns umbringen wird? {#do-you-believe-gpt-4-is-going-to-kill-us}
 
@@ -82,7 +82,7 @@ Fokus auf [die Bewegung zu vergrößern](/growth-strategy), Proteste zu organisi
 - Protestieren zeigt der Welt, dass wir uns um diese Angelegenheit kümmern. Indem wir protestieren, zeigen wir, dass wir bereit sind, unsere Zeit und Energie zu investieren, um die Menschen zum Zuhören zu bringen.
 - Proteste können und werden oft [die öffentliche Meinung, das Wahlverhalten, das Unternehmensverhalten und die Politik positiv beeinflussen](https://www.socialchangelab.org/_files/ugd/503ba4_052959e2ee8d4924934b7efe3916981e.pdf).
 - Die meisten Menschen unterstützen [friedliche/nicht-gewalttätige Proteste](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america).
-- Es gibt [keinen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [es sei denn, der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und nicht-gewalttätig.
+- Es gibt [keinen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [außer der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und nicht-gewalttätig.
 - Es ist eine soziale Bindungserfahrung. Sie treffen andere Menschen, die Ihre Bedenken und Ihre Bereitschaft, Maßnahmen zu ergreifen, teilen.
 - Überprüfen Sie [diesen großartigen Artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) für weitere Einblicke in die Wirksamkeit von Protesten.
 
@@ -157,16 +157,16 @@ Er drängte die existenzielle Risiko-Erzählung nicht voran, er vermied sie akti
 
 Im Mai 2023 änderte sich alles:
 
-- Am 1. Mai kündigte der "Gottvater der KI" Geoffrey Hinton [seinen Job bei Google](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/), um vor existenziellem Risiko zu warnen.
+- Am 1. Mai kündigte der 'Gottvater der KI' Geoffrey Hinton [seinen Job bei Google](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/), um vor existenziellem Risiko zu warnen.
 - Am 5. Mai wurde der [erste PauseAI-Protest angekündigt](https://twitter.com/Radlib4/status/1654262421794717696), direkt vor OpenAIs Haustür.
 - Am 22. Mai veröffentlichte OpenAI [einen Blog-Beitrag über die Regulierung von Superintelligenz](https://openai.com/blog/governance-of-superintelligence) und erwähnte das existenzielle Risiko zum ersten Mal.
 - Am 24. Mai bestätigte der ehemalige Google-CEO Eric Schmidt das existenzielle Risiko.
-- Am 30. Mai wurde die [Safe.ai-Erklärung (zum existenziellen Risiko)](https://www.safe.ai/statement-on-ai-risk) veröffentlicht. Diesmal einschließlich Leute von OpenAI, Google und Microsoft.
+- Am 30. Mai wurde die [Safe.ai-Erklärung (zum existenziellen Risiko)](https://www.safe.ai/statement-on-ai-risk) veröffentlicht. Diesmal einschließlich Menschen von OpenAI, Google und Microsoft.
 
 Diese Unternehmen waren sehr langsam darin, das existenzielle Risiko anzuerkennen, wenn man bedenkt, dass viele ihrer Mitarbeiter sich dessen seit Jahren bewusst sind.
-Also sehen wir es so, dass die KI-Unternehmen die existenzielle Risiko-Erzählung nicht vorantreiben, sondern reagieren, wenn andere sie vorantreiben, und mit ihrer Reaktion warten, bis es absolut notwendig ist.
+Also sehen wir es so, dass die KI-Unternehmen die existenzielle Risiko-Erzählung nicht vorantreiben, sondern reaktiv auf andere reagieren, die sie vorantreiben, und mit ihrer Reaktion gewartet haben, bis es absolut notwendig war.
 
-Die Geschäftsanreize weisen in die andere Richtung: Unternehmen würden lieber nicht die Risiken ihrer Produkte betonen, um Kunden und Investitionen anzuziehen, anstatt sie zu übertreiben.
+Die Geschäftsanreize deuten in die andere Richtung: Unternehmen würden lieber nicht die Risiken ihrer Produkte betonen, um Kunden und Investitionen anzuziehen, anstatt sie zu übertreiben.
 Wie viel strenge Regulierung und negative Aufmerksamkeit laden sich die Unternehmen durch das Eingeständnis dieser Gefahren auf?
 Und würde ein Unternehmen wie OpenAI [20% seiner Rechenressourcen](https://openai.com/blog/introducing-superalignment) für KI-Sicherheit aufwenden, wenn es nicht an die Risiken glauben würde?
 
@@ -180,9 +180,9 @@ Weil die Anerkennung, dass _wir tatsächlich in Gefahr sind_, eine sehr, sehr be
 ## Okay, ich will helfen! Was kann ich tun? {#ok-i-want-to-help-what-can-i-do}
 
 Es gibt viele [Dinge, die Sie tun können](/action).
-Auf eigene Faust können Sie einen [Brief](/writing-a-letter) schreiben, [Flyer](/flyering) verteilen, [lernen](/learn) und andere informieren, sich einem [Protest](/protests) anschließen oder [spenden](/donate).
+Sie können auf eigene Faust einen [Brief schreiben](/writing-a-letter), [Flyer verteilen](/flyering), [lernen](/learn) und andere informieren, sich einem [Protest anschließen](/protests) oder [spenden](/donate).
 Aber noch wichtiger: Sie können [PauseAI beitreten](/join) und sich mit anderen koordinieren, die Maßnahmen ergreifen.
 Überprüfen Sie, ob es [lokale Gemeinschaften](/communities) in Ihrer Nähe gibt.
-Wenn Sie mehr beitragen möchten, können Sie ein Freiwilliger werden und sich einem unserer [Teams](/teams) anschließen oder [eine lokale Gemeinschaft gründen](/local-organizing).
+Wenn Sie mehr beitragen möchten, können Sie ein Freiwilliger werden und sich einem unserer [Teams anschließen](/teams) oder [eine lokale Gemeinschaft gründen](/local-organizing).
 
 Selbst wenn wir dem Ende der Welt gegenüberstehen, kann es immer noch Hoffnung und sehr lohnende Arbeit geben.
