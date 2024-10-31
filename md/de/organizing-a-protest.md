@@ -75,14 +75,14 @@ Aufkleber, Plakate, Kreideschablonen usw.
 Stellen Sie sicher, dass die Menschen wissen, dass der Protest stattfindet.
 Mit einem [QR-Code](https://qrplanet.com/qr-code-generator-svg), der auf die Plattform verlinkt, auf der Sie die Menschen in sozialen Medien sammeln.
 
-### Kontakt mit (lokalen) Medien aufnehmen {#reach-out-to-local-media}
+### Medien kontaktieren {#reach-out-to-local-media}
 
 Journalisten mögen Proteste, und Sie möchten so viel Medienaufmerksamkeit wie möglich erhalten.
 Also kontaktieren Sie Journalisten und senden Sie ihnen Ihre Pressemitteilung.
 Schlagen Sie vor, dass sie zum Protest kommen und dass sie Sie interviewen können.
 Tun Sie dies etwa 24 bis 48 Stunden vor dem Protest.
 
-### Kontakt mit Menschen und Organisationen aufnehmen {#reach-out-to-people-and-organizations}
+### Menschen und Organisationen kontaktieren {#reach-out-to-people-and-organizations}
 
 Erwägen Sie, die Veranstaltung zur Liste der Veranstaltungen von [AI Safety](https://www.aisafety.com/events-and-training), [Effective Altruism](https://forum.effectivealtruism.org/events) und [LessWrong](https://www.lesswrong.com/community) hinzuzufügen.
 Wenn Ihr Protest Teil eines internationalen Protests ist, können die Veranstaltungen bereits existieren.
@@ -115,12 +115,12 @@ Dinge, die Sie bei der Erstellung von Schildern beachten sollten:
 - Keine Schimpfwörter: Schimpfwörter werden oft nicht von Medien veröffentlicht
 - Erkennbarkeit: verwenden Sie das PauseAI-Logo / -Farben (Orange) / -Schriftarten
 
-### Eine Flugblatt-Session durchführen {#do-a-flyering-session}
+### Eine Flugblatt-Verteilung durchführen {#do-a-flyering-session}
 
 Drucken Sie Flugblätter aus, die die Menschen zum Protest einladen.
 Tun Sie dies gemeinsam mit jemand anderem, das ist viel mehr Spaß.
 Wählen Sie einen Ort in der Nähe des Protests - idealerweise den gleichen Ort oder vielleicht einen Ort, an dem Sie erwarten können, dass mehr Freiwillige teilnehmen (z.B. Universitätscampus).
-Erwägen Sie, die Flugblatt-Session genau eine Woche vor dem Protest durchzuführen - zur gleichen Zeit, da die Menschen diesen Ort möglicherweise auf wöchentlicher Basis besuchen und wahrscheinlich auch während des Protests dort sein werden!
+Erwägen Sie, die Flugblatt-Verteilung genau eine Woche vor dem Protest durchzuführen - zur gleichen Zeit, da die Menschen diesen Ort möglicherweise auf wöchentlicher Basis besuchen und wahrscheinlich auch während des Protests dort sein werden!
 
 ### Jemanden finden, der filmt und Fotos macht {#get-someone-to-film--take-pictures}
 
@@ -148,8 +148,8 @@ Idealerweise wird dies von jemandem gemacht, der nicht aktiv am Protest teilnimm
 Einige Tipps für ein großartiges Foto:
 
 - Machen Sie es energiegeladen: halten Sie Schilder hoch, skandieren Sie usw.
-- Vermeiden Sie es, sich zu sehr zu verteilen
-- Machen Sie es zugeschnitten: Nahaufnahmen sind besser, machen Sie es voller
+- Verbreiten Sie sich nicht zu dünn
+- Beschneiden Sie es: Nahaufnahmen sind besser, machen Sie es voller
 - Ein relevanter Hintergrund ist gut: z.B. ein Regierungsgebäude, ein Firmenlogo usw.
 
 Ein großartiges Video:
@@ -161,7 +161,7 @@ Ein großartiges Video:
 ### Mit Menschen sprechen {#speak-to-people}
 
 Verteilen Sie Ihre Flugblätter, führen Sie Gespräche.
-Sie möchten, dass die Menschen über das Thema nachdenken, und Sie möchten, dass sie Ihrer Sache beitreten.
+Sie möchten, dass die Menschen über das Thema nachdenken, und Sie möchten, dass sie sich Ihrer Sache anschließen.
 Also seien Sie freundlich, seien Sie offen und seien Sie bereit, Fragen zu beantworten.
 
 ### Einander interviewen {#interview-each-other}
