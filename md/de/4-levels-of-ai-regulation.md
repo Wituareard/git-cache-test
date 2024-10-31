@@ -11,7 +11,7 @@ Viele Wissenschaftler haben bereits vor dem Risiko des menschlichen Aussterbens 
 
 In diesem Artikel werden wir unser 4-Ebenen-Rahmenwerk für die Regulierung der KI-Sicherheit vorstellen.
 
-## KI-Pipeline als Rahmenwerk für die Sicherheitsgovernance {#ai-pipeline-as-a-framework-for-safety-governance}
+## KI-Pipeline als Rahmenwerk für Sicherheitsgovernance {#ai-pipeline-as-a-framework-for-safety-governance}
 
 Die KI-Erstellungspipeline besteht aus verschiedenen Schritten, die jeweils auf unterschiedliche Weise reguliert werden können.
 Diese Pipeline besteht aus:
@@ -50,34 +50,34 @@ Wenn wir die Bereitstellung regulieren, verhindern wir, dass gefährliche Modell
 Dies bedeutet, dass die Verantwortung bei den Erstellern der Modelle liegt.
 Dies ist eine sicherere Situation als Ebene 1, da wir nun auf eine viel kleinere Gruppe von Menschen angewiesen sind, verantwortungsvoll zu handeln.
 
-Allerdings lassen wir immer noch gefährliche Trainingsläufe zu, so dass Unfälle in KI-Labors (einschließlich der Veröffentlichung gefährlicher KI-Modelle oder der Erstellung von Rogue-KI) immer noch passieren können.
+Allerdings lassen wir immer noch gefährliche Trainingsläufe zu, so dass Unfälle in KI-Labors (einschließlich des Lecks von gefährlichen KI-Modellen oder der Erstellung von Rogue-KI) immer noch passieren können.
 
 ## Ebene 3: Regulierung der Trainingsläufe {#level-3-regulate-training-runs}
 
 Beispiele:
 
-- **Sicherheitsnachweis** vor der Genehmigung zum Trainieren eines bestimmten Modells. Dies kann auch einen formalen Nachweis der Ausrichtung umfassen. [Dieser Beitrag beschreibt einige der aktuellen Sicherheitsprobleme](https://www.lesswrong.com/posts/mnoc3cKY3gXMrTybs/a-list-of-core-ai-safety-problems-and-how-i-hope-to-solve).
-- Festlegung einer **Skalierungsobergrenze für das Training neuer Modelle** (z.B. eine maximale Anzahl von FLOPS). Dies könnte auch den Prozess des Fine-Tunings umfassen.
-- **Lizenzierungspflicht** zum Trainieren von KI-Modellen (oberhalb einer bestimmten Größe / mit bestimmten Fähigkeiten).
+- **Sicherheitsnachweis** vor der Genehmigung zum Training eines bestimmten Modells. Dies kann auch einen formalen Nachweis der Ausrichtung umfassen. [Dieser Beitrag beschreibt einige der aktuellen Sicherheitsprobleme](https://www.lesswrong.com/posts/mnoc3cKY3gXMrTybs/a-list-of-core-ai-safety-problems-and-how-i-hope-to-solve).
+- Festlegung einer **Skalierungsobergrenze für das Training neuer Modelle** (z.B. eine maximale Anzahl von Flops). Dies könnte auch den Prozess des Fine-Tunings umfassen.
+- **Lizenzierung** zum Training von KI-Modellen (oberhalb einer bestimmten Größe / mit bestimmten Fähigkeiten).
 - **Verbot des Trainings auf gefährlichen Datentypen**. Einige Arten von Trainingsdaten können zu [gefährlichen Fähigkeiten](/dangerous-capabilities) führen, wie z.B. Hacking oder die Erstellung von Biowaffen. Wir könnten das Training auf Daten verbieten, die dieses Wissen enthalten.
 - **Verbot des Trainings auf urheberrechtlich geschützten Daten**. Dies zielt nicht direkt auf unsichere Daten ab, aber es limitiert die Menge an Daten, die verwendet werden können, was uns Zeit gibt, um herauszufinden, wie man sichere KI-Modelle baut.
 
 Wenn wir die Trainingsläufe regulieren, verhindern wir, dass gefährliche Modelle überhaupt erstellt werden.
 Dies wird Unfälle in KI-Labors, die sich an die Regulierungen halten, verhindern.
 
-Allerdings lassen wir immer noch die Verbreitung von Hardware und Algorithmen zu, die für das Training gefährlicher Modelle verwendet werden können, so dass wir immer noch auf die Ersteller dieser Modelle angewiesen sind, verantwortungsvoll zu handeln.
+Allerdings lassen wir immer noch die Verteilung von Hardware und Algorithmen zu, die für das Training gefährlicher Modelle verwendet werden können, so dass wir immer noch auf die Ersteller dieser Modelle angewiesen sind, verantwortungsvoll zu handeln.
 
 ## Ebene 4: Regulierung von Hardware und Algorithmen {#level-4-regulate-hardware--algorithms}
 
 Beispiele:
 
-- **Begrenzung der Verbreitung von Trainingshardware**. Spezialisierte Hardware für das Training von KI-Modellen wird schnell zum wichtigsten Produkt von Chip-Herstellern. Die Lieferkette für diese Hardware ist sehr zentralisiert, und die Hardware ist sehr teuer. Dies bedeutet, dass es [relativ einfach ist, die Verbreitung dieser Hardware zu regulieren](https://arxiv.org/abs/2303.11341).
-- **Verbot der Veröffentlichung neuer Trainingsarchitekturen**. Neue KI-Trainingsarchitekturen können zu dramatischen Fähigkeitssteigerungen führen. Das Transformer-Modell ermöglichte beispielsweise nahezu alle jüngsten Fortschritte in der KI. Wir könnten die Veröffentlichung solcher Architekturen beschränken, um plötzliche Fähigkeitssteigerungen zu verhindern.
+- **Begrenzung der Verteilung von Trainingshardware**. Spezialisierte Hardware für das Training von KI-Modellen wird schnell zum wichtigsten Produkt von Chip-Herstellern. Die Lieferkette für diese Hardware ist sehr zentralisiert, und die Hardware ist sehr teuer. Dies bedeutet, dass es [relativ einfach ist, die Verteilung dieser Hardware zu regulieren](https://arxiv.org/abs/2303.11341).
+- **Verbot der Veröffentlichung neuer Trainingsarchitekturen**. Neue KI-Trainingsarchitekturen können zu dramatischen Fähigkeitssteigerungen führen. Das Transformer-Modell ermöglichte beispielsweise nahezu alle jüngsten Fortschritte in der KI. Wir könnten die Veröffentlichung solcher Architekturen limitieren, um plötzliche Fähigkeitssteigerungen zu verhindern.
 
 Wenn wir auch Hardware und Algorithmen regulieren, machen wir es nicht nur illegal, sondern auch sehr schwierig, gefährliche Modelle zu trainieren.
 Dies bietet uns den besten Schutz gegen die Risiken durch KI.
 
-## Einschränkungen {#limitations}
+## Einschränkungen {#limitations-1}
 
 Hinweis: Dieses Rahmenwerk ist nicht perfekt, und nicht alle möglichen Arten von KI-Regulierungen passen sauber in eine der genannten Ebenen.
 Beispielsweise kann die rechtliche Haftung für Modellersteller als Ebene-1-"Nutzung"-Typ-Regulierung eingestuft werden, da sie nach der Bereitstellung durchgesetzt wird, aber sie könnte auch als Ebene-2- oder Ebene-3-Typ-Regulierung eingestuft werden, da sie den Erstellern helfen kann, zu überdenken, ob ein bestimmtes Modell bereitgestellt oder trainiert werden sollte.
