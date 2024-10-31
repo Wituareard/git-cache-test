@@ -6,7 +6,7 @@ description: Gesetzlich vorgeschriebene Informationen über PauseAI.
 ---
 
 Diese Website wird von PauseAI Global betrieben.
-Mehr über die internen Abläufe von PauseAI erfahren Sie auf der [Organisationsseite](/organization).
+Weitere Informationen über die internen Abläufe von PauseAI finden Sie auf der [Organisationsseite](/organization).
 
 ## PauseAI Global (Stichting PauseAI) {#pauseai-global-stichting-pauseai}
 
@@ -40,7 +40,7 @@ Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](
 Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies erreichen, indem wir folgende Maßnahmen ergreifen:
 
 - Eine Gemeinschaft von Freiwilligen aufbauen, um für KI-Sicherheit zu werben.
-- Die Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen informieren.
+- Die Öffentlichkeit durch soziale Medien, das Schreiben von Artikeln, die Teilnahme an [Interviews/Podcasts](/press) und die Organisation von Veranstaltungen informieren.
 - Die Gemeinschaft durch die Organisation von sozialen Veranstaltungen [wachsen](/growth-strategy) lassen.
 - [Spenden](/donate) an Projekte verteilen, die mit unseren Zielen übereinstimmen.
 - [Proteste](/protests) und andere Formen des Aktivismus organisieren, um das Bewusstsein für die Risiken von KI zu schärfen.
@@ -50,7 +50,7 @@ Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten di
 #### Finanzielle Rechenschaftspflicht ("Financieele paragraaf") {#financial-accountability-financieele-paragraaf}
 
 Wir sammeln Gelder, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
-Die Gelder werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Anstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
+Die Gelder werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Einstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
 Wir planen auch, Zuschüsse ("PauseAI MicroGrants") an Freiwillige zu vergeben, die Veranstaltungen organisieren, Inhalte erstellen oder auf andere Weise zu unserer Mission beitragen möchten.
 Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt am Gründungsdatum (13.02.2024) und endet am 31.12.2025, nach dem wir einen Jahresbericht veröffentlichen werden.
 Eingegangene Gelder werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
@@ -58,8 +58,8 @@ Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die übersch
 
 ### Bericht über Aktivitäten {#report-of-activities}
 
-Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) finden Sie auf den jeweiligen Seiten.
-Soziale Medien-Beiträge finden Sie hauptsächlich auf [X](https://x.com/PauseAI).
+Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) kann auf den jeweiligen Seiten gefunden werden.
+Soziale Medien-Beiträge können hauptsächlich auf [X](https://x.com/PauseAI) gefunden werden.
 Unser [Discord-Server](https://discord.gg/T3YrWUJsJ5) ist bei weitem unsere aktivste Gemeinschaft, mit durchschnittlich 100 Nachrichten pro Tag.
 
 ### Vorstand {#board}
