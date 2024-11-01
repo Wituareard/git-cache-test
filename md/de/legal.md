@@ -4,9 +4,8 @@
 title: Rechtliche Informationen
 description: Gesetzlich vorgeschriebene Informationen über PauseAI.
 ---
-
 Diese Website wird von PauseAI Global betrieben.
-Weitere Informationen über die internen Abläufe von PauseAI finden Sie auf der [Organisationsseite](/organization).
+Mehr über die internen Abläufe von PauseAI erfahren Sie auf der [Organisationsseite](/organization).
 
 ## PauseAI Global (Stichting PauseAI) {#pauseai-global-stichting-pauseai}
 
@@ -26,7 +25,7 @@ Im Folgenden finden Sie Informationen über die niederländische juristische Per
 ### ANBI-Status {#anbi-status}
 
 Der ANBI-Status ist ein niederländischer Steuerstatus für gemeinnützige Organisationen.
-Er ermöglicht steuerfreie und steuerabzugsfähige Spenden und andere Vorteile für die Organisation und ihre Spender.
+Er ermöglicht steuerfreie und steuerabzugsfähige Spenden sowie weitere Vorteile für die Organisation und ihre Spender.
 Stichting PauseAI ist seit 13.02.2024 ein registrierter ANBI. Überprüfen Sie den Status [hier](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (Seite auf Niederländisch).
 
 Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/conditions_pbos/which_conditions_must_be_met_by_pbo) erfüllen:
@@ -37,10 +36,10 @@ Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](
 
 ### Politikplan 2024-2025 ("Beleidsplan") {#policy-plan-2024-2025-beleidsplan}
 
-Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies erreichen, indem wir folgende Maßnahmen ergreifen:
+Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies durch folgende Maßnahmen erreichen:
 
 - Eine Gemeinschaft von Freiwilligen aufbauen, um für KI-Sicherheit zu werben.
-- Die Öffentlichkeit durch soziale Medien, das Schreiben von Artikeln, die Teilnahme an [Interviews/Podcasts](/press) und die Organisation von Veranstaltungen informieren.
+- Die Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen informieren.
 - Die Gemeinschaft durch die Organisation von sozialen Veranstaltungen [wachsen](/growth-strategy) lassen.
 - [Spenden](/donate) an Projekte verteilen, die mit unseren Zielen übereinstimmen.
 - [Proteste](/protests) und andere Formen des Aktivismus organisieren, um das Bewusstsein für die Risiken von KI zu schärfen.
@@ -49,17 +48,17 @@ Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten di
 
 #### Finanzielle Rechenschaftspflicht ("Financieele paragraaf") {#financial-accountability-financieele-paragraaf}
 
-Wir sammeln Gelder, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
-Die Gelder werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Einstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
+Wir sammeln Geld, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
+Die Mittel werden verwendet, um die Kosten unserer Aktivitäten wie Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission zu decken.
 Wir planen auch, Zuschüsse ("PauseAI MicroGrants") an Freiwillige zu vergeben, die Veranstaltungen organisieren, Inhalte erstellen oder auf andere Weise zu unserer Mission beitragen möchten.
 Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt am Gründungsdatum (13.02.2024) und endet am 31.12.2025, nach dem wir einen Jahresbericht veröffentlichen werden.
-Eingegangene Gelder werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
-Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die überschüssigen Gelder für zukünftige Aktivitäten sparen.
+Eingegangene Mittel werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
+Wenn wir mehr Mittel erhalten, als wir ausgeben können, werden wir die überschüssigen Mittel für zukünftige Aktivitäten sparen.
 
 ### Bericht über Aktivitäten {#report-of-activities}
 
-Eine Liste von [Medienauftritten](/press) und [organisierten Protesten](/protests) kann auf den jeweiligen Seiten gefunden werden.
-Soziale Medien-Beiträge können hauptsächlich auf [X](https://x.com/PauseAI) gefunden werden.
+Eine Liste der [Medienauftritte](/press) und [organisierten Proteste](/protests) finden Sie auf den jeweiligen Seiten.
+Soziale Medien-Beiträge finden Sie hauptsächlich auf [X](https://x.com/PauseAI).
 Unser [Discord-Server](https://discord.gg/T3YrWUJsJ5) ist bei weitem unsere aktivste Gemeinschaft, mit durchschnittlich 100 Nachrichten pro Tag.
 
 ### Vorstand {#board}
@@ -108,9 +107,9 @@ PauseAI Global ist verantwortlich für:
 - Die Förderung des Wachstums der Bewegung.
 - Die Unterstützung lokaler PauseAI-Einheiten.
 - Diese Website und die Verwaltung der Online-Discord-Gemeinschaft.
-- Die Verwaltung und das Wachstum von Freiwilligen.
+- Freiwilligenmanagement und -wachstum.
 - Globale soziale Medien.
-- Die Organisation digitaler Veranstaltungen.
+- Organisation von digitalen Veranstaltungen.
 - Die globale Strategie und Theorie des Wandels.
 - Die globalen Finanzen und Spendenaktionen.
 - [Microgrants](/microgrants).
@@ -118,6 +117,6 @@ PauseAI Global ist verantwortlich für:
 Die nationalen/lokalen Einheiten sind verantwortlich für:
 
 - Physische Veranstaltungen und Proteste.
-- Die Erlangung lokaler [Medienberichterstattung](/).
+- Lokale [Medienberichterstattung](/).
 - Lokale soziale Medien-Kanäle (z.B. [PauseAI UK](https://twitter.com/PauseAI_UK) und [PauseAI US](https://twitter.com/PauseAIus) Twitter)
 - Nationale politische Arbeit und Feedback.
