@@ -15,18 +15,18 @@ description: Wir organisieren einen Protest bei Google DeepMind, um ein Gipfeltr
 </div>
 </WidgetConsent>
 
-Bitte lesen Sie den Verhaltenskodex für PauseAI-Demonstranten [hier](https://pauseai.info/protesters-code-of-conduct), bevor Sie an dieser Demonstration teilnehmen.
+Bitte lesen Sie den Verhaltenskodex der PauseAI-Protestteilnehmer [hier](https://pauseai.info/protesters-code-of-conduct), bevor Sie an diesem Protest teilnehmen.
 
 Was:
 
-- Legale Demonstration vor Google DeepMind + Sensibilisierung und Rekrutierung vor EAG London
+- Rechtmäßiger Protest vor Google DeepMind + Sensibilisierung und Rekrutierung vor EAG London
 
 Wann und wo:
 
 - 1200-1400 Uhr, Fr, 19. Mai, vor Google DeepMind
 - 1200-1400 Uhr, Sa, 20. und So, 21. Mai, vor EAG London
 - 1700-2000 Uhr, Mo, 22. Mai, vor Google DeepMind
-- In Zukunft: regelmäßige (wöchentliche?) Demonstration?
+- In Zukunft: regelmäßiger (wöchentlicher?) Protest?
 
 Genaue Orte:
 
@@ -39,20 +39,20 @@ Warum:
 - Um die Öffentlichkeit auf die Bedrohung durch die AGI-Entwicklung aufmerksam zu machen
 - Um sozialen Druck auf Google DeepMind und andere KI-Unternehmen aufzubauen
 - Um Momentum für eine soziale Bewegung zu schaffen, die bessere KI-Sicherheit, -Governance und -Ethik fordert
-- Insbesondere, um einen Präzedenzfall für eine regelmäßige (wöchentliche?) Demonstration zu schaffen
+- Insbesondere, um einen Präzedenzfall für einen regelmäßigen (wöchentlichen?) Protest zu schaffen
 
 Wie:
 
-- Wir werden friedlich und gesetzeskonform vor Google DeepMind mit Plakaten und einem Banner stehen, möglicherweise Flyer / Aufkleber / Anstecker an DeepMind-Mitarbeiter und Passanten verteilen
+- Wir werden rechtmäßig und friedlich vor Google DeepMind mit Plakaten und einem Banner stehen, möglicherweise Flyer / Aufkleber / Anstecker an DeepMind-Mitarbeiter und Passanten verteilen
 - Wir werden respektvolle, kooperative Gespräche führen
 - Wir werden möglicherweise Reden halten (wahrscheinlicher) und/oder singen und/oder skandieren (weniger wahrscheinlich)
 - Wir werden möglicherweise auffällige Kostüme tragen
 - Unser Ton wird informativ, inklusiv und humorvoll sein, anstatt konfrontativ und störend
-- Wir zielen darauf ab, bis zu 30 Personen zu dieser ersten Demonstration zu bringen
+- Wir zielen darauf ab, bis zu 30 Personen zu diesem ersten Protest zu bringen
 
-Rechtliches:
+Rechtlich:
 
-- Dies ist eine völlig legale, gesetzeskonforme und nicht-verhaftbare Demonstration
+- Dies ist ein völlig rechtmäßiger, legaler und nicht-verhaftbarer Protest
 - Wir werden auf dem Gehweg (öffentlicher Raum) stehen, nicht auf Privatland
 
 Presse/Medien/Öffentlichkeit:
@@ -76,7 +76,7 @@ Das Problem:
 - Risiko, den Planeten zu zerstören, ist höher als 1% -- [KI-Forscher](https://twitter.com/liron/status/1656929936639430657?s=20)
 - Experten sind besorgt
 - Siehe PauseAI-Zitate von Experten [hier](https://pauseai.info/xrisk)
-- Stoppen Sie das Rennen nach unten
+- Pausieren Sie das Rennen nach unten
 - Was, wenn wir den Stecker nicht ziehen können?
 - Wir haben die Neandertaler ausgerottet; wird KI uns ausrotten?
 - KI, die die Menschheit auslöscht, ist "nicht undenkbar" -- Hinton
@@ -87,15 +87,15 @@ Das Problem:
 
 Die Lösung:
 
-- Pause KI
+- Pausieren Sie KI
 - #pauseAI
 - #justlookup
 - Bauen Sie keine AGI
 - Stoppen Sie den Bau von AGI
 - Moratorium für die AGI-Entwicklung, jetzt
-- Globales KI-Gipfeltreffen, jetzt
-- Globales KI-Abkommen, jetzt
-- Globales KI-Referendum, jetzt [kontroverser]
+- Globaler KI-Gipfel, jetzt
+- Globaler KI-Vertrag, jetzt
+- Globaler KI-Volksentscheid, jetzt [kontroverser]
 
 Das Endergebnis:
 
@@ -106,18 +106,18 @@ Das Endergebnis:
 Weitere Botschaften und Erzählungsideen:
 
 - PauseAI-Website [hier](https://pauseai.info/risks)
-- Campaign for AI Safety (CFAIS)-Ideen für die Testung von Botschaften [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
+- Campaign for AI Safety (CFAIS)-Ideen für die Botschaftentestung [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
 - CFAIS-Erzählungstestergebnisse [hier](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
 
 ## Ausrüstung {#equipment}
 
 Banner
 
-- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) drucken
+- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) darauf drucken
 
 Plakate
 
-- Aufgrund von Zeitmangel und Unsicherheit darüber, was optimale Plakatbotschaften sein werden, plant Alistair derzeit nicht, Plakate in großen Mengen zu drucken
+- Aufgrund von Zeitmangel und Unsicherheit darüber, was optimale Plakatbotschaften sein werden, plant Alistair derzeit nicht, Plakate (in großen Mengen zumindest) zu drucken
 - Jeder ist ermutigt, eigene Plakate zu erstellen und mitzubringen (z.B. mit Karton und einem Sharpie-Stift!)
 - Wenn Sie Plakate drucken möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
@@ -131,6 +131,6 @@ Aufkleber und Anstecker
 
 - Alistair wird versuchen, PauseAI-Aufkleber und -Anstecker zu drucken
 
-## Kontakt {#contact-6}
+## Kontakt {#contact-5}
 
 Alistair Steward ([E-Mail](mailto:achoto@protonmail.com), [Twitter](https://twitter.com/alistair___s))
