@@ -4,7 +4,6 @@
 title: Handeln Sie
 description: Möglichkeiten, bei der Pause der AGI-Entwicklung zu helfen.
 ---
-
 Die Gruppe der Menschen, die sich der Risiken von künstlicher Intelligenz bewusst sind, ist noch klein.
 
 Sie gehören jetzt dazu.
@@ -15,7 +14,7 @@ Hier sind einige Beispiele für das, was Sie tun können.
 
 ## Andere informieren {#inform-others}
 
-- **Teilen** Sie Informationen über die Risiken von künstlicher Intelligenz in sozialen Medien. Diese Website ist ein guter Ausgangspunkt. <!-- Sobald wir ein Intro-Video haben, sollte das unsere erste Wahl sein. Wenn wir weit davon entfernt sind, könnten wir einige offizielle E-Flyer hier teilen? https://drive.google.com/drive/u/1/folders/1c6D_i8U95FUpfrl-eR-oRNoHUf3zghOc -->
+- **Teilen** Sie Informationen über die Risiken von künstlicher Intelligenz in sozialen Medien. Diese Website ist ein guter Ausgangspunkt. <!-- Sobald wir ein Einführungsvideo haben, sollte das unser Standard sein. Wenn wir weit davon entfernt sind, könnten wir hier offizielle E-Flyer teilen? https://drive.google.com/drive/u/1/folders/1c6D_i8U95FUpfrl-eR-oRNoHUf3zghOc -->
 - **Erstellen** Sie [Artikel](/learn#articles), [Videos](/learn#videos) oder [Memes](https://twitter.com/AISafetyMemes).
 - **Sprechen** Sie mit Menschen in Ihrem Leben darüber. Beantworten Sie ihre Fragen und bringen Sie sie dazu, zu handeln. Nutzen Sie unsere [Gegenargumente](/counterarguments), um überzeugender zu sein.
 - [**Infostände**](/tabling) und [**Flyerverteilung**](/flyering) sind großartige Möglichkeiten, viele Menschen in kurzer Zeit zu erreichen.
@@ -33,7 +32,8 @@ Hier sind einige Beispiele für das, was Sie tun können.
 - Überprüfen Sie die [Stellenangebote](/vacancies).
 - Wenn Sie sich freiwillig engagieren möchten, füllen Sie [dieses Formular](https://airtable.com/embed/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form) aus.
 - [**Spenden**](/donate) Sie an PauseAI oder kaufen Sie Merchandise in unserem [Shop](https://pauseai-shop.fourthwall.com/).
-- **Folgen** Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai) und bleiben Sie auf dem Laufenden.
+- **Folgen** Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai) und bleiben Sie auf dem Laufenden,
+  <!-- ICONS in einer Reihe wie im Footer wären besser -->
 
 ## Wenn Sie... {#if-you}
 
