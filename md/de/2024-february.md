@@ -4,7 +4,6 @@
 title: PauseAI / Keine AGI-Demonstration @ OpenAI San Francisco - 12. Februar 2024
 description: Wir organisieren eine Demonstration, um eine Pause bei der Entwicklung gefährlicher KI zu fordern.
 ---
-
 <script>
     import WidgetConsent from '$lib/components/widget-consent/WidgetConsent.svelte'
 </script>
@@ -12,29 +11,29 @@ description: Wir organisieren eine Demonstration, um eine Pause bei der Entwickl
 - PauseAI-Demonstration
 - Wo: San Francisco, OpenAI-Hauptquartier
 - Wann: 12. Februar 2024, 16:30 - 18:00 Uhr
-- [Facebook-Veranstaltung](https://fb.me/e/78BzWmaaj)
+- [Facebook-Event](https://fb.me/e/78BzWmaaj)
 - [Website](https://openaiprotest.com/)
 
-Andere internationale Orte / Zeiten:
+Weitere internationale Orte / Zeiten:
 UK (genauer Ort noch nicht bekannt) / 16:00 Uhr GMT
 
 ## Warum wir gegen OpenAI demonstrieren {#why-we-are-protesting-openai}
 
 OpenAI versucht, eine KI zu entwickeln, die intelligenter ist als Menschen.
-Hunderte von Wissenschaftlern warnen, dass dies das Ende der Menschheit bedeuten könnte.
-Deswegen haben über 33.000 Menschen den Pause-Brief unterzeichnet, in dem sie KI-Unternehmen wie OpenAI auffordern, ihre Forschung zu stoppen.
-Sogar Sam Altman, der CEO von OpenAI, hat gesagt, dass man die Notbremse ziehen sollte, wenn "KI-Modelle auf eine Weise verbessert werden, die wir nicht vollständig verstehen".
-In einem anderen Interview sagte Sam, dass die Vorhersage von Fähigkeiten ein "unterhaltsames Ratespiel" für OpenAI-Mitarbeiter sei.
+Hunderte von Wissenschaftlern warnen davor, dass dies das Ende der Menschheit bedeuten könnte.
+Deswegen haben über 33.000 Menschen den Pause-Brief unterzeichnet, in dem sie Unternehmen wie OpenAI auffordern, ihre Forschung zu stoppen.
+Sogar Sam Altman, der CEO von OpenAI, hat gesagt, dass man die Notbremse ziehen sollte, ["wenn KI-Modelle auf Weisen verbessert werden, die wir nicht vollständig verstehen"](https://time.com/6288584/openai-sam-altman-full-interview/).
+In einem anderen Interview sagte Sam, dass die Vorhersage von Fähigkeiten ein ["unterhaltsames Ratespiel"](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded) für OpenAI-Mitarbeiter sei.
 Mit anderen Worten: Selbst OpenAI versteht nicht, wie ihre Modelle verbessert werden.
 Es ist Zeit, die Notbremse zu ziehen.
 
 ## Schließt euch uns an und sagt OpenAI: "Hört auf, mit dem Pentagon zusammenzuarbeiten!" {#join-us-and-tell-openai-stop-working-with-the-pentagon}
 
-Am 10. Januar hat OpenAI ohne Ankündigung die Sprache in seiner Nutzungsrichtlinie gelöscht, die besagte, dass OpenAI nicht zulässt, dass seine Modelle für "Aktivitäten mit hohem Risiko" wie "Militär und Krieg" verwendet werden. Dann berichtete TIME am 17. Januar, dass OpenAI das Pentagon als Kunden aufnehmen würde. Am 12. Februar werden wir OpenAI auffordern, seine Beziehung zum Pentagon zu beenden und keine militärischen Kunden aufzunehmen. Wenn ihre ethischen und Sicherheitsgrenzen aus Bequemlichkeit revidiert werden können, können sie nicht vertrauenswürdig sein.
+Am 10. Januar hat OpenAI ohne Ankündigung die Sprache in seiner Nutzungsrichtlinie gelöscht, die besagte, dass OpenAI nicht zulässt, dass seine Modelle für "Aktivitäten mit hohem Risiko" wie "Militär und Krieg" verwendet werden. Dann berichtete TIME am 17. Januar, dass OpenAI das Pentagon als Kunden aufnehmen würde. Am 12. Februar werden wir von OpenAI fordern, seine Beziehung zum Pentagon zu beenden und keine militärischen Kunden aufzunehmen. Wenn ihre ethischen und Sicherheitsgrenzen aus Bequemlichkeit revidiert werden können, können sie nicht vertrauenswürdig sein.
 
-KI wird rapide immer leistungsfähiger, viel schneller als fast jeder KI-Wissenschaftler vorhergesagt hat. Milliarden werden in KI-Fähigkeiten investiert, und die Ergebnisse sind atemberaubend. Neue Modelle überbieten Menschen in vielen Bereichen. Mit zunehmenden Fähigkeiten steigen auch die Risiken. Wissenschaftler warnen sogar, dass KI die Menschheit zerstören könnte.
+KI wird rapide immer leistungsfähiger, viel schneller als fast jeder KI-Wissenschaftler vorhergesagt hat. Milliarden werden in KI-Fähigkeiten investiert, und die Ergebnisse sind atemberaubend. Neue Modelle überbieten Menschen in vielen Bereichen. Mit zunehmenden Fähigkeiten steigen auch die Risiken. Wissenschaftler warnen sogar davor, dass KI die Menschheit zerstören könnte.
 
-Laut ihrer Satzung ist "OpenAIs Mission, sicherzustellen, dass künstliche allgemeine Intelligenz (AGI) - mit der wir hochautonome Systeme meinen, die Menschen bei allen wirtschaftlich wertvollen Arbeiten überbieten - allen Menschen zugutekommt". Aber viele Menschen schätzen ihre Arbeit und finden Sinn darin, und daher wollen sie nicht, dass ihre Jobs von einer AGI übernommen werden. Was der Protest-Mitorganisator Sam Kirchner von No AGI den "psychologischen Bedrohung" nennt, gilt auch, wenn AGI uns nicht tötet.
+Laut ihrer Satzung ist "OpenAIs Mission, sicherzustellen, dass künstliche allgemeine Intelligenz (AGI) - mit der wir hochautonome Systeme meinen, die Menschen bei allen wirtschaftlich wertvollen Arbeiten überbieten - allen Menschen zugutekommt." Aber viele Menschen schätzen ihre Arbeit und finden Sinn darin, und daher wollen sie nicht, dass ihre Jobs von einer AGI übernommen werden. Was der Mitorganisator der Demonstration, Sam Kirchner von No AGI, den "psychologischen Bedrohung" nennt, gilt auch, wenn AGI uns nicht tötet.
 
 ## Kontakt {#contact-3}
 
