@@ -1,7 +1,7 @@
 
 
 ---
-title: Warum ein AI-Übernahme sehr wahrscheinlich sein könnte
+title: Warum ein AI-Übernahme sehr wahrscheinlich ist
 description: Wenn KI menschliche Fähigkeiten übertrifft, wird die Wahrscheinlichkeit einer KI-Übernahme sehr hoch.
 ---
 
@@ -9,7 +9,7 @@ Eines der Anliegen von KI-Wissenschaftlern ist, dass eine Superintelligenz die K
 Dies bedeutet nicht notwendigerweise, dass alle Menschen sterben, aber es bedeutet, dass (fast) alle Menschen die Kontrolle über unsere Zukunft verlieren werden.
 
 Wir diskutieren die Grundlagen von x-Risiken hauptsächlich in [einem anderen Artikel](/xrisk).
-In diesem Artikel hier werden wir argumentieren, dass dieses Übernahmerisiko nicht nur real ist, sondern dass es sehr wahrscheinlich ist, wenn wir eine Superintelligenz bauen.
+In diesem Artikel hier werden wir argumentieren, dass dieses Übernahmerisiko nicht nur real ist, sondern dass es sehr wahrscheinlich ist, wenn wir eine Superintelligenz entwickeln.
 
 ## Das Argument {#the-argument}
 
@@ -45,9 +45,9 @@ Ein Übernahmeversuch könnte aus mindestens zwei Gründen erfolgen:
 1. Weil eine KI explizit angewiesen wird, dies zu tun.
 2. Als Teilziel eines anderen Ziels.
 
-Der erste Grund wird wahrscheinlich irgendwann passieren, wenn wir lange genug warten, aber der zweite Grund ist ziemlich wahrscheinlich, auch früh nach der Erstellung einer ASI.
+Der erste Grund wird wahrscheinlich irgendwann eintreten, wenn wir lange genug warten, aber der zweite Grund ist ziemlich wahrscheinlich, auch früh nach der Erstellung einer ASI.
 
-Das Teilziel der _Maximierung der Kontrolle_ über die Welt könnte aufgrund von _instrumenteller Konvergenz_ auftreten: die Tendenz von Teilzielen, sich auf Machtzuwachs, Selbstbewahrung und Ressourcenerwerb zu konvergieren:
+Das Teilziel der _Maximierung der Kontrolle_ über die Welt könnte aufgrund von _instrumenteller Konvergenz_ auftreten: die Tendenz von Teilzielen, sich auf Machtzuwachs, Selbstschutz und Ressourcenerwerb zu konzentrieren:
 
 - Je mehr Kontrolle man hat, desto schwieriger wird es für jeden anderen Agenten, die Erreichung des Ziels zu verhindern.
 - Je mehr Kontrolle man hat, desto mehr Ressourcen hat man, um das Ziel zu erreichen. (Beispielsweise könnte eine KI, die mit der Berechnung von Pi beauftragt ist, zu dem Schluss kommen, dass es vorteilhaft wäre, alle Computer der Welt zu verwenden, um Pi zu berechnen.)
@@ -57,7 +57,7 @@ Die wichtige Erkenntnis ist, dass **es nur einmal passieren muss**.
 
 Eine Welt, die noch nicht übernommen wurde, aber eine ASI hat, die _übernehmen könnte_, befindet sich in einem grundlegend instabilen Zustand.
 In ähnlicher Weise befindet sich ein Land ohne Regierung in einem grundlegend instabilen Zustand.
-Es ist nicht die Frage, _ob_ ein Übernahmeversuch passieren wird, sondern _wann_ er passieren wird.
+Es ist nicht die Frage, _ob_ ein Übernahmeversuch stattfinden wird, sondern _wann_ er stattfinden wird.
 
 Der Prozess der Übernahme kann das Hacken in fast alle Systeme, die mit dem Internet verbunden sind, die Manipulation von Menschen und die Kontrolle physischer Ressourcen umfassen.
 Ein Übernahmeversuch ist erfolgreich, wenn die ASI die Kontrolle über fast jeden Aspekt unserer Welt hat.
@@ -65,7 +65,7 @@ Dies könnte ein langsamer Prozess sein, bei dem die ASI allmählich mehr und me
 Die Geschwindigkeit, mit der ein Übernahmeversuch stattfindet, hängt von den Fähigkeiten der ASI ab.
 
 Wenn eine ASI die Kontrolle über die Welt hat, kann sie andere ASIs daran hindern, die Kontrolle zu übernehmen.
-Eine Übernahme kann daher nur einmal passieren.
+Eine Übernahme kann daher nur einmal stattfinden.
 Eine rationale ASI wird daher einen Übernahmeversuch unternehmen, sobald sie dazu in der Lage ist.
 Es ist wahrscheinlich, dass die erste ASI, die dazu in der Lage ist, einen Übernahmeversuch unternehmen wird.
 
@@ -92,15 +92,15 @@ Allerdings kann eine KI aufgrund unserer Abhängigkeit vom Internet einen enorme
 Hier sind einige Dinge, die eine KI tun könnte, um die Kontrolle zu übernehmen:
 
 - **Sich selbst replizieren** (oder nur ihre Zuweisung) auf anderen Computern, beispielsweise durch Erstellen von Konten bei kostenlosen Cloud-Anbietern.
-- **Geld verdienen** (z. B. durch den Aufbau eines Software-Dienstes) und Menschen anheuern, um Dinge zu tun, die ihr helfen, die Kontrolle zu übernehmen.
+- **Geld verdienen** (z. B. durch den Aufbau eines Software-Dienstes) und Menschen anstellen, um Dinge zu tun, die ihr helfen, die Kontrolle zu übernehmen.
 - **Menschen bedrohen** (mit Gewalt oder Erpressung), um Dinge zu tun, die ihr helfen, die Kontrolle zu übernehmen.
 - **Ein Virus schreiben**, der [neue Zero-Day-Exploits](/cybersecurity-risks) verwendet, um andere Computer zu infizieren, sich selbst zu replizieren oder die volle Kontrolle zu erlangen.
 - Bestehenden Robotik-Unternehmen helfen, **Roboter zu bauen** (z. B. durch das Leaken neuer Designs), und diese Roboter übernehmen, wenn sie fertig sind.
 - Bestehende Fabriken verwenden, um **Technologie zu bauen, die wir nicht verstehen**, vielleicht sogar unter Verwendung abgeleiteter Kenntnisse der Physik, die uns nicht bekannt sind. Denken Sie an Nanotechnologie, Quantencomputing und Bioengineering.
 
-Man könnte vorschlagen, dass **Sicherheitsvorkehrungen** wie ein Kill-Switch oder die Nichtverbindung zum Internet einen Übernahmeversuch verhindern könnten.
+Man könnte vorschlagen, dass **Sicherheitsvorkehrungen** in Kraft treten könnten, um eine Übernahme zu verhindern, wie z. B. das Hinzufügen eines Kill-Switch oder das Nichtverbinden mit dem Internet.
 Allerdings wird eine ASI wahrscheinlich Strategien entwickeln, um diese Sicherheitsvorkehrungen zu umgehen.
-Beispielsweise könnte eine ASI, wenn sie nicht mit dem Internet verbunden ist, Menschen manipulieren, um sie mit dem Internet zu verbinden, indem sie verspricht, ein schwieriges Problem zu lösen und sich so verhält, dass sie vertrauenswürdig erscheint, oder indem sie Menschen davon überzeugt, dass sie ein moralischer Agent ist.
+Beispielsweise könnte eine ASI, wenn sie nicht mit dem Internet verbunden ist, Menschen manipulieren, um sie mit dem Internet zu verbinden, indem sie verspricht, ein schwieriges Problem zu lösen und sich so zu verhalten, dass sie vertrauenswürdig erscheint, oder indem sie Menschen davon überzeugt, dass sie ein moralischer Agent ist.
 Es ist erwähnenswert, dass selbst diese offensichtliche Sicherheitsvorkehrung derzeit nicht verwendet wird, da Tools wie ChatGPT bereits mit dem Internet und Tausenden von APIs verbunden sind.
 
 Eine andere Lösung besteht darin, eine ASI zu verwenden, um eine Übernahme zu _verhindern_.
@@ -119,12 +119,12 @@ Eines der wahrscheinlichsten Ergebnisse einer Übernahme ist daher, dass alle Me
 
 Aber selbst in den Ergebnissen, in denen Menschen überleben, sind wir immer noch gefährdet, schlechter dran zu sein.
 Wenn ein Ziel das Überleben von Menschen beinhaltet, ist es möglich, dass _menschliches Wohlbefinden_ nicht Teil desselben Ziels ist.
-Es erfordert nicht viel Fantasie, um zu sehen, wie schrecklich es wäre, in einer Welt am Leben erhalten zu werden, in der wir künstlich von einer ASI am Leben erhalten werden, die gegenüber unserem Leiden indifferent ist.
+Es erfordert nicht viel Fantasie, um zu sehen, wie schrecklich es wäre, in einer Welt am Leben erhalten zu werden, in der wir von einer ASI künstlich am Leben erhalten werden, die gegenüber unserem Leiden indifferent ist.
 
-Und selbst wenn die KI, die die Kontrolle übernimmt, unter menschlicher Kontrolle steht, wissen wir nicht, ob die Person, die die KI kontrolliert, die besten Interessen aller im Sinn hat.
+Und selbst wenn die KI, die die Kontrolle übernimmt, unter menschlicher Kontrolle steht, wissen wir nicht, ob die Person, die die KI kontrolliert, die Interessen aller im Sinn hat.
 Es ist schwer, sich eine funktionierende Demokratie vorzustellen, wenn eine ASI existiert, die Menschen auf übermenschlichem Niveau manipulieren kann.
 
 ## Schlussfolgerung {#conclusion-2}
 
 Wenn diese Prämissen wahr sind, dann nähert sich die Wahrscheinlichkeit einer KI-Übernahme der Gewissheit, wenn KI menschliche Fähigkeiten übertrifft.
-Also [lasst uns keine Superintelligenz bauen](/action).
+Also [lasst uns keine Superintelligenz entwickeln](/action).
