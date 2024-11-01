@@ -4,7 +4,6 @@
 title: PauseAI-Proteste
 description: Wann und wo wir protestieren werden.
 ---
-
 **Siehe unsere [Veranstaltungen](/events) für bevorstehende Proteste.**
 
 ## Vergangene Proteste {#past-protests}
