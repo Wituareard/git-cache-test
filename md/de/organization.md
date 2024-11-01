@@ -13,7 +13,7 @@ Willkommen bei PauseAI!
 - [Menschen (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
 - [Teams](/teams): Unsere Freiwilligen arbeiten in allen möglichen Teams. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste der Mitglieder. Kontaktieren Sie einen Teamleiter, um einem Team beizutreten!
 - [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die in der Regel ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit.
-- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrer Nähe gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
+- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrem Gebiet gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
 
 ![Organigramm](/org.png)
 
@@ -29,7 +29,7 @@ Willkommen bei PauseAI!
 - [Flyer verteilen](/flyering): Wie man effektiv Flyer verteilt
 - [Gegenargumente](/counterarguments)
 - [Organisation einer Demonstration](/organizing-a-protest)
-- [Lernen Sie mehr über AI-Sicherheit](/learn)
+- [Lernen Sie mehr über KI-Sicherheit](/learn)
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
 - [US-Lobby-Leitfaden](/us-lobby-guide)
@@ -44,7 +44,7 @@ Willkommen bei PauseAI!
 
 ## Weitere nützliche Links {#other-useful-links}
 
-- [Kostenloses Buch über AI-X-Risiko: Unkontrollierbar](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
+- [Kostenloses Buch über KI-X-Risiko: Unkontrollierbar](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
 - [Google-Kalender-Link](https://calendar.google.com/calendar/u/0?cid=Y19mNWE4YWYyMDZlNjM1ODc2NjVjNmU4MzAzOTgzZmVmYWYzYTBjNjE0NGRiMGFhNDljOTcwZWZhNTEwYTNkODY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [Anonymes Feedback-Formular](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form): Wenn Sie uns kritische Gedanken mitteilen möchten, während Sie anonym bleiben.
 - [Mikrosubventionen](/microgrants): Wenn Sie eine Finanzierung für Ihr PauseAI-bezogenes Projekt/Event benötigen
@@ -60,7 +60,7 @@ Willkommen bei PauseAI!
 
 ## Social Media {#social-media}
 
-Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
+Sie finden uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/).
 Sie können uns kontaktieren unter [joep@pauseai.info](mailto:joep@pauseai.info).
 
 ## Design-Ressourcen (Flyer, Poster, Logo) {#design-resources-flyers-posters-logo}
