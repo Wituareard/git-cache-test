@@ -30,7 +30,7 @@ Und doch sind Rechenzentren nur eine Stufe im Lebenszyklus von KI.
 
 Die heutige KI ist natürlich nicht „lebendig“.
 
-KI sieht noch nicht aus wie die frei beweglichen Roboter, die wir in Filmen sehen. KI läuft in Rechenzentren auf Hardware, die sich abnutzt und alle ~4 Jahre ersetzt wird.
+KI sieht noch nicht aus wie die frei beweglichen Roboter, die wir in Filmen sehen. KI ist in Rechenzentren gefangen, auf Hardware, die sich abnutzt und alle ~4 Jahre ersetzt wird.
 
 Aber die Herstellung dieser Hardware erfordert [hunderte](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6237170/#!po=17.9245) [krebserregende Chemikalien](https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it).
 Die benötigten Materialien wurden bei glühenden Temperaturen geschmolzen und wieder zusammengesetzt.
