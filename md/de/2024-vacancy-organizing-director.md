@@ -5,13 +5,13 @@ title: Stelle als Organisationsleiter bei PauseAI Global
 description: PauseAI sucht einen Organisationsleiter, um die Organisation zu unterstützen und lokale Gruppen zu koordinieren.
 ---
 
-Möchten Sie einen Einfluss ausüben und an dem wichtigsten Thema der Welt arbeiten?
+Möchten Sie einen Unterschied machen und an dem wichtigsten Thema der Welt arbeiten?
 
 ## Über PauseAI {#about-pauseai}
 
 PauseAI ist eine junge, internationale gemeinnützige Organisation mit dem Ziel, die Entwicklung von künstlicher Intelligenz (KI) zu verhindern, die (viel) intelligenter ist als die Menschheit.
-Eine überwältigende Mehrheit von [86 % der KI-Wissenschaftler](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) glaubt, dass wir, wenn wir diesen Punkt erreichen, die Kontrolle verlieren könnten.
-Die [drei größten KI-Wissenschaftler](https://twitter.com/PauseAI/status/1734641804245455017) warnen uns seit langem: dies könnte das Ende der Menschheit bedeuten.
+Eine überwältigende Mehrheit von [86% der KI-Forscher](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) glaubt, dass wir, wenn wir diesen Punkt erreichen, die Kontrolle verlieren könnten.
+Die [drei größten KI-Forscher](https://twitter.com/PauseAI/status/1734641804245455017) warnen uns seit langem: dies könnte das Ende der Menschheit bedeuten.
 
 PauseAI wurde im April 2023 gegründet und ist seitdem auf 2000 Mitglieder, über 100 [registrierte Freiwillige](/people) und Dutzende von [lokalen Gruppen](/communities) auf der ganzen Welt angewachsen.
 
@@ -26,7 +26,7 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 
 - Kontakt zu verschiedenen Freiwilligen und [Teams](/teams) innerhalb von PauseAI aufrechterhalten und verwalten.
 - Coaching und Unterstützung von Teams und Leitern von [lokalen](/communities) und [nationalen Gruppen](/national-groups).
-- Entwurf und Implementierung einer [organisatorischen Struktur](/organization) und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
+- Entwicklung und Implementierung einer [organisatorischen Struktur](/organization) und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
 - Entwicklung und Verwaltung von Materialien für lokale und nationale PauseAI-Gruppen.
 - Erstellung von Social-Media-Inhalten (Text, Video), um Mitglieder zu informieren, zu motivieren und zu inspirieren.
 
@@ -35,7 +35,7 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 - Ein Generalist mit Führungserfahrung.
 - Erfahrung mit Aktivismus und Community-Building.
 - Hervorragende Kommunikationsfähigkeiten, sowohl mündlich als auch schriftlich.
-- Unterstützt die Idee eines KI-Pauses, aber offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien).
+- Unterstützt die Idee eines KI-Moratoriums, aber offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien).
 - Proaktiv und unternehmerisch.
 - Vorzugsweise mit Sitz in den Niederlanden, aber Remote-Arbeit ist auch möglich.
 - Verständnis für KI-Sicherheit; Expertise ist nicht erforderlich, aber muss ein schneller Lerner sein.
