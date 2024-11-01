@@ -4,8 +4,7 @@
 title: Wie man einen Brief oder eine E-Mail an eine Person mit Einfluss schreibt
 description: Eine Anleitung zum Schreiben eines Lobby-Briefs
 ---
-
-_Auch als [Präsentation für Workshops](https://tiny.cc/emaillobby) verfügbar_
+_Also verfügbar als [Präsentation für Workshops](https://tiny.cc/emaillobby)_
 
 Letztendlich lobbyieren wir, um die Entscheidungen von Menschen mit Einfluss zu beeinflussen.
 Das Senden einer E-Mail oder das Schreiben eines Briefs kann eine der direktesten und effektivsten Möglichkeiten sein, die Aufmerksamkeit einer Person mit Einfluss zu erhalten.
@@ -30,9 +29,9 @@ Das Erstellen einer hochgradig personalisierten Nachricht von Grund auf nach den
 - **Passendes Kompliment**. Machen Sie es persönlich, machen Sie es spezifisch, machen Sie es relevant.
 - **Stellen Sie sich vor**. Machen Sie es wieder persönlich. Warum schreiben Sie dies? Warum sollten sie Ihnen zuhören?
 - **Diskutieren Sie das Problem**. Geben Sie viele Links zu Quellen an. Verwenden Sie autoritative Quellen und Namen (z.B. Turing-Preisträger Hinton, Bengio) und Statistiken (14% durchschnittliches Aussterberisiko durch künstliche Intelligenz).
-- **Diskutieren Sie die Lösung**. Die Pause. Was bedeutet sie? Was beeinflusst sie? Diskutieren Sie, warum wir eine Pause benötigen, und warum der offene Brief nicht in der Lage war, sie zu erreichen (Marktdynamik, wir benötigen internationale Regulierung). Wenden Sie sich einigen der häufigen Beschwerden zu (z.B.).
+- **Diskutieren Sie die Lösung**. Die Pause. Was bedeutet sie? Was beeinflusst sie? Diskutieren Sie, warum wir eine Pause benötigen, und warum der offene Brief sie nicht erreicht hat (Marktdynamik, wir benötigen internationale Regulierung). Wenden Sie sich an einige der häufigen Beschwerden (z.B.)
 - **Diskutieren Sie die Dringlichkeit**. Warum müssen sie jetzt handeln? Diskutieren Sie, wie praktisch alle KI-Forscher von der Geschwindigkeit der jüngsten Fortschritte überrascht wurden, wie viel Geld und Forscher jetzt hinzugefügt werden. Die Pause kann nicht warten, bis zum Gipfel, wir können nicht riskieren, wieder falsch zu liegen. Wir müssen auf der Seite der Vorsicht sein.
-- **Bitten Sie**. Was möchten Sie, dass sie tun? Machen Sie Ihre Bitte sehr konkret. Z.B.: bringen Sie die Pause in der nächsten Sitzung zur Sprache und diskutieren Sie sie mit anderen Personen mit Einfluss. Bitten Sie sie, Ihnen zu antworten, und bitten Sie sie, Sie über ihre Fortschritte auf dem Laufenden zu halten. Oder noch besser: bitten Sie sie, sich mit Ihnen zu treffen. Geben Sie einen konkreten Zeitraum an, in dem Sie verfügbar sind.
+- **Bitten Sie**. Was möchten Sie, dass sie tun? Machen Sie Ihre Bitte sehr konkret. Z.B.: bringen Sie die Pause in der nächsten Sitzung zur Sprache und diskutieren Sie sie mit anderen Menschen mit Einfluss. Bitten Sie sie, Ihnen zu antworten, und bitten Sie sie, Sie über ihre Fortschritte auf dem Laufenden zu halten. Oder noch besser: bitten Sie sie, sich mit Ihnen zu treffen. Geben Sie einen konkreten Zeitraum an, in dem Sie verfügbar sind.
 
 ## Tipps {#tips}
 
