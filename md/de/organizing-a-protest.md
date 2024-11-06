@@ -12,14 +12,14 @@ Man kann jedoch mehr erreichen, indem man aufstockt und mehr tut, und wir sind h
 
 ## Warum Proteste wirken {#why-protesting-works}
 
-- Proteste zeigen der Welt, dass wir uns um diese Angelegenheit kümmern. Durch Proteste zeigen wir, dass wir bereit sind, unsere Zeit und Energie aufzubringen, um die Menschen zum Zuhören zu bringen.
+- Proteste zeigen der Welt, dass wir uns um diese Angelegenheit kümmern. Durch Proteste zeigen wir, dass wir bereit sind, unsere Zeit und Energie zu investieren, um die Menschen zum Zuhören zu bringen.
 - Proteste können und werden oft [die öffentliche Meinung, das Wahlverhalten, das Verhalten von Unternehmen und die Politik positiv beeinflussen](https://www.socialchangelab.org/_files/ugd/503ba4_052959e2ee8d4924934b7efe3916981e.pdf).
-- Die meisten Menschen [unterstützen friedliche/nicht-gewalttätige Proteste](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america).
-- Es gibt [keinen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949), [es sei denn, der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und nicht-gewalttätig.
-- Es ist eine soziale Bindungserfahrung. Man trifft andere Menschen, die dieselben Bedenken und die Bereitschaft zur Aktion teilen.
+- Die meisten Menschen [unterstützen friedliche/nicht gewalttätige Proteste](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america).
+- Es gibt [keinen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949), [es sei denn, der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und nicht gewalttätig.
+- Es ist eine soziale Bindungserfahrung. Man trifft andere Menschen, die die gleichen Bedenken und die gleiche Bereitschaft zur Aktion teilen.
 - Lesen Sie [diesen großartigen Artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) für weitere Einblicke in die Wirksamkeit von Protesten.
 
-## Vorbereitung {#preparation-1}
+## Vorbereitung {#preparation}
 
 ### Um Hilfe bitten {#ask-for-help}
 
@@ -40,8 +40,8 @@ Wenn Ihr Datum auch relevant ist (z.B. weil es an diesem Ort ein relevantes Erei
 ### Eine Erzählung wählen und eine Pressemitteilung schreiben (optional) {#choose-a-narrative-and-write-a-press-release-optional}
 
 Sie möchten eine klare Forderung haben.
-Eine Pause bei AI ist ziemlich klar, aber oft können Sie spezifischer sein.
-Fordern Sie eine bestimmte Regierung oder einen bestimmten Politiker auf, eine Pause bei AI zu unterstützen?
+Eine Pause bei KI ist ziemlich klar, aber oft kann man spezifischer sein.
+Fordern Sie eine bestimmte Regierung oder einen bestimmten Politiker auf, eine Pause bei KI zu unterstützen?
 Sobald Sie genau wissen, warum Sie an diesem Ort und zu diesem Zeitpunkt protestieren, können Sie an einer Pressemitteilung arbeiten.
 
 Dies ist ein kurzes Dokument, das den Protest ankündigt und erklärt, warum er wichtig ist.
@@ -59,7 +59,7 @@ Aktualisieren Sie auch die `protests.md`-Datei, um auf den Protest zu verlinken.
 ### Eine Veranstaltungsseite erstellen {#create-an-event-page}
 
 Fügen Sie die Veranstaltung zu [dieser Website](/events) hinzu, die dann separat über Luma geteilt werden kann, um Menschen einzuladen. Oder verwenden Sie ein anderes RSVP-Tool wie Facebook.
-Sie können auch entscheiden, auf eine Whatsapp-Gruppe oder etwas Ähnliches zu verlinken.
+Sie können auch entscheiden, auf eine WhatsApp-Gruppe oder etwas Ähnliches zu verlinken.
 Der wichtige Teil ist, dass Sie die Menschen über das, was passieren wird, auf dem Laufenden halten können.
 
 ### Die Veranstaltung auf sozialen Medien teilen {#share-the-event-on-social-media}
@@ -88,7 +88,7 @@ Erwägen Sie, die Veranstaltung zur Liste der Veranstaltungen von [AI Safety](ht
 Wenn Ihr Protest Teil eines internationalen Protests ist, können die Veranstaltungen bereits existieren.
 
 Gibt es eine [Effective Altruists-Gruppe in Ihrer Stadt](https://forum.effectivealtruism.org/groups#local)?
-Oder eine [lokale AI-Sicherheitsgruppe](https://www.aisafety.com/communities)?
+Oder eine [lokale KI-Sicherheitsgruppe](https://www.aisafety.com/communities)?
 Kontaktieren Sie sie, lassen Sie sie Ihre Einladung verbreiten.
 Halten Sie sie über den Protest auf dem Laufenden, machen Sie sie zum Teil des Prozesses.
 
@@ -119,12 +119,12 @@ Dinge, die Sie bei der Erstellung von Schildern beachten sollten:
 
 Drucken Sie Flugblätter aus, die die Menschen zum Protest einladen.
 Tun Sie dies gemeinsam mit jemand anderem, das ist viel mehr Spaß.
-Wählen Sie einen Ort in der Nähe des Protests - idealerweise denselben Ort oder vielleicht einen Ort, an dem Sie erwarten können, dass mehr Freiwillige teilnehmen (z.B. Universitätscampus).
+Wählen Sie einen Ort in der Nähe des Protests - idealerweise den gleichen Ort oder vielleicht einen Ort, an dem Sie erwarten können, dass mehr Freiwillige teilnehmen (z.B. Universitätscampus).
 Erwägen Sie, die Flugblatt-Verteilung genau eine Woche vor dem Protest durchzuführen - zur gleichen Zeit, da die Menschen diesen Ort möglicherweise auf wöchentlicher Basis besuchen und wahrscheinlich auch während des Protests dort sein werden!
 
 ### Jemanden finden, der filmt und Fotos macht {#get-someone-to-film--take-pictures}
 
-Ihre Wirkung wird viel größer sein, wenn Sie Fotos und Videos des Protests teilen können.
+Ihre Wirkung wird viel größer sein, wenn Sie Bilder und Videos des Protests teilen können.
 Also finden Sie jemanden, der den Protest filmt und Fotos macht.
 
 ### Eine Rede vorbereiten {#prepare-a-speech}
@@ -142,13 +142,13 @@ Bereiten Sie einige Zitate im Voraus vor, überlegen Sie sich die Botschaft, die
 
 ### Ein großartiges Bild (und Videos!) machen {#make-an-amazing-picture-and-videos}
 
-Stellen Sie sicher, dass Sie Fotos und Videos des Protests haben.
+Stellen Sie sicher, dass Sie Bilder und Videos des Protests haben.
 Idealerweise wird dies von jemandem gemacht, der nicht aktiv am Protest teilnimmt.
 
 Einige Tipps für ein großartiges Foto:
 
 - Machen Sie es energiegeladen: halten Sie Schilder hoch, skandieren Sie usw.
-- Vermeiden Sie es, sich zu sehr zu verteilen
+- Verbreiten Sie sich nicht zu dünn
 - Machen Sie es zugeschnitten: Nahaufnahmen sind besser, machen Sie es voller
 - Ein relevanter Hintergrund ist gut: z.B. ein Regierungsgebäude, ein Firmenlogo usw.
 
@@ -166,7 +166,7 @@ Also seien Sie freundlich, seien Sie offen und seien Sie bereit, Fragen zu beant
 
 ### Einander interviewen {#interview-each-other}
 
-Verwenden Sie Ihr Smartphone, um einander über die Gründe für Ihren Protest zu befragen.
+Verwenden Sie Ihr Smartphone, um einander darüber zu sprechen, warum Sie protestieren.
 Stellen Sie sicher, dass die Audioqualität annehmbar ist, verwenden Sie ein externes Mikrofon, wenn möglich (sie sind billig!).
 
 ### Cool bleiben {#be-cool}
@@ -174,22 +174,22 @@ Stellen Sie sicher, dass die Audioqualität annehmbar ist, verwenden Sie ein ext
 KI ist beängstigend, und wir haben viele Gründe, wütend zu sein.
 Aber werden Sie nicht gewalttätig, und richten Sie Ihre Wut nicht gegen die Menschen in der Nähe des Protests.
 Wir müssen die Guten sein.
-Einige Menschen denken bereits, dass wir verrückt sind, also müssen wir besonders vorsichtig sein, dieses Stereotyp nicht zu bestätigen.
+Einige Menschen denken bereits, dass wir verrückt sind, also müssen wir besonders vorsichtig sein, um dieses Stereotyp nicht zu bestätigen.
 
 ## Nach dem Protest {#after-the-protest}
 
 ### Einige Getränke haben {#have-some-drinks}
 
 Proteste sind nicht nur dazu da, eine Botschaft zu senden, sondern auch dazu, eine Gemeinschaft aufzubauen.
-Einige Getränke nach dem Protest zu haben, festigt die Bindungserfahrung wirklich und ist eine unterhaltsame Art, zu feiern!
+Einige Getränke nach dem Protest zu haben, festigt die Bindungserfahrung wirklich und ist eine lustige Art, zu feiern!
 
-### Fotos und Videos sammeln {#gather-pictures-and-videos}
+### Bilder und Videos sammeln {#gather-pictures-and-videos}
 
-Bitten Sie alle Teilnehmer, Ihnen ihre Fotos und Videos zu senden.
+Bitten Sie alle Teilnehmer, Ihnen ihre Bilder und Videos zu senden.
 Erstellen Sie ein schön bearbeitetes Video des Protests.
 
 ### Ihre Geschichte teilen {#share-your-story}
 
-Erstellen Sie einen Beitrag auf sozialen Medien, wählen Sie das beste Foto (oder noch besser: bearbeitetes Video) und teilen Sie es.
+Erstellen Sie einen Beitrag auf sozialen Medien, wählen Sie das beste Bild (oder noch besser: das bearbeitete Video) und teilen Sie es.
 Verlinken Sie auf die Protest-Webseite und fügen Sie die Pressemitteilung hinzu.
 Dies sollte den Menschen genug Hintergrundinformationen geben, um zu verstehen, worum es bei dem Protest ging.
