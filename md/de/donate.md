@@ -5,7 +5,7 @@ title: Spende an PauseAI
 description: Mit Ihrer finanziellen Unterstützung können wir einen größeren Einfluss ausüben.
 ---
 <script>
-    import Donate from '$lib/components/Donate.svelte/'
+    import Donate from '$lib/components/Donate.svelte'
 </script>
 
 Wir haben PauseAI als Gruppe von Freiwilligen gegründet, die in ihrer Freizeit daran arbeiten.
@@ -19,7 +19,7 @@ Seit Februar 2024 ist PauseAI eine [registrierte gemeinnützige Stiftung](/legal
 - **Freiwilligenzuschüsse**: [Freiwillige](/people) können sich für einen [Zuschuss](/volunteer-stipends) bewerben, der unserer Gemeinschaft hilft, einen lokalen Einfluss auszuüben und organisch zu wachsen.
 - **Finanzierung für lokale und [nationale](/national-groups) Gruppen**: wir unterstützen PauseAI-Gemeinschaften
 - **Menschen**: eine stärkere Gemeinschaft aufbauen, an Projekten arbeiten, Proteste organisieren, die Website verbessern usw.
-- **Veranstaltungen**: Miete für einen Veranstaltungsort, Catering, Reisekosten.
+- **Veranstaltungen**: Anmietung eines Veranstaltungsortes, Catering, Reisekosten.
 - **Software**: E-Mail, Website usw.
 - **Kampagnen**: Online-Werbung, Materialien
 - **Rechtliche und finanzielle Angelegenheiten**: Gründung der Stiftung (Notarkosten), Buchhaltung.
@@ -44,6 +44,6 @@ Siehe unsere [Roadmap](/roadmap) für weitere Details.
 ## Wie Sie an PauseAI spenden können {#how-to-donate-to-pauseai}
 
 - Durch Banküberweisung. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). Dies ist wahrscheinlich die günstigste Möglichkeit, Geld an uns zu überweisen.
-- [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Unterstützt wiederkehrende Spenden. [Transaktionsgebühren](https://www.paypal.com/webapps/mpp/merchant-fees) gelten.
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Unterstützt wiederkehrende Spenden. [Transaktionsgebühren](https://www.paypal.com/webapps/mpp/merchant-fees) fallen an.
 - Durch unseren [Merchandise-Shop](https://pauseai-shop.fourthwall.com/). Alle US-basierten Kreditkarten-Transaktionen haben eine zusätzliche Zahlungsverarbeitungsgebühr von 2,9% + 0,30 $. Nicht-US-Kreditkarten haben eine Zahlungsverarbeitungsgebühr von 3,9% + 0,30 $.
 - Durch [diesen Link](https://bunq.me/pauseai) (Wählen Sie Sofort - die meisten Banken und PayPal werden unterstützt)
