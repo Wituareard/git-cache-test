@@ -2,12 +2,12 @@
 
 ---
 title: Die Pause-Taste bauen
-description: Wie würde eine KI-Pause aussehen? Wie kann man tatsächlich die Schaffung einer Superintelligenz verhindern?
+description: Wie würde eine KI-Pause aussehen? Wie kann man tatsächlich verhindern, dass eine Superintelligenz geschaffen wird?
 ---
-Wenn wir die Schaffung einer superintelligenten KI zulassen, riskieren wir jedes einzelne Leben auf der Erde.
-Wenn wir über eine Pause sprechen, sprechen wir über die Umsetzung eines internationalen Verbots der Schaffung einer superintelligenten KI.
+Wenn wir die Schaffung einer superintelligenten KI zulassen, riskieren wir [jedes einzelne Leben auf der Erde](/xrisk).
+Wenn wir über eine Pause sprechen, sprechen wir über die [Umsetzung eines internationalen Verbots der Schaffung einer superintelligenten KI](/proposal).
 Einige argumentieren, dass es zu früh ist, die Pause-Taste zu drücken (wir [tun es nicht](/urgency)), aber die meisten Experten scheinen sich einig zu sein, dass es gut sein könnte, eine Pause einzulegen, wenn die Entwicklungen zu schnell voranschreiten.
-Aber bisher haben wir keine Pause-Taste.
+Aber momentan haben wir keine Pause-Taste.
 Also sollten wir anfangen, darüber nachzudenken, wie das funktionieren würde und wie wir es umsetzen können.
 
 ## Das Rennen: Warum wir internationale Zusammenarbeit benötigen {#the-race-why-we-need-international-cooperation}
@@ -18,7 +18,7 @@ Die Kosten einer Unterinvestition in Sicherheit sind global verteilt, während d
 Dieses spieltheoretische Problem wird manchmal als "Moloch" oder ein "Rennen nach unten" bezeichnet.
 
 Der einzige Ausweg ist ein internationales Abkommen.
-Deshalb sind wir so besessen von [Gipfeltreffen](/summit): Diese sind die Veranstaltungen, bei denen globale Entscheidungsträger zusammenkommen und an einer globalen Lösung arbeiten.
+Deswegen sind wir so besessen von [Gipfeltreffen](/summit): Diese sind die Veranstaltungen, bei denen globale Entscheidungsträger zusammenkommen und an einer globalen Lösung arbeiten.
 Oder zumindest ist das, was wir wollen, dass sie tun.
 Bisher haben alle KI-Sicherheitsgipfeltreffen nicht zu einer sinnvollen Regulierung geführt.
 Es liegt an Ihnen und mir, [sie zu überzeugen](/action).
@@ -29,7 +29,7 @@ Um ein Spitzen-LLM (wie GPT-4) zu trainieren, benötigt man eine Menge hochspezi
 GPT-4 wurde auf 25.000 Nvidia A100-GPUs trainiert, die jeweils 10.000 Dollar kosten.
 Und viele erwarten, dass KI-Modelle in Zukunft noch größer werden.
 
-Die schiere Skalierung moderner KI-Trainingsanforderungen ist immens.
+Die schiere Größe der modernen KI-Trainingsanforderungen ist enorm.
 Microsoft hat kürzlich einen Plan angekündigt, ein [Kernkraftwerk zu bauen](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers), um seine KI-Strombedürfnisse zu decken.
 Glücklicherweise bedeutet dies, dass KI-Trainingsläufe schwer zu verstecken sind, zumindest in naher Zukunft.
 
@@ -48,9 +48,9 @@ Lassen Sie uns in die verschiedenen Engpässe in der KI-Chip-Lieferkette eintauc
 
 #### Lithografie: ASML & SMEE {#lithography-asml--smee}
 
-Alle modernen Chips werden unter Verwendung von Lithografiemaschinen hergestellt: riesige Maschinen, die jeweils 200 Millionen Dollar kosten und Licht auf einen Silizium-Wafer projizieren.
+Alle modernen Chips werden mithilfe von Lithografiemaschinen hergestellt: riesigen Maschinen, die 200 Millionen Dollar kosten und Licht auf einen Silizium-Wafer projizieren.
 Dieser Lithografioprozess ist einer der komplexesten und teuersten Teile des Chip-Herstellungsprozesses.
-Spitzen-KI-Chips werden alle unter Verwendung von EUV-Lithografie hergestellt, und ASML ist das einzige Unternehmen, das diese Maschinen herstellt.
+Spitzen-KI-Chips werden alle mithilfe von EUV-Lithografie hergestellt, und ASML ist das einzige Unternehmen, das diese Maschinen herstellt.
 Dieses niederländische Unternehmen ist einer der wichtigsten potenziellen Engpässe für die KI-Regulierung.
 Diese Maschinen sind unglaublich komplex und erfordern viel Expertise, um sie zu bauen und zu warten.
 Bemerkenswert ist, dass sie [Fernabschaltungen](https://www.businessinsider.com/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5) haben (hauptsächlich für den Fall, dass Taiwan angegriffen wird), also ist die Pause-Taste in gewisser Weise bereits eingebaut.
@@ -61,15 +61,15 @@ Die [USA, Japan und die Niederlande](https://apnews.com/article/technology-distr
 
 Das chinesische Unternehmen SMEE versucht, aufzuholen, aber es ist nicht in der Lage, eigene EUV-Maschinen herzustellen.
 Ihre DUV-Maschinen sind [immer noch bei 28nm](https://www.scmp.com/tech/big-tech/article/3278235/chinese-chip-making-shows-progress-new-euv-patent-domestic-lithography-champion) stecken, was Generationen hinter ASMLs 5nm-EUV-Prozess zurückliegt, geschweige denn ASMLs kommende 2nm-Maschinen.
-Also ist SMEE nicht in der Lage, moderne KI-Chips zu produzieren.
+Also ist SMEE nicht in der Lage, moderne KI-Chips herzustellen.
 
 Mit anderen Worten: ASML ist ein grundlegender Engpass in der KI-Chip-Lieferkette.
 
 #### Optik: Zeiss {#optics-zeiss}
 
 ASMLs EUV-Maschinen verwenden Spiegel und Linsen von dem deutschen Unternehmen Zeiss.
-Im Jahr 2016 kaufte ASML [25%](https://optics.org/news/7/11/11) von Zeiss, und die beiden Unternehmen haben eine sehr enge Beziehung.
-Es ist wahrscheinlich, dass kein anderes Unternehmen in der Lage ist, diese Optik zu produzieren.
+Im Jahr 2016 kaufte ASML [25% von Zeiss](https://optics.org/news/7/11/11), und die beiden Unternehmen haben eine sehr enge Beziehung.
+Es ist wahrscheinlich, dass kein anderes Unternehmen in der Lage ist, diese Optik herzustellen.
 
 #### Interconnect & Packaging: ASE {#interconnect--packaging-ase}
 
@@ -82,27 +82,28 @@ Der Bau einer "Fab" (einer Chip-Fabrik) ist erstaunlich schwierig: Sie hat eine 
 Eine moderne Fab kostet etwa 10 bis 20 Milliarden Dollar.
 
 Die Taiwan Semiconductor Manufacturing Company produziert etwa 90% der modernen KI-Chips, die alle bei 7nm-Präzision oder besser hergestellt werden.
-Samsung ist das einzige andere Unternehmen, das moderne KI-Chips produzieren kann.
+Samsung ist das einzige andere Unternehmen, das moderne KI-Chips herstellen kann.
 
-Aber das chinesische Unternehmen SMIC holt schnell auf - es hat bereits einen funktionsfähigen 7nm-Prozess.
+Aber das chinesische Unternehmen SMIC holt schnell auf - sie haben bereits einen funktionsfähigen 7nm-Prozess.
 Aufgrund von US- und NL-Exportkontrollen kann SMIC keine ASML-EUV-Maschinen kaufen und ist jetzt auch bei dem Kauf von älteren DUV-Maschinen eingeschränkt.
-Im Juni 2024 zeigte ein [Bericht](https://evertiq.com/news/55926), dass SMIC 5nm-Chips unter Verwendung von DUV-Hardware produzieren kann,
-und jetzt in der Lage ist, 7nm-KI-Chips zu produzieren (etwa drei Jahre hinter dem 4nm-Prozess, den ASMLs EUV-Maschinen produzieren können), aber SMICs Lithografie ist von niedrigen Ausbeuten geplagt.
+Im Juni 2024 zeigte ein [Bericht](https://evertiq.com/news/55926), dass SMIC 5nm-Chips mithilfe von DUV-Hardware produzieren kann,
+und jetzt in der Lage ist, 7nm-KI-Chips herzustellen (etwa drei Jahre hinter dem 4nm-Prozess, den ASMLs EUV-Maschinen produzieren können), aber SMICs Lithografie ist von niedrigen Ausbeuten geplagt.
 
 #### Speicherfertigung: Micron, SK Hynix {#memory-fabrication-micron-sk-hynix}
 
 KI-Chips benötigen eine Menge HBMs (High-Bandwidth-Memory), die der fortschrittlichste Speichertyp ist.
-Nur wenige Unternehmen können sie produzieren.
+Nur wenige Unternehmen können sie herstellen.
 
 #### KI-Chip-Design: Nvidia, AMD, Intel, Google, Apple {#ai-chip-design-nvidia-amd-intel-google-apple}
 
 Die bekanntesten Unternehmen auf dieser Seite sind alle Chip-Designer.
 Und es gibt neue Unternehmen wie Cerebras und Groq, die Chips speziell für KI entwerfen.
-Bemerkenswert ist, dass einige dieser Unternehmen relativ veraltete Prozesse verwenden, um ihre Chips zu produzieren, wie Groq, das 14nm verwendete, was ein potenzieller Engpass für die Regulierung ist.
+Bemerkenswert ist, dass einige dieser Unternehmen relativ veraltete Prozesse verwenden, um ihre Chips herzustellen, wie Groq, die 14nm verwendeten, was ein potenzieller Engpass für die Regulierung ist.
 
 ### On-Chip-Governance {#on-chip-governance}
 
-Der Artikel ["Sichere, regierbare Chips"](https://www.cnas.org/publications/reports/secure-governable-chips) schlägt einen neuen Ansatz für die KI-Regulierung vor.
+- Der Artikel ["Sichere, regierbare Chips"](https://www.cnas.org/publications/reports/secure-governable-chips) schlägt einen neuen Ansatz für die KI-Regulierung vor.
+- Chips könnten auf Nachrichten von vertrauenswürdigen Servern reagieren, um [zu beweisen, dass sie innerhalb einer bestimmten Entfernung von einem vertrauenswürdigen Ort sind](https://www.lesswrong.com/posts/uSSPuttae5GHfsNQL/ai-compute-governance-verifying-ai-chip-location). Dies kann auf einige Kilometer genau sein.
 
 ### Verifizierungsmethoden - Verhinderung großer Trainingsläufe {#verification-methods---preventing-large-training-runs}
 
@@ -113,16 +114,16 @@ Aber wie kann dies verifiziert werden?
 
 Das Papier ["Verifizierungsmethoden für internationale KI-Abkommen"](https://arxiv.org/abs/2408.16074) listet verschiedene Optionen auf:
 
-1. **Fernerkundung**: Verwendet Satelliten- und Infrarot-Bildgebung, um Rechenzentren durch visuelle und thermische Signaturen zu erkennen. Hochgradig machbar, aber durch Tarnung oder unterirdische Anlagen begrenzt.
-2. **Whistleblower**: Verlässt sich auf Insider, die Nicht-Compliance melden, die durch rechtliche und finanzielle Schutzmaßnahmen motiviert werden. Machbar, aber abhängig von Insider-Zugang und -Bereitschaft, Informationen preiszugeben.
-3. **Energie-Überwachung**: Verfolgt den Stromverbrauch, um große KI-Operationen zu identifizieren, machbar, wenn Muster eindeutig sind. Machbarkeit variiert; Daten können durch andere hochenergetische Aktivitäten verschleiert werden.
+1. **Fernerkundung**: Verwendet Satelliten- und Infrarot-Bildgebung, um Rechenzentren durch visuelle und thermische Signaturen zu erkennen. Hochgradig machbar, aber begrenzt durch Tarnung oder unterirdische Anlagen.
+2. **Whistleblower**: Verlässt sich auf Insider, die Nicht-Compliance melden, motiviert durch rechtliche und finanzielle Schutzmaßnahmen. Machbar, aber abhängig von Insider-Zugang und Bereitschaft zur Offenlegung.
+3. **Energie-Überwachung**: Verfolgt den Stromverbrauch, um große KI-Operationen zu identifizieren, machbar, wenn Muster eindeutig sind. Durchführbarkeit variiert; Daten können durch andere hochenergetische Aktivitäten verschleiert werden.
 4. **Zoll-Daten-Analyse**: Überwacht den Import/Export von KI-Hardware auf Anomalien. Machbar, insbesondere für Importe, obwohl Länder mit inländischer Produktion möglicherweise nicht erkannt werden.
-5. **Finanz-Intelligence**: Beobachtet große oder ungewöhnliche Transaktionen im Zusammenhang mit KI-Hardware-Käufen. Machbar, wenn Finanz-Privatsphäre und Bankgesetze es zulassen, oft am besten in Kombination mit anderen Methoden.
+5. **Finanz-Intelligenz**: Beobachtet große oder ungewöhnliche Transaktionen im Zusammenhang mit KI-Hardware-Käufen. Machbar, wenn Finanz-Privatsphäre und Bankgesetze es zulassen, oft am besten in Kombination mit anderen Methoden.
 6. **Rechenzentrum-Inspektionen**: Physische Standort-Inspektionen, um die Einhaltung von Hardware-Beschränkungen und Sicherheitsprotokollen zu überprüfen. Effektiv, wenn das Gastland Inspektionen zulässt; invasiv und ressourcenintensiv.
-7. **Halbleiter-Fertigungsanlagen-Inspektionen**: Überprüft die Einhaltung von Chip-Produktionsvorschriften durch Inspektionen von Anlagen mit relevanten Geräten. Machbar, aber erfordert erhebliche Ressourcen und die Zustimmung des Gastlandes.
-8. **KI-Entwickler-Inspektionen**: Überprüft Einrichtungen auf autorisierten Code, Sicherheitsprotokolle und KI-Evaluierungsdaten. Effektiv, aber hochinvasiv, erfordert spezialisierte Expertise und die Kooperation des Landes.
+7. **Halbleiter-Fertigungsanlagen-Inspektionen**: Überprüft die Einhaltung von Chip-Produktionsvorschriften durch Inspektionen von Anlagen mit relevanten Hardware. Machbar, aber erfordert erhebliche Ressourcen und die Zustimmung des Gastlandes.
+8. **KI-Entwickler-Inspektionen**: Überprüft Einrichtungen auf autorisierten Code, Sicherheitsprotokolle und KI-Bewertungsdaten. Effektiv, aber hochinvasiv, erfordert spezialisierte Expertise und die Kooperation des Landes.
 9. **Chip-Standort-Verfolgung**: Verfolgt die Bewegungen von KI-Chips, um deren Einsatz zu überwachen. Machbar mit internationalen Abkommen, aber umgehbar durch Deaktivierung der Verfolgung oder Spoofing von Standortdaten.
-10. **Chip-basierte Berichterstattung**: Integriert Berichtsmechanismen in Chips, um zu warnen, wenn diese über autorisierte Grenzen hinaus verwendet werden. Machbar, aber herausfordernd, erfordert internationale Standards und Hardware-Entwicklung; umgehbar durch Modifikation der Firmware.
+10. **Chip-basierte Berichterstattung**: Integriert Berichtsmechanismen in Chips, um zu alarmieren, wenn diese über autorisierte Grenzen hinaus verwendet werden. Machbar, aber herausfordernd, erfordert internationale Standards und Hardware-Entwicklung; umgehbar durch Modifikation der Firmware.
 
 Jede Methode hat ihre Stärken und Schwächen, erfordert oft komplementäre Ansätze oder internationale Zusammenarbeit für eine effektive Umsetzung.
 
@@ -134,7 +135,7 @@ Eine internationale Institution könnte eingerichtet werden, um diese Verifizier
 
 ## Software-Governance {#software-governance}
 
-Physische Chips sind unser primärer Fokus, aber wir möchten auch die _Software_ regulieren, die zum Trainieren und Ausführen von KI-Modellen verwendet wird.
+Physische Chips sind unser Hauptaugenmerk, aber wir möchten auch die _Software_ regulieren, die zum Trainieren und Ausführen von KI-Modellen verwendet wird.
 Es ist durchaus möglich, dass die größten Rechencluster ausreichend Leistung haben, um ein katastrophal gefährliches Modell zu trainieren, aber ihnen fehlt immer noch die Software.
 Lassen Sie uns in die Arten von Software-Innovationen eintauchen, die wir unterscheiden können.
 
@@ -143,7 +144,7 @@ Lassen Sie uns in die Arten von Software-Innovationen eintauchen, die wir unters
 Zunächst gibt es _Trainings_-Innovationen.
 Die Transformer-Architektur ermöglichte es beispielsweise KI-Modellen, viel leistungsfähiger zu sein, bei viel geringeren Kosten.
 Das auf Transformer basierende ALBERT-Modell [übertraf](https://arxiv.org/pdf/2308.04950) das BERT-Modell, obwohl es aus 18-mal weniger Parametern bestand.
-In Zukunft können wir noch effizientere Architekturen sehen.
+In Zukunft könnten wir noch effizientere Architekturen sehen.
 Es gibt auch Innovationen bei den Daten, die einem Modell zugeführt werden.
 
 Zusätzlich zu Trainingsverbesserungen haben wir verschiedene _Laufzeit_-Verbesserungen gesehen.
@@ -155,6 +156,6 @@ OpenAIs o1-Modell ermöglicht größere Denkfähigkeiten, indem es mehr Zeit dam
 
 Die Software-Seite von KI ist schwieriger zu kontrollieren als die Hardware-Seite.
 Software ist nur Information - sie kann leicht kopiert und verteilt werden.
-Dennoch haben wir Informationen zuvor verboten.
-Kinderpornografie ist beispielsweise illegal zu produzieren, zu verbreiten und zu besitzen.
+Dennoch haben wir Informationen bereits verboten.
+Kinderpornografie ist beispielsweise illegal zu produzieren, zu verteilen und zu besitzen.
 Die gleichen Durchsetzungsmechanismen könnten verwendet werden, um gefährliche KI-Software zu regulieren.
