@@ -4,8 +4,6 @@
 title: PauseAI-Veranstaltungen
 description: Treffen, Workshops, Proteste und mehr!
 ---
-## Finden Sie die Städte für den globalen Protest im November 2024 [hier](/2024-november) {#find-the-cities-for-the-november-2024-global-protest-here}
-
 ## Alle Veranstaltungen anzeigen [hier](https://lu.ma/PauseAI) {#view-all-events-here}
 
 <iframe
