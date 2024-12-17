@@ -1,9 +1,10 @@
 
 
 ---
-title: Stelle als Organisationsleiter bei PauseAI Global
+title: Stellenangebot: Organisationsleiter bei PauseAI Global (Position besetzt)
 description: PauseAI sucht einen Organisationsleiter, um die Organisation zu unterstützen und lokale Gruppen zu koordinieren.
 ---
+_Update 2024-12-04: Diese Position ist besetzt._
 
 Möchten Sie einen Unterschied machen und an dem wichtigsten Thema der Welt arbeiten?
 
@@ -26,7 +27,7 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 
 - Kontakt zu verschiedenen Freiwilligen und [Teams](/teams) innerhalb von PauseAI aufrechterhalten und verwalten.
 - Coaching und Unterstützung von Teams und Leitern von [lokalen](/communities) und [nationalen Gruppen](/national-groups).
-- Entwicklung und Implementierung einer [organisatorischen Struktur](/organization) und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
+- Entwurf und Implementierung einer [organisatorischen Struktur](/organization) und Strategie für effektive Zusammenarbeit mit lokalen Gruppen.
 - Entwicklung und Verwaltung von Materialien für lokale und nationale PauseAI-Gruppen.
 - Erstellung von Social-Media-Inhalten (Text, Video), um Mitglieder zu informieren, zu motivieren und zu inspirieren.
 
