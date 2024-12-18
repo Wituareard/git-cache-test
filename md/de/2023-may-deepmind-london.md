@@ -4,7 +4,6 @@
 title: PauseAI-Protest bei Google DeepMind - 19. bis 22. Mai
 description: Wir organisieren einen Protest bei Google DeepMind, um ein Gipfeltreffen zur Pause der KI-Entwicklung zu fordern.
 ---
-
 <script>
     import WidgetConsent from '$lib/components/widget-consent/WidgetConsent.svelte'
 </script>
@@ -15,7 +14,7 @@ description: Wir organisieren einen Protest bei Google DeepMind, um ein Gipfeltr
 </div>
 </WidgetConsent>
 
-Bitte lesen Sie den Verhaltenskodex der PauseAI-Protestteilnehmer [hier](https://pauseai.info/protesters-code-of-conduct), bevor Sie an diesem Protest teilnehmen.
+Bitte lesen Sie den Verhaltenskodex für PauseAI-Demonstranten [hier](https://pauseai.info/protesters-code-of-conduct), bevor Sie an dieser Demonstration teilnehmen.
 
 Was:
 
@@ -23,10 +22,10 @@ Was:
 
 Wann und wo:
 
-- 1200-1400 Uhr, Fr, 19. Mai, vor Google DeepMind
-- 1200-1400 Uhr, Sa, 20. und So, 21. Mai, vor EAG London
-- 1700-2000 Uhr, Mo, 22. Mai, vor Google DeepMind
-- In Zukunft: regelmäßiger (wöchentlicher?) Protest?
+- 12:00-14:00 Uhr, Fr, 19. Mai, vor Google DeepMind
+- 12:00-14:00 Uhr, Sa, 20. und So, 21. Mai, vor EAG London
+- 17:00-20:00 Uhr, Mo, 22. Mai, vor Google DeepMind
+- In Zukunft: regelmäßige (wöchentliche?) Proteste?
 
 Genaue Orte:
 
@@ -35,11 +34,11 @@ Genaue Orte:
 
 Warum:
 
-- Um ein Moratorium für die Entwicklung von AGI zu fordern
-- Um die Öffentlichkeit auf die Bedrohung durch die AGI-Entwicklung aufmerksam zu machen
+- Um ein Moratorium für die Entwicklung von künstlicher Intelligenz (KI) zu fordern
+- Um die Öffentlichkeit auf die Risiken der KI-Entwicklung aufmerksam zu machen
 - Um sozialen Druck auf Google DeepMind und andere KI-Unternehmen aufzubauen
 - Um Momentum für eine soziale Bewegung zu schaffen, die bessere KI-Sicherheit, -Governance und -Ethik fordert
-- Insbesondere, um einen Präzedenzfall für einen regelmäßigen (wöchentlichen?) Protest zu schaffen
+- Insbesondere, um einen Präzedenzfall für regelmäßige (wöchentliche?) Proteste zu schaffen
 
 Wie:
 
@@ -93,9 +92,9 @@ Die Lösung:
 - Bauen Sie keine AGI
 - Stoppen Sie den Bau von AGI
 - Moratorium für die AGI-Entwicklung, jetzt
-- Globaler KI-Gipfel, jetzt
-- Globaler KI-Vertrag, jetzt
-- Globaler KI-Volksentscheid, jetzt [kontroverser]
+- Globales KI-Gipfeltreffen, jetzt
+- Globales KI-Abkommen, jetzt
+- Globales KI-Referendum, jetzt [kontroverser]
 
 Das Endergebnis:
 
@@ -103,27 +102,27 @@ Das Endergebnis:
 - KI-Sommer
 - Wir brauchen keine AGI für eine großartige Zukunft
 
-Weitere Botschaften und Erzählungsideen:
+Weitere Ideen für Botschaften und Erzählungen:
 
 - PauseAI-Website [hier](https://pauseai.info/risks)
-- Campaign for AI Safety (CFAIS)-Ideen für die Botschaftentestung [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
-- CFAIS-Erzählungstestergebnisse [hier](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
+- Campaign for AI Safety (CFAIS)-Ideen für Message-Testing [hier](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
+- CFAIS-Ergebnisse der narrativen Tests [hier](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
 
 ## Ausrüstung {#equipment}
 
 Banner
 
-- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) darauf drucken
+- Alistair wird ein Zwei-Personen-Banner mit dem PauseAI-Logo [hier](https://twitter.com/Radlib4/status/1654262421794717696?s=20) drucken
 
 Plakate
 
-- Aufgrund von Zeitmangel und Unsicherheit darüber, was optimale Plakatbotschaften sein werden, plant Alistair derzeit nicht, Plakate (in großen Mengen zumindest) zu drucken
+- Aufgrund von Zeitmangel und Unsicherheit über optimale Plakat-Botschaften plant Alistair derzeit nicht, Plakate in großen Mengen zu drucken
 - Jeder ist ermutigt, eigene Plakate zu erstellen und mitzubringen (z.B. mit Karton und einem Sharpie-Stift!)
 - Wenn Sie Plakate drucken möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
 Flyer
 
-- Aufgrund von Unsicherheit darüber, was auf Flyern stehen sollte, plant Alistair derzeit nicht, Flyer zu drucken
+- Aufgrund von Unsicherheit über den Inhalt von Flyern plant Alistair derzeit nicht, Flyer zu drucken
 - Alistair wird eine Ladung FLI-Briefe (und möglicherweise Yudkowsky-Zeit-Artikel) drucken, um sie zu verteilen
 - Wenn Sie dies tun möchten und Finanzierung benötigen, sprechen Sie bitte mit Alistair
 
@@ -131,6 +130,6 @@ Aufkleber und Anstecker
 
 - Alistair wird versuchen, PauseAI-Aufkleber und -Anstecker zu drucken
 
-## Kontakt {#contact-5}
+## Kontakt {#contact-6}
 
 Alistair Steward ([E-Mail](mailto:achoto@protonmail.com), [Twitter](https://twitter.com/alistair___s))
