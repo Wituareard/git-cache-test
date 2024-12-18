@@ -5,15 +5,15 @@ title: PauseAI NYC Aktionspunkte
 description: Helfen Sie, die Beschleunigung gefährlicher KI zu stoppen, indem Sie aktiv werden!
 date: '2024-8-20'
 ---
-## Unterstützen Sie die PauseAI-Bewegung in New York City und helfen Sie, die Welt vor den [vielen Risiken](https://airisk.mit.edu/) der KI zu retten! Wir benötigen dringend Menschen, die uns bei einem der folgenden Punkte helfen: {#show-support-for-the-pauseai-movement-in-new-york-city-and-help-save-the-world-from-ais-many-risks-we-have-an-urgent-need-for-people-to-help-us-with-any-of-the-following}
+## Unterstützen Sie die PauseAI-Bewegung in New York City und helfen Sie, die Welt vor den [vielen Risiken](https://airisk.mit.edu/) der KI zu schützen! Wir benötigen dringend Menschen, die uns bei einem der folgenden Punkte helfen: {#show-support-for-the-pauseai-movement-in-new-york-city-and-help-save-the-world-from-ais-many-risks-we-have-an-urgent-need-for-people-to-help-us-with-any-of-the-following}
 
 (Aktualisiert am 20. August)
 
-**Wenn Sie atmen (fünfminütige Aufgaben, die jeder erledigen kann):**
+**Wenn Sie nur wenig Zeit haben (Aufgaben, die jeder in fünf Minuten erledigen kann):**
 
 - [Senden Sie eine E-Mail über die Risiken der KI an alle Ihre gewählten Amtsträger gleichzeitig](https://democracy.io/). Wenn Sie nicht wissen, was Sie schreiben sollen, verwenden Sie [unseren E-Mail-Generator](https://pauseai.info/email-builder).
-- Nehmen Sie an [unseren monatlichen Präsenztreffen](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) teil, die jeden Monat am 11. stattfinden.
-- Treten Sie unserer Online-Community in New York City bei: [Discord](https://discord.com/channels/1100491867675709580/1223374237016784928), [Whatsapp](https://chat.whatsapp.com/KAQMwz2nQeWIkTLxwKxHg1) Wir nutzen hauptsächlich Discord, aber lassen Sie uns wissen, wenn Sie alternative Kommunikationswege bevorzugen.
+- Nehmen Sie an [unseren monatlichen Treffen](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) teil, die jeden Monat am 11. stattfinden.
+- Treten Sie unserer Online-Community in NYC bei: [Discord](https://discord.com/channels/1100491867675709580/1223374237016784928), [Whatsapp](https://chat.whatsapp.com/KAQMwz2nQeWIkTLxwKxHg1) Wir nutzen hauptsächlich Discord, aber lassen Sie uns wissen, wenn Sie alternative Kommunikationswege bevorzugen.
 - Folgen Sie PauseAINYC auf [Instagram](https://www.instagram.com/pauseainyc/) oder auf [Twitter](https://x.com/PauseAINYC).
 
 **Wenn Sie gerne Kontakte knüpfen:**
@@ -21,16 +21,16 @@ date: '2024-8-20'
 - Melden Sie sich für eines [unserer Veranstaltungen](https://www.eventbrite.com/o/pause-ai-nyc-83065324363) an. Wir organisieren alles von öffentlichen Demonstrationen vor KI-Unternehmen bis hin zu Netzwerksitzungen mit verwandten Organisationen.
 - Vereinbaren Sie ein Treffen mit [Ihrem lokalen politischen Amtsträger](https://www.usa.gov/elected-officials), um über die Risiken der KI zu sprechen. [Kopieren Sie uns per E-Mail](mailto:nyc@pauseai.info) und wir unterstützen Ihr Engagement. Alternativ kann es produktiver sein, einen Amtsträger in Ihrem Bundesstaat oder Ihrer Region zu finden, der direkt an der Gesetzgebung zur KI arbeitet.
 
-**Wenn Sie gut im Posten und Netzwerken in sozialen Medien sind:**
+**Wenn Sie Erfahrung in sozialen Medien haben:**
 
-- [Nehmen Sie an unseren Präsenztreffen teil](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrungen. Wir suchen speziell nach Menschen, die Verbindungen zu anderen Technologierisikogemeinschaften herstellen und unsere Reichweite als Organisation in sozialen Medien erweitern können. Designfähigkeiten sind momentan weniger relevant, da wir davon bereits einiges abgedeckt haben.
+- [Besuchen Sie unsere monatlichen Treffen](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrungen. Wir suchen speziell nach Menschen, die Verbindungen zu anderen Technologierisikogemeinschaften herstellen und unsere Reichweite als Organisation in sozialen Medien erweitern können.
 - Für ein geringeres Engagement wird auch die Wertschätzung für die Beiträge von PauseAINYC durch Likes, unterstützende Kommentare und Follows geschätzt.
 
-**Wenn Sie gut in der Webentwicklung sind:**
+**Wenn Sie Erfahrung in der Webentwicklung haben:**
 
-- [Nehmen Sie an unseren Präsenztreffen teil](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrungen. Wir suchen nach Menschen, die unseren eigenen separaten Webauftritt schreiben und potenziell hosten können (der nicht eine Million Dollar von einem Webhosting-Anbieter kostet).
+- [Besuchen Sie unsere monatlichen Treffen](https://www.eventbrite.com/e/pauseai-monthly-action-meeting-tickets-914711244957) oder senden Sie eine E-Mail an [nyc@pauseai.info](mailto:nyc@pauseai.info) mit einer kurzen Zusammenfassung Ihrer Erfahrungen. Wir suchen nach Menschen, die unseren eigenen separaten Webauftritt schreiben und potenziell hosten können.
 
-**Wenn Sie gut in Fotografie, Videografie und/oder Medienproduktion sind:**
+**Wenn Sie Erfahrung in Fotografie, Videografie und/oder Medienproduktion haben:**
 
 - Wir suchen immer nach Menschen, die uns helfen, unsere öffentlichen Demonstrationen zu dokumentieren und die Botschaft zu verbreiten. Melden Sie sich für eines [unserer Veranstaltungen](https://www.eventbrite.com/o/pause-ai-nyc-83065324363) an.
 
