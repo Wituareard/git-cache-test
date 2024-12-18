@@ -10,26 +10,26 @@ Willkommen bei PauseAI!
 ## Organisationsstruktur {#organization-structure}
 
 - [Rechtliche Einheiten](/legal): PauseAI besteht aus einer internationalen Einheit und mehreren lokalen/nationalen rechtlichen Einheiten. Diese Website und die Social-Media-Konten werden von der internationalen Einheit verwaltet. Nationale Einheiten können ihre eigene Website und ihre eigene Arbeitsweise haben.
-- [Menschen (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
-- [Teams](/teams): Unsere Freiwilligen arbeiten in allen möglichen Teams. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste der Mitglieder. Kontaktieren Sie einen Teamleiter, um einem Team beizutreten!
+- [Mitglieder (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
+- [Teams](/teams): Unsere Freiwilligen arbeiten in verschiedenen Teams. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste der Mitglieder. Kontaktieren Sie einen Teamleiter, um einem Team beizutreten!
 - [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die in der Regel ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit.
-- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrem Gebiet gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
+- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrer Nähe gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
 
 ![Organigramm](/org.png)
 
 ## Onboarding-Prozess {#onboarding-process}
 
-1. Registrieren Sie sich als _Mitglied_ (auf der [ Beitrittsseite](/join) oder auf Discord)
+1. Registrieren Sie sich als _Mitglied_ (auf der [Beitrittsseite](/join) oder auf Discord)
 1. Jemand aus dem Onboarding-Team kontaktiert Sie für ein persönliches Gespräch!
-1. [Registrieren Sie sich als _Freiwilliger_](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form). Ein Freiwilliger ist der nächste Schritt - es umfasst die Unterzeichnung einer Vereinbarung, die Weitergabe Ihres Profils auf der Webseite (wenn Sie möchten) und den Beitritt zu einem der [Teams](/teams).
+1. [Registrieren Sie sich als _Freiwilliger_](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form). Als Freiwilliger unterzeichnen Sie eine Vereinbarung, teilen Ihr Profil auf der Webseite (wenn Sie möchten) und treten einem der [Teams](/teams) bei.
 
 ## Bildungsressourcen {#educational-resources}
 
 - Die PauseAI-Grundlagen: [FAQ](/faq), unser [Vorschlag](/proposal), [Risiken](/risks), [X-Risiko](/xrisk), [Dringlichkeit](/urgency), [Gefährliche Fähigkeiten](/dangerous-capabilities), [Milderung von Pause-Fehlern](/mitigating-pause-failures)
 - [Flyer verteilen](/flyering): Wie man effektiv Flyer verteilt
 - [Gegenargumente](/counterarguments)
-- [Organisation einer Demonstration](/organizing-a-protest)
-- [Lernen Sie mehr über KI-Sicherheit](/learn)
+- [Organisation einer Protestaktion](/organizing-a-protest)
+- [Erfahren Sie mehr über KI-Sicherheit](/learn)
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
 - [US-Lobby-Leitfaden](/us-lobby-guide)
@@ -60,7 +60,7 @@ Willkommen bei PauseAI!
 
 ## Social Media {#social-media}
 
-Sie finden uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/).
+Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
 Sie können uns kontaktieren unter [joep@pauseai.info](mailto:joep@pauseai.info).
 
 ## Design-Ressourcen (Flyer, Poster, Logo) {#design-resources-flyers-posters-logo}
