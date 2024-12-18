@@ -1,17 +1,17 @@
 
 
 ---
-title: Stelle als Kommunikationsdirektor bei PauseAI Global
-description: PauseAI sucht einen Kommunikationsdirektor, um unser Kommunikationsteam und unsere Social-Media-Kanäle zu leiten. Remote-Arbeit oder persönliche Anwesenheit in Utrecht, Niederlande.
+title: Stelle als Kommunikationsleiter bei PauseAI Global
+description: PauseAI sucht einen Kommunikationsleiter, um unser Kommunikationsteam und unsere Social-Media-Kanäle zu leiten. Remote-Arbeit oder vor Ort in Utrecht, Niederlande.
 ---
 
-Möchten Sie einen Einfluss ausüben und an dem wichtigsten Thema der Welt arbeiten?
+Möchten Sie einen Einfluss ausüben und an einem der wichtigsten Themen der Welt arbeiten?
 
 ## Über PauseAI {#about-pauseai-1}
 
-PauseAI ist eine junge, internationale gemeinnützige Organisation mit dem Ziel, die Schaffung von künstlicher Intelligenz (KI) zu verhindern, die (viel) intelligenter ist als die Menschheit.
-Eine überwältigende Mehrheit von [86 % der KI-Wissenschaftler](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) glaubt, dass wir, wenn wir diesen Punkt erreichen, die Kontrolle verlieren könnten.
-Die [drei größten KI-Wissenschaftler](https://twitter.com/PauseAI/status/1734641804245455017) warnen uns seit langem: Dies könnte das Ende der Menschheit bedeuten.
+PauseAI ist eine junge, internationale gemeinnützige Organisation mit dem Ziel, die Entwicklung von künstlicher Intelligenz (KI) zu verhindern, die die menschliche Intelligenz übertrifft.
+Eine erstaunliche [86% der KI-Experten](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) glauben, dass wir, wenn wir diesen Punkt erreichen, die Kontrolle über die KI verlieren könnten.
+Die [drei prominentesten KI-Experten](https://twitter.com/PauseAI/status/1734641804245455017) warnen uns seit langem: dies könnte das Ende der Menschheit bedeuten.
 
 PauseAI wurde im April 2023 gegründet und ist seitdem auf 2000 Mitglieder, über 100 [registrierte Freiwillige](/people) und Dutzende von [lokale Gruppen](/communities) auf der ganzen Welt angewachsen.
 
@@ -26,7 +26,7 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 
 - Leiten Sie das Kommunikationsteam (mehrere Freiwillige mit unterschiedlichen relevanten Fähigkeiten, von denen einige Videos erstellen und bearbeiten)
 - Entwickeln und umsetzen Sie eine Kommunikationsstrategie
-- Einrichten eines internationalen Kommunikationskanals für die verschiedenen nationalen Gruppen
+- Einrichten eines internationalen Kommunikationsnetzwerks für die verschiedenen nationalen Gruppen
 - Führen Sie unsere Social-Media-Kanäle (Twitter, Facebook, TikTok, LinkedIn, YouTube, Instagram, SubStack)
 - Erstellen Sie Social-Media-Inhalte (Text, Video), um zu informieren, zu motivieren und zu inspirieren
 - Interagieren Sie mit der PauseAI-Community und anderen Organisationen
@@ -36,20 +36,20 @@ Bitte beachten Sie, dass PauseAI in naher Zukunft sehr schnell wachsen könnte, 
 
 ### Fähigkeiten und Eigenschaften {#skills--attributes-1}
 
-- Sie genießen es, Dinge auf Social-Media-Plattformen zu posten und haben ein gutes Gefühl für Marketing
+- Sie genießen es, Inhalte auf Social-Media-Plattformen zu teilen und haben ein gutes Verständnis für Marketing
 - Erfahrung mit digitaler Kommunikation / Social Media
 - Erfahrung mit Presse / Journalisten / Medien
 - Hervorragende Kommunikationsfähigkeiten, sowohl mündlich als auch schriftlich
 - Ein Generalist mit Führungserfahrung
 - Sie verstehen KI-Sicherheit und KI-Governance
-- Unterstützt die Idee einer KI-Pause, aber wir sind offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien)
+- Unterstützen Sie die Idee einer KI-Pause, aber wir sind offen für unterschiedliche Perspektiven (wie Bedrohungsmodelle oder Richtlinien)
 - Werbeerfahrung ist ein Plus
 - Erfahrung mit der Erstellung von Videoinhalten ist ein Plus
 - Proaktiv und unternehmerisch
 
 ### Bedingungen {#conditions-1}
 
-- Remote-Arbeit oder persönliche Anwesenheit in Utrecht, Niederlande
+- Remote-Arbeit oder vor Ort in Utrecht, Niederlande
 - Vollzeitposition
 - Gehaltsbereich: 40.000 - 60.000 EUR pro Jahr, je nach Erfahrung und Standort
 - Empfehlungsbonus: 500 EUR für eine erfolgreiche Einstellung!
