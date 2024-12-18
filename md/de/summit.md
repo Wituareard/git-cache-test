@@ -1,8 +1,8 @@
 
 
 ---
-title: Warum wir AI-Sicherheitsgipfel benötigen
-description: Warum wir den AI-Sicherheitsgipfel benötigen und was er erreichen sollte.
+title: Warum wir KI-Sicherheitsgipfel benötigen
+description: Warum wir den KI-Sicherheitsgipfel benötigen und was er erreichen sollte.
 ---
 
 Künstliche Intelligenz (KI) birgt zahlreiche [Risiken](/risks) für die Menschheit, einschließlich des [Risikos des Aussterbens](/xrisk).
@@ -15,12 +15,12 @@ Internationale Abkommen bedeuten _Verträge_, und das erfordert, dass Länder si
 
 Es gab einige Beispiele für internationale Gipfel und daraus resultierende Verträge, die erfolgreich waren, um Risiken zu reduzieren:
 
-- **Montreal-Protokoll** (1987): Das Montreal-Protokoll ist ein internationales Umweltabkommen, das den Schutz der Ozonschicht durch die schrittweise Einstellung der Produktion und des Verbrauchs von ozonschädigenden Substanzen zum Ziel hat. Es war sehr erfolgreich bei der Reduzierung des Einsatzes von Substanzen wie Fluorchlorkohlenwasserstoffen (FCKW) und hat zum allmählichen Wiederherstellen der Ozonschicht beigetragen.
-- **Stockholmer Übereinkommen über persistente organische Schadstoffe** (2001): Das Stockholmer Übereinkommen ist ein internationales Abkommen, das darauf abzielt, die menschliche Gesundheit und die Umwelt vor persistenten organischen Schadstoffen (POP) zu schützen. Diese sind giftige Chemikalien, die in der Umwelt persistieren, in lebenden Organismen bioakkumulieren und schwerwiegende negative Auswirkungen auf die menschliche Gesundheit und Ökosysteme haben können. Wissenschaftler äußerten Bedenken hinsichtlich der schädlichen Auswirkungen von POP, einschließlich ihrer Fähigkeit, über lange Strecken durch Luft- und Wasserströmungen zu reisen. Das Übereinkommen führte zu einem Verbot oder strengen Beschränkungen der Produktion und des Einsatzes mehrerer POP, einschließlich polychlorierter Biphenyle (PCB), Dichlordiphenyltrichlorethan (DDT) und Dioxine.
+- **Montreal-Protokoll** (1987): Das Montreal-Protokoll ist ein internationales Umweltabkommen, das den Schutz der Ozonschicht durch die schrittweise Einstellung der Produktion und des Verbrauchs von ozonabbauenden Substanzen zum Ziel hat. Es war sehr erfolgreich bei der Reduzierung des Einsatzes von Substanzen wie Fluorchlorkohlenwasserstoffen (FCKW) und hat zum allmählichen Erholen der Ozonschicht beigetragen.
+- **Stockholmer Übereinkommen über persistente organische Schadstoffe** (2001): Das Stockholmer Übereinkommen ist ein internationales Abkommen, das darauf abzielt, die menschliche Gesundheit und die Umwelt vor persistenten organischen Schadstoffen (POPs) zu schützen. Diese sind giftige Chemikalien, die in der Umwelt persistieren, in lebenden Organismen bioakkumulieren und schwerwiegende negative Auswirkungen auf die menschliche Gesundheit und Ökosysteme haben können. Wissenschaftler äußerten Bedenken hinsichtlich der schädlichen Auswirkungen von POPs, einschließlich ihrer Fähigkeit, über lange Strecken durch Luft- und Wasserströmungen zu reisen. Das Übereinkommen führte zu einem Verbot oder strengen Beschränkungen der Produktion und des Einsatzes mehrerer POPs, einschließlich polychlorierter Biphenyle (PCB), Dichlordiphenyltrichlorethan (DDT) und Dioxine.
 
 ## Kommende Gipfel {#coming-summits}
 
-### November 2024 San Francisco AI-Sicherheitskonferenz {#november-2024-san-francisco-ai-safety-conference}
+### November 2024 San Francisco KI-Sicherheitskonferenz {#november-2024-san-francisco-ai-safety-conference}
 
 Im September überraschten uns die AISI und die US-Regierung mit der Ankündigung eines neuen Gipfels.
 Oder, genauer gesagt, zwei neue Zusammenkünfte in San Francisco.
@@ -40,8 +40,8 @@ Man könnte argumentieren, dass einige sicherheitsbewusste Führungskräfte von 
 Während des Bletchley-Gipfels 2023 entschied sich Frankreich, den nächsten großen Gipfel im November 2024 auszurichten.
 Frankreich verschob ihn auf Februar 2025.
 Er wurde auch in "KI-_Aktions_gipfel" umbenannt und der wichtige Fokus auf "Sicherheit" wurde fallen gelassen.
-Wir wurden informiert, dass Sicherheit nur einer von fünf Schwerpunkten auf dem Gipfel sein wird.
-Er wird von der KI-Skeptikerin Anne Bouverot geleitet, die [abweisend](https://legrandcontinent-eu.translate.goog/es/2023/12/08/la-ia-no-nos-sustituira-una-conversacion-con-anne-bouverot-yann-le-cun-y-alexandre-viros/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) gegenüber "Alarmdiskursen" ist und KI mit Taschenrechnern vergleicht und Bedenken hinsichtlich der KI-Sicherheit mit Y2K-Bedenken vergleicht und sicher ist, dass "KI uns nicht ersetzen wird, sondern uns helfen wird".
+Wir wurden informiert, dass Sicherheit nur einer von fünf Schwerpunkten des Gipfels sein wird.
+Er wird von der KI-Skeptikerin Anne Bouverot geleitet, die [abweisend](https://legrandcontinent-eu.translate.goog/es/2023/12/08/la-ia-no-nos-sustituira-una-conversacion-con-anne-bouverot-yann-le-cun-y-alexandre-viros/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) gegenüber "Alarmdiskursen" ist und KI mit Taschenrechnern vergleicht und Bedenken hinsichtlich der KI-Sicherheit mit Y2K-Bedenken vergleicht, da sie sicher ist, dass "KI uns nicht ersetzen wird, sondern uns helfen wird".
 Es scheint immer unwahrscheinlicher, dass dieser Gipfel zu den internationalen Regulierungen führen wird, die wir fordern.
 
 ## Vergangene Gipfel {#past-summits}
@@ -51,7 +51,7 @@ Es scheint immer unwahrscheinlicher, dass dieser Gipfel zu den internationalen R
 Das Hauptziel von PauseAI war es, eine Regierung davon zu überzeugen, einen solchen Gipfel zu organisieren.
 Nur 5 Wochen nach dem ersten PauseAI-Protest kündigte die britische Regierung an, dass sie einen KI-Sicherheitsgipfel ausrichten würde, der am 1. und 2. November 2023 stattfand.
 Der Gipfel war relativ klein (nur 100 Personen wurden eingeladen) und fand in Bletchley Park statt.
-Obwohl er nicht zu einem bindenden Vertrag führte, führte er zu der ["Bletchley-Erklärung"](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023), die von allen 28 teilnehmenden Ländern unterzeichnet wurde.
+Obwohl er nicht zu einem bindenden Vertrag führte, führte er zur ["Bletchley-Erklärung"](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023), die von allen 28 teilnehmenden Ländern unterzeichnet wurde.
 In dieser Erklärung anerkannten die Länder die KI-Risiken (einschließlich "Probleme der Kontrolle im Zusammenhang mit der Ausrichtung auf menschliche Absichten").
 Dieser Gipfel führte auch zu zwei Folgegipfeln, die für 2024 in Seoul und Paris angekündigt wurden.
 
@@ -59,11 +59,11 @@ Dieser Gipfel führte auch zu zwei Folgegipfeln, die für 2024 in Seoul und Pari
 
 Monatelang war unklar, was der Umfang dieses Seoul-Gipfels sein würde.
 Alles, was wir wussten, war, dass es ein ["virtuelles Minigipfel"](https://www.bracknellnews.co.uk/news/national/23898764.ai-safety-institute-will-make-uk-global-hub-rishi-sunak-says/) sein würde.
-Eine eher unambitionierte Art, mit den hoch alarmierenden Forderungen nach Regulierung umzugehen.
+Eine eher unambitionierte Art, mit den hochalarmierenden Aufrufen zur Regulierung umzugehen.
 Im April 2024 wurde der zweite KI-Sicherheitsgipfel von der britischen Regierung [offiziell angekündigt](https://www.gov.uk/government/news/uk-and-republic-of-korea-to-build-on-legacy-of-bletchley-park).
-Wir [organisierten einen Protest am 13. Mai](/2024-may), um unsere Minister davon zu überzeugen, am Gipfel teilzunehmen (einige hatten [nicht einmal vor, teilzunehmen](https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/) und Verhandlungen über einen Vertrag zu beginnen, der zu einer Pause führen soll.
+Wir [organisierten einen Protest am 13. Mai](/2024-may), um unsere Minister davon zu überzeugen, am Gipfel teilzunehmen (einige hatten [nicht vor, teilzunehmen](https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/)) und Verhandlungen über einen Vertrag zur Pause aufzunehmen.
 
 Der Gipfel führte zu folgenden Ergebnissen:
 
-1. 16 Unternehmen (die meisten prominenten KI-Unternehmen) unterzeichneten die ["Frontier AI Safety Commitments"](https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai?utm_source=substack&utm_medium=email), was bedeutet, dass diese Unternehmen RSPs veröffentlichen werden. Frühere freiwillige Verpflichtungen [wurden ignoriert](https://www.politico.eu/article/rishi-sunak-ai-testing-tech-ai-safety-institute/).
+1. 16 Unternehmen (die meisten prominenten KI-Unternehmen) unterzeichneten die ["Frontier AI Safety Commitments"](https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai?utm_source=substack&utm_medium=email), was bedeutet, dass diese Unternehmen RSPs veröffentlichen werden. Bisherige freiwillige Verpflichtungen [wurden ignoriert](https://www.politico.eu/article/rishi-sunak-ai-testing-tech-ai-safety-institute/).
 2. Eine [neue Erklärung](https://www.gov.uk/government/publications/seoul-ministerial-statement-for-advancing-ai-safety-innovation-and-inclusivity-ai-seoul-summit-2024/seoul-ministerial-statement-for-advancing-ai-safety-innovation-and-inclusivity-ai-seoul-summit-2024) wurde von 27 Ländern unterzeichnet.
