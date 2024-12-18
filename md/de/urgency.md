@@ -6,8 +6,8 @@ description: Wir unterschätzen den Fortschritt der KI, und es besteht eine klei
 date: '2023-05-04'
 ---
 Aktuelle [State-of-the-Art](/sota)-KI-Modelle sind bereits in vielen Bereichen übermenschlich, aber glücklicherweise nicht in allen.
-Wenn wir die Superintelligenz erreichen, bevor wir das Alignmentsproblem lösen, [droht uns ein Aussterberisiko](/xrisk).
-Daher ist es wichtig, einen geschätzten Zeitrahmen für die mögliche Entstehung einer Superintelligenz zu haben, um sicherzustellen, dass wir nicht überrascht werden.
+Wenn wir die Superintelligenz erreichen, bevor wir das Alignmentsproblem lösen, [droht uns ein Risiko des Aussterbens](/xrisk).
+Daher ist es wichtig, einen geschätzten Zeitrahmen für die mögliche Entstehung einer Superintelligenz zu haben, um sicherzustellen, dass wir nicht unvorbereitet sind.
 Wenn unsere Vorhersagen zu weit entfernt sind, könnten wir uns nicht rechtzeitig vorbereiten.
 
 Aber wie weit entfernt sind wir?
@@ -18,7 +18,7 @@ Es könnte früher sein als die meisten denken.
 
 KI-Modelle benötigen Algorithmen, Daten und Chips.
 Jeder dieser Komponenten verbessert sich rasant aufgrund enormer Investitionen in die KI.
-Die Verbesserungen in jeder dieser Komponenten summieren sich und führen zu exponentiellem Wachstum in den Fähigkeiten der KI.
+Die Verbesserungen in jedem dieser Komponenten summieren sich auf und führen zu exponentiellem Wachstum in den Fähigkeiten der KI.
 
 - **Mehr Chips**. ChatGPT wurde auf [10.000](https://www.fierceelectronics.com/sensors/chatgpt-runs-10k-nvidia-training-gpus-potential-thousands-more) spezialisierten Chips trainiert. Meta hat [angekündigt](https://www.datacenterdynamics.com/en/news/meta-to-operate-600000-gpus-by-year-end/), dass sie 600.000 Next-Gen-Chips für die Ausbildung ihrer nächsten KI-Modelle haben werden.
 - **Schnellere Chips**. Jedes Jahr werden Chips durch neue Architekturen und Lithographie-Innovationen schneller. Die Chips, die Meta verwendet, sind 10-mal schneller als die Chips, die für ChatGPT verwendet wurden. Wir sehen auch hochspezialisierte Hardware wie die Groq-Chips, die [13-mal schneller](https://mezha.media/en/2024/02/22/groq-s-new-ai-chip-offers-to-increase-chatgpt-speed-by-13-times/) sind als die Konkurrenz. Auf einem längeren Zeitraum könnten [ternäre Architekturen](https://arxiv.org/pdf/2402.17764.pdf) oder [photonische Chips](https://www.nature.com/articles/s41566-024-01394-2) Chips noch schneller machen.
@@ -62,8 +62,8 @@ Es gibt viele Gründe, warum Menschen den Fortschritt der KI unterschätzen.
 
 - **Es ist schwer, auf dem Laufenden zu bleiben**. Fast täglich sehen wir neue Durchbrüche in der KI. Es ist fast unmöglich, mit dem Tempo des Fortschritts Schritt zu halten. Sie sind nicht allein, wenn Sie das Gefühl haben, dass Sie zurückfallen.
 - **Wir verschieben ständig die Zielpfosten**. In den 90er Jahren dachten die Menschen, dass der Heilige Gral der KI etwas war, das Schach spielen konnte. Als KI Kasparow besiegte, war die nächste Herausforderung Go. Jetzt haben wir Maschinen, die im [99,9. Perzentil in IQ-Tests](https://bgr.com/tech/chatgpt-took-an-iq-test-and-its-score-was-sky-high/) punkten, [26 Sprachen übersetzen](https://bgr.com/tech/chatgpt-took-an-iq-test-and-its-score-was-sky-high/) und [Fotowettbewerbe gewinnen](https://www.scientificamerican.com/article/how-my-ai-image-won-a-major-photography-competition/), und doch fragen wir immer noch: "Wann wird KI menschliches Niveau erreichen?". Sie übertrifft uns bereits in vielen Bereichen, aber wir konzentrieren uns immer auf die immer kleiner werdende Anzahl von Dingen, die wir noch besser können.
-- **Wir möchten gerne denken, dass wir besonders sind**. Menschen möchten gerne denken, dass sie besonders sind. Wenn eine KI das kann, was wir können, sind wir nicht mehr besonders. Das ist eine harte Pille zu schlucken, und das [Gehirn hat viele Abwehrmechanismen, um dies zu vermeiden](psychology-of-x-risk).
-- **Wir sind wirklich schlecht in exponentiellem Wachstum**. Wir neigen dazu, systematisch und vorhersehbar zu unterschätzen, wie sich exponentielles Wachstum im Laufe der Zeit kumuliert. Dies wurde in [wissenschaftlichen Studien](https://www.researchgate.net/figure/Underestimation-of-exponential-growth-a-shows-the-participants-prediction-of-the_fig4_351171143) gezeigt.
+- **Wir möchten gerne denken, dass wir etwas Besonderes sind**. Menschen möchten gerne das Gefühl haben, dass sie etwas Besonderes sind. Wenn eine KI das kann, was wir können, sind wir nicht mehr etwas Besonderes. Das ist eine bittere Pille, und das [Gehirn hat viele Abwehrmechanismen, um dies zu vermeiden](psychology-of-x-risk).
+- **Wir sind wirklich schlecht darin, exponentielles Wachstum zu verstehen**. Wir neigen dazu, systematisch und vorhersehbar zu unterschätzen, wie sich exponentielles Wachstum im Laufe der Zeit kumuliert. Dies wurde in [wissenschaftlichen Studien](https://www.researchgate.net/figure/Underestimation-of-exponential-growth-a-shows-the-participants-prediction-of-the_fig4_351171143) gezeigt.
 
 Glücklicherweise gibt es noch einige Dinge, die eine KI noch nicht kann.
 Sie kann nicht [besser als die besten Hacker hacken](/cybersecurity-risks), und sie kann nicht so gut wie die besten KI-Forscher forschen.
@@ -74,7 +74,7 @@ Wann werden wir eine _Superintelligenz_ haben?
 
 ## Die Ilya-Schwelle {#the-ilya-threshold}
 
-Ich denke, der entscheidende Punkt, den wir berücksichtigen sollten, ist **der Punkt, an dem eine KI besser in der Lage ist, KI-Forschung zu betreiben als jemand wie Ilya Sutskever** (ehemaliger Chefingenieur bei OpenAI).
+Ich denke, der entscheidende Punkt, den wir berücksichtigen sollten, ist **der Punkt, an dem eine KI besser darin ist, KI-Forschung zu betreiben als jemand wie Ilya Sutskever** (ehemaliger Chef-Wissenschaftler bei OpenAI).
 Eine KI, die sinnvolle Beiträge zu KI-Algorithmen und -Architekturen leisten kann, ist wahrscheinlich in der Lage, sich selbst zu verbessern.
 Nennen wir diesen Punkt der möglichen Selbstverbesserung die _Ilya-Schwelle_.
 Wenn sie diese Schwelle erreicht, könnte eine KI sich selbst verbessern, weil sie explizit dazu angewiesen wurde, oder weil es ein nützliches Teilziel für andere Ziele ist (KIs [erstellen bereits ihre eigenen Teilziele](https://github.com/Significant-Gravitas/Auto-GPT)).
@@ -95,4 +95,4 @@ Niemand weiß genau, wann wir die Ilya-Schwelle erreichen werden.
 Aber die [Einsätze sind zu hoch](/xrisk), um anzunehmen, dass wir viel Zeit haben.
 Wir müssen auf die kleine Chance reagieren, dass wir nur noch Monate entfernt sind.
 Wir müssen die [Entwicklung von Frontier-KI pausieren](/proposal) jetzt.
-Es liegt an jedem von uns, [Maßnahmen zu ergreifen](/action) und sicherzustellen, dass wir nicht überrascht werden.
+Es liegt an jedem von uns, [Maßnahmen zu ergreifen](/action) und sicherzustellen, dass wir nicht unvorbereitet sind.
