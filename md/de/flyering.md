@@ -7,37 +7,37 @@ description: Wie man Flyer für PauseAI verteilt
 
 ## Warum Flyer verteilen? {#why-flyering}
 
-- Das Ziel des Flyer-Verteilens ist es, eine [lokale PauseAI-Community](/communities) zu [gründen](/local-organizing) und zu wachsen
-- Um dies zu erreichen, sollte das Ziel des Flyer-Verteilens sein, eine Versammlung oder Massenveranstaltung anzukündigen, zu der alle Interessierten kommen und mehr über PauseAI und ihre Möglichkeiten erfahren können
+- Das Ziel des Flyer-Verteilens ist es, eine [lokale PauseAI-Community](/communities) zu gründen und zu stärken
+- Um dies zu erreichen, sollte das Ziel des Flyer-Verteilens sein, ein Treffen oder eine Veranstaltung anzukündigen, zu der alle Interessierten kommen und mehr über PauseAI und ihre Möglichkeiten erfahren können
 
 ## Inhalt der Flyer {#flyer-contents}
 
 - Finden Sie bestehende Materialien im [Flyer-Ordner](https://drive.google.com/drive/folders/1MAU_bq31bEuylhzkt2NkZ_XRY6TlKaqZ?usp=drive_link)
 - Bestehende Flyer können bearbeitet werden, um sie spezifischer auf Ihren Zweck zuzuschneiden. Verwenden Sie die [Figma-Vorlage](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable), um Ihre eigenen Flyer zu erstellen
-- Fügen Sie den Zeitpunkt und den Ort Ihrer Versammlung hinzu. Wir empfehlen das Wochenende nach der Flyer-Verteilung
+- Fügen Sie den Zeitpunkt und den Ort Ihres Treffens hinzu. Wir empfehlen das Wochenende nach der Flyer-Verteilung
 - Flyer sollten klare Aufrufe zum Handeln enthalten
-  - ("Erfahren Sie, was SIE tun können!", "Finden Sie heraus, wie SIE helfen können!", "SIE können einen Unterschied machen!", "Machen Sie mit!")
+  - ("Erfahren Sie, was Sie tun können!", "Erfahren Sie, wie Sie helfen können!", "Sie können einen Unterschied machen!", "Machen Sie mit!")
 
 ## Flyer-Druck {#flyer-printing}
 
-Es gibt viele Möglichkeiten, Flyer zu drucken, je nach Budget und Qualitätsanforderungen. Doppelseitiger Farbdruck kann teuer sein (in der Größenordnung von 1 $ pro Seite)
+Es gibt viele Möglichkeiten, Flyer zu drucken, je nach Budget und Qualitätsanforderungen. Der Druck von doppelseitigen Farbflyern kann teuer sein (ca. 1 $ pro Seite).
 
 - [48 Hour Print](https://www.48hourprint.com/) ist durchschnittlich bis günstig im Preis und von hoher Qualität
 - [Bizay](https://us.bizay.com/) ist extrem günstig, aber die Qualität ist nur "ziemlich okay" (einige Kunden berichten von erheblichen Lieferverzögerungen und anderen Problemen; Nathan in Arizona hat diese Probleme nicht erlebt und war sehr zufrieden mit dem Ergebnis)
 - Überprüfen Sie die Preise bei Ihrem lokalen Druckerei und vergleichen Sie sie mit Online-Anbietern
 - Wenn Sie eine sehr günstige Option benötigen, sollten Sie in Betracht ziehen, einseitige Flyer zu drucken, um die Druckkosten in Ihrem Gebiet zu minimieren
-- Lassen Sie alle Materialien rechtzeitig vorher drucken
+- Lassen Sie alle Materialien rechtzeitig drucken
 
 ## Flyer-Verteilung {#flyering-setup}
 
 - Selbst für eine kurze, einmalige Aktion ist es ratsam, mindestens 100 Flyer zu haben. Besser zu viele als zu wenige!
-- Es kann sehr hilfreich sein, ein A-Frame-Schild zu Ihren Füßen zu haben
+- Es kann sehr hilfreich sein, ein A-Frame-Schild bei Ihren Füßen zu haben
   - Es gibt den Lesern die Möglichkeit, sich freiwillig an Sie zu wenden
   - Es kann die Menschen zum Nachdenken anregen, auch wenn sie nicht mit Ihnen interagieren
-  - Siehe [PauseAI Flyering Sign (3x4).pdf](https://drive.google.com/file/d/1DNjgsD-QTL6Xf_MI_0COiYOCO3rVhNZ2/view?usp=drive_link)
-- Es ist ratsam, ein Formular zu haben, das Interessierte ausfüllen können, wenn sie sich mit Ihnen unterhalten möchten. Wenn die Leute ihre Informationen angeben, ist es viel einfacher, sie zu kontaktieren, zu Veranstaltungen einzuladen und eine lokale Gruppe zu organisieren. Sie können dies mit einem Clipboard, einem Stift und einem gedruckten Anmeldeformular tun
+  - Siehe [PauseAI-Flyer-Schild (3x4).pdf](https://drive.google.com/file/d/1DNjgsD-QTL6Xf_MI_0COiYOCO3rVhNZ2/view?usp=drive_link)
+- Es ist ratsam, ein Formular zu haben, das Interessierte ausfüllen können, wenn sie mit Ihnen sprechen möchten. Wenn die Leute ihre Informationen angeben, ist es viel einfacher, sie zu kontaktieren, zu Veranstaltungen einzuladen und eine lokale Gruppe zu organisieren. Sie können dies mit einem Clipboard, einem Stift und einem gedruckten Anmeldeformular tun
 - Wenn Sie zwei oder mehr Freiwillige haben, können Sie die Flyer-Verteilung aufteilen, um mehr Gebiet abzudecken, oder Sie können einen Tisch aufstellen (wenn erlaubt)
-- Es ist nützlich, vorab generierte und beschriftete QR-Codes in einem Album auf Ihrem Telefon oder in einem gedruckten Trapper für digitale Ressourcen zu haben, auf die Sie während Gesprächen hinweisen möchten (z.B. Websites, Artikel, Papiere, Podcasts, Videos)
+- Es ist nützlich, vorab generierte und beschriftete QR-Codes in einem Album auf Ihrem Telefon oder in einem gedruckten Trapper für digitale Ressourcen zu haben, auf die Sie während der Gespräche hinweisen möchten (z.B. Websites, Artikel, Papiere, Podcasts, Videos)
 - Planen Sie, mindestens zwei Stunden lang draußen zu bleiben
   - Es kann einige Zeit dauern, bis Sie sich zurechtfinden
   - Wenn Sie in Schwung kommen und wenn Sie die Zeit und die Energie haben, sollten Sie weitermachen!
@@ -48,7 +48,7 @@ Es gibt viele Möglichkeiten, Flyer zu drucken, je nach Budget und Qualitätsanf
 
 Hier ist eine Geschichte von Nathan Metzger:
 
-    _"Ich bin nicht der Aktivist-Typ. Ich bin ein Introvertierter mit hoher sozialer Angst (und ich könnte ein bisschen autistisch sein). Der Gedanke, Menschen auf der Straße anzusprechen, machte mich so nervös, dass ich mich körperlich krank fühlte. Es gibt wenige Dinge, vor denen ich mehr Angst habe, als mich in der Öffentlichkeit zu blamieren, aber das wörtliche Ende der Welt ist eines davon. Also habe ich diese Angst beiseite gelegt und mich von ihr vorwärts treiben lassen. Ich habe es trotzdem getan - ich habe es ängstlich getan. Ich habe alle Materialien bestellt, einen Tag und einen Ort geplant und bin allein gegangen. Es dauerte etwa eine Stunde, bis ich mich wie ein Profi fühlte. Nachdem ich einige positive und negative Interaktionen hatte, merkte ich, dass ich noch am Leben war, ich hörte auf, mich zu fürchten, und gegen alle Erwartungen begann ich, Spaß zu haben."_
+    _"Ich bin nicht der Aktivist-Typ. Ich bin ein Introvertierter mit hoher sozialer Angst (und ich könnte ein bisschen autistisch sein). Der Gedanke, Menschen auf der Straße anzusprechen, machte mich so nervös, dass ich mich körperlich unwohl fühlte. Es gibt wenige Dinge, vor denen ich mehr Angst habe, als mich in der Öffentlichkeit zu blamieren, aber das Ende der Welt ist eines davon. Also habe ich diese Angst beiseite gelegt und mich von ihr vorwärts treiben lassen. Ich habe es trotzdem getan - ich habe es ängstlich getan. Ich habe alle Materialien bestellt, einen Tag und einen Ort geplant und bin allein gegangen. Es dauerte etwa eine Stunde, bis ich mich wie ein Profi fühlte. Nachdem ich einige positive und negative Interaktionen hatte, merkte ich, dass ich noch am Leben war, ich hörte auf, mich zu fürchten, und gegen alle Erwartungen begann ich, Spaß zu haben."_
 
 ### Der Standort ist wichtig {#location-matters}
 
@@ -57,17 +57,17 @@ Hier ist eine Geschichte von Nathan Metzger:
    - Sie sind voller neugieriger, energiegeladener Menschen, die möglicherweise Zeit haben
    - Sie können zu bestimmten Zeiten des Tages an bestimmten Orten vorhersehbar belebt sein
    - Es ist nicht notwendig, eine bestimmte Gruppe von Studenten anzusprechen, da alle Arten von Menschen diese Bedenken teilen
-2. **Außen-Shoppingcenter / Märkte / Plätze?**
+2. **Freiluft-Einkaufszentren / Märkte / Plätze?**
 3. **Geschäftige Gehwege?**
 4. **Öffentliche Parks?**
 
-- **Überprüfen Sie immer die lokalen Gesetze und Vorschriften**
-  - Wenn Sie Flyer verteilen, können und sollten Sie effektiv sein, ohne negative Aufmerksamkeit von Sicherheitspersonal oder Polizei zu erregen
+- **Überprüfen Sie immer die lokalen Gesetze und Verordnungen**
+  - Wenn Sie Flyer verteilen, können und sollten Sie effektiv sein, ohne negative Aufmerksamkeit von Sicherheitskräften oder der Polizei zu erregen
   - Ihr spezifischer Standort kann zusätzliche Regeln und Einschränkungen haben
-    - Wenn spezielle Genehmigungen erforderlich sind, versuchen Sie, sie rechtzeitig im Voraus zu erhalten
+    - Wenn spezielle Genehmigungen erforderlich sind, versuchen Sie, sie rechtzeitig zu erhalten
 - Wenn Sie ankommen, versuchen Sie, ein Gleichgewicht zwischen der Optimierung Ihres Standorts und der tatsächlichen Flyer-Verteilung zu finden
-  - Es ist eine gute Idee, sich umzusehen, um zu sehen, wo der Verkehr am stärksten ist; Sie könnten die Anzahl der Flyer, die Sie verteilen, verdoppeln, indem Sie sich an einen leicht besseren Standort bewegen
-  - Der Verkehr kann jedoch ein- und abfließen. Wenn das Gras auf der anderen Seite immer grüner aussieht und Sie alle paar Minuten umziehen, haben Sie möglicherweise weniger Zeit, um tatsächlich Flyer zu verteilen
+  - Es ist eine gute Idee, sich umzusehen, um zu sehen, wo der Verkehr am stärksten ist; Sie könnten die Anzahl der Flyer, die Sie verteilen, verdoppeln, indem Sie sich an einen leicht besseren Standort begeben
+  - Der Verkehr kann jedoch fluktuieren. Wenn das Gras auf der anderen Seite immer grüner aussieht und Sie alle paar Minuten umziehen, haben Sie möglicherweise weniger Zeit, um tatsächlich Flyer zu verteilen
 - Und natürlich: **Seien Sie sicher!**
 
 ### Wie man Passanten anspricht {#how-to-engage-passersby}
@@ -81,13 +81,13 @@ _Mit übermäßig detaillierten Anweisungen, wie man sich wie ein normaler Mensc
 2. **Seien Sie selbstbewusst**, freundlich und nicht bedrohlich
 3. Schauen Sie jemanden direkt an, fragen Sie, ob er einen Flyer haben möchte oder ob Sie ihm einen geben können, und halten Sie den Flyer in seine Richtung
 4. **"Kann ich Ihnen einen Flyer geben?"** ist normalerweise ein besserer Satz als "Kann ich Ihnen einen Flyer geben?"
-   - Psychologisch gesehen kann dies dazu führen, dass sie sich wie ein Gefallen fühlen (und hey, vielleicht tun Sie ihnen ja einen Gefallen!)
+   - Psychologisch gesehen kann dies dazu führen, dass die Menschen sich so fühlen, als ob Sie ihnen einen Gefallen tun (und hey, vielleicht tun Sie das!)
 5. Wenn Sie jedoch mit jemandem sprechen, der sehr einverstanden / nett / süß erscheint:
-   - "Kann ich Ihnen einen Flyer geben?" könnte besser sein, um um Erlaubnis zu bitten
-   - Es ist gut, ein bisschen leiser zu sprechen und ein bisschen zögerlicher / schüchterner / sanfter zu sein, während Sie um Erlaubnis bitten
+   - "Kann ich Ihnen einen Flyer geben?" könnte besser sein, in dem Sinne, dass Sie um Erlaubnis fragen
+   - Es ist gut, ein bisschen leiser zu sprechen und ein bisschen zögerlicher / schüchtern / sanft zu sein, während Sie um Erlaubnis fragen
    - Denken Sie daran, dass Sie für andere ein Fremder mit einer unbekannten Agenda sind und dass einige Menschen nervöser sind, mit Ihnen zu sprechen, als Sie mit ihnen!
 6. Wenn jemand auf Sie zukommt und Blickkontakt herstellt, wenn er weniger als 5 Sekunden entfernt ist, dann halten Sie den **Blickkontakt** mit ihm, bis er in Reichweite ist
-   - Wenn Sie wegschauen, verringert sich Ihr scheinbares Interesse an ihnen, und sie werden ebenfalls nicht an Ihnen interessiert sein; auf der anderen Seite starren Sie die Leute nicht einfach an
+   - Wenn Sie wegschauen, verringert sich Ihr scheinbares Interesse an ihnen, und sie werden ebenfalls nicht an Ihnen interessiert sein; auf der anderen Seite starren Sie die Menschen nicht einfach an
 7. Die körperliche Nähe ist wichtig; es ist am besten, **Menschen zu ignorieren, die weiter entfernt sind** (>20ft oder 6m), wenn Sie sich in einem weiten Raum befinden
    - Sie können sie nicht physisch erreichen, und sie könnten Sie absichtlich meiden; es gibt mehr Fische im Meer!
 8. **Stellen Sie sich nicht in den Weg** von Passanten; Sie müssen das nicht tun, um die Aufmerksamkeit der Menschen zu erregen, die Sie erreichen möchten
@@ -98,8 +98,8 @@ _Mit übermäßig detaillierten Anweisungen, wie man sich wie ein normaler Mensc
     - Versuchen Sie nicht unbedingt, Meinungen zu ändern; viele Menschen wären besorgt, wenn sie wüssten, was Sie wissen, und viele Menschen sind bereits besorgt, wissen aber nicht, was sie dagegen tun können. **Finden Sie Ihre Leute!**
     - Menschen neigen dazu, neugierig zu sein, wenn sie hören, dass es etwas gibt, das sie nicht wissen und das sie betreffen könnte
 11. **Gehen Sie mit Empathie um**
-    - Viele Menschen haben Sorgen um KI, die nicht dieselben sind wie Ihre eigenen. Versuchen Sie nicht, ihre Sorgen zu ändern. Stattdessen erkennen Sie ihre Bedenken an und laden Sie sie in die breite Palette von PauseAI ein: Menschen, die eine Pause bei KI und ihren Risiken einlegen möchten.
-    - Versuchen Sie nicht, eine Niederlage aus dem Sieg zu reißen. **Verwenden Sie "Ja und"**. Wenn sie echte Bedenken um KI haben, die Ihnen zu mild erscheinen oder sich auf die falschen Dinge konzentrieren, kommunizieren Sie nicht, dass sie **falsch** sind; kommunizieren Sie, dass sie **richtiger sind, als sie wissen**.
+    - Viele Menschen haben Sorgen um KI, die nicht dieselben sind wie Ihre eigenen. Versuchen Sie nicht, ihre Sorgen zu ändern. Stattdessen erkennen Sie ihre Sorgen an und laden Sie sie in die breite Palette von PauseAI ein: Menschen, die eine Pause bei KI und ihren Risiken einlegen möchten.
+    - Versuchen Sie nicht, eine Niederlage aus dem Sieg zu reißen. **Verwenden Sie "Ja und"**. Wenn sie echte Sorgen um KI haben, die Ihnen zu mild erscheinen oder sich auf die falschen Dinge konzentrieren, kommunizieren Sie nicht, dass sie **falsch** sind; kommunizieren Sie, dass sie **richtiger sind, als sie wissen**.
 
 ### Einige Dinge, die Sie sagen können {#some-things-to-say}
 
@@ -127,17 +127,17 @@ Wenn Sie gefragt werden, worum es geht:
    - In einem Raum mit vielen Menschen arbeitet das Gesetz der großen Zahlen für Sie
 4. Einige Menschen könnten sagen, dass sie mit Ihnen übereinstimmen, aber trotzdem keinen Flyer möchten (und das ist okay)
 5. In den meisten Teilen der Welt sind fast alle Menschen extrem höflich!
-   - _(Sie könnten nicht dieselbe Erfahrung machen, wenn Sie sich in einem Gebiet befinden, das für seine Unhöflichkeit bekannt ist.)_
+   - _(Sie können möglicherweise nicht dieselbe Erfahrung machen, wenn Sie sich in einem Gebiet befinden, das für seine Unhöflichkeit bekannt ist.)_
 6. Die überwiegende Mehrheit der Interaktionen ist positiv und nicht negativ
 7. Von den Menschen, die stehen bleiben, um mit Ihnen zu sprechen, behandeln viele Sie wahrscheinlich automatisch so, als ob Sie wüssten, wovon Sie sprechen
-   - Und (hoffentlich) tun Sie das! Sie nehmen sich Zeit, um ihnen etwas mitzuteilen, das Sie für wichtig halten, und einige Menschen erkennen das
+   - Und (hoffentlich) tun Sie das! Sie nehmen sich Zeit, um den Menschen etwas zu kommunizieren, das Sie für wichtig halten, und einige Menschen erkennen das
 8. Wenn Sie ein Schild verwenden, sortieren sich einige Menschen selbst aus und vermeiden Sie, wenn sie nicht interessiert sind, was Ihnen Energie sparen kann!
 
 ## Relevante Diskussionen im PauseAI-Discord {#relevant-discussions-in-the-pauseai-discord}
 
-- [Tabling / flyering project](https://discord.com/channels/1100491867675709580/1175000709490561064)
-- [Nathan Metzgers erster Flyer-Verteilungsversuch](https://discord.com/channels/1100491867675709580/1211431205707452538)
-- [Seans Flyer-Verteilungsfragen](https://discord.com/channels/1100491867675709580/1220069198135296031)
+- [Tabling / Flyer-Projekt](https://discord.com/channels/1100491867675709580/1175000709490561064)
+- [Nathan Metzgers erster Flyer-Versuch](https://discord.com/channels/1100491867675709580/1211431205707452538)
+- [Seans Flyer-Fragen](https://discord.com/channels/1100491867675709580/1220069198135296031)
 
 ## Siehe auch {#see-also}
 
