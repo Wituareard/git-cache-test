@@ -2,7 +2,7 @@
 
 ---
 title: Rechtliche Informationen
-description: Gesetzlich vorgeschriebene Informationen über PauseAI.
+description: Gesetzlich erforderliche Informationen über PauseAI.
 ---
 Diese Website wird von PauseAI Global betrieben.
 Mehr über die internen Abläufe von PauseAI erfahren Sie auf der [Organisationsseite](/organization).
@@ -15,18 +15,18 @@ Im Folgenden finden Sie Informationen über die niederländische juristische Per
 - KVK-Nummer: 92951031
 - RSIN: 866227696
 - Steuer-/Umsatzsteuernummer: NL866227696B01
-- Bankkonto: NL31BUNQ2109903155 ([spenden](/donate))
-- Ziel: "Die katastrophalsten Risiken von KI mildern."
-- Gründungsdatum: 13.02.2024
-- ANBI-Status: Ja, seit 13.02.2024
+- Bankkonto: NL31BUNQ2109903155 ([Spenden](/donate))
+- Ziel: "Die katastrophalsten Risiken von KI minimieren."
+- Gründungsdatum: 13. Februar 2024
+- ANBI-Status: Ja, seit 13. Februar 2024
 - Kontakt: [Joep Meindertsma](mailto:joep@pauseai.info)
-- Adresse: Skopjestraat 26, 3541ES Utrecht, Niederlande
+- Adresse: Skopjestraat 26, 3541 ES Utrecht, Niederlande
 
 ### ANBI-Status {#anbi-status}
 
 Der ANBI-Status ist ein niederländischer Steuerstatus für gemeinnützige Organisationen.
-Er ermöglicht steuerfreie und steuerabzugsfähige Spenden sowie weitere Vorteile für die Organisation und ihre Spender.
-Stichting PauseAI ist seit 13.02.2024 ein registrierter ANBI. Überprüfen Sie den Status [hier](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (Seite auf Niederländisch).
+Er ermöglicht steuerfreie und steuerabzugsfähige Spenden sowie andere Vorteile für die Organisation und ihre Spender.
+Stichting PauseAI ist seit 13. Februar 2024 ein registrierter ANBI. Überprüfen Sie den Status [hier](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (Seite auf Niederländisch).
 
 Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/conditions_pbos/which_conditions_must_be_met_by_pbo) erfüllen:
 
@@ -36,7 +36,7 @@ Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](
 
 ### Politikplan 2024-2025 ("Beleidsplan") {#policy-plan-2024-2025-beleidsplan}
 
-Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies durch folgende Maßnahmen erreichen:
+Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten dies erreichen, indem wir folgende Maßnahmen ergreifen:
 
 - Eine Gemeinschaft von Freiwilligen aufbauen, um für KI-Sicherheit zu werben.
 - Die Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen informieren.
@@ -48,12 +48,12 @@ Unser Ziel ist es, katastrophale Risiken durch KI zu verhindern. Wir möchten di
 
 #### Finanzielle Rechenschaftspflicht ("Financieele paragraaf") {#financial-accountability-financieele-paragraaf}
 
-Wir sammeln Geld, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
-Die Mittel werden verwendet, um die Kosten unserer Aktivitäten wie Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission zu decken.
+Wir sammeln Gelder, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
+Die Gelder werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Einstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
 Wir planen auch, Zuschüsse ("PauseAI MicroGrants") an Freiwillige zu vergeben, die Veranstaltungen organisieren, Inhalte erstellen oder auf andere Weise zu unserer Mission beitragen möchten.
-Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt am Gründungsdatum (13.02.2024) und endet am 31.12.2025, nach dem wir einen Jahresbericht veröffentlichen werden.
-Eingegangene Mittel werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
-Wenn wir mehr Mittel erhalten, als wir ausgeben können, werden wir die überschüssigen Mittel für zukünftige Aktivitäten sparen.
+Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt am Gründungsdatum (13. Februar 2024) und endet am 31. Dezember 2025, nach dem wir einen Jahresbericht veröffentlichen werden.
+Eingegangene Gelder werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
+Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die überschüssigen Gelder für zukünftige Aktivitäten sparen.
 
 ### Bericht über Aktivitäten {#report-of-activities}
 
@@ -74,7 +74,7 @@ Sie haben Anspruch auf Erstattung der Kosten, die ihnen bei der Ausübung ihrer 
 
 ### Finanzielle Rechenschaftspflicht {#financial-accountability}
 
-Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31.12.2025 veröffentlicht.
+Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31. Dezember 2025 veröffentlicht.
 
 ## PauseAI US {#pauseai-us}
 
@@ -82,7 +82,7 @@ Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31.
 - Nonprofit Corporation - CA - Public Benefit
 - Entity Number 501(c)(3): 6071248
 - Entity Number 501(c)(4): 99-3051616
-- Registrierungsdatum: 01/24/2024
+- Registrierungsdatum: 24. Januar 2024
 - Gegründet in: Kalifornien
 - Status: Aktiv
 - Kontakt: [Holly Elmore](mailto:holly@pauseai.info)

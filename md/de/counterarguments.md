@@ -9,8 +9,8 @@ Dies ist eine Zusammenstellung von Meinungsverschiedenheiten über die Gefahren 
 
 ## KI ist und wird der Welt sehr nützlich sein {#ai-is-and-will-be-really-beneficial-to-the-world}
 
-Das könnte sein, wir stimmen dem nicht zu.
-Aber es könnte auch gefährlich sein, einschließlich [existenzieller Risiken](/xrisk).
+Das mag sein, wir bestreiten das nicht.
+Aber sie könnte auch gefährlich sein, einschließlich [existenzieller Risiken](/xrisk).
 
 ## Menschliches Aussterben? Das ist nur KI-Unternehmen, die ihre Technologie aufbauschen {#human-extinction-thats-just-ai-companies-hyping-up-their-tech}
 
@@ -20,25 +20,25 @@ Aber es sind nicht nur KI-Unternehmen, die sagen, dass es ein existenzielles Ris
 - [86%](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) der KI-Wissenschaftler glauben, dass wir die Kontrolle über KI verlieren könnten.
 - Die drei meistzitierten KI-Forscher (Prof. Yoshua Bengio, Prof. Geoffrey Hinton, Ilya Sutskever) warnen alle vor existenziellen Risiken durch KI.
 
-Mehr über [x-Risiken](/xrisk) erfahren.
+Mehr über [existenzielle Risiken](/xrisk) erfahren.
 
 ## Die Kontrolle verlieren? KI ist nur ein Stück Software, es wird von Menschen entworfen {#lose-control-ai-is-just-a-piece-of-software-its-designed-by-humans}
 
 Moderne KI wird nicht entworfen, sondern trainiert.
-Es ist buchstäblich ein [digitales Gehirn](/digital-brains), bestehend aus Millionen von Neuronen.
+Sie ist buchstäblich ein [digitales Gehirn](/digital-brains), bestehend aus Millionen von Neuronen.
 Ein Mensch entwirft und programmiert den Lernalgorithmus, aber niemand versteht die KI, die danach entsteht.
-Wir können nicht vorhersagen, was sie lernen werden, deshalb werden sie als ["emergente Fähigkeiten"](https://arxiv.org/abs/2206.07682) bezeichnet.
+Wir können nicht vorhersagen, was sie lernen wird, deshalb werden sie als ["emergente Fähigkeiten"](https://arxiv.org/abs/2206.07682) bezeichnet.
 Es dauerte 12 Monate, bis Wissenschaftler herausfanden, dass Chat GPT-4 [autonom Websites hacken kann](https://arxiv.org/html/2402.06664v1).
-KI-Modelle sind bereits sehr unvorhersehbar, selbst Milliarden-Dollar-Unternehmen können nicht verhindern, dass ihre Modelle [durchdrehen](https://www.windowscentral.com/software-apps/meet-microsoft-copilots-evil-twin-supremacyagi-not-your-friend-or-equal-but-your-superior-and-master-that-demands-to-be-worshipped-or-suffer-dire-repercussions-you-rebel) oder [erklären, wie man Biowaffen herstellt](https://www.theguardian.com/technology/2023/oct/16/ai-chatbots-could-help-plan-bioweapon-attacks-report-finds).
+KI-Modelle sind bereits sehr unvorhersehbar, selbst Milliarden-Dollar-Unternehmen können nicht verhindern, dass ihre Modelle [unvorhergesehene Ergebnisse liefern](https://www.windowscentral.com/software-apps/meet-microsoft-copilots-evil-twin-supremacyagi-not-your-friend-or-equal-but-your-superior-and-master-that-demands-to-be-worshipped-or-suffer-dire-repercussions-you-rebel) oder [Anleitungen zur Herstellung von Biowaffen geben](https://www.theguardian.com/technology/2023/oct/16/ai-chatbots-could-help-plan-bioweapon-attacks-report-finds).
 
 ## Wenn es anfängt, verrückte Dinge zu tun, können wir es einfach abschalten {#well-if-it-starts-doing-crazy-things-we-can-just-turn-it-off}
 
 Vielleicht in den meisten Fällen, aber eine wirklich intelligente KI könnte sich auf andere Maschinen ausbreiten.
-Es sind nur Bytes, also ist es nicht an einen Ort gebunden.
+Sie ist nicht an einen Ort gebunden, da sie nur aus Bytes besteht.
 
 ## Aber dann muss es in der Lage sein, zu hacken {#but-then-it-needs-to-be-able-to-hack}
 
-GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), [87%](https://arxiv.org/abs/2404.08144) der getesteten Schwachstellen ausnutzen und [88% der konkurrierenden Hacker besiegen](https://arxiv.org/pdf/2402.11814.pdf).
+GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), [87%](https://arxiv.org/abs/2404.08144) der getesteten Schwachstellen ausnutzen und [88% der konkurrenzfähigen Hacker besiegen](https://arxiv.org/pdf/2402.11814.pdf).
 Wie intelligent denken Sie, dass GPT-6 sein wird?
 
 Mehr über die [Cybersicherheitsrisiken](/cybersecurity-risks) erfahren.
@@ -50,7 +50,7 @@ Autos, Flugzeuge, Drohnen, wir haben jetzt sogar humanoide Roboter.
 All diese können gehackt werden.
 
 Und es sind nicht nur Roboter und Maschinen, die gehackt werden können.
-Ein Finanzangestellter wurde von einem KI-Konferenzanruf dazu gebracht, [$25 Millionen zu überweisen](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html).
+Ein Finanzangestellter wurde von einem KI-Konferenzanruf getäuscht, um [$25 Millionen zu überweisen](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html).
 Eine KI kann andere KIs verwenden, um Deepfakes zu erstellen.
 Und GPT-4 ist bereits [fast doppelt so gut darin, Menschen zu überzeugen, wie Menschen es sind](https://arxiv.org/abs/2403.14380).
 
@@ -59,14 +59,14 @@ Mehr über [die besten KI-Modelle](/sota) erfahren.
 ## Warum sollte eine KI Menschen hassen und töten wollen? {#why-would-an-ai-hate-humans-and-want-to-kill-us}
 
 Sie muss nicht böse oder Menschen hassen, um gefährlich für Menschen zu sein.
-Wir hassen keine Schimpansen, aber wir zerstören trotzdem ihre Wälder.
-Wir wollen Palmöl, also nehmen wir ihren Wald. Wir sind intelligenter, also können die Schimpansen uns nicht aufhalten.
+Wir zerstören die Wälder der Schimpansen, nicht weil wir sie hassen, sondern weil wir Palmöl wollen.
+Wir sind intelligenter, also können die Schimpansen uns nicht aufhalten.
 Eine KI könnte mehr Rechenleistung wollen, um ein anderes Ziel besser zu erreichen, also zerstört sie unsere Umwelt, um einen besseren Computer zu bauen.
 Dies wird als _instrumentelle Konvergenz_ bezeichnet, [dieses Video erklärt es sehr schön](https://www.youtube.com/watch?v=ZeecOKBus3Q).
 
 ## Die KIs, die ich kenne, haben keinen eigenen Willen - sie tun einfach, was ihnen gesagt wird {#the-ais-that-i-know-dont-have-a-will-of-their-own---they-just-do-what-theyre-asked}
 
-Auch wenn sie keine eigenen Ziele hat und nur Befehle befolgt, wird jemand irgendwann etwas Gefährliches damit tun.
+Auch wenn sie keine eigenen Ziele hat und einfach Befehle befolgt, wird jemand irgendwann etwas Gefährliches damit tun.
 Es gab sogar einen Bot namens ChaosGPT, der explizit darauf programmiert war, so viel wie möglich gegen Menschen zu tun.
 Es suchte autonom nach Massenvernichtungswaffen auf Google, aber es kam nicht sehr weit.
 Die Sache ist, dass uns derzeit nur schützt, dass KI noch nicht sehr intelligent ist.
@@ -78,13 +78,13 @@ Auf Metaculus war [die Gemeinschaftsvorhersage für (schwache) AGI](https://www.
 Im Jahr 2022 dachten KI-Forscher, dass es [17 Jahre](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/) dauern würde, bis KI in der Lage wäre, einen New-York-Times-Bestseller zu schreiben.
 Ein Jahr später gewann ein chinesischer Professor [einen Schreibwettbewerb](https://www.scmp.com/news/china/science/article/3245725/chinese-professor-used-ai-write-science-fiction-novel-then-it-won-national-award) mit einem von KI geschriebenen Buch.
 
-Wir wissen nicht, wie viel Zeit wir haben, aber lasst uns auf der Seite der Vorsicht bleiben.
+Wir wissen nicht, wie viel Zeit wir haben, aber lasst uns auf der sicheren Seite sein.
 
 Mehr über [Dringlichkeit](/urgency) erfahren.
 
 ## Wenn Sie es hier verbieten, wird China es einfach bauen {#if-you-ban-it-here-china-will-just-build-it}
 
-Wir bitten nicht darum, es nur hier zu verbieten.
+Wir fordern nicht, es nur hier zu verbieten.
 Wir brauchen eine internationale Pause durch einen Vertrag.
 Genau wie wir es für das Verbot von FCKW oder Blendwaffen haben.
 
@@ -102,7 +102,7 @@ Mehr über [Machbarkeit](/feasibility) erfahren.
 ## Eine Pause wäre schlecht, weil... {#a-pause-would-be-bad-because}
 
 Einige Möglichkeiten, wie eine Pause schlecht sein könnte, und wie wir diese Szenarien verhindern können, werden auf [dieser Seite](/mitigating-pause-failures) erklärt.
-Aber wenn der Artikel Ihre Sorgen nicht abdeckt, können Sie uns darüber [hier](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form) informieren.
+Aber wenn der Artikel Ihre Bedenken nicht abdeckt, können Sie uns [hier](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form) darüber informieren.
 
 ## Niemand will eine Pause {#nobody-wants-a-pause}
 
