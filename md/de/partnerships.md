@@ -7,22 +7,22 @@ description: Einladungslink zum Discord-Server von PauseAI
 PauseAI ist eine Organisation, die sich für die Verhinderung von KI-Katastrophen durch basisnahe Aktivitäten, politische Interessenvertretung und öffentliches Engagement einsetzt.
 Als ehrenamtlich geführte Organisation bringen wir ein vielfältiges Netzwerk von Einzelpersonen und Gruppen zusammen, die sich für die Bekämpfung der extremen Risiken durch künstliche Intelligenz einsetzen.
 Wir laden Organisationen und Einzelpersonen ein, sich uns in dieser kritischen Mission anzuschließen.
-Unsere einzigartigen Leistungen zeigen, wie eine Zusammenarbeit mit PauseAI Ihren Einfluss verstärken und sinnvolle Veränderungen in der KI-Politik und -Aufklärung bewirken kann.
+Unsere einzigartigen Wertangebote zeigen, wie eine Zusammenarbeit mit PauseAI Ihren Einfluss verstärken und sinnvolle Veränderungen in der KI-Politik und -Aufklärung bewirken kann.
 
-## Einzigartige Verkaufspunkte von PauseAI {#pauseais-unique-selling-points}
+## Einzigartige Stärken von PauseAI {#pauseais-unique-selling-points}
 
 1. **100% ehrenamtlich geführt:** Echte Leidenschaft und Engagement.
 2. **Expertise in basisnaher Lobbyarbeit:** Direkte Verbindung zu politischen Entscheidungsträgern.
 3. **Erfahrung in der Organisation von Protesten:** Öffentliche Demonstrationen und Medienaufmerksamkeit.
-4. **Flexibilität:** Anpassungsfähig und offen für neue Aktivitäten und Partnerschaften.
-5. **Öffentliches Engagement:** Geschult in der Mobilisierung öffentlicher Unterstützung und Aufklärung.
+4. **Flexibilität:** Anpassungsfähigkeit und Offenheit für neue Aktivitäten und Partnerschaften.
+5. **Öffentliches Engagement:** Geschickte Mobilisierung öffentlicher Unterstützung und Aufklärung.
 
-PauseAI bietet einzigartige Vorteile für verschiedene Organisationen und Einzelpersonen, um den kollektiven Einsatz zur Bekämpfung von KI-Risiken zu verstärken. Hier sind unsere maßgeschneiderten Leistungen:
+PauseAI bietet einzigartige Vorteile für verschiedene Organisationen und Einzelpersonen, um den kollektiven Einsatz zur Bekämpfung von KI-Risiken zu verstärken. Hier sind unsere maßgeschneiderten Wertangebote:
 
 ## Think Tanks {#think-tanks}
 
 - **Basisnahe Perspektive:** Einzigartige Einblicke aus unserer ehrenamtlichen Aktivität informieren politische Empfehlungen.
-  - **Direktes Feedback von Bürgern:** Ehrenamtliche sammeln Echtzeit-Einblicke in KI-Fragen.
+  - **Direktes Feedback von Bürgern:** Ehrenamtliche sammeln Echtzeit-Einblicke der Öffentlichkeit zu KI-Themen.
   - **Vielfältige Sichtweisen:** Die unterschiedlichen Hintergründe unserer Ehrenamtlichen helfen, politische Blindstellen zu identifizieren.
 - **Öffentliches Engagement:** Mobilisierung öffentlicher Unterstützung für Think-Tank-Initiativen.
 - **Praktische Erprobung:** Testen und Verfeinern von politischen Ideen durch Bürgerlobbyarbeit.
@@ -36,7 +36,7 @@ PauseAI bietet einzigartige Vorteile für verschiedene Organisationen und Einzel
 
 ## Forschungsgruppen {#research-groups}
 
-- **Datenverarbeitung:** Unterstützung bei groß angelegten Umfragen und qualitativen Daten durch Ehrenamtliche.
+- **Datensammlung:** Unterstützung bei groß angelegten Umfragen und qualitativen Daten durch Ehrenamtliche.
 - **Verbreitung von Forschungsergebnissen:** Übersetzung komplexer Ergebnisse in zugängliche Formate.
 - **Praktische Anwendung:** Testen und Implementieren von Forschungsergebnissen in Advocacy-Szenarien.
   - **Feldexperimente:** Testen von öffentlichen Kommunikationsstrategien.
@@ -45,7 +45,7 @@ PauseAI bietet einzigartige Vorteile für verschiedene Organisationen und Einzel
 
 ## Netzwerke von Fachleuten {#networks-of-professionals}
 
-- **Vielfältige Fähigkeiten:** Zugang zu unserem multidisziplinären ehrenamtlichen Pool.
+- **Vielfältiges Fähigkeitsspektrum:** Zugang zu unserem multidisziplinären ehrenamtlichen Pool.
 - **Öffentlichkeitswirksame Plattform:** Bereitstellung einer öffentlichkeitswirksamen Plattform für Fachnetzwerke, die neutral bleiben möchten.
 - **Branchenübergreifende Zusammenarbeit:** Vernetzung von Fachleuten mit anderen Interessengruppen.
 
@@ -58,18 +58,18 @@ PauseAI bietet einzigartige Vorteile für verschiedene Organisationen und Einzel
 
 ## Medien {#media-outlets}
 
-- **Nachrichtengenerierung:** Bereitstellung von nachrichtenwürdigen Aktionen und Veranstaltungen.
+- **Story-Generierung:** Bereitstellung von nachrichtenwürdigen Aktionen und Veranstaltungen.
 - **Expertenverbindungen:** Vermittlung von Interviews mit Fachexperten.
 - **Faktenprüfung:** Überprüfung von KI-Risiko-bezogenen Nachrichten.
 - **Öffentliche Meinungseinblicke:** Weitergabe von basisnahen Daten zur öffentlichen Meinung.
 
 ## Akademiker und technische Experten {#academic-and-technical-experts}
 
-- **Plattformverstärkung:** Weitergabe von Expertenwissen an die Öffentlichkeit.
+- **Plattform-Verstärkung:** Weitergabe von Expertenwissen an die Öffentlichkeit.
 - **Praktisches Feedback:** Bereitstellung von Einblicken in die öffentliche Wahrnehmung theoretischer Konzepte.
 - **Forschungsmöglichkeiten:** Vernetzung von Experten mit potenziellen Studienteilnehmern.
 - **Politische Auswirkungen:** Übersetzung von Empfehlungen in politische Maßnahmen.
-- **Interdisziplinäre Zusammenarbeit:** Förderung von Verbindungen mit Experten in verwandten Bereichen.
+- **Interdisziplinäre Zusammenarbeit:** Vermittlung von Kontakten zu Experten in verwandten Bereichen.
 
 ## Öffentliche Intellektuelle und Meinungsbildner {#public-intellectuals-and-thought-leaders}
 
@@ -81,12 +81,12 @@ PauseAI bietet einzigartige Vorteile für verschiedene Organisationen und Einzel
 
 ## Einflussreiche Entscheidungsträger und Politiker {#influential-decision-makers-and-policymakers}
 
-- **Basisnaher Rückhalt:** Demonstration öffentlicher Unterstützung für KI-Risikoinitiativen.
+- **Basisnahe Unterstützung:** Demonstration öffentlicher Unterstützung für KI-Risiko-Initiativen.
 - **Öffentliche Meinungsmessung:** Bereitstellung von Einblicken in die öffentliche Meinung.
 - **Krisenreaktionsunterstützung:** Mobilisierung von Ehrenamtlichen für Notfallkommunikation und -aktionen.
 - **Politische Verfeinerung:** Iteration und Verbesserung von Politiken auf der Grundlage von Feedback.
 
-## Soziale Medien-Influencer und digitale Inhaltsentwickler {#social-media-influencers-and-digital-content-creators}
+## Social-Media-Influencer und digitale Inhaltsentwickler {#social-media-influencers-and-digital-content-creators}
 
 - **Faktenprüfung und Expertise:** Sicherstellung der Genauigkeit von Informationen in Inhalten.
 - **Engagierte Inhaltsideen:** Bereitstellung von realen Geschichten für authentische Inhalte.
