@@ -11,8 +11,8 @@ description: Bildungsressourcen (Videos, Artikel, Bücher) über KI-Risiken und 
 - [Übernahme durch KI](/ai-takeover). Wie KI die Welt übernehmen könnte.
 - [Zitate](/quotes). Zitate zu KI-Risiken und -Governance.
 - [Machbarkeit einer Pause](/feasibility). Die Machbarkeit einer Pause in der KI-Entwicklung.
-- [Den Pause-Knopf bauen](/building-the-pause-button). Was es braucht, um KI zu pausieren.
-- [Häufig gestellte Fragen](/faq). Häufig gestellte Fragen zu KI-Sicherheit und PauseAI.
+- [Den Pausenknopf bauen](/building-the-pause-button). Was es braucht, um KI zu pausieren.
+- [FAQ](/faq). Häufig gestellte Fragen zu KI-Sicherheit und PauseAI.
 - [Aktion](/action). Was Sie tun können, um zu helfen (mit Links zu vielen aktionsbezogenen Anleitungen)
 
 ## Andere Websites {#other-websites}
@@ -20,7 +20,8 @@ description: Bildungsressourcen (Videos, Artikel, Bücher) über KI-Risiken und 
 - [Das Kompendium](https://www.thecompendium.ai/). Ein umfassendes Wissensbündel darüber, warum das aktuelle KI-Rennen so gefährlich ist und was wir dagegen tun können.
 - [Ein schmaler Pfad](https://www.narrowpath.co/). Ein detaillierter Plan zu den Schritten, die wir unternehmen müssen, um unsere Chancen zu erhöhen, die nächsten Jahrzehnte zu überleben.
 - [AISafety.com](https://www.aisafety.com) & [AISafety.info](https://aisafety.info). Die Landingpages für KI-Sicherheit. Erfahren Sie mehr über die Risiken, Gemeinschaften, Veranstaltungen, Jobs, Kurse, Ideen, wie man die Risiken mildern kann, und vieles mehr!
-- [AISafety.dance](https://aisafety.dance). Eine unterhaltsame, freundliche und interaktive Einführung in die katastrophalen KI-Risiken!
+- [Existenzielle Sicherheit](https://existentialsafety.org/). Eine umfassende Liste von Maßnahmen, die wir ergreifen können, um unsere existenzielle Sicherheit vor KI zu erhöhen.
+- [AISafety.dance](https://aisafety.dance). Eine unterhaltsamere, freundlichere und interaktivere Einführung in die katastrophalen KI-Risiken!
 - [AISafety.world](https://aisafety.world/tiles/). Die gesamte KI-Sicherheitslandschaft mit allen Organisationen, Medien, Foren, Blogs und anderen Akteuren und Ressourcen.
 - [IncidentDatabase.ai](https://incidentdatabase.ai/). Datenbank von Vorfällen, bei denen KI-Systeme Schaden verursacht haben.
 
@@ -37,7 +38,7 @@ description: Bildungsressourcen (Videos, Artikel, Bücher) über KI-Risiken und 
 
 
 - [PauseAI-Playlist](https://www.youtube.com/playlist?list=PLI46NoubGtIJa0JVCBR-9CayxCOmU0EJt) ist eine von uns zusammengestellte YouTube-Playlist mit Videos von 1 Minute bis 1 Stunde in verschiedenen Formaten und von diversen Quellen, die keine Vorkenntnisse erfordern.
-- [Robert Miles' YouTube](https://www.youtube.com/watch?v=tlS5Y2vm02c&list=PLfHsskCxi_g-c62a_dmsNuHynaXsRQm40) sind ein großartiger Ausgangspunkt, um die Grundlagen des KI-Alignments zu verstehen.
+- [Robert Miles' YouTube](https://www.youtube.com/watch?v=tlS5Y2vm02c&list=PLfHsskCxi_g-c62a_dmsNuHynaXsRQm40) ist ein großartiger Ort, um die Grundlagen des KI-Alignments zu verstehen.
 - [LethalIntelligence's YouTube](https://www.youtube.com/channel/UCLwop3J1O7wL-PNWGjQw8fg)
 
 ## Podcasts {#podcasts}
@@ -51,12 +52,12 @@ description: Bildungsressourcen (Videos, Artikel, Bücher) über KI-Risiken und 
 - [The 80,000 Hours Podcast empfohlene Episoden zu KI](https://80000hours.org/podcast/on-artificial-intelligence/). Nicht 80.000 Stunden lang, sondern eine Zusammenstellung von Episoden des 80.000 Hours Podcast über KI-Sicherheit.
 - [Future of Life Institute Podcast-Episoden zu KI](https://futureoflife.org/podcast/?_category_browser=ai). Alle Episoden des FLI-Podcasts über die Zukunft der künstlichen Intelligenz.
 
-Podcasts mit PauseAI-Mitgliedern finden Sie in der [Medienberichterstattung](/press) -Liste.
+Podcasts mit PauseAI-Mitgliedern finden Sie in der [Medienberichterstattung](/press)-Liste.
 
 ## Artikel {#articles}
 
 - [Das 'Don't Look Up'-Denken, das uns mit KI zum Untergang bringen könnte](https://time.com/6273743/thinking-that-could-doom-us-with-ai/) (von Max Tegmark)
-- [Das Anhalten der KI-Entwicklung reicht nicht aus. Wir müssen alles abschalten](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) (von Eliezer Yudkowsky)
+- [Das Pausieren der KI-Entwicklung reicht nicht aus. Wir müssen sie ganz abschalten](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) (von Eliezer Yudkowsky)
 - [Der Fall für das Verlangsamen von KI](https://www.vox.com/the-highlight/23621198/artificial-intelligence-chatgpt-openai-existential-risk-china-ai-safety-technology) (von Sigal Samuel)
 - [Die KI-Revolution: Der Weg zur Superintelligenz](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (von WaitButWhy)
 - [Wie sich bösartige KIs entwickeln könnten](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/) (von Yoshua Bengio)
@@ -70,13 +71,20 @@ Wenn Sie lesen möchten, was Journalisten über PauseAI geschrieben haben, über
 
 
 
-- [Unkontrollierbar: Die Bedrohung durch künstliche Superintelligenz und der Kampf, die Welt zu retten](https://www.goodreads.com/book/show/202416160-uncontrollable) (Darren McKee, 2023). Holen Sie es sich kostenlos [hier](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)!
+- [Unkontrollierbar: Die Bedrohung durch künstliche Superintelligenz und der Kampf, die Welt zu retten](https://www.goodreads.com/book/show/202416160-uncontrollable) (Darren McKee, 2023). Holen Sie es sich [kostenlos](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)!
 - [Der Abgrund: Existenzrisiko und die Zukunft der Menschheit](https://www.goodreads.com/en/book/show/50963653) (Toby Ord, 2020)
 - [Das Alignment-Problem](https://www.goodreads.com/book/show/50489349-the-alignment-problem) (Brian Christian, 2020)
 - [Menschlich kompatibel: Künstliche Intelligenz und das Problem der Kontrolle](https://www.goodreads.com/en/book/show/44767248) (Stuart Russell, 2019)
 - [Leben 3.0: Mensch sein im Zeitalter der künstlichen Intelligenz](https://www.goodreads.com/en/book/show/34272565) (Max Tegmark, 2017)
 - [Superintelligenz: Wege, Gefahren, Strategien](https://www.goodreads.com/en/book/show/20527133) (Nick Bostrom, 2014)
 - [Unsere letzte Erfindung: Künstliche Intelligenz und das Ende der menschlichen Ära](https://www.goodreads.com/en/book/show/17286699) (James Barrat, 2013)
+
+## Papiere {#papers}
+
+- [Eine Zusammenstellung](https://arkose.org/aisafety) von KI-Sicherheitspapieren
+- [Eine weitere Zusammenstellung](https://futureoflife.org/resource/introductory-resources-on-ai-risks/#toc-44245428-2) von KI-Sicherheitspapieren
+- [Alignment-Fälschung in großen Sprachmodellen](https://www.anthropic.com/news/alignment-faking) aktuelles Papier von Anthropic selbst
+- [Management extremer KI-Risiken inmitten schnellen Fortschritts](https://www.science.org/doi/abs/10.1126/science.adn0117) von den Gründungsvätern des Fachgebiets
 
 ## Kurse {#courses}
 
@@ -87,19 +95,19 @@ Wenn Sie lesen möchten, was Journalisten über PauseAI geschrieben haben, über
 ## Organisationen {#organizations}
 
 - [Future of Life Institute](https://futureoflife.org/cause-area/artificial-intelligence/) startete den [offenen Brief](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), geleitet von Max Tegmark.
-- [Center for AI Safety](https://www.safe.ai/) (CAIS) ist ein Forschungszentrum an der Tschechischen Technischen Universität in Prag.
+- [Center for AI Safety](https://www.safe.ai/) (CAIS) ist ein Forschungszentrum an der Tschechischen Technischen Universität in Prag, geleitet von
 - [Conjecture](https://www.conjecture.dev/). Start-up, das an KI-Alignment und KI-Politik arbeitet, geleitet von Connor Leahy.
-- [Existenzrisiko-Observatorium](https://existentialriskobservatory.org/). Niederländische Organisation, die die Öffentlichkeit über existenzielle Risiken informiert und Kommunikationsstrategien untersucht.
+- [Existenzrisiko-Observatorium](https://existentialriskobservatory.org/). Niederländische Organisation, die die Öffentlichkeit über existenzielle Risiken informiert und Kommunikationsstrategien studiert.
 - [Zentrum für die Regulierung von KI](https://www.governance.ai/)
 - [FutureSociety](https://thefuturesociety.org/about-us/)
-- [Zentrum für menschlich kompatible künstliche Intelligenz](https://humancompatible.ai/about/) (CHAI), geleitet von Stuart Russell.
+- [Zentrum für menschenkompatible künstliche Intelligenz](https://humancompatible.ai/about/) (CHAI), geleitet von Stuart Russell.
 - [Machine Intelligence Research Institute](https://intelligence.org/) (MIRI), das mathematische Forschung zu KI-Sicherheit betreibt, geleitet von Eliezer Yudkowsky.
 - [Institut für KI-Politik und -Strategie](https://www.iaps.ai/) (IAPS)
 - [Das KI-Politik-Institut](https://theaipi.org/)
 - [KI-Sicherheitskommunikationszentrum](https://aiscc.org/2023/11/01/yougov-poll-83-of-brits-demand-companies-prove-ai-systems-are-safe-before-release/)
 - [Das Midas-Projekt](https://www.themidasproject.com/) Unternehmensdruckkampagnen für KI-Sicherheit.
 - [Das Human Survival Project](https://thehumansurvivalproject.org/)
-- [KI-Sicherheitswelt](https://aisafety.world/) Hier finden Sie einen Überblick über die KI-Sicherheitslandschaft.
+- [KI-Sicherheitswelt](https://aisafety.world/) Hier finden Sie eine Übersicht über die KI-Sicherheitslandschaft.
 
 ## Wenn Sie überzeugt sind und handeln möchten {#if-you-are-convinced-and-want-to-take-action}
 
@@ -108,6 +116,6 @@ Ein Brief schreiben, an einer Demonstration teilnehmen, Geld spenden oder einer 
 Und diese Aktionen haben einen realen Einfluss.
 Selbst wenn wir dem Ende der Welt gegenüberstehen, kann es noch Hoffnung und sehr lohnende Arbeit geben.
 
-## Oder wenn Sie sich noch nicht ganz sicher sind {#or-if-you-still-dont-feel-quite-sure-of-it}
+## Oder wenn Sie sich immer noch nicht ganz sicher sind {#or-if-you-still-dont-feel-quite-sure-of-it}
 
 Das Lernen über die [Psychologie existenzieller Risiken](/psychology-of-x-risk) könnte Ihnen helfen.
