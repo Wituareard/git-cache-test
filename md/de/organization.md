@@ -5,35 +5,38 @@ title: PauseAI-Organisation
 description: Wie die PauseAI-Organisation strukturiert ist und welche Ressourcen für Mitglieder verfügbar sind.
 ---
 
-Willkommen bei PauseAI!
-
 ## Organisationsstruktur {#organization-structure}
 
-- [Rechtliche Einheiten](/legal): PauseAI besteht aus einer internationalen Einheit und mehreren lokalen/nationalen rechtlichen Einheiten. Diese Website und die Social-Media-Konten werden von der internationalen Einheit verwaltet. Nationale Einheiten können ihre eigene Website und ihre eigene Arbeitsweise haben.
-- [Mitglieder (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
-- [Teams](/teams): Unsere Freiwilligen arbeiten in verschiedenen Teams. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste der Mitglieder. Kontaktieren Sie einen Teamleiter, um einem Team beizutreten!
-- [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die in der Regel ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit.
+- [Rechtliche Einheiten](/legal): PauseAI besteht aus einer internationalen Einheit (PauseAI Global) und mehreren lokalen/nationalen rechtlichen Einheiten. Diese Website und die Social-Media-Konten werden von der internationalen Einheit verwaltet.
+- [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die in der Regel ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und eine rechtliche Einheit. Nationale Leiter treffen sich regelmäßig, um ihre Arbeit zu koordinieren.
+- [Teams](/teams): Teams sind Gruppen von Freiwilligen, die an bestimmten Projekten oder Aufgaben innerhalb von PauseAI Global arbeiten. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste von Mitgliedern. Wenn Sie einem Team beitreten möchten, wenden Sie sich bitte an den Teamleiter.
 - [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrer Nähe gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
+- [Personen (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
 
 ![Organigramm](/org.png)
 
+## Wie Teams arbeiten {#how-teams-work}
+
+- Teams übernehmen bestimmte Verantwortungen innerhalb von PauseAI. Sie haben immer einen Leiter, ein [Team-Dokument](https://docs.google.com/document/d/1Y6yXUrmI7hU59oplJdYErvwFQFCvofLVCrjTamhwkKU/edit?tab=t.0#heading=h.2cl0wb8wji0o) (das die Verantwortungen und Prozesse des Teams beschreibt), einen Discord-Kanal und einen Drive-Ordner. Sie treffen sich in der Regel regelmäßig digital, um ihre Arbeit zu koordinieren.
+- Lesen Sie das [Team-Lead-Onboarding-Dokument](https://docs.google.com/document/d/1obQTc4o3gSmTZ5WsvOWK9vG_7Ait6ZogDgrcj_ZKjPA/edit?tab=t.0#heading=h.1lwhibce68fa), um zu sehen, was von einem Teamleiter erwartet wird.
+- Wenn Sie einem Team beitreten möchten, wenden Sie sich bitte an den Teamleiter.
+
 ## Onboarding-Prozess {#onboarding-process}
 
-1. Registrieren Sie sich als _Mitglied_ (auf der [Beitrittsseite](/join) oder auf Discord)
-1. Jemand aus dem Onboarding-Team kontaktiert Sie für ein persönliches Gespräch!
-1. [Registrieren Sie sich als _Freiwilliger_](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form). Als Freiwilliger unterzeichnen Sie eine Vereinbarung, teilen Ihr Profil auf der Webseite (wenn Sie möchten) und treten einem der [Teams](/teams) bei.
+1. Melden Sie sich als _Freiwilliger_ an (auf der [Beitrittsseite](/join) oder auf Discord). Eine automatisierte Nachricht wird an das Onboarding-Team gesendet.
+1. Jemand aus dem Onboarding-Team kontaktiert den Freiwilligen und lädt ihn zu einem Einzelgespräch ein. Sie werden gebeten, in einer bestehenden lokalen Gruppe tätig zu werden, eine lokale Gruppe zu gründen oder einem der Teams beizutreten.
 
 ## Bildungsressourcen {#educational-resources}
 
 - Die PauseAI-Grundlagen: [FAQ](/faq), unser [Vorschlag](/proposal), [Risiken](/risks), [X-Risiko](/xrisk), [Dringlichkeit](/urgency), [Gefährliche Fähigkeiten](/dangerous-capabilities), [Milderung von Pause-Fehlern](/mitigating-pause-failures)
-- [Flyer verteilen](/flyering): Wie man effektiv Flyer verteilt
+- [Flyeren](/flyering): Wie man effektiv flyert
 - [Gegenargumente](/counterarguments)
 - [Organisation einer Protestaktion](/organizing-a-protest)
-- [Erfahren Sie mehr über KI-Sicherheit](/learn)
+- [Lernen Sie mehr über KI-Sicherheit](/learn)
 - [PauseAI in den Medien](/press)
 - [E-Mail-Builder](/email-builder)
 - [US-Lobby-Leitfaden](/us-lobby-guide)
-- [Pressemitteilungen schreiben](/writing-press-releases)
+- [Schreiben von Pressemitteilungen](/writing-press-releases)
 
 ## Strategie {#strategy}
 
@@ -54,13 +57,13 @@ Willkommen bei PauseAI!
 - [Discord](https://discord.gg/2XXWXvErfA) für interne Koordination/Chats.
 - [Gmail](https://gmail.com) für `@pauseai.info`-E-Mail-Adressen.
 - [Google Suite](https://workspace.google.com/) für Dokumente, Tabellen, Dateien, Ordner.
-- [Trello](https://trello.com/) wird von einigen Teams für Issue-/ToDo-Verfolgung verwendet. (Org-Name: `pauseaiinfo`)
+- [Trello](https://trello.com/) wird von einigen Teams für die Verfolgung von Problemen/ToDo verwendet. (Organisationsname: `pauseaiinfo`)
 - [Figma](https://figma.com) für das Design von Flyern und anderen Grafiken. ([Vorlage hier](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable)
 - [Airtable](https://airtable.com/) für die Verwaltung von Teams, Freiwilligen und Verantwortlichkeiten.
 
 ## Social Media {#social-media}
 
-Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
+Sie finden uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/).
 Sie können uns kontaktieren unter [joep@pauseai.info](mailto:joep@pauseai.info).
 
 ## Design-Ressourcen (Flyer, Poster, Logo) {#design-resources-flyers-posters-logo}
