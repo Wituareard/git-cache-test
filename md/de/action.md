@@ -4,7 +4,7 @@
 title: Handeln Sie
 description: Möglichkeiten, das Risiko von künstlicher Intelligenz zu reduzieren.
 ---
-KI wird nicht sicherer, wenn wir nicht entschlossen handeln, um Sicherheit zu fördern.
+KI wird nicht sicherer, wenn wir nicht entschlossen handeln, um die Sicherheit voranzutreiben.
 Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 
 ## Für alle {#for-everyone}
@@ -16,7 +16,7 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 - **Protestieren Sie**: Nehmen Sie an [einer der Proteste](https://pauseai.info/protests) teil oder [organisieren Sie selbst einen](https://pauseai.info/organizing-a-protest).
 - **Unterzeichnen Sie Petitionen**: [Internationaler KI-Vertrag](https://aitreaty.org), [Verbot von Superintelligenz](https://chng.it/Djjfj2Gmpk), [Forderung nach verantwortungsvoller KI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df) oder eine der **nationalen Petitionen**: [UK](https://petition.parliament.uk/petitions/639956), [AUS](https://www.aph.gov.au/e-petitions/petition/EN5163), [NL](https://aipetitie.nl).
 
-### Informieren Sie Menschen in Ihrer Umgebung {#inform-people-around-you}
+### Informieren Sie Menschen in Ihrem Umfeld {#inform-people-around-you}
 
 - **Teilen Sie Informationen über KI-Risiken** auf Ihren sozialen Medien. Eines [dieser Videos](https://www.youtube.com/watch?v=xBqU1QxCao8&list=PLI46NoubGtIJa0JVCBR-9CayxCOmU0EJt) oder diese Website kann ein guter Anfang sein. Und vergessen Sie nicht, uns in Ihren Beiträgen zu markieren.
 - **Sprechen Sie mit Menschen in Ihrem Leben** über KI-Sicherheit. Beantworten Sie ihre Fragen und ermutigen Sie sie, auch zu handeln. Verwenden Sie unsere [Gegenargumente](/counterarguments), um überzeugender zu sein.
@@ -26,12 +26,12 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 ### Unterstützen Sie PauseAI {#support-pauseai}
 
 - **Treten Sie einer [lokalen PauseAI-Community](/communities) bei** oder gründen Sie eine.
-- **Treten Sie dem [Discord](https://discord.gg/2XXWXvErfA) bei**, wo die meisten Zusammenarbeitsaktivitäten stattfinden.
+- **Treten Sie dem [Discord](https://discord.gg/2XXWXvErfA) bei**, wo die meisten Zusammenarbeiten stattfinden.
 - **Protestieren Sie oder nehmen Sie an [Veranstaltungen](/events) teil**. Wenn kein Protest in Ihrer Nähe stattfindet, sollten Sie [einen starten](/organizing-a-protest).
 - **Überprüfen Sie unsere [Stellenangebote](/vacancies)**, um zu sehen, ob Ihre Fähigkeiten unseren organisatorischen Bedürfnissen entsprechen. Wir suchen oft nach Menschen mit Erfahrung in sozialen Medien, Kommunikation, Organisation, Öffentlichkeitsarbeit und Software. Einige Positionen sind bezahlt.
 - **[Melden Sie sich als Freiwilliger an](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form)**, damit wir Projekte in Ihren Interessengebieten finden können.
 - [**Spenden Sie**](/donate) an PauseAI oder kaufen Sie Merchandise in unserem [Shop](https://pauseai-shop.fourthwall.com/).
-- **Folgen Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai)** und bleiben Sie auf dem neuesten Stand. Ihr lokales PauseAI-Kapitel kann auch eigene soziale Medien-Seiten haben.
+- **Folgen Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai)** und bleiben Sie auf dem Laufenden. Ihr lokales PauseAI-Kapitel kann auch eigene soziale Medien-Seiten haben.
 
 ## Für bestimmte Personen {#for-specific-people}
 
@@ -47,7 +47,7 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 - **Bereiten Sie sich auf den nächsten [KI-Sicherheitsgipfel](/summit) vor**. Bilden Sie Koalitionen mit anderen Ländern, um Sicherheitsinformationen auszutauschen und schnell zu handeln, wenn Schäden entstehen. Arbeiten Sie auf einen globalen Vertrag hin.
 - **Laden Sie (oder laden Sie vor) KI-Lab-Leiter** zu parlamentarischen/parlamentarischen Anhörungen ein, um ihre Vorhersagen und Zeitpläne für KI-Katastrophen zu geben.
 - **Einrichten Sie einen Ausschuss**, um die [Risiken von KI](/risks) zu untersuchen. Veröffentlichen Sie die Ergebnisse, wenn möglich.
-- **Machen Sie KI-Sicherheit zu einer Priorität** in der Plattform Ihrer Partei, der Politik Ihrer Regierung oder stellen Sie sicher, dass es auf der Agenda steht.
+- **Machen Sie KI-Sicherheit zu einer Priorität** in der Plattform Ihrer Partei, der Politik Ihrer Regierung oder stellen Sie sicher, dass sie auf der Agenda steht.
 - **Arbeiten Sie mit oppositionellen Politikern** zusammen, um zu demonstrieren, dass KI-Sicherheit uns alle betrifft, unabhängig von politischen Überzeugungen.
 
 ### Wenn Sie Erfahrung im (internationalen) Recht haben {#if-you-have-experience-with-international-law}
