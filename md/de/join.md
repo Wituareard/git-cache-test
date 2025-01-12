@@ -4,9 +4,9 @@
 title: PauseAI beitreten
 description: Melde dich an, um Teil der PauseAI-Bewegung zu werden.
 ---
-Die Gruppe der Menschen, die sich der Risiken von künstlicher Intelligenz bewusst sind, ist noch klein.
-Du bist jetzt einer von ihnen.
-**Deine Aktionen haben mehr Einfluss, als du denkst.**
+Die Gruppe der Menschen, die sich der Risiken von künstlicher Intelligenz bewusst sind, ist noch relativ klein.
+Du bist jetzt Teil davon.
+**Dein Engagement zählt mehr, als du denkst.**
 
 Möglichkeiten, wie du dich einbringen kannst:
 
