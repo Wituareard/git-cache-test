@@ -31,28 +31,28 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 - **Überprüfen Sie unsere [Stellenangebote](/vacancies)**, um zu sehen, ob Ihre Fähigkeiten unseren organisatorischen Bedürfnissen entsprechen. Wir suchen oft nach Menschen mit Erfahrung in sozialen Medien, Kommunikation, Organisation, Öffentlichkeitsarbeit und Software. Einige Positionen sind bezahlt.
 - **[Melden Sie sich als Freiwilliger an](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form)**, damit wir Projekte in Ihren Interessengebieten finden können.
 - [**Spenden Sie**](/donate) an PauseAI oder kaufen Sie Merchandise in unserem [Shop](https://pauseai-shop.fourthwall.com/).
-- **Folgen Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai)** und bleiben Sie auf dem Laufenden. Ihr lokales PauseAI-Kapitel kann auch eigene soziale Medien-Seiten haben.
+- **Folgen Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai)** und bleiben Sie auf dem neuesten Stand. Ihr lokales PauseAI-Kapitel kann auch eigene soziale Medien-Seiten haben.
 
 ## Für bestimmte Personen {#for-specific-people}
 
 ### Wenn Sie im Bereich KI arbeiten {#if-you-work-in-ai}
 
-- **Arbeiten Sie nicht an KI-Systemen, die Risiken bergen**: Arbeiten Sie nicht für Unternehmen oder Forschungseinrichtungen, die KI-Systeme entwickeln, die Risiken für die Menschheit bergen. Und verbreiten Sie keine Ideen darüber, wie wir KI-Systeme schneller oder intelligenter machen können.
-- **Sprechen Sie mit Ihrem Management und Ihren Kollegen** über die Risiken. Bringen Sie sie dazu, eine institutionelle Position zu beziehen, um Risiken zu mindern und nicht den Profit zu priorisieren. Ermutigen Sie die Implementierung von Standard-Risikominderungsverfahren und anonymen Meldungen.
+- **Arbeiten Sie nicht an KI-Systemen, die gefährlich sein könnten**: Arbeiten Sie nicht für Unternehmen oder Forschungseinrichtungen, die KI-Systeme entwickeln, die gefährlich sein könnten. Und verbreiten Sie keine Ideen darüber, wie wir KI-Systeme schneller oder intelligenter machen können.
+- **Sprechen Sie mit Ihrem Management und Ihren Kollegen** über die Risiken. Bringen Sie sie dazu, eine institutionelle Position zur Risikominderung über den Profit zu nehmen. Ermutigen Sie die Implementierung von Standard-Risikominderungsverfahren und anonymen Meldungen.
 - **Halten Sie ein Seminar** über KI-Sicherheit an Ihrem Arbeitsplatz. Überprüfen Sie diese [Folien](https://drive.google.com/drive/u/1/folders/1p9VtopzMV6Xpk4p6EGYUTna4fLE6G8hd) und [Vorträge und Videos](https://www.youtube.com/playlist?list=PLI46NoubGtIJa0JVCBR-9CayxCOmU0EJt) für Inspiration.
 - **Unterzeichnen Sie** die [Erklärung zu KI-Risiken](https://www.safe.ai/statement-on-ai-risk).
 
 ### Wenn Sie Politiker oder Regierungsmitarbeiter sind {#if-you-are-a-politician-or-work-in-government}
 
-- **Bereiten Sie sich auf den nächsten [KI-Sicherheitsgipfel](/summit) vor**. Bilden Sie Koalitionen mit anderen Ländern, um Sicherheitsinformationen auszutauschen und schnell zu handeln, wenn Schäden auftreten. Arbeiten Sie auf einen globalen Vertrag hin.
-- **Laden Sie (oder laden Sie vor) KI-Laborleiter** zu parlamentarischen/parlamentarischen Anhörungen ein, um ihre Vorhersagen und Zeitpläne für KI-Katastrophen zu geben.
+- **Bereiten Sie sich auf den nächsten [KI-Sicherheitsgipfel](/summit) vor**. Bilden Sie Koalitionen mit anderen Ländern, um Sicherheitsinformationen auszutauschen und schnell zu handeln, wenn Schäden entstehen. Arbeiten Sie auf einen globalen Vertrag hin.
+- **Laden Sie (oder laden Sie vor) KI-Lab-Leiter** zu parlamentarischen/parlamentarischen Anhörungen ein, um ihre Vorhersagen und Zeitpläne für KI-Katastrophen zu geben.
 - **Einrichten Sie einen Ausschuss**, um die [Risiken von KI](/risks) zu untersuchen. Veröffentlichen Sie die Ergebnisse, wenn möglich.
 - **Machen Sie KI-Sicherheit zu einer Priorität** in der Plattform Ihrer Partei, der Politik Ihrer Regierung oder stellen Sie sicher, dass es auf der Agenda steht.
 - **Arbeiten Sie mit oppositionellen Politikern** zusammen, um zu demonstrieren, dass KI-Sicherheit uns alle betrifft, unabhängig von politischen Überzeugungen.
 
 ### Wenn Sie Erfahrung im (internationalen) Recht haben {#if-you-have-experience-with-international-law}
 
-- **Helfen Sie bei der Erstellung von Richtlinien**. [Beispiele für Entwürfe](https://www.campaignforaisafety.org/celebrating-the-winners-law-student-moratorium-treaty-competition/). ([einige](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf) [Rahmenbedingungen](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/))
+- **Helfen Sie bei der Erstellung von Richtlinien**. [Beispiele für Entwürfe](https://www.campaignforaisafety.org/celebrating-the-winners-law-student-moratorium-treaty-competition/). ([Einige](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf) [Rahmenbedingungen](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/))
 - **Machen Sie Einreichungen** zu Regierungsanfragen für Kommentare zu KI-Richtlinien ([Beispiel](https://ntia.gov/issues/artificial-intelligence/request-for-comments)).
 
 ### Wenn Sie als Journalist oder soziale Medien-Persönlichkeit arbeiten {#if-you-work-as-a-journalist-or-have-a-social-media-following}
