@@ -49,14 +49,14 @@ description: Bildungsressourcen (Videos, Artikel, Bücher) zu KI-Risiken und KI-
 - [Lex Fridman | Max Tegmark: Der Fall für die Einstellung der KI-Entwicklung](https://youtu.be/VcVfceTsD0A?t=1547). Interview, das in die Details unserer aktuellen gefährlichen Situation eintaucht.
 - [Sam Harris | Eliezer Yudkowsky: KI, Rennen an den Abgrund](https://samharris.org/episode/SE60B0CF4B8). Gespräch über die Natur der Intelligenz, verschiedene Arten von KI, das Alignment-Problem, Ist vs. Soll und vieles mehr. Eine von vielen Episoden, die Making Sense über KI-Sicherheit hat.
 - [Connor Leahy, KI-Feueralarm](https://youtu.be/pGjyiqJZPJo?t=2510). Vortrag über die Intelligenzexplosion und warum sie das wichtigste Ereignis wäre, das jemals passieren könnte.
-- [Die 80.000 Stunden Podcast empfohlene Episoden zu KI](https://80000hours.org/podcast/on-artificial-intelligence/). Nicht 80.000 Stunden lang, sondern eine Zusammenstellung von Episoden des 80.000 Stunden Podcasts über KI-Sicherheit.
+- [Die 80.000 Stunden-Podcast empfohlene Episoden zu KI](https://80000hours.org/podcast/on-artificial-intelligence/). Nicht 80.000 Stunden lang, sondern eine Zusammenstellung von Episoden des 80.000 Stunden-Podcasts über KI-Sicherheit.
 - [Future of Life Institute Podcast-Episoden zu KI](https://futureoflife.org/podcast/?_category_browser=ai). Alle Episoden des FLI-Podcasts über die Zukunft der künstlichen Intelligenz.
 
 Podcasts mit PauseAI-Mitgliedern finden Sie in der [Medienberichterstattung](/press)-Liste.
 
 ## Artikel {#articles}
 
-- [Das 'Don't Look Up'-Denken, das uns mit KI zum Untergang bringen könnte](https://time.com/6273743/thinking-that-could-doom-us-with-ai/) (von Max Tegmark)
+- [Das "Don't Look Up"-Denken, das uns mit KI zum Untergang bringen könnte](https://time.com/6273743/thinking-that-could-doom-us-with-ai/) (von Max Tegmark)
 - [Das Pausieren der KI-Entwicklung reicht nicht aus. Wir müssen sie ganz abschalten](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) (von Eliezer Yudkowsky)
 - [Der Fall für das Verlangsamen von KI](https://www.vox.com/the-highlight/23621198/artificial-intelligence-chatgpt-openai-existential-risk-china-ai-safety-technology) (von Sigal Samuel)
 - [Die KI-Revolution: Der Weg zur Superintelligenz](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (von WaitButWhy)
@@ -84,7 +84,7 @@ Wenn Sie lesen möchten, was Journalisten über PauseAI geschrieben haben, über
 - [Eine Zusammenstellung](https://arkose.org/aisafety) von KI-Sicherheitspapieren
 - [Eine weitere Zusammenstellung](https://futureoflife.org/resource/introductory-resources-on-ai-risks/#toc-44245428-2) von KI-Sicherheitspapieren
 - [Alignment-Fälschung in großen Sprachmodellen](https://www.anthropic.com/news/alignment-faking) aktuelles Papier von Anthropic selbst
-- [Management extremer KI-Risiken inmitten schnellen Fortschritts](https://www.science.org/doi/abs/10.1126/science.adn0117) von den Paten des Fachgebiets
+- [Das Management extremer KI-Risiken inmitten schnellen Fortschritts](https://www.science.org/doi/abs/10.1126/science.adn0117) von den Paten des Fachgebiets
 
 ## Kurse {#courses}
 
